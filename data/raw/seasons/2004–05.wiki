@@ -1,0 +1,1516 @@
+{{Short description|English football club season}}
+{{Use dmy dates|date=February 2015}}
+{{Use British English|date=February 2015}}
+{{Infobox football club season
+ | club               = [[Chelsea F.C.|Chelsea]]
+ | season             = [[2004–05 in English football|2004–05]]
+ | image        = Champions 2004-5.jpg
+ | image_size = 250px
+ | caption      =  (from left to right) [[Eiður Guðjohnsen]], [[Frank Lampard]], and [[John Terry]] celebrating Chelsea's first Premier League title
+ | manager            = [[José Mourinho]]
+ | chairman           = [[Bruce Buck]]
+ | owner              = [[Roman Abramovich]]
+ | stadium            = [[Stamford Bridge (stadium)|Stamford Bridge]]
+ | league             = [[Premier League]]
+ | league result      = '''[[2004–05 FA Premier League|1st]]'''
+ | cup1               = [[FA Cup]]
+ | cup1 result        = [[2004–05 FA Cup#Fifth round|Fifth round]]
+ | cup2               = [[2004–05 Football League Cup|League Cup]]
+ | cup2 result        = '''[[2005 Football League Cup Final|Winners]]'''
+ | cup3               = [[UEFA Champions League]]
+ | cup3 result        = [[2004–05 UEFA Champions League#Semi-finals|Semi-finals]]
+ | league topscorer   = [[Frank Lampard]] (13)
+ | season topscorer   = Frank Lampard (19)
+ | highest attendance = 42,328 (vs. [[Newcastle United F.C.|Newcastle United]], 4 December 2004)
+ | lowest attendance  = 33,945 (vs. [[PFC CSKA Moscow|CSKA Moscow]], 20 October 2004)
+ | prevseason         = [[2003–04 Chelsea F.C. season|2003–04]]
+ | nextseason         = [[2005–06 Chelsea F.C. season|2005–06]]
+ | pattern_b1  =_vneckwhite
+ | pattern_sh1 =_chelsea2003h
+ | pattern_la1 =_chelsea2003h
+ | pattern_ra1 =_chelsea2003h
+ | pattern_so1 =_bluestripe
+ | leftarm1    = 0000FF
+ | body1   = 0000FF
+ | rightarm1   = 0000FF
+ | shorts1     = 0000FF
+ | socks1      = FFFFFF
+ | pattern_b2  =_CFC Cent 3rd
+ | pattern_sh2 =_CFC Cent 3rd
+ | pattern_la2 =_CFC Cent 3rd
+ | pattern_ra2 =_CFC Cent 3rd
+ | pattern_so2 =_CFC Cent 3rd
+ | leftarm2    = 000000
+ | body2       = 000000
+ | rightarm2   = 000000
+ | shorts2     = D3D3D3
+ | socks2      = 000000
+ | pattern_b3  =_chelsea2003a
+ | pattern_sh3 =_chelsea2003a
+ | pattern_la3 =_chelsea2003a
+ | pattern_ra3 =_chelsea2003a
+ | pattern_so3 =_CFC 03 05 White
+ | leftarm3    = FFFFFF
+ | body3       = FFFFFF
+ | rightarm3   = FFFFFF
+ | shorts3     = FFFFFF
+ | socks3      = 0000FF
+}}
+The '''2004–05''' season was '''[[Chelsea F.C.|Chelsea Football Club]]'s''' 91st competitive season, 13th consecutive season in the [[Premier League]] and 99th year as a club. Managed by [[José Mourinho]] during his first season at the club, Chelsea won the [[2004–05 FA Premier League|Premier League]] title (their first league title in 50 years) and the [[2004–05 Football League Cup|League Cup]].
+
+The season was historic for the vast number of [[Premier League records and statistics|Premier League records]] set during the season. The list of achievements included; most points won in a season (95), most away wins in a season (15), most clean sheets kept in a season (25), fewest goals conceded away in a season (9), most wins in a season (29) and fewest goals conceded in a season (15). As of the [[2025–26 Premier League|2025-26 Premier League season]], this Chelsea side still holds the defensive records for most clean sheets and fewest goals conceded in a Premier League season.<ref>{{cite news |title=PL30: Chelsea's special 2004/05 title win |url=https://www.premierleague.com/news/2737934 |publisher=Premier League |date=15 August 2022}}</ref>
+
+After missing out on the league title to the unbeaten [[Arsenal F.C.|Arsenal]] in the [[2003–04 FA Premier League|previous season]], Chelsea continued spending large sums of money in order to build a squad capable of challenging for honours. They were in their second season under the ownership of [[Roman Abramovich]], enabling them to sign five players for more than £10&nbsp;million each, including Ivorian striker [[Didier Drogba]] from [[Olympique de Marseille|Marseille]] and defender [[Ricardo Carvalho]] from Mourinho's former club, [[FC Porto|Porto]]. Portuguese defender [[Paulo Ferreira]] also followed Mourinho to Chelsea from Porto.
+
+In the [[2004–05 UEFA Champions League|Champions League]], Chelsea aimed to improve upon their semi-final placing the [[2003–04 UEFA Champions League|previous year]], but in the end only matched their achievement after losing to [[Liverpool F.C.|Liverpool]]. They also exited the [[2004–05 FA Cup|FA Cup]] in the fifth round to eventual semi-finalists [[Newcastle United F.C.|Newcastle United]].
+
+==Kits==
+{|border="0" style="margin:1em auto;"
+|{{Football kit
+ | pattern_la = _chelsea2003h
+ | pattern_b  = _vneckwhite
+ | pattern_ra = _chelsea2003h
+ | pattern_sh = _chelsea2003h
+ | pattern_so = _bluestripe
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | socks      = FFFFFF
+ | title      = Home
+}}
+|
+|{{Football kit
+ | pattern_la = _chelsea2003h
+ | pattern_b  = _vneckwhite
+ | pattern_ra = _chelsea2003h
+ | pattern_sh = _chelsea2003h
+ | pattern_so = _CFC 03 05 White
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | socks      = 0000FF
+ | title      = Home <small>alt.</small>
+}}
+|
+|{{Football kit
+ | pattern_la = _CFC Cent 3rd
+ | pattern_b  = _CFC Cent 3rd
+ | pattern_ra = _CFC Cent 3rd
+ | pattern_sh = _CFC Cent 3rd
+ | pattern_so = _CFC Cent 3rd
+ | leftarm    = 000000
+ | body       = 000000
+ | rightarm   = 000000
+ | shorts     = D3D3D3
+ | socks      = 000000
+ | title      = Away
+}}
+|
+|{{Football kit
+ | pattern_la = _chelsea2003a
+ | pattern_b  = _chelsea2003a
+ | pattern_ra = _chelsea2003a
+ | pattern_sh = _chelsea2003a
+ | pattern_so = _CFC 03 05 White
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = 0000FF
+ | title      = Third
+}}
+|
+|{{Football kit
+ | pattern_la = _chelsea2003a
+ | pattern_b  = _chelsea2003a
+ | pattern_ra = _chelsea2003a
+ | pattern_sh = _chelsea2003a
+ | pattern_so = _bluestripe
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Third <small>alt.</small>
+}}
+|
+|}
+The team kit was produced by [[Umbro]]. The shirt sponsor was the airline [[Emirates (airline)|Emirates]]; the kit bore the "Fly Emirates" logo. Chelsea's home kit, all blue with a white collar, was retained from the previous season. Their new away kit was black with grey shorts and accents. Chelsea retained last season's away kit (all white with black and blue stripes down the center) as the third kit for this season.
+
+==Management==
+{{Fb cs header}}
+{{Fb cs staff |bg= |p=Manager |s={{flagicon|Portugal}} [[José Mourinho]] }}
+{{Fb cs staff |bg= |p=Assistant manager |s={{flagicon|Scotland}} [[Steve Clarke]] }}
+{{Fb cs staff |bg= |p=First team coach |s={{flagicon|Brazil}} [[Baltemar Brito]] }}
+{{Fb cs staff |bg= |p=Fitness coach |s={{flagicon|Portugal}} [[Rui Faria]] }}
+{{Fb cs staff |bg= |p=Goalkeeping coach |s={{flagicon|Portugal}} [[Silvino Louro]] }}
+{{Fb cs staff |bg= |p=Opposition scout |s={{flagicon|Portugal}} [[André Villas-Boas]] }}
+{{Fb cs footer|s=[http://www.soccerbase.com/squad_season.sd?teamid=536][http://en.eufo.de/football/squad/chelsea-fc/2004-05] |date=September 2012}}
+==Players==
+===First team squad===
+:''Squad at end of season''
+{{fs start}}
+{{Fs player|no=1|nat=CZE|pos=GK|name=[[Petr Čech]]}}
+{{Fs player|no=2|nat=ENG|pos=DF|name=[[Glen Johnson]]}}
+{{Fs player|no=4|nat=FRA|pos=MF|name=[[Claude Makélélé]]<ref group=notes>Makélélé was born in [[Kinshasa]], [[Zaire]] (now [[Democratic Republic of the Congo|DR Congo]]), but was raised in [[France]] from the age of 4 and made his international debut for [[France national football team|France]] in July 1995.</ref>}}
+{{Fs player|no=5|nat=RUS|pos=MF|name=[[Alexey Smertin]]}}
+{{Fs player|no=6|nat=POR|pos=DF|name=[[Ricardo Carvalho]]}}
+{{Fs player|no=8|nat=ENG|pos=MF|name=[[Frank Lampard]]}}
+{{Fs player|no=9|nat=SCG|pos=FW|name=[[Mateja Kežman]]}}
+{{Fs player|no=10|nat=ENG|pos=MF|name=[[Joe Cole]]}}
+{{Fs player|no=11|nat=IRL|pos=MF|name=[[Damien Duff]]}}
+{{Fs player|no=13|nat=FRA|pos=DF|name=[[William Gallas]]}}
+{{Fs player|no=14|nat=CMR|pos=MF|name=[[Geremi]]}}
+{{Fs player|no=15|nat=CIV|pos=FW|name=[[Didier Drogba]]}}
+{{Fs player|no=16|nat=NED|pos=MF|name=[[Arjen Robben]]}}
+{{Fs player|no=18|nat=ENG|pos=DF|name=[[Wayne Bridge]]}}
+{{fs mid}}
+{{Fs player|no=19|nat=ENG|pos=MF|name=[[Scott Parker]]}}
+{{Fs player|no=20|nat=POR|pos=DF|name=[[Paulo Ferreira]]}}
+{{Fs player|no=22|nat=ISL|pos=FW|name=[[Eiður Guðjohnsen]]}}
+{{Fs player|no=23|nat=ITA|pos=GK|name=[[Carlo Cudicini]]}}
+{{Fs player|no=24|nat=FIN|pos=FW|name=[[Mikael Forssell]]<ref group=notes>Forssell was born in [[Steinfurt]], [[West Germany]] (now [[Germany]]), but also qualified to represent [[Finland]] internationally and made his international debut for [[Finland national football team|Finland]] in June 1999.</ref>}}
+{{Fs player|no=26|nat=ENG|pos=DF|name=[[John Terry]]|other=captain}}
+{{Fs player|no=27|nat=CZE|pos=MF|name=[[Jiří Jarošík]]}}
+{{Fs player|no=29|nat=GER|pos=DF|name=[[Robert Huth]]}}
+{{Fs player|no=30|nat=POR|pos=MF|name=[[Tiago Mendes|Tiago]]}}
+{{Fs player|no=31|nat=POR|pos=MF|name=[[Filipe Oliveira (footballer, born 1984)|Filipe Oliveira]]}}
+{{Fs player|no=32|nat=SCO|pos=DF|name=[[Steven Watt (footballer)|Steven Watt]]}}
+{{Fs player|no=33|nat=POR|pos=MF|name=[[Nuno Morais]]}}
+{{Fs player|no=40|nat=ENG|pos=GK|name=[[Lenny Pidgeley]]}}
+{{Fs player|no=42|nat=ENG|pos=MF|name=[[Anthony Grant (English footballer)|Anthony Grant]]}}
+{{Fs end}}
+
+===Left club during season===
+{{Fs start}}
+{{Fs player|no=3|nat=NGA|pos=DF|name=[[Celestine Babayaro]]|other=to [[Newcastle United F.C.|Newcastle United]]}}
+{{Fs player|no=7|nat=ROU|pos=FW|name=[[Adrian Mutu]]|other=released}}
+{{Fs mid}}
+{{Fs player|no=17|nat=ENG|pos=MF|name=[[Craig Rocastle]]|other=to [[Sheffield Wednesday F.C.|Sheffield Wednesday]]}}
+{{Fs player|no=27|nat=CYP|pos=MF|name=[[Alexis Nicolas]]<ref group=notes>Nicolas was born in [[City of Westminster|Westminster]], [[England]], but also qualified to represent [[Cyprus]] internationally and represented Cyprus at [[Cyprus national under-21 football team|U-21]] level.</ref>|other=to [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]}}
+{{Fs end}}
+
+===Reserve squad===
+:''The following players did not appear for the first-team this season.''
+{{Fs start}}
+{{Fs player|no=41|nat=BEL|pos=GK|name=[[Yves Ma-Kalambay]]<ref group=notes>Ma-Kalambay was born in [[Brussels]], [[Belgium]], and represented Belgium at U-23 level and was also called up to the senior squad without playing, but also qualified to represent the [[Democratic Republic of the Congo|DR Congo]] through his father and made his international debut for [[Democratic Republic of Congo national football team|DR Congo]] in May 2010.</ref>}}
+{{Fs player|no=43|nat=ENG|pos=MF|name=[[Joe Tillen]]}}
+{{Fs player|no=|nat=ENG|pos=DF|name=[[Michael Mancienne]]}}
+{{Fs player|no=|nat=ENG|pos=DF|name=[[Adrian Pettigrew]]}}
+{{Fs player|no=|nat=ENG|pos=DF|name=[[Dean Smith (footballer, born 1986)|Dean Smith]]}}
+{{Fs player|no=|nat=ENG|pos=DF|name=[[Sam Tillen]]}}
+{{Fs mid}}
+{{Fs player|no=|nat=ENG|pos=DF|name=[[Danny Woodards]]}}
+{{Fs player|no=|nat=ENG|pos=MF|name=[[Danny Hollands]]}}
+{{Fs player|no=|nat=ENG|pos=MF|name=[[James Simmonds (footballer)|James Simmonds]]<ref group=notes>Simmonds was born in [[Hammersmith]], [[England]], but also qualified to represent the [[Republic of Ireland]] internationally and represented the Republic of Ireland at U-18 level.</ref>}}
+{{Fs player|no=|nat=ENG|pos=MF|name=[[Jimmy Smith (footballer, born 1987)|Jimmy Smith]]}}
+{{Fs player|no=|nat=GER|pos=MF|name=[[Sebastian Kneißl]]}}
+{{Fs end}}
+
+===Under-18s===
+:''The following players spent most of the season playing for the under-18s, but may have appeared for the reserve team.''<ref>{{Cite web|url=http://thechels.info/wiki/2004-05_FA_Premier_Academy_League|title=2004-05 FA Premier Academy League - TheChels.info - The Chelsea Football Club Wiki|website=thechels.info}}</ref>
+{{Fs start}}
+{{Fs player|no=|nat=ENG|pos=GK|name=James Russell<ref group=notes>Russell was born in [[Welwyn Garden City]], [[England]], but also qualified to represent the [[Republic of Ireland]] internationally and represented the Republic of Ireland at U-21 level.</ref>}}
+{{Fs player|no=|nat=GER|pos=GK|name=[[Nick Hamann]]}}
+{{Fs player|no=|nat=ENG|pos=DF|name=[[Joe Anderson (footballer, born 1989)|Joe Anderson]]}}
+{{Fs player|no=|nat=ENG|pos=DF|name=[[Ed Brand]]}}
+{{Fs player|no=|nat=ENG|pos=DF|name=[[Shaun Cummings]]<ref group=notes>Cummings was born in [[London Borough of Hammersmith and Fulham|Hammersmith and Fulham]], [[England]], but also qualified to represent [[Jamaica]] internationally and made his international debut for [[Jamaica]] in September 2013.</ref>}}
+{{Fs player|no=|nat=ENG|pos=DF|name=[[Ben Hudell]]}}
+{{Fs player|no=|nat=ENG|pos=DF|name=[[Sam Hutchinson]]}}
+{{Fs player|no=|nat=ENG|pos=DF|name=[[Harry Worley]]}}
+{{Fs player|no=|nat=ENG|pos=MF|name=[[Liam Bridcutt]]<ref group=notes>Bridcutt was born in [[Reading, Berkshire|Reading]], [[England]], but also qualified to represent [[Scotland]] internationally through his grandfather and made his international debut for [[Scotland]] in March 2013.</ref>}}
+{{Fs player|no=|nat=ENG|pos=MF|name=[[Jack Cork]]}}
+{{Fs mid}}
+{{Fs player|no=|nat=ENG|pos=MF|name=[[James Younghusband]]<ref group=notes name="auto">Younghusband was born in [[Ashford, Surrey|Ashford]], [[England]], but also qualified to represent the [[Philippines]] internationally through his mother and made his international debut for the [[Philippines national football team|Philippines]] in 2006.</ref>}}
+{{Fs player|no=|nat=POR|pos=MF|name=[[Filipe Morais]]}}
+{{Fs player|no=|nat=RSA|pos=MF|name=[[Dean Furman]]}}
+{{Fs player|no=|nat=Somalia|pos=MF|name=[[Hamze Ismail]]}}
+{{Fs player|no=|nat=WAL|pos=MF|name=[[Andy King (footballer, born 1988)|Andy King]]<ref group=notes>King was born in [[Barnstaple]], [[England]], but also qualified to represent [[Wales]] internationally through his grandfather and represented Wales at [[Wales national under-19 football team|U-19]] and [[Wales national under-21 football team|U-21]] level before making his international debut for [[Wales national football team|Wales]] in May 2009.</ref>}}
+{{Fs player|no=|nat=ENG|pos=MF|name=[[Dean McDonald (footballer)|Dean McDonald]]}}
+{{Fs player|no=|nat=ENG|pos=FW|name=[[Jack Watkins (footballer)|Jack Watkins]]}}
+{{Fs player|no=|nat=ENG|pos=FW|name=[[Phil Younghusband]]<ref group=notes name="auto"/>}}
+{{Fs player|no=|nat=ITA|pos=FW|name=[[Michele Gallaccio]]}}
+{{Fs player|no=|nat=ENG|pos=FW|name=[[Eric Odihambo]]}}
+{{Fs end}}
+
+==Transfers==
+
+===In===
+{|width=70% class="wikitable sortable" style="text-align:center; font-size:95%; text-align:left"
+!#
+!Pos
+!Player
+!From
+!data-sort-type="currency"|Fee
+!Date
+|----
+|20|| DF||{{flagicon|POR}} [[Paulo Ferreira]] ||{{flagicon|POR}} [[FC Porto|Porto]] || £13,200,000<ref name="Ferreira">{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/3782871.stm|title=Chelsea to sign Ferreira |work=BBC Sport|access-date=2004-06-23 | date=23 June 2004| archive-url= https://web.archive.org/web/20040624114601/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/3782871.stm| archive-date= 24 June 2004 | url-status= live}}</ref> || 23 June 2004
+|----
+|1|| GK||{{flagicon|CZE}} [[Petr Čech]] ||{{flagicon|FRA}} [[Stade Rennais F.C.|Rennes]] || £7,100,000<ref name="Cech">{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/3411707.stm|title=Chelsea sign Cech |work=BBC Sport|access-date=2004-02-09 | date=9 February 2004| archive-url= https://web.archive.org/web/20040203144326/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/3411707.stm| archive-date= 3 February 2004 | url-status= live}}</ref> || 1 July 2004
+|----
+|16|| MF||{{flagicon|NED}} [[Arjen Robben]] ||{{flagicon|NED}} [[PSV Eindhoven|PSV]] || £12,200,000<ref name="Robben">{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/3524213.stm|title=Chelsea sign Robben |work=BBC Sport|access-date=2004-03-02 | date=2 March 2004}}</ref> || 1 July 2004
+|----
+|9|| FW||{{flagicon|SCG}} [[Mateja Kežman]] ||{{flagicon|NED}} [[PSV Eindhoven|PSV]] || £5,300,000<ref name="Kezman">{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/3888313.stm|title= Kezman joins Chelsea |work=BBC Sport|access-date=2004-07-13 | date=13 July 2004| archive-url= https://web.archive.org/web/20040714020415/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/3888313.stm| archive-date= 14 July 2004 | url-status= live}}</ref> || 13 July 2004
+|----
+|15|| FW||{{flagicon|CIV}} [[Didier Drogba]] ||{{flagicon|FRA}} [[Olympique de Marseille|Marseille]] || £24,200,000<ref name="Drogba">{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/3852989.stm|title=Drogba joins Chelsea|work=BBC Sport|access-date=2004-07-20 | date=20 July 2004| archive-url= https://web.archive.org/web/20040720014429/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/3852989.stm| archive-date= 20 July 2004 | url-status= live}}</ref> || 20 July 2004
+|----
+|30|| MF||{{flagicon|POR}} [[Tiago Mendes|Tiago]] ||{{flagicon|POR}} [[S.L. Benfica|Benfica]] || £10,400,000<ref name="Tiago">{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/3904493.stm|title=Chelsea clinch Tiago deal |work=BBC Sport|access-date=2004-07-21 | date=21 July 2004| archive-url= https://web.archive.org/web/20040721041304/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/3904493.stm| archive-date= 21 July 2004 | url-status= live}}</ref> || 21 July 2004
+|----
+|6|| DF||{{flagicon|POR}} [[Ricardo Carvalho]] ||{{flagicon|POR}} [[FC Porto|Porto]] || £19,850,000<ref name="Carvalho">{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/3928771.stm|title=Chelsea land Carvalho|work=BBC Sport|access-date=2004-07-28 | date=28 July 2004}}</ref> || 28 July 2004
+|----
+|33|| DF||{{flagicon|POR}} [[Nuno Morais]] ||{{flagicon|POR}} [[F.C. Penafiel|Penafiel]] || £2,300,000<ref name="Morais">{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/3609590.stm|title=Chelsea snap up Morais|work=BBC Sport|access-date=2004-08-29 | date=29 August 2004}}</ref> || 29 August 2004
+|----
+|27|| MF||{{flagicon|CZE}} [[Jiří Jarošík]] ||{{flagicon|RUS}} [[PFC CSKA Moscow|CSKA Moscow]] || £3,100,000<ref name="Jarošík">{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/4144169.stm|title=Jarošík completes move to Chelsea|work=BBC Sport|access-date=2005-06-01 | date=6 January 2005}}</ref> || 6 January 2005
+|}
+
+===Out===
+{|width=70% class="wikitable sortable" style="text-align:center; font-size:95%; text-align:left"
+!#
+!Pos
+!Player
+!To
+!data-sort-type="currency"|Fee
+!Date
+|----
+|7|| MF||{{flagicon|NED}} [[Winston Bogarde]] || Unattached || Released || 1 July 2004
+|----
+|20|| MF||{{flagicon|ARG}} [[Juan Sebastián Verón]] ||{{flagicon|ITA}} [[Inter Milan|Internazionale]] || Loan<ref name="Veron">{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/3774941.stm|title=Veron joins Inter on loan|work=BBC Sport|access-date=2004-06-03 | date=3 June 2004| archive-url= https://web.archive.org/web/20040611222923/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/3774941.stm| archive-date= 11 June 2004 | url-status= live}}</ref> || 1 July 2004
+|----
+|9|| FW||{{flagicon|NED}} [[Jimmy Floyd Hasselbaink]] ||{{flagicon|ENG}} [[Middlesbrough F.C.|Middlesbrough]] || Free<ref name="Hasselbaink">{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/m/middlesbrough/3879045.stm|title=Hasselbaink signs for Boro|work=BBC Sport|access-date=2004-07-09 | date=9 July 2004| archive-url= https://web.archive.org/web/20040711050702/http://news.bbc.co.uk/sport1/hi/football/teams/m/middlesbrough/3879045.stm| archive-date= 11 July 2004 | url-status= live}}</ref> || 1 July 2004
+|----
+|32|| FW||{{flagicon|FIN}} [[Mikael Forssell]] ||{{flagicon|ENG}} [[Birmingham City F.C.|Birmingham City]] || Loan<ref name="Forssell">{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/b/birmingham_city/3662663.stm |title=Blues extend Forssell loan |work=BBC Sport |access-date=2004-04-27 |date=27 April 2004 |url-status=live |archive-url=https://web.archive.org/web/20040705150601/http://news.bbc.co.uk/sport1/hi/football/teams/b/birmingham_city/3662663.stm |archive-date=5 July 2004 }}</ref> || 1 July 2004
+|----
+|6|| DF||{{flagicon|FRA}} [[Marcel Desailly]] ||{{flagicon|QAT}} [[Al-Gharafa Sports Club|Al-Gharafa]] || Free<ref name="Desailly">{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/3870287.stm|title=Desailly leaves Chelsea|work=BBC Sport|access-date=2004-07-06 | date=6 July 2004| archive-url= https://web.archive.org/web/20040708052837/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/3870287.stm| archive-date= 8 July 2004 | url-status= live}}</ref> || 6 July 2004
+|----
+|15|| DF||{{flagicon|NED}} [[Mario Melchiot]] ||{{flagicon|ENG}} [[Birmingham City F.C.|Birmingham City]] || Free<ref name="Melchiot">{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/teams/b/birmingham_city/3880795.stm|title=Melchiot joins Birmingham|work=BBC Sport|access-date=2004-07-09 | date=9 July 2004| archive-url= https://web.archive.org/web/20040711012511/http://news.bbc.co.uk/sport1/hi/football/teams/b/birmingham_city/3880795.stm| archive-date= 11 July 2004 | url-status= live}}</ref> || 9 July 2004
+|----
+|17|| MF||{{flagicon|FRA}} [[Emmanuel Petit]] || Unattached || Released || July 2004
+|----
+|12|| MF||{{flagicon|CRO}} [[Mario Stanić]] || N/A || Retired<ref name="Stanic">{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/3881901.stm|title=Injuries end Stanic career|work=BBC Sport|access-date=2004-07-09 | date=9 July 2004| archive-url= https://web.archive.org/web/20040711040059/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/3881901.stm| archive-date= 11 July 2004 | url-status= live}}</ref> || 9 July 2004
+|----
+|30|| MF||{{flagicon|DEN}} [[Jesper Grønkjær]] ||{{flagicon|ENG}} [[Birmingham City F.C.|Birmingham City]] || £2.2 million<ref name="Gronkjaer">{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/teams/b/birmingham_city/3879817.stm|title=Birmingham sign Gronkjaer|work=BBC Sport|access-date=2004-07-12 | date=12 July 2004| archive-url= https://web.archive.org/web/20040714050938/http://news.bbc.co.uk/sport1/hi/football/teams/b/birmingham_city/3879817.stm| archive-date= 14 July 2004 | url-status= live}}</ref> || 12 July 2004
+|----
+|39|| FW||{{flagicon|ENG}} [[Carlton Cole]] ||{{flagicon|ENG}} [[Aston Villa F.C.|Aston Villa]] || Loan<ref name="Cole">{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/charlton_athletic/3891105.stm|title=Cole confirms Villa loan|work=BBC Sport|access-date=2004-07-14 | date=14 July 2004| archive-url= https://web.archive.org/web/20040716005416/http://news.bbc.co.uk/sport1/hi/football/teams/c/charlton_athletic/3891105.stm| archive-date= 16 July 2004 | url-status= live}}</ref> || 14 July 2004
+|----
+|21|| FW||{{flagicon|ARG}} [[Hernán Crespo]] ||{{flagicon|ITA}} [[A.C. Milan|Milan]] || Loan<ref>{{cite news| url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/3888043.stm | work=BBC News | title=Crespo clinches Milan move | date=15 July 2004}}</ref> || 15 July 2004
+|----
+|34|| GK||{{flagicon|SCO}} [[Neil Sullivan]]||{{flagicon|ENG}} [[Leeds United F.C.|Leeds United]]|| Free<ref>{{cite news| url=https://news.bbc.co.uk/sport1/hi/football/teams/l/leeds_united/3939869.stm |title=Sullivan joins Leeds |access-date=2013-04-24 |work=BBC News |date=31 July 2004}}</ref>|| 31 July 2004
+|----
+|24|| MF||{{flagicon|NED}} [[Boudewijn Zenden]]||{{flagicon|ENG}} [[Middlesbrough F.C.|Middlesbrough]]|| Free<ref>{{cite news| url=https://news.bbc.co.uk/sport2/hi/football/teams/m/middlesbrough/3927421.stm | work=BBC News | title=Boro unveil Zenden | date=2 August 2004}}</ref>|| 2 August 2004
+|----
+|31|| GK||{{flagicon|ITA}} [[Marco Ambrosio]] ||{{flagicon|SUI}} [[Grasshopper Club Zürich|Grasshoppers]] || Free<ref name="Ambrosio">{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/3556030.stm|title=Ambrosio quits Chelsea|work=BBC Sport|access-date=2004-08-11 | date=11 August 2004}}</ref> || 11 August 2004
+|}
+
+===Overall transfer activity===
+{{col-begin}}
+{{col-3}}
+
+====Spending====
+Summer: {{loss}} [[Pound sterling|£]]91,350,000
+
+Winter: {{loss}} [[Pound sterling|£]]3,000,000
+
+Total: {{loss}} [[Pound sterling|£]]94,350,000
+
+{{col-3}}
+
+====Income====
+Summer: {{gain}} [[Pound sterling|£]]2,200,000
+
+Winter: {{steady}} [[Pound sterling|£]]0
+
+Total: {{gain}} [[Pound sterling|£]]2,200,000
+
+{{col-3}}
+
+====Expenditure====
+Summer: {{loss}} [[Pound sterling|£]]89,150,000
+
+Winter: {{loss}} [[Pound sterling|£]]3,000,000
+
+Total: {{loss}} [[Pound sterling|£]]92,150,000
+
+{{col-end}}
+
+==Premier League==
+{{main|2004–05 Premier League}}
+
+A total of 20 teams competed in the Premier League in the 2004–05 season. Each team played 38 matches; two against every other team and one match at each club's stadium. Three points were awarded for each win, one point per draw, and none for defeats. At the end of the season the top two teams qualified for the group stages of the UEFA Champions League; teams in third and fourth needed to play a qualifier.
+
+The provisional fixture list was released on 24 June 2004, but was subject to change in the event of clashes with other competitions, international football, inclement weather, or matches being selected for television coverage.
+
+===August–October===
+Chelsea opened their Premier League campaign at home against a depleted [[Manchester United F.C.|Manchester United]] side on 15 August 2004. [[Eiður Guðjohnsen]]'s 14th-minute goal was enough to separate the two sides, 1–0. The result was followed by another 1–0 win a weekend later, this time away at [[Birmingham City F.C.|Birmingham City]] thanks to a strike by substitute [[Joe Cole]]. A few days later, Chelsea journeyed across London to [[Selhurst Park]] to face newly promoted [[Crystal Palace F.C.|Crystal Palace]]. A [[Didier Drogba]] debut goal for his new club (a header from a [[Celestine Babayaro]] cross) and a controlled, outside-the-box effort by [[Tiago Mendes|Tiago]] were enough to ensure a 0–2 win and maintain Chelsea's 100 per cent start. Chelsea concluded August with a 2–1 home win over [[Southampton F.C.|Southampton]]. [[James Beattie (footballer)|James Beattie]] gave the visitors a shock lead after 12 seconds (the fastest Premier League goal of the season and Chelsea's first conceded); Beattie subsequently scored an own goal at the other end following a Chelsea corner, and a [[Frank Lampard]] penalty four minutes short of half-time set Chelsea on their way to all three points, leaving them in second place (behind fellow 100 percenters [[Arsenal F.C.|Arsenal]] on goal difference).
+
+Due to the international fixtures, Chelsea did not play again until 11 September, dropping their first points of the season in a 0–0 draw at [[Aston Villa F.C.|Aston Villa]], but both sides were not without their chances to break the deadlock, Drogba having a penalty claim turned down and being booked for diving in the process. A second successive 0–0 draw, at home to [[Tottenham Hotspur F.C.|Tottenham Hotspur]], meant they lost ground on defending champions and leaders Arsenal, falling two points behind. Chelsea later claimed their first win of the month courtesy of a free-kick routine finished by Drogba nine minutes from time away at [[Middlesbrough F.C.|Middlesbrough]] one week later to give them a vital 0–1 win. At the end of September 2004, Chelsea were still occupying second place, two points behind Arsenal.
+
+Chelsea began October with yet another 1–0 win, this time against [[Liverpool F.C.|Liverpool]], a Joe Cole flick from an inswinging Lampard free kick maintained their unbeaten league start. The run, however, ended after they suffered their first and only defeat of the season away at [[Manchester City F.C.|Manchester City]], with [[Nicolas Anelka]] stroking home a penalty in the 11th minute that he won himself after being felled in the box by [[Paulo Ferreira]]. The result cast Chelsea further behind pace-setters Arsenal, the margin now at five points. Manager Jose Mourinho maintained his optimism regarding his side's performances despite the media bemoaning Chelsea's lack of goals and style of play, particularly in contrast to the verve of unbeaten league leaders Arsenal.
+
+Nonetheless, Chelsea recorded one of their most emphatic victories of the season a week later, winning 4–0 at home against [[Blackburn Rovers F.C.|Blackburn Rovers]], an Eiður Guðjohnsen hat-trick set them on their way to the win. The result was significant in that it closed the gap to two points, as Arsenal lost their unbeaten record in controversial fashion a day later at [[Old Trafford]], losing [[Battle of the Buffet|2–0]] to Manchester United. Another irrefutable result, a 1–4 win away at [[West Bromwich Albion F.C.|West Bromwich Albion]], pulled Chelsea level with Arsenal (but behind on goal difference) at the end of October, as the reigning champions were showing signs of faltering, narrowly earning a 2–2 draw that day.
+
+===November–December===
+A 1–0 home win against [[Everton F.C.|Everton]] at [[Stamford Bridge (stadium)|Stamford Bridge]] coupled with another draw for Arsenal allowed Chelsea to top the table for the first time in the season. A week later, they retained their two-point lead at the top thanks to a thumping 4–1 away triumph at [[Fulham F.C.|Fulham]]. Despite a 2–2 home draw to [[Bolton Wanderers F.C.|Bolton]], they maintained their table-topping lead after Arsenal could only manage a 1–1 draw themselves to West Brom at home on the same day; Chelsea rounded off November 2004 with a 4–0 thumping of [[Charlton Athletic F.C.|Charlton]] at [[The Valley (stadium)|The Valley]] with Duff, Terry twice and Gudjohnsen all on the scoresheet to see Chelsea move 5 points clear at the top as Arsenal suffered their second defeat of the season at Liverpool the next day.
+
+Chelsea began the new month as they ended the last, with a 4–0 victory, this time at home against Newcastle. In their next outing, they visited rivals Arsenal and despite going behind twice, notched twice to earn a 2–2 draw at [[Arsenal Stadium|Highbury]] and preserve their lead at the top of the Premier League. Chelsea won the rest of their December fixtures without conceding: 4–0 vs [[Norwich City F.C.|Norwich]], 1–0 vs Aston Villa, and 2–0 away to [[Portsmouth F.C.|Portsmouth]] - as they closed 2004 sitting top of the league, five points clear of second-placed reigning champions Arsenal.
+
+===January–February===
+
+2005 began with a trip to [[Anfield Stadium|Anfield]] on [[New Year's Day]], Joe Cole once again proved the difference between the two sides, finding the back of the net five minutes after coming on as a substitute to earn a now-routine 1–0 victory for the visitors. They went on to win all their remaining games in January to nil (2–0 vs Middlesbrough, 2–0 away at Tottenham Hotspur and 3–0 against Portsmouth), extending their commanding lead to 10 points, as rivals Arsenal continued to flounder.
+
+As February dawned, Arsenal lost 4–2 against Manchester United at Highbury, the latter leapfrogging [[Arsène Wenger]]'s Arsenal into second and prompting the [[Frenchman]] to rule his side (now 13 points behind leaders Chelsea) out of the title race. Despite Manchester United showing signs of a mid-season surge, Chelsea continued their relentless form, earning a 1–0 win at Blackburn Rovers on 2 February. In doing so, Petr Cech (who saved a penalty late on in the game to ensure Chelsea's victory) set a new record of minutes gone without conceding (781), breaking [[Peter Schmeichel]]'s record of 695 with Manchester United. The eighth straight win saw the Blues move 11 points clear as their quest for a first Premier League title remained on track.
+
+They later dropped their first points of 2005, a 0–0 stalemate at home to Manchester City, but soon returned to winning ways with a 1–0 away victory at Everton on 12 February, closing the month with a 9-point advantage over second-placed Manchester United.
+
+===March–April===
+
+Chelsea conceded their first goal in 2005, during a 3–1 win at Norwich on 5 March, to end Petr Cech's Premier League record of minutes without conceding at 1,028 (later broken by [[Edwin van der Sar]] of Manchester United in 2009). The Blues went on to register a 1–0 win over West Bromwich Albion at home and completed March with a 4–1 victory against Crystal Palace at Stamford Bridge as they closed in on their first league title for 50 years.
+
+The penultimate month of the season opened for Chelsea with a 3–1 away win over Southampton, a well-worked team goal finished off by Eidur Gudjohnsen rounding off the result with seven minutes to spare. A week later on 9 April, Didier Drogba rescued a point for the West Londoners after [[Walter Pandiani]] had given Birmingham City a shock lead with half an hour to go at Stamford Bridge; however, their form and results elsewhere conspired to leave Chelsea needing just six points from their last six fixtures of the campaign to be assured of their first-ever Premier League title.
+
+On 20 April, Chelsea played out a goalless draw at home against nearest rivals Arsenal with both sides (particularly the hosts) missing a myriad of opportunities to break the deadlock. But the Blues swiftly rediscovered their touch at Stamford Bridge days later against neighbours Fulham, putting them to the sword with a 3–1 result, Frank Lampard scored the pick of the goals, a crisp low drive inside the area from Arjen Robben's cut-back on the left to restore Chelsea's lead after [[Collins John]] had equalised Joe Cole's earlier opener.
+
+The result meant Chelsea could win the title provided closest challengers Arsenal (whose form had picked up considerably towards the season's end) dropped points against Tottenham Hotspur in the [[North London Derby]] at Highbury a couple of days later, but the Gunners picked up all three points in a 1–0 win. 
+
+Chelsea travelled to Bolton's [[Reebok Stadium]] on 30 April 2005 with the knowledge a win and all three points would crown them [[List of English football champions|Champions of England]] for the first time in half a century, and despite a tense and goalless first-half, the second half saw Lampard win a battle against a defender for a high, bouncing ball just outside the penalty area before making space for a fierce right-foot drive to give Chelsea the lead after an hour gone; it was a lead Chelsea doubled as they countered from a Bolton corner fifteen minutes later, Lampard picking up Claude Makélélé's through ball and rounding goalkeeper [[Jussi Jääskeläinen]], slotting into an empty net for his second goal of the game to seal a conclusive 2–0 win and the league title for the Blues - Mourinho's first in English football - as the Blues sat top of the league with a now-unassailable 11-point lead after 35 games at the end of April 2005.
+
+===May===
+[[File:Premiership trophy.jpg|thumb|upright|The Premier League trophy awarded to Chelsea]]
+The final month of the season saw the new champions step on to the Stamford Bridge pitch against Charlton on 7 May, and were made to wait until just moments from time to record a 1–0 victory as Frank Lampard won a penalty in the closing stages, Claude Makélélé - who had never scored previously for the club - was given the honours and duly obliged (scoring on the rebound following the save of his initial effort by Charlton goalkeeper [[Dean Kiely]]). The game marked Chelsea's final home match of the season, therefore the trophy presentation and post-match celebrations were held afterwards in front of a capacity home crowd.
+
+Three days later, Chelsea travelled to Old Trafford for the penultimate game of the season against third-placed Manchester United, receiving another pre-match guard of honour (customary for their remaining games since clinching the title against Bolton); and in spite of [[Ruud van Nistelrooy]]'s opening goal, the Blues hit back, notching three times through Tiago, Gudjohnsen and Joe Cole late on to complete a Premier League double over United and claim a record 29th victory of the league season, moving onto 94 points.
+
+Their final league game on 15 May 2005 ended in a 1–1 draw, away to Newcastle United in an inconsequential yet unusually ill-disciplined end-of-season fixture that saw eight yellow cards brandished; the club's top-scorer Frank Lampard scoring from the penalty spot to equalise an own goal by Geremi at the other end minutes earlier.
+
+Chelsea completed their historic campaign with notably new Premier League records of 95 points (12 clear of second-placed Arsenal), 29 wins (14 of them at home - a record in itself), 1,025 consecutive minutes without conceding and just 15 goals conceded - suffering only one defeat all season.
+
+===Matches ===
+{{football box collapsible
+|round       = 1
+|date        = 15 August 2004
+|time        = 16:00 [[British Summer Time|BST]]	
+|team1       = [[Chelsea F.C.|Chelsea]]
+|score       = 1–0
+|report      = [https://news.bbc.co.uk/sport1/hi/football/eng_prem/3553240.stm Report]
+|team2       = [[Manchester United F.C.|Manchester United]]
+|goals1      = [[Eiður Guðjohnsen|Guðjohnsen]] {{goal|14}}
+|goals2      =  
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 41,813
+|referee     = [[Graham Poll]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 2
+|date        = 21 August 2004
+|time        = 15:00 [[British Summer Time|BST]]	
+|team1       = [[Birmingham City F.C.|Birmingham City]]
+|score       = 0–1
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/3564488.stm Report]
+|team2       = [[Chelsea F.C.|Chelsea]]
+|goals1      = 
+|goals2      = [[Joe Cole|Cole]] {{goal|68}}
+|stadium     = [[St Andrew's (stadium)|St Andrew's]]
+|location    = [[Birmingham]], [[England]]
+|attendance  = 24,953
+|referee     = [[Barry Knight (referee)|Barry Knight]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 3
+|date        = 24 August 2004
+|time        = 19:45 [[British Summer Time|BST]]	
+|team1       = [[Crystal Palace F.C.|Crystal Palace]]
+|score       = 0–2
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/3577056.stm Report]
+|team2       = [[Chelsea F.C.|Chelsea]]
+|goals1      = 
+|goals2      = [[Didier Drogba|Drogba]] {{goal|27}}<br> [[Tiago Mendes|Tiago]] {{goal|78}}
+|stadium     = [[Selhurst Park]]
+|location    = [[London]], England
+|attendance  = 24,953
+|referee     = [[Chris Foy (referee)|Chris Foy]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 4
+|date        = 28 August 2004
+|time        = 15:00 [[British Summer Time|BST]]	
+|team1       = [[Chelsea F.C.|Chelsea]]
+|score       = 2–1
+|report      = [https://news.bbc.co.uk/sport1/hi/football/eng_prem/3586098.stm Report]
+|team2       = [[Southampton F.C.|Southampton]]
+|goals1      = [[James Beattie (footballer)|Beattie]] {{goal|34|o.g.}}<br> [[Frank Lampard|Lampard]] {{goal|41|pen.}}
+|goals2      = [[James Beattie (footballer)|Beattie]] {{goal|1}}
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 40,864
+|referee     = [[Steve Bennett (referee)|Steve Bennett]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 5
+|date        = 11 September 2004
+|time        = 13:30 [[British Summer Time|BST]]	
+|team1       = [[Aston Villa F.C.|Aston Villa]]
+|score       = 0–0
+|report      = [https://news.bbc.co.uk/sport1/hi/football/eng_prem/3599056.stm Report]
+|team2       = [[Chelsea F.C.|Chelsea]]
+|goals1      = 
+|goals2      = 
+|stadium     = [[Villa Park]]
+|location    = [[Birmingham]], [[England]]
+|attendance  = 36,691
+|referee     = [[Rob Styles]]
+|result      = D
+}}
+{{football box collapsible
+|round       = 6
+|date        = 19 September 2004
+|time        = 16:00 [[British Summer Time|BST]]	
+|team1       = [[Chelsea F.C.|Chelsea]]
+|score       = 0–0
+|report      = [https://news.bbc.co.uk/sport1/hi/football/eng_prem/3647088.stm Report]
+|team2       = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1      = 
+|goals2      = 
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 42,246
+|referee     = [[Mike Riley (referee)|Mike Riley]]
+|result      = D
+}}
+{{football box collapsible
+|round       = 7
+|date        = 25 September 2004
+|time        = 13:30 [[British Summer Time|BST]]	
+|team1       = [[Middlesbrough F.C.|Middlesbrough]]
+|score       = 0–1
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/3661814.stm Report]
+|team2       = [[Chelsea F.C.|Chelsea]]
+|goals1      = 
+|goals2      = [[Didier Drogba|Drogba]] {{goal|81}}
+|stadium     = [[Riverside Stadium]]
+|location    = [[Middlesbrough]], [[England]]
+|attendance  = 32,341
+|referee     = [[Mark Halsey]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 8
+|date        = 3 October 2004
+|time        = 16:00 [[British Summer Time|BST]]	
+|team1       = [[Chelsea F.C.|Chelsea]]
+|score       = 1–0
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/3689210.stm Report]
+|team2       = [[Liverpool F.C.|Liverpool]]
+|goals1      = [[Joe Cole|Cole]] {{goal|64}}
+|goals2      = 
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 42,028
+|referee     = [[Phil Dowd]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 9
+|date        = 16 October 2004
+|time        = 17:15 [[British Summer Time|BST]]	
+|team1       = [[Manchester City F.C.|Manchester City]]
+|score       = 1–0
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/3724112.stm Report]
+|team2       = [[Chelsea F.C.|Chelsea]]
+|goals1      = [[Nicolas Anelka|Anelka]] {{goal|11|pen.}}
+|goals2      = 
+|stadium     = [[City of Manchester Stadium]]
+|location    = [[Manchester]], [[England]]
+|attendance  = 45,047
+|referee     = [[Howard Webb]]
+|result      = L
+}}
+{{football box collapsible
+|round       = 10
+|date        = 23 October 2004
+|time        = 15:00 [[British Summer Time|BST]]	
+|team1       = [[Chelsea F.C.|Chelsea]]
+|score       = 4–0
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/3727538.stm Report]
+|team2       = [[Blackburn Rovers F.C.|Blackburn Rovers]]
+|goals1      = [[Eiður Guðjohnsen|Guðjohnsen]] {{goal|37||38||51|pen.}}<Br> [[Damien Duff|Duff]] {{goal|74}}
+|goals2      = 
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 41,546
+|referee     = [[Graham Poll]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 11
+|date        = 30 October 2004
+|time        = 15:00 [[British Summer Time|BST]]	
+|team1       = [[West Bromwich Albion F.C.|West Bromwich Albion]]
+|score       = 1–4
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/3947405.stm Report]
+|team2       = [[Chelsea F.C.|Chelsea]]
+|goals1      = [[Zoltán Gera|Gera]] {{goal|56}}
+|goals2      = [[William Gallas|Gallas]] {{goal|45}}<br> [[Eiður Guðjohnsen|Guðjohnsen]] {{goal|51}}<br> [[Damien Duff|Duff]] {{goal|59}}<br> [[Frank Lampard|Lampard]] {{goal|81}}
+|stadium     = [[The Hawthorns]]
+|location    = [[West Bromwich]], [[England]]
+|attendance  = 27,399
+|referee     = [[Barry Knight (referee)|Barry Knight]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 12
+|date        = 6 November 2004
+|time        = 15:00 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Chelsea F.C.|Chelsea]]
+|score       = 1–0
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/3967929.stm Report]
+|team2       = [[Everton F.C.|Everton]]
+|goals1      = [[Arjen Robben|Robben]] {{goal|72}}
+|goals2      = 
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 41,965
+|referee     = [[Mike Riley (referee)|Mike Riley]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 13
+|date        = 13 November 2004
+|time        = 17:00 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Fulham F.C.|Fulham]]
+|score       = 1–4
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/3988119.stm Report]
+|team2       = [[Chelsea F.C.|Chelsea]]
+|goals1      = [[Papa Bouba Diop|Diop]] {{goal|57}}
+|goals2      = [[Frank Lampard|Lampard]] {{goal|33}}<br> [[Arjen Robben|Robben]] {{goal|59}}<br> [[William Gallas|Gallas]] {{goal|73}}<br> [[Tiago Mendes|Tiago]] {{goal|81}}
+|stadium     = [[Craven Cottage]]
+|location    = [[London]], England
+|attendance  = 21,877
+|referee     = [[Uriah Rennie]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 14
+|date        = 20 November 2004
+|time        = 15:00 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Chelsea F.C.|Chelsea]]
+|score       = 2–2
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/4009047.stm Report]
+|team2       = [[Bolton Wanderers F.C.|Bolton Wanderers]]
+|goals1      = [[Damien Duff|Duff]] {{goal|1}}<br> [[Tiago Mendes|Tiago]] {{goal|48}}
+|goals2      = [[Kevin Davies|Davies]] {{goal|52}}<br> [[Radhi Jaidi|Jaidi]] {{goal|87}}
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 42,203
+|referee     = [[Dermot Gallagher]]
+|result      = D
+}}
+{{football box collapsible
+|round       = 15
+|date        = 27 November 2004
+|time        = 15:00 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Charlton Athletic F.C.|Charlton Athletic]]
+|score       = 0–4
+|report      = [https://news.bbc.co.uk/sport1/hi/football/eng_prem/4028063.stm Report]
+|team2       = [[Chelsea F.C.|Chelsea]]
+|goals1      = 
+|goals2      = [[Damien Duff|Duff]] {{goal|4}}<br> [[John Terry|Terry]] {{goal|47||50}}<br> [[Eiður Guðjohnsen|Guðjohnsen]] {{goal|59}}
+|stadium     = [[The Valley (London)|The Valley]]
+|location    = [[London]], England
+|attendance  = 26,355
+|referee     = [[Mark Clattenburg]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 16
+|date        = 4 December 2004
+|time        = 12:45 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Chelsea F.C.|Chelsea]]
+|score       = 4–0
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/4047625.stm Report]
+|team2       = [[Newcastle United F.C.|Newcastle United]]
+|goals1      = [[Frank Lampard|Lampard]] {{goal|63}}<br> [[Didier Drogba|Drogba]] {{goal|69}}<br> [[Arjen Robben|Robben]] {{goal|87}}<br> [[Mateja Kežman|Kežman]] {{goal|90|pen.}}
+|goals2      = 
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 42,328
+|referee     = [[Rob Styles]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 17
+|date        = 12 December 2004
+|time        = 16:05 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Arsenal F.C.|Arsenal]]
+|score       = 2–2
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/4072055.stm Report]
+|team2       = [[Chelsea F.C.|Chelsea]]
+|goals1      = [[Thierry Henry|Henry]] {{goal|2||29}}
+|goals2      = [[John Terry|Terry]] {{goal|17}}<br> [[Eiður Guðjohnsen|Guðjohnsen]] {{goal|46}}
+|stadium     = [[Arsenal Stadium|Highbury]]
+|location    = [[London]], England
+|attendance  = 38,153
+|referee     = [[Graham Poll]]
+|result      = D
+}}
+{{football box collapsible
+|round       = 18
+|date        = 18 December 2004
+|time        = 15:00 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Chelsea F.C.|Chelsea]]
+|score       = 4–0
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/4088003.stm Report]
+|team2       = [[Norwich City F.C.|Norwich City]]
+|goals1      = [[Damien Duff|Duff]] {{goal|10}}<br> [[Frank Lampard|Lampard]] {{goal|34}}<br> [[Arjen Robben|Robben]] {{goal|44}}<br> [[Didier Drogba|Drogba]] {{goal|83}}
+|goals2      = 
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 42,071
+|referee     = [[Mike Dean (referee)|Mike Dean]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 19
+|date        = 26 December 2004
+|time        = 13:00 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Chelsea F.C.|Chelsea]]
+|score       = 1–0
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/4107367.stm Report]
+|team2       = [[Aston Villa F.C.|Aston Villa]]
+|goals1      = [[Damien Duff|Duff]] {{goal|30}}
+|goals2      = 
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 42,071
+|referee     = [[Mike Dean (referee)|Mike Dean]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 20
+|date        = 28 December 2004
+|time        = 15:00 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Portsmouth F.C.|Portsmouth]]
+|score       = 0–2
+|report      = [https://news.bbc.co.uk/sport1/hi/football/eng_prem/4107837.stm Report]
+|team2       = [[Chelsea F.C.|Chelsea]]
+|goals1      = 
+|goals2      = [[Arjen Robben|Robben]] {{goal|79}}<br> [[Joe Cole|Cole]] {{goal|90}}
+|stadium     = [[Fratton Park]]
+|location    = [[Portsmouth]], [[England]]
+|attendance  = 20,210
+|referee     = [[Alan Wiley]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 21
+|date        = 1 January 2005
+|time        = 12:45 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Liverpool F.C.|Liverpool]]
+|score       = 0–1
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/4114653.stm Report]
+|team2       = [[Chelsea F.C.|Chelsea]]
+|goals1      = 
+|goals2      = [[Joe Cole|Cole]] {{goal|80}}
+|stadium     = [[Anfield]]
+|location    = [[Liverpool]], [[England]]
+|attendance  = 43,886
+|referee     = [[Alan Wiley]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 22
+|date        = 4 January 2005
+|time        = 19:45 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Chelsea F.C.|Chelsea]]
+|score       = 2–0
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/4130163.stm Report]
+|team2       = [[Middlesbrough F.C.|Middlesbrough]]
+|goals1      = [[Didier Drogba|Drogba]] {{goal|15||17}}
+|goals2      = 
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 40,982
+|referee     = [[Steve Bennett (referee)|Steve Bennett]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 23
+|date        = 15 January 2005
+|time        = 15:00 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|score       = 0–2
+|report      = [https://news.bbc.co.uk/sport1/hi/football/eng_prem/4150639.stm Report]
+|team2       = [[Chelsea F.C.|Chelsea]]
+|goals1      = 
+|goals2      = [[Frank Lampard|Lampard]] {{goal|39|pen.|90}}
+|stadium     = [[White Hart Lane]]
+|location    = [[London]], England
+|attendance  = 36,105
+|referee     = [[Graham Poll]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 24
+|date        = 22 January 2005
+|time        = 15:00 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Chelsea F.C.|Chelsea]]
+|score       = 3–0
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/4177025.stm Report]
+|team2       = [[Portsmouth F.C.|Portsmouth]]
+|goals1      = [[Didier Drogba|Drogba]] {{goal|15||39}}<br> [[Arjen Robben|Robben]] {{goal|21}}
+|goals2      = 
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 42,267
+|referee     = [[Mike Riley (referee)|Mike Riley]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 25
+|date        = 2 February 2005
+|time        = 20:00 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Blackburn Rovers F.C.|Blackburn Rovers]]
+|score       = 0–1
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/4221117.stm Report]
+|team2       = [[Chelsea F.C.|Chelsea]]
+|goals1      = 
+|goals2      = [[Arjen Robben|Robben]] {{goal|5}}
+|stadium     = [[Ewood Park]]
+|location    = [[Blackburn]], [[England]]
+|attendance  = 23,414
+|referee     = [[Uriah Rennie]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 26
+|date        = 6 February 2005
+|time        = 16:05 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Chelsea F.C.|Chelsea]]
+|score       = 0–0
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/4218223.stm Report]
+|team2       = [[Manchester City F.C.|Manchester City]]
+|goals1      = 
+|goals2      = 
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 42,093
+|referee     = [[Howard Webb]]
+|result      = D
+}}
+{{football box collapsible
+|round       = 27
+|date        = 12 February 2005
+|time        = 12:45 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Everton F.C.|Everton]]
+|score       = 0–1
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/4238815.stm Report]
+|team2       = [[Chelsea F.C.|Chelsea]]
+|goals1      = 
+|goals2      = [[Eiður Guðjohnsen|Guðjohnsen]] {{goal|69}}
+|stadium     = [[Goodison Park]]
+|location    = [[Liverpool]], [[England]]
+|attendance  = 40,270
+|referee     = [[Mike Riley (referee)|Mike Riley]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 28
+|date        = 5 March 2005
+|time        = 17:15 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Norwich City F.C.|Norwich City]]
+|score       = 1–3
+|report      = [https://news.bbc.co.uk/sport1/hi/football/eng_prem/4300433.stm Report]
+|team2       = [[Chelsea F.C.|Chelsea]]
+|goals1      = [[Leon McKenzie|McKenzie]] {{goal|64}}
+|goals2      = [[Joe Cole|Cole]] {{goal|22}}<br> [[Mateja Kežman|Kežman]] {{goal|71}}<br> [[Ricardo Carvalho|Carvalho]] {{goal|79}}
+|stadium     = [[Carrow Road]]
+|location    = [[Norwich]], [[England]]
+|attendance  = 24,506
+|referee     = [[Mark Halsey]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 29
+|date        = 15 March 2005
+|time        = 19:45 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Chelsea F.C.|Chelsea]]
+|score       = 1–0
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/4343157.stm Report]
+|team2       = [[West Bromwich Albion F.C.|West Bromwich Albion]]
+|goals1      = [[Didier Drogba|Drogba]] {{goal|26}}
+|goals2      = 
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 41,713
+|referee     = [[Neale Barry]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 30
+|date        = 19 March 2005
+|time        = 15:00 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Chelsea F.C.|Chelsea]]
+|score       = 4–1
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/4343209.stm Report]
+|team2       = [[Crystal Palace F.C.|Crystal Palace]]
+|goals1      = [[Frank Lampard|Lampard]] {{goal|29}}<br> [[Joe Cole|Cole]] {{goal|54}}<br> [[Mateja Kežman|Kežman]] {{goal|78||90}}
+|goals2      = [[Aki Riihilahti|Riihilahti]] {{goal|42}}
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 41,667
+|referee     = [[Phil Dowd]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 31
+|date        = 2 April 2005
+|time        = 17:15 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Southampton F.C.|Southampton]]
+|score       = 1–3
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/4384127.stm Report]
+|team2       = [[Chelsea F.C.|Chelsea]]
+|goals1      = [[Kevin Phillips (footballer)|Phillips]] {{goal|69}}
+|goals2      = [[Frank Lampard|Lampard]] {{goal|22}}<br> [[Eiður Guðjohnsen|Guðjohnsen]] {{goal|39||83}}
+|stadium     = [[St Mary's Stadium]]
+|location    = [[Southampton]], [[England]]
+|attendance  = 31,949
+|referee     = [[Mark Halsey]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 32
+|date        = 9 April 2005
+|time        = 15:00 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Chelsea F.C.|Chelsea]]
+|score       = 1–1
+|report      = [https://news.bbc.co.uk/sport1/hi/football/eng_prem/4403611.stm Report]
+|team2       = [[Birmingham City F.C.|Birmingham City]]
+|goals1      = [[Didier Drogba|Drogba]] {{goal|82}}
+|goals2      = [[Walter Pandiani|Pandiani]] {{goal|65}}
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 42,031
+|referee     = [[Chris Foy (referee)|Chris Foy]]
+|result      = D
+}}
+{{football box collapsible
+|round       = 33
+|date        = 20 April 2005
+|time        = 20:00 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Chelsea F.C.|Chelsea]]
+|score       = 0–0
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/4451319.stm Report]
+|team2       = [[Arsenal F.C.|Arsenal]]
+|goals1      = 
+|goals2      = 
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 41,621
+|referee     = [[Steve Bennett (referee)|Steve Bennett]]
+|result      = D
+}}
+{{football box collapsible
+|round       = 34
+|date        = 23 April 2005
+|time        = 12:45 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Chelsea F.C.|Chelsea]]
+|score       = 3–1
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/4451337.stm Report]
+|team2       = [[Fulham F.C.|Fulham]]
+|goals1      = [[Joe Cole|Cole]] {{goal|17}}<br> [[Frank Lampard|Lampard]] {{goal|64}}<br> [[Eiður Guðjohnsen|Guðjohnsen]] {{goal|87}}
+|goals2      = [[Collins John|John]] {{goal|41}}
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 42,081
+|referee     = [[Alan Wiley]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 35
+|date        = 30 April 2005
+|time        = 17:15 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Bolton Wanderers F.C.|Bolton Wanderers]]
+|score       = 0–2
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/4476063.stm Report]
+|team2       = [[Chelsea F.C.|Chelsea]]
+|goals1      = 
+|goals2      = [[Frank Lampard|Lampard]] {{goal|60||76}}
+|stadium     = [[Reebok Stadium]]
+|location    = [[Bolton]], [[England]]
+|attendance  = 27,653
+|referee     = [[Steve Dunn (referee)|Steve Dunn]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 36
+|date        = 7 May 2005
+|time        = 17:15 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Chelsea F.C.|Chelsea]]
+|score       = 1–0
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/4501117.stm Report]
+|team2       = [[Charlton Athletic F.C.|Charlton Athletic]]
+|goals1      = [[Claude Makélélé|Makélélé]] {{goal|90+2}}
+|goals2      = 
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 42,065
+|referee     = [[Mike Riley (referee)|Mike Riley]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 37
+|date        = 10 May 2005
+|time        = 20:00 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Manchester United F.C.|Manchester United]]
+|score       = 1–3
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/4528525.stm Report]
+|team2       = [[Chelsea F.C.|Chelsea]]
+|goals1      = [[Ruud Van Nistelrooy|van Nistelrooy]] {{goal|7}}
+|goals2      = [[Tiago Mendes|Tiago]] {{goal|17}}<br> [[Eiður Guðjohnsen|Guðjohnsen]] {{goal|61}}<br> [[Joe Cole|Cole]] {{goal|82}}
+|stadium     = [[Old Trafford]]
+|location    = [[Manchester]], [[England]]
+|attendance  = 67,832
+|referee     = [[Graham Poll]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 38
+|date        = 15 May 2005
+|time        = 15:00 [[Greenwich Mean Time|GMT]]	
+|team1       = [[Newcastle United F.C.|Newcastle United]]
+|score       = 1–1 
+|report      = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/4525111.stm Report]
+|team2       = [[Chelsea F.C.|Chelsea]]
+|goals1      = [[Geremi Njitap|Geremi]] {{goal|33|o.g.}}
+|goals2      = [[Frank Lampard|Lampard]] {{goal|35|pen.}}
+|stadium     = [[St James' Park]]
+|location    = [[Newcastle upon Tyne]], [[England]]
+|attendance  = 52,326
+|referee     = [[Howard Webb]]
+|result      = D
+}}
+
+=== Classification ===
+{{:2004–05 FA Premier League|showteam=CHE}}
+
+====Results summary====
+{{Fb_rs |hw=14 |hd=5 |hl=0 |hgf=35 |hga=6 |aw=15 |ad=3 |al=1 |agf=37 |aga=9 }}
+
+====Results by round====
+{{#invoke:sports rbr table|table|legendpos=b
+|header=Round
+|label1= Ground
+| res1=H/A/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/H/A/A/H/A/H/A/H/A/A/H/H/A/H/H/H/A/H/A/A
+|label2= Result
+| res2=W/W/W/W/D/D/W/W/L/W/W/W/W/D/W/W/D/W/W/W/W/W/W/W/W/D/W/W/W/W/W/D/D/W/W/W/W/D
+|label3= Position
+| res3=4/2/2/2/2/2/2/2/2/2/2/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1
+|
+res4=3/6/9/12/13/14/17/20/20/23/26/29/32/33/36/39/40/43/46/49/52/55/58/61/64/65/68/71/74/77/80/81/82/85/88/91/94/95
+|label4= Points
+|
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_1=1st|color_2=2nd|color_3=3rd|colour_188=red1
+
+|updated=complete
+|source=[[#Matches|Matches]] 
+|date=March 2011
+}}
+
+==UEFA Champions League==
+
+===Group stage===
+
+{{main|2004–05 UEFA Champions League group stage#Group H}}
+{{:2004–05 UEFA Champions League group stage|transcludesection=Group H|showteam=CHE}}
+{{football box collapsible
+|round       = 1
+|date        = 14 September 2004
+|time        = 19:45 [[British Summer Time|BST]]	
+|team1       = [[Paris Saint-Germain F.C.|Paris Saint-Germain]] {{flagicon|FRA}}
+|score       = 0 – 3
+|report      = [https://news.bbc.co.uk/sport2/hi/football/europe/3651164.stm Report]
+|team2       = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1      = 
+|goals2      = [[John Terry|Terry]] {{goal|29}}<br> [[Didier Drogba|Drogba]] {{goal|45||75}}
+|stadium     = [[Parc des Princes]]
+|location    = [[Paris]], [[France]]
+|attendance  = 40,000
+|referee     = [[Manuel Mejuto González]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 2
+|date        = 29 September 2004
+|time        = 19:45 [[British Summer Time|BST]]	
+|team1       = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}} 
+|score       = 3 – 1
+|report      = [https://news.bbc.co.uk/sport1/hi/football/europe/3677558.stm Report]
+|team2       = {{flagicon|POR}} [[FC Porto|Porto]]
+|goals1      = [[Alexey Smertin|Smertin]] {{goal|7}}<br> [[Didier Drogba|Drogba]] {{goal|50}}<br> [[John Terry|Terry]] {{goal|70}}
+|goals2      = [[Benni McCarthy|McCarthy]] {{goal|68}}
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 39,237
+|referee     = [[Herbert Fandel]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 3
+|date        = 20 October 2004
+|time        = 19:45 [[British Summer Time|BST]]	
+|team1       = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}} 
+|score       = 2 – 0
+|report      = [https://news.bbc.co.uk/sport2/hi/football/europe/3753702.stm Report]
+|team2       = {{flagicon|RUS}} [[PFC CSKA Moscow|CSKA Moscow]]
+|goals1      = [[John Terry|Terry]] {{goal|9}}<br> [[Eiður Guðjohnsen|Guðjohnsen]] {{goal|45}}
+|goals2      = 
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 33,945
+|referee     = [[Ľuboš Micheľ]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 4
+|date        = 2 November 2004
+|time        = 19:45 [[British Summer Time|BST]]	
+|team1       = [[PFC CSKA Moscow|CSKA Moscow]] {{flagicon|RUS}} 
+|score       = 0 – 1
+|report      = [https://news.bbc.co.uk/sport2/hi/football/europe/3967563.stm Report]
+|team2       = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1      = 
+|goals2      = [[Arjen Robben|Robben]] {{goal|24}}
+|stadium     = [[Lokomotiv Stadium (Moscow)|Lokomotiv Stadium]]
+|location    = [[Moscow]], [[Russia]]
+|attendance  = 28,000
+|referee     = [[Massimo De Santis]]
+|result      = W
+}}
+{{football box collapsible
+|round       = 5
+|date        = 24 November 2004
+|time        = 19:45 [[British Summer Time|BST]]	
+|team1       = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}} 
+|score       = 0 – 0
+|report      = [https://news.bbc.co.uk/sport1/hi/football/europe/4033021.stm Report]
+|team2       = {{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]] 
+|goals1      = 
+|goals2      = 
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 39,626
+|referee     = [[Rene Temmink]]
+|result      = D
+}}
+{{football box collapsible
+|round       = 6
+|date        = 7 December 2004
+|time        = 19:45 [[British Summer Time|BST]]	
+|team1       = [[FC Porto|Porto]] {{flagicon|POR}}
+|score       = 2 – 1
+|report      = [https://news.bbc.co.uk/sport2/hi/football/europe/4068153.stm Report]
+|team2       = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]] 
+|goals1      = [[Diego (footballer, born 1985)|Diego]] {{goal|60}}<br> [[Benni McCarthy|McCarthy]] {{goal|85}}
+|goals2      = [[Damien Duff|Duff]] {{goal|33}}
+|stadium     = [[Estádio do Dragão]]
+|location    = [[Porto]], [[Portugal]]
+|attendance  = 42,409
+|referee     = [[Massimo Busacca]]
+|result      = L
+}}
+
+===Knockout phase===
+{{main|2004–05 UEFA Champions League knockout stage}}
+
+====[[2004–05 UEFA Champions League knockout stage#First knockout round|Round of 16]]====
+{{football box collapsible
+|id=|date        = 23 February 2005
+|time        = 19:45 [[Greenwich Mean Time|GMT]]
+|round       = [[2004–05 UEFA Champions League knockout stage#Barcelona v Chelsea|First leg]]
+|team1       = [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score       = 2 – 1
+|report      = [https://news.bbc.co.uk/sport2/hi/football/europe/4281719.stm Report]
+|team2       = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1      = [[Maxi López|López]] {{goal|67}}<br> [[Samuel Eto'o|Eto'o]] {{goal|73}}
+|goals2      = [[Juliano Belletti|Belletti]] {{goal|33|o.g.}}
+|stadium     = [[Camp Nou]]
+|location    = [[Barcelona]], [[Spain]]
+|attendance  = 89,000
+|referee     = [[Anders Frisk]]
+|result      = L
+}}
+{{football box collapsible
+|date        = 8 March 2005
+|time        = 19:45 [[British Summer Time|BST]]
+|round       = [[2004–05 UEFA Champions League knockout stage#Chelsea v Barcelona|Second leg]]	
+|team1       = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}} 
+|score       = 4 – 2
+|aggregatescore = 5 – 4
+|report      = [https://news.bbc.co.uk/sport2/hi/football/europe/4321491.stm Report]
+|team2       = {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1      = [[Eiður Guðjohnsen|Guðjohnsen]] {{goal|8}}<br> [[Frank Lampard|Lampard]] {{goal|17}}<br> [[Damien Duff|Duff]] {{goal|19}}<br> [[John Terry|Terry]] {{goal|76}}
+|goals2      = [[Ronaldinho]] {{goal|27|pen.|38}}
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 41,515
+|referee     = [[Pierluigi Collina]]
+|result      = W
+}}
+
+====[[2004–05 UEFA Champions League knockout stage#Quarter-finals|Quarter-finals]]====
+{{football box collapsible
+|date        = 6 April 2005
+|time        = 19:45 [[British Summer Time|BST]]
+|round       = [[2004–05 UEFA Champions League knockout stage#Chelsea v Bayern Munich|First leg]]	
+|team1       = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}} 
+|score       = 4 – 2
+|report      = [https://news.bbc.co.uk/sport2/hi/football/europe/4407909.stm Report]
+|team2       = {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1      = [[Joe Cole|Cole]] {{goal|4}}<br> [[Frank Lampard|Lampard]] {{goal|59||70}}<br> [[Didier Drogba|Drogba]] {{goal|81}}
+|goals2      = [[Bastian Schweinsteiger|Schweinsteiger]] {{goal|51}}<br>[[Michael Ballack|Ballack]] {{goal|90+3|pen.}}  
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 40,253
+|referee     = [[Pierluigi Collina]]
+|result      = W
+}}
+{{football box collapsible
+|date        = 12 April 2005
+|time        = 19:45 [[Greenwich Mean Time|GMT]]
+|round       = [[2004–05 UEFA Champions League knockout stage#Bayern Munichv Chelsea|Second leg]]
+|team1       = [[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+|score       = 3 – 2
+|aggregatescore = 5 – 6
+|report      = 
+[http://news.bbc.co.uk/sport1/hi/football/europe/4431953.stm Report]
+|team2       = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1      = [[Claudio Pizarro|Pizarro]] {{goal|65}}<br> [[Paolo Guerrero|Guerrero]] {{goal|90}}<br> [[Mehmet Scholl|Scholl]] {{goal|90+5}}
+|goals2      = [[Frank Lampard|Lampard]] {{goal|30}}<br> [[Didier Drogba|Drogba]] {{goal|80}}
+|stadium     = [[Olympiastadion (Munich)|Olympiastadion]]
+|location    = [[Munich]], [[Germany]]
+|attendance  = 59,000
+|referee     = [[Manuel Enrique Mejuto Gonzalez]]
+|result      = L
+}}
+
+====[[2004–05 UEFA Champions League knockout stage#Semi-finals|Semi-finals]]====
+{{football box collapsible
+|date        = 27 April 2005
+|time        = 19:45 [[British Summer Time|BST]]
+|round       = [[2004–05 UEFA Champions League knockout stage#Chelsea v Liverpool|First leg]]	
+|team1       = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}} 
+|score       = 0 – 0
+|report      = [https://news.bbc.co.uk/sport1/hi/football/europe/4484739.stm Report]
+|team2       = {{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1      = 
+|goals2      = 
+|stadium     = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location    = [[London]], England
+|attendance  = 40,497
+|referee     = [[Alain Sars]]
+|result      = D
+|id=}}
+{{football box collapsible
+|date        = 3 May 2005
+|time        = 19:45 [[British Summer Time|BST]]
+|round       = [[2004–05 UEFA Champions League knockout stage#Liverpool v Chelsea|Second leg]]	
+|team1       = [[Liverpool F.C.|Liverpool]] {{flagicon|ENG}}
+|score       = 1 – 0
+|aggregatescore = 1 – 0
+|report      = [https://news.bbc.co.uk/sport2/hi/football/europe/4501277.stm Report]
+|team2       = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]] 
+|goals1      = [[Luis García (footballer, born 1978)|García]] {{goal|4}}
+|goals2      = 
+|stadium     = [[Anfield]]
+|location    = [[Liverpool]], [[England]]
+|attendance  = 42,529
+|referee     = [[Lubos Michel]]
+|result      = L
+}}
+
+
+===League Cup===
+{{main|2004–05 Football League Cup}}
+
+{{football box collapsible
+|round          = [[2004–05 Football League Cup#Third round|Third round]]
+|date           = 27 October 2004
+|time           = 19:45 [[British Summer Time|BST]]
+|team1          = [[Chelsea F.C.|Chelsea]]
+|score          = 1 – 0
+|report         = [https://news.bbc.co.uk/sport1/hi/football/league_cup/3947055.stm Report] 
+|team2          = [[West Ham United F.C.|West Ham United]]
+|goals1         = [[Mateja Kežman|Kežman]] {{goal|57}}
+|goals2         = 
+|stadium        = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location       = [[London]]
+|attendance     = 41,774
+|referee        = [[Andy D'Urso]]
+|result         = W
+}}
+{{football box collapsible
+|round          = [[2004–05 Football League Cup#Fourth round|Fourth round]]
+|date           = 10 November 2004
+|time           = 19:45 [[British Summer Time|BST]]
+|team1          = [[Newcastle United F.C.|Newcastle United]]
+|score          = 0 – 2
+|aet            = yes
+|report         = [https://news.bbc.co.uk/sport2/hi/football/league_cup/3988419.stm Report] 
+|team2          = [[Chelsea F.C.|Chelsea]]
+|goals1         = 
+|goals2         = [[Eiður Guðjohnsen|Guðjohnsen]] {{goal|100}}<br> [[Arjen Robben|Robben]] {{goal|112}}
+|stadium        = [[St James' Park]]
+|location       = [[Newcastle upon Tyne]]
+|attendance     = 38,055
+|referee        = [[Steve Bennett (referee)|Steve Bennett]]
+|result         = W
+}}
+{{football box collapsible
+|round          = [[2004–05 Football League Cup#Quarter-finals|Quarter-finals]]
+|date           = 1 December 2004
+|time           = 19:45 [[British Summer Time|BST]]
+|team1          = [[Fulham F.C.|Fulham]]
+|score          = 1 – 2
+|report         = [https://news.bbc.co.uk/sport1/hi/football/league_cup/4047489.stm Report] 
+|team2          = [[Chelsea F.C.|Chelsea]]
+|goals1         = [[Brian McBride|McBride]] {{goal|74}}
+|goals2         = [[Damien Duff|Duff]] {{goal|55}}<br> [[Frank Lampard|Lampard]] {{goal|88}}
+|stadium        = [[Craven Cottage]]
+|location       = [[London]]
+|attendance     = 14,531
+|referee        = [[Steve Dunn (referee)|Steve Dunn]]
+|result         = W
+}}
+{{football box collapsible
+|round          = [[2004–05 Football League Cup#First leg|Semi-Final First Leg]]
+|date           = 12 January 2005
+|time           = 19:45 [[British Summer Time|BST]]
+|team1          = [[Chelsea F.C.|Chelsea]]
+|score          = 0 – 0
+|report         = [https://news.bbc.co.uk/sport1/hi/football/league_cup/4157097.stm Report] 
+|team2          = [[Manchester United F.C.|Manchester United]]
+|goals1         = 
+|goals2         = 
+|stadium        = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location       = [[London]]
+|attendance     = 41,492
+|referee        = [[Neale Barry]]
+|result         = D
+}}
+{{football box collapsible
+|round          = [[2004–05 Football League Cup#Second leg|Semi-finals second leg]]
+|date           = 26 January 2005
+|time           = 19:45 [[British Summer Time|BST]]
+|team1          = [[Manchester United F.C.|Manchester United]]
+|score          = 1 – 2
+|aggregatescore = 1 – 2
+|report         = [https://news.bbc.co.uk/sport2/hi/football/league_cup/4197611.stm Report] 
+|team2          = [[Chelsea F.C.|Chelsea]]
+|goals1         = [[Ryan Giggs|Giggs]] {{goal|67}}
+|goals2         = [[Frank Lampard|Lampard]] {{goal|29}}<br> [[Damien Duff|Duff]] {{goal|85}}
+|stadium        = [[Old Trafford]]
+|location       = [[Manchester]]
+|attendance     = 67,000
+|referee        = [[Rob Styles]]
+|result         = W
+}}
+{{football box collapsible
+|round          = '''[[2005 Football League Cup Final|Final]]'''
+|date           = 27 February 2005
+|time           = 19:45 [[British Summer Time|BST]]
+|team1          = [[Liverpool F.C.|Liverpool]]
+|score          = 2 – 3
+|aet            = yes
+|report         = [https://news.bbc.co.uk/sport2/hi/football/league_cup/4279679.stm Report] 
+|team2          = [[Chelsea F.C.|Chelsea]]
+|goals1         = [[John Arne Riise|Riise]] {{goal|1}}<br> [[Antonio Núñez Tena|Núñez]] {{goal|113}}
+|goals2         = [[Steven Gerrard|Gerrard]] {{goal|79|o.g.}}<br> [[Didier Drogba|Drogba]] {{goal|107}}<br> [[Mateja Kežman|Kežman]] {{goal|112}}
+|stadium        = [[Millennium Stadium]]
+|location       = [[Cardiff]]
+|attendance     = 78,000
+|motm           = {{flagicon|ENG}} [[John Terry]] 
+|referee        = [[Steve Bennett (referee)|Steve Bennett]]
+|result         = W
+}}
+
+===FA Cup===
+{{main|2004–05 FA Cup}}
+{{Football box collapsible
+|round      = [[2004–05 FA Cup#Third round proper|Third round]]
+|date       = 8 January 2005
+|time       = 15:00 [[Greenwich Mean Time|GMT]]
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 3 – 1
+|report     = [https://news.bbc.co.uk/sport2/hi/football/fa_cup/4139387.stm Report]
+|team2      = [[Scunthorpe United F.C.|Scunthorpe United]]
+|goals1     = [[Mateja Kežman|Kežman]] {{goal|26}}<br> [[Andy Crosby]] {{goal|58|o.g.}} <br> [[Eiður Guðjohnsen|Guðjohnsen]] {{goal|86}}
+|goals2     = [[Paul Hayes (footballer)|Hayes]] {{goal|8}}
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location   = [[London]]
+|attendance = 40,019
+|referee    = [[Dermot Gallagher]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = [[2004–05 FA Cup#Fourth round proper|Fourth Round]]
+|date       = 30 January 2005
+|time       = 15:00 [[Greenwich Mean Time|GMT]]
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 2 – 0
+|report     = [news.bbc.co.uk/sport1/hi/football/fa_cup/4197629.stm Report]
+|team2      = [[Birmingham City F.C.|Birmingham City]]
+|goals1     = [[Robert Huth|Huth]] {{goal|6}}<br> [[John Terry|Terry]] {{goal|80|}}
+|goals2     = 
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location   = [[London]]
+|attendance = 40,379
+|referee    = [[Mike Dean (referee)|Mike Dean]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = [[2004–05 FA Cup#Fifth round proper|Fifth Round]]
+|date       = 20 February 2005
+|time       = 15:00 [[Greenwich Mean Time|GMT]]
+|team1      = [[Newcastle United F.C.|Newcastle United]] 
+|score      = 1 – 0
+|report     = [https://news.bbc.co.uk/sport2/hi/football/fa_cup/4259719.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Patrick Kluivert|Kluivert]] {{Goal|4}} 
+|goals2     = 
+|stadium    = [[St James' Park]]
+|location   = [[Newcastle upon Tyne]]
+|attendance = 45,740
+|referee    = [[Mark Halsey]]
+|result     = L
+}}
+
+==Statistics==
+
+===Appearances and goals===
+{{Efs start|[[2004-05 FA Premier League|Premier League]]|[[2004-05 UEFA Champions League|Champions League]]|[[FA Cup]]|[[Football League Cup]]}}
+{{Efs player|no=1|name=[[Petr Čech]]|pos=GK|nat=CZE|35|0|11|0|0|0|2|0}}
+{{Efs player|no=20|name=[[Paulo Ferreira]]|pos=DF|nat=POR|29|0|6+1|0|0+1|0|5|0}}
+{{Efs player|no=6|name=[[Ricardo Carvalho]]|pos=DF|nat=POR|22+3|1|10|0|1|0|3|0}}
+{{Efs player|no=26|name=[[John Terry]]|pos=DF|nat=ENG|36|3|11|4|1|1|5|0}}
+{{Efs player|no=13|name=[[William Gallas]]|pos=DF|nat=FRA|28|2|12|0|1|0|5|0}}
+{{Efs player|no=10|name=[[Joe Cole]]|pos=MF|nat=ENG|19+9|8|8+1|1|3|0|4+2|0}}
+{{Efs player|no=4|name=[[Claude Makélélé]]|pos=MF|nat=FRA|36|1|10|0|0|0|4|0}}
+{{Efs player|no=8|name=[[Frank Lampard]]|pos=MF|nat=ENG|38|13|12|4|0+2|0|3+3|2}}
+{{Efs player|no=30|name=[[Tiago Mendes]]|pos=MF|nat=POR|21+13|4|4+7|0|2|0|4|0}}
+{{Efs player|no=11|name=[[Damien Duff]]|pos=MF|nat=IRL|28+2|6|8+2|2|1+1|0|5+1|2}}
+{{Efs player|no=22|name=[[Eiður Guðjohnsen]]|pos=FW|nat=ISL|30+7|12|9+2|2|2+1|1|1+5|1}}
+{{Efs player|no=23|name=[[Carlo Cudicini]]|pos=GK|nat=ITA|3|0|1|0|3|0|4|0}}
+{{Efs player|no=15|name=[[Didier Drogba]]|pos=FW|nat=CIV|18+8|10|8+1|5|1+1|0|3+1|1}}
+{{Efs player|no=16|name=[[Arjen Robben]]|pos=MF|nat=NED|14+4|7|2+3|1|0+2|0|3+1|1}}
+{{Efs player|no=2|name=[[Glen Johnson (English footballer)|Glen Johnson]]|pos=DF|nat=ENG|13+4|0|4+2|0|3|0|2+1|0}}
+{{Efs player|no=18|name=[[Wayne Bridge]]|pos=DF|nat=ENG|12+3|0|4|0|2|0|4|0}}
+{{Efs player|no=3|name=[[Celestine Babayaro]]|pos=DF|nat=NGA|3+1|0|0|0|0|0|1|0}}
+{{Efs player|no=5|name=[[Alexey Smertin]]|pos=MF|nat=RUS|11+5|0|4+1|1|3|0|1|0}}
+{{Efs player|no=9|name=[[Mateja Kežman]]|pos=FW|nat=SCG|6+19|4|3+6|0|3|1|2+2|2}}
+{{Efs player|no=14|name=[[Geremi Njitap|Geremi]]|pos=MF|nat=CMR|6+7|0|1+3|0|2|0|1|0}}
+{{Efs player|no=29|name=[[Robert Huth]]|pos=DF|nat=GER|6+4|0|1+3|0|1|1|0|0}}
+{{Efs player|no=27|name=[[Jiří Jarošík]]|pos=MF|nat=CZE|3+11|0|0|0|2+1|0|1+2|0}}
+{{Efs player|no=19|name=[[Scott Parker]]|pos=MF|nat=ENG|1+3|0|3+1|0|0|0|3|0}}
+{{Efs player|no=7|name=[[Adrian Mutu]]|pos=FW|nat=ROU|0+2|0|0|0|0|0|0|0}}
+{{Efs player|no=24|name=[[Mikael Forssell]]|pos=FW|nat=FIN|0+1|0|0+1|0|0|0|0|0}}
+{{Efs player|no=31|name=[[Filipe Oliveira (footballer, born 1984)|Filipe Oliveira]]|pos=MF|nat=POR|0+1|0|0|0|0|0|0|0}}
+{{Efs player|no=32|name=[[Steven Watt (footballer)|Steven Watt]]|pos=DF|nat=SCO|0+1|0|0|0|1|0|0|0}}
+{{Efs player|no=33|name=[[Nuno Morais]]|pos=DF|nat=POR|0+2|0|0+1|0|1|0|0|0}}
+{{Efs player|no=40|name=[[Lenny Pidgeley]]|pos=GK|nat=ENG|0+1|0|0|0|0|0|0|0}}
+{{Efs player|no=42|name=[[Anthony Grant (English footballer)|Anthony Grant]]|pos=MF|nat=ENG|0+1|0|0|0|0|0|0|0}}
+|}
+Statistics source.<ref>[http://www.bounder.friardale.co.uk/Summaries/2004.htm "Summary of Season 2004-05"]. Bounder Friardale.co.uk.</ref> Squad details and shirt numbers from [http://www.eufo.de/football/eng/2004/chela_fc.htm Chelsea FC 2004-05].
+
+==Summary==
+{|class="wikitable"
+|-
+|Games played     || '''59''' (38 [[Premier League]]),  3 ([[FA Cup]]), 12 ([[UEFA Champions League]]) 6 ([[Football League Cup]])
+|-
+|Games won        || '''42''' (29 [[Premier League]]),  2 ([[FA Cup]]), 6 ([[UEFA Champions League]]) 5 ([[Football League Cup]])
+|-
+|Games drawn      || '''11''' (8 [[Premier League]]),  0 ([[FA Cup]]), 2 ([[UEFA Champions League]]) 1 ([[Football League Cup]])
+|-
+|Games lost       || '''6''' (1 [[Premier League]]),  1 ([[FA Cup]]), 4 ([[UEFA Champions League]]) 0 ([[Football League Cup]])
+|-
+|Goals scored     || '''107''' (72 [[Premier League]]),  4 ([[FA Cup]]), 21 ([[UEFA Champions League]]) 10 ([[Football League Cup]])
+|-
+|Goals conceded   || '''33''' (15 [[Premier League]]),  1 ([[FA Cup]]), 13 ([[UEFA Champions League]]) 4 ([[Football League Cup]])
+|- 
+|Goal difference  || '''75''' (57 [[Premier League]]),  4 ([[FA Cup]]), 8 ([[UEFA Champions League]]) 6 ([[Football League Cup]])
+|-
+|Clean sheets     || '''35''' (25 [[Premier League]]),  2 ([[FA Cup]]), 5 ([[UEFA Champions League]]) 3 ([[Football League Cup]])
+|-
+|Most appearances || '''58''' {{flagicon|ENG}} [[Frank Lampard]]
+|-
+|Top scorer       || '''19''' {{flagicon|ENG}} [[Frank Lampard]]
+|-
+|Wins          || Overall: 42/59 (71.28%)
+|}
+
+==Awards==
+
+===Player===
+{|class="wikitable sortable" style="text-align:left; font-size:95%;"
+|-
+! {{Abbr| No. | Squad Number }}
+! Player  
+! Award 
+|-
+| align=center|1
+| {{flagicon|CZE}} [[Petr Čech]]
+| [[PFA Team of the Year (2000s)#FA Premier League 6|PFA Team of the Year]] & [[Premier League Golden Glove|Golden Glove]]
+|-
+| align=center|8
+| {{flagicon|ENG}} [[Frank Lampard]]
+| [[Premier League Player of the Month#2004.E2.80.9305|April Player of the Month]], [[PFA Fans' Player of the Year#2005|PFA Fans' Player of the Year]], [[Premier League Player of the Season]], [[FWA Footballer of the Year]] & [[PFA Team of the Year (2000s)#FA Premier League 6|PFA Team of the Year]]
+|-
+| align=center|10
+| {{flagicon|ENG}} [[Joe Cole]]
+| [[Premier League Player of the Month#2004.E2.80.9305|March Player of the Month]]
+|-
+| align=center|16
+| {{flagicon|NED}} [[Arjen Robben]]
+| [[Premier League Player of the Month#2004.E2.80.9305|November Player of the Month]] & [[PFA Team of the Year (2000s)#FA Premier League 6|PFA Team of the Year]]
+|-
+| align=center|26
+| {{flagicon|ENG}} [[John Terry]]
+| [[Premier League Player of the Month#2004.E2.80.9305|January Player of the Month]], [[2004–05 FA Premier League#PFA Player.27s Player of the Year|PFA Player of the Year]] & [[PFA Team of the Year (2000s)#FA Premier League 6|PFA Team of the Year]]
+|-
+|}
+
+===Manager===
+{|class="wikitable sortable" style="text-align:left; font-size:95%;"
+|-
+! Manager
+! Award 
+|-
+| {{flagicon|Portugal}} [[José Mourinho]]
+| [[Premier League Manager of the Month#2004.E2.80.9305|November Manager of the Month]], [[Premier League Manager of the Month#2004.E2.80.9305|January Manager of the Month]] & [[Premier League Manager of the Season]]
+|-
+|}
+
+==References==
+{{reflist}}
+==Notes==
+{{Reflist|group=notes}}
+==External links==
+* [http://www.chelseafc.com Chelsea FC Official Website]
+* [https://www.soccerbase.com/teams/team.sd?team_id=536 Chelsea FC on Soccerbase] {{webarchive |url=https://web.archive.org/web/20070627030941/http://www.soccerbase.com/teams2.sd?teamid=536 |date=2007-06-27}}
+
+{{Chelsea F.C. seasons}}
+{{2004–05 in English football}}
+
+{{DEFAULTSORT:2004-05 Chelsea F.C. season}}
+[[Category:Chelsea F.C. seasons]]
+[[Category:2004–05 FA Premier League by team|Chelsea]]
+[[Category:English football championship–winning seasons|2005]]

@@ -1,0 +1,1110 @@
+{{Short description|English football club season}}
+{{Use dmy dates|date=May 2020}}
+{{Use British English|date=February 2015}}
+{{Infobox football club season
+ | club               = [[Chelsea F.C.|Chelsea]]
+ | season             = 1999–2000
+ | image              = File:Leeds United 0 Chelsea 1 Elland Road 1 April 2000.jpg
+ | image_size         = 300px
+ | alt                =
+ | caption            = Chelsea players before a match against [[Leeds United Football Club|Leeds United]] at [[Elland Road]] on 1 April 2000
+ | manager            = [[Gianluca Vialli]]
+ | chairman           = [[Ken Bates]]
+ | league             = [[Premier League]]
+ | league result      = [[1999–2000 FA Premier League|5th]]
+ | cup1               = [[FA Cup]]
+ | cup1 result        = '''[[2000 FA Cup Final|Winners]]'''
+ | cup2               = [[Football League Cup|League Cup]]
+ | cup2 result        = [[1999–2000 Football League Cup|Third round]]
+ | cup3               = [[UEFA Champions League]]
+ | cup3 result        = [[1999–2000 UEFA Champions League#Quarter-finals|Quarter-finals]]
+ | league topscorer   = <br>[[Tore André Flo]]<br />[[Gus Poyet]] (10 each)
+ | season topscorer   = <br>Tore André Flo (19)
+ | highest attendance = 35,113 (vs. [[Everton F.C.|Everton]], 11 May 2000)
+ | lowest attendance  = 21,008 (vs. [[Huddersfield Town A.F.C.|Huddersfield Town]], 13 October 1999)
+ | pattern_b1  = _chelsea9900h
+ | pattern_la1 = _chelsea9900h
+ | pattern_ra1 = _chelsea9900h
+ | pattern_sh1 = 
+ | leftarm1    = 0000FF
+ | body1       = 0000FF
+ | rightarm1   = 0000FF
+ | shorts1     = 0000FF
+ | socks1      = FFFFFF
+ | pattern_b2  = _chelsea1998a
+ | pattern_ra2 = _chelsea1998a
+ | pattern_la2 = _chelsea1998a
+ | pattern_so2 = 
+ | leftarm2    = FF0000
+ | body2       = FFFFFF
+ | rightarm2   = FF0000
+ | shorts2     = FFFFFF
+ | socks2      = FFFFFF
+ | pattern_b3  = _chelsea1998t
+ | pattern_ra3  = _chelsea1998t
+ | pattern_la3  = _chelsea1998t
+ | pattern_so3  = 
+ | leftarm3     = FFFF00
+ | body3        = FFFF00
+ | rightarm3    = FFFF00
+ | shorts3      = FFFF00
+ | socks3       = FFFF00
+ | prevseason         = [[1998–99 Chelsea F.C. season|1998–99]]
+ | nextseason         = [[2000–01 Chelsea F.C. season|2000–01]]
+}}
+The '''1999–2000''' season was '''Chelsea F.C.'s''' 86th competitive season, eighth consecutive season in the [[Premier League|FA Premier League]] and 94th year as a club.
+
+==Season summary==
+After a very good third-place finish last season, Chelsea qualified for the [[1999–2000 UEFA Champions League qualifying rounds|Champions League third qualifying round]], and were expected to go one better and win the title. [[France national football team|France]] captain [[Didier Deschamps]] was signed for £3 million from [[Juventus FC|Juventus]] to add even more quality and experience to a Chelsea midfield that already boasted [[Dennis Wise]], [[Roberto Di Matteo]] and [[Gustavo Poyet]]. [[Blackburn Rovers F.C.|Blackburn Rovers]] striker [[Chris Sutton]] was also signed for £10 million, but he proved to be a flop with only one league goal all season, which came in a 5-0 drubbing of Man Utd at [[Stamford Bridge (stadium)|Stamford Bridge]]. His strike partner, [[Gianfranco Zola]], had a poor league season by his standard, scoring just four goals, but he made up for that by again setting up many more goals for the team. Chelsea opened the season with 4–0 win over newly promoted Sunderland with Gus Poyet scoring a stunning scissors kick goal. Zola, in contrast to his average league form, made Europe sit up and notice as he led Chelsea's [[UEFA Champions League|Champions league]] debut appearance in the group stage. Chelsea were drawn against [[A.C. Milan|AC Milan]], [[Hertha BSC|Hertha Berlin]] and [[Galatasaray S.K. (football)|Galatasary]] with their first game being against AC Milan at Stamford Bridge. Chelsea topped Group H with 11 points after some standout performances, particularly an impressive 5–0 win in Turkey and two creditable draws home and away with AC Milan.
+
+Zola scored a spectacular free kick in a 3–1 win over [[F.C. Barcelona]] at Stamford Bridge, but Chelsea were eliminated in the second leg at the [[Nou Camp]]. On the Premier league front, [[Gianluca Vialli]]'s side finished a solid fifth place in the final table but were too inconsistent to mount anything like a title challenge. Chelsea won their fourth cup in four seasons with a [[2000 FA Cup Final|1–0]] win over [[Aston Villa F.C.|Aston Villa]] at [[Wembley Stadium (1923)|Wembley]], after [[David James (footballer, born 1970)|David James]] dropped the ball from a Chelsea corner allowing Di Matteo to score. Chelsea had the last cup final triumph at the old Wembley stadium before it was rebuilt.<ref>{{cite web|title=Chelsea claim FA Cup glory|url=http://news.bbc.co.uk/1/hi/sport/football/fa_cup/756784.stm|work=BBC News|date=20 May 2000|access-date=31 July 2015}}</ref> Gus Poyet was key during Chelsea's FA cup run, scoring a hat trick against [[Hull City A.F.C.|Hull]] at [[Boothferry Park]] in a 6–1 win and netting twice against [[Newcastle United F.C.|Newcastle]] at Wembley.
+
+On 26 December 1999, in their 1–2 away win over [[Southampton F.C.|Southampton]], Chelsea became the first team in the Football League history to field a starting eleven without an English player. The squad was made up of: [[Ed de Goey]], [[Albert Ferrer]], [[Franck Leboeuf]], [[Emerson Thome]], [[Celestine Babayaro]], Deschamps, [[Dan Petrescu]], Di Matteo, Poyet, [[Gabriele Ambrosetti]] and [[Tore André Flo]].
+
+==Final league table==
+{{main|1999–2000 FA Premier League}}
+{{:1999–2000 FA Premier League|showteam=CHE}}
+
+;Results summary
+{{Fb_rs|hw=12|hd=5|hl=2|hgf=35|hga=12|aw=6|ad=6|al=7|agf=18|aga=22}}
+{{Fb_rs_footer|s=[https://www.soccerbase.com/tournaments/tournament.sd?tourn_id=114 1999–2000 FA Premier League table]|date=December 2014}}
+
+;Results by round
+{{#invoke:sports rbr table|table|legendpos=b
+|header=Round
+|label1= Ground
+| res1=H/A/H/A/H/A/A/H/A/H/A/H/A/H/A/H/A/H/A/A/H/H/A/A/H/H/A/H/A/H/A/H/A/H/A/H/A/H
+|label2= Result
+| res2=W/D/W/W/W/L/W/W/L/L/L/D/D/W/L/L/W/W/D/D/W/D/D/W/W/W/W/D/D/D/W/W/L/D/L/W/L/W
+|label3= Position
+| res3=1/6/4/3/2/5/5/4/6/7/8/9/9/8/8/10/9/7/7/7/6/6/6/5/5/5/3/3/4/4/5/4/4/5/5/4/5/5
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_1=1st|color_2=2nd|color_3=3rd|color_18-=red1
+
+|source=[http://www.11v11.com/teams/chelsea/tab/matches/season/2000 11v11.com: 1999–2000 Chelsea results]
+|date=December 2014
+}}
+
+==Results==
+
+===FA Premier League===
+{{Football box collapsible
+|round      = 1
+|date       = 7 August 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 4–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/414261.stm Report]
+|team2      = [[Sunderland A.F.C.|Sunderland]]
+|goals1     = [[Gustavo Poyet|Poyet]] {{goal|20||56}}<br>[[Gianfranco Zola|Zola]] {{goal|32}}<br>[[Tore André Flo|Flo]] {{goal|77}}
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Mike Riley (referee)|Mike Riley]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 2
+|date       = 15 August 1999
+|time       = 
+|team1      = [[Leicester City F.C.|Leicester City]]
+|score      = 2–2
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/420262.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Emile Heskey|Heskey]] {{goal|10}}<br>[[Muzzy Izzet|Izzet]] {{goal|90|pen.}}
+|goals2     = [[Dennis Wise|Wise]] {{goal|48}}<br>[[Frank Sinclair|F. Sinclair]] {{goal|90+3|o.g.}}
+|location   = [[Leicester]], [[Leicestershire]]
+|stadium    = [[Filbert Street]]
+|attendance = 
+|referee    = [[Stephen Lodge (referee)|Stephen Lodge]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 3
+|date       = 21 August 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 1–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/426640.stm Report]
+|team2      = [[Aston Villa F.C.|Aston Villa]]
+|goals1     = [[Ugo Ehiogu|Ehiogu]] {{goal|52|o.g.}}
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Neale Barry]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 4
+|date       = 28 August 1999
+|time       = 
+|team1      = [[Wimbledon F.C.|Wimbledon]]
+|score      = 0–1
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/432404.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = [[Dan Petrescu|Petrescu]] {{goal|78}}
+|location   = [[London]]
+|stadium    = [[Selhurst Park]]
+|attendance = 
+|referee    = [[Steve Dunn (referee)|Steve Dunn]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 5
+|date       = 11 September 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 1–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/444156.stm Report]
+|team2      = [[Newcastle United F.C.|Newcastle United]]
+|goals1     = [[Franck Leboeuf|Leboeuf]] {{goal|37|pen.}}
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Graham Poll]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 6
+|date       = 18 September 1999
+|time       = 
+|team1      = [[Watford F.C.|Watford]]
+|score      = 1–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/450996.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Allan Smart|Smart]] {{goal|57}}
+|goals2     = 
+|location   = [[Watford]], [[Hertfordshire]]
+|stadium    = [[Vicarage Road]]
+|attendance = 
+|referee    = [[Mike Reed (referee)|Mike Reed]]
+|result     = L
+}}
+{{Football box collapsible
+|round      = 7
+|date       = 25 September 1999
+|time       = 
+|team1      = [[Middlesbrough F.C.|Middlesbrough]]
+|score      = 0–1
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/457491.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = [[Bernard Lambourde|Lambourde]] {{goal|54}}
+|location   = [[Middlesbrough]], [[North Yorkshire]]
+|stadium    = 
+|attendance = 
+|referee    = [[Paul Alcock]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 8
+|date       = 3 October 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 5–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/464027.stm Report]
+|team2      = [[Manchester United F.C.|Manchester United]]
+|goals1     = [[Gustavo Poyet|Poyet]] {{goal|1||55}}<br>[[Chris Sutton|Sutton]] {{goal|16}}<br>[[Henning Berg|Berg]] {{goal|58|o.g.}}<br>[[Jody Morris|Morris]] {{goal|82}}
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Dermot Gallagher]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 9
+|date       = 16 October 1999
+|time       = 
+|team1      = [[Liverpool F.C.|Liverpool]]
+|score      = 1–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/476766.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[David Thompson (footballer born 1977)|Thompson]] {{goal|47}}
+|goals2     = [[Marcel Desailly|Desailly]] {{sent off|0|75}}<br>[[Dennis Wise|Wise]] {{sent off|0|88}}
+|location   = [[Liverpool]]
+|stadium    = [[Anfield]]
+|attendance = 
+|referee    = [[Mike Reed (referee)|Mike Reed]]
+|result     = L
+}}
+{{Football box collapsible
+|round      = 10
+|date       = 23 October 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 2–3
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/483265.stm Report]
+|team2      = [[Arsenal F.C.|Arsenal]]
+|goals1     = [[Tore André Flo|Flo]] {{goal|38}}<br>[[Dan Petrescu|Petrescu]] {{goal|52}}
+|goals2     = [[Nwankwo Kanu|Kanu]] {{goal|75||83||90}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Alan Wilkie (referee)|Alan Wilkie]]
+|result     = L
+}}
+{{Football box collapsible
+|round      = 11
+|date       = 30 October 1999
+|time       = 
+|team1      = [[Derby County F.C.|Derby County]]
+|score      = 3–1
+|report     = [ Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Deon Burton|Burton]] {{goal|7}}<br>[[Rory Delap|Delap]] {{goal|80||88}}
+|goals2     = [[Franck Leboeuf|Leboeuf]] {{goal|10}}
+|location   = [[Derby]], [[Derbyshire]]
+|stadium    = [[Pride Park Stadium]]
+|attendance = 
+|referee    = 
+|result     = L
+}}
+{{Football box collapsible
+|round      = 12
+|date       = 7 November 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 0–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/508559.stm Report]
+|team2      = [[West Ham United F.C.|West Ham United]]
+|goals1     = 
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Mike Riley (referee)|Mike Riley]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 13
+|date       = 20 November 1999
+|time       = 
+|team1      = [[Everton F.C.|Everton]]
+|score      = 1–1
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/529761.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Kevin Campbell (footballer)|K. Campbell]] {{goal|15}}
+|goals2     = [[Tore André Flo|Flo]] {{goal|90}}
+|location   = [[Liverpool]]
+|stadium    = [[Goodison Park]]
+|attendance = 
+|referee    = [[Mark Halsey]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 14
+|date       = 28 November 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 1–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/540650.stm Report]
+|team2      = [[Bradford City A.F.C.|Bradford City]]
+|goals1     = [[Tore André Flo|Flo]] {{goal|15}}
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Alan Wiley]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 15
+|date       = 4 December 1999
+|time       = 
+|team1      = [[Sunderland A.F.C.|Sunderland]]
+|score      = 4–1
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/550014.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Niall Quinn|Quinn]] {{goal|1||38}}<br>[[Kevin Phillips (footballer)|Phillips]] {{goal|23||36}}
+|goals2     = [[Gustavo Poyet|Poyet]] {{goal|81}}
+|location   = [[Sunderland, Tyne and Wear|Sunderland]]
+|stadium    = [[Stadium of Light]]
+|attendance = 
+|referee    = [[Steve Dunn (referee)|Steve Dunn]]
+|result     = L
+}}
+{{Football box collapsible
+|round      = 16
+|date       = 19 December 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 0–2
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/571862.stm Report]
+|team2      = [[Leeds United A.F.C.|Leeds United]]
+|goals1     = [[Frank Leboeuf|Leboeuf]] {{sent off|0|76}}
+|goals2     = [[Stephen McPhail|McPhail]] {{goal|66||87}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Jeff Winter]]
+|result     = L
+}}
+{{Football box collapsible
+|round      = 17
+|date       = 26 December 1999
+|time       = 
+|team1      = [[Southampton F.C.|Southampton]]
+|score      = 1–2
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/578703.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Kevin Davies|Davies]] {{goal|80}}
+|goals2     = [[Tore André Flo|Flo]] {{goal|18||43}}
+|location   = [[Southampton]], [[Hampshire]]
+|stadium    = [[The Dell (Southampton)|The Dell]]
+|attendance = 
+|referee    = [[Paul Alcock]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 18
+|date       = 29 December 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 3–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/582867.stm Report]
+|team2      = [[Sheffield Wednesday]]
+|goals1     = [[Dennis Wise|Wise]] {{goal|31}}<br>[[Tore André Flo|Flo]] {{goal|35}}<br>[[Jody Morris|Morris]] {{goal|84}}
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Andy D'Urso]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 19
+|date       = 4 January 2000
+|time       = 
+|team1      = [[Coventry City F.C.|Coventry City]]
+|score      = 2–2
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/591109.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Cédric Roussel|Roussel]] {{goal|54}}<br>[[Robbie Keane|Keane]] {{goal|82}}
+|goals2     = [[Tore André Flo|Flo]] {{goal|55||83}}
+|location   = [[Coventry]], [[West Midlands (county)|West Midlands]]
+|stadium    = [[Highfield Road]]
+|attendance = 
+|referee    = [[Paul Durkin]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 20
+|date       = 8 January 2000
+|time       = 
+|team1      = [[Bradford City A.F.C.|Bradford City]]
+|score      = 1–1
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/595477.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Lee Mills|Mills]] {{goal|1}}
+|goals2     = [[Dan Petrescu|Petrescu]] {{goal|58}}
+|location   = [[Bradford]], [[West Yorkshire]]
+|stadium    = [[Valley Parade]]
+|attendance = 
+|referee    = [[Alan Wiley]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 21
+|date       = 12 January 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 1–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/601186.stm Report]
+|team2      = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1     = [[George Weah|Weah]] {{goal|86}}
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Neale Barry]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 22
+|date       = 15 January 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 1–1
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/604997.stm Report]
+|team2      = [[Leicester City F.C.|Leicester City]]
+|goals1     = [[Dennis Wise|Wise]] {{goal|85}}
+|goals2     = [[Gerry Taggart|Taggart]] {{goal|41}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Graham Barber]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 23
+|date       = 22 January 2000
+|time       = 
+|team1      = [[Aston Villa F.C.|Aston Villa]]
+|score      = 0–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/614711.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = 
+|location   = [[Birmingham]], [[West Midlands (county)|West Midlands]]
+|stadium    = [[Villa Park]]
+|attendance = 
+|referee    = [[Alan Wilkie (referee)|Alan Wilkie]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 24
+|date       = 5 February 2000
+|time       = 
+|team1      = [[Tottenham Hotspur]]
+|score      = 0–1
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/631981.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = [[Bernard Lambourde|Lambourde]] {{goal|52}}
+|location   = [[London Borough of Haringey|Haringey]], [[London]]
+|stadium    = [[White Hart Lane]]
+|attendance = 
+|referee    = [[Graham Poll]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 25
+|date       = 12 February 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 3–1
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/640501.stm Report]
+|team2      = [[Wimbledon F.C.|Wimbledon]]
+|goals1     = [[Gustavo Poyet|Poyet]] {{goal|79}}<br>[[George Weah|Weah]] {{goal|80}}<br>[[Jody Morris|Morris]] {{goal|90}}
+|goals2     = [[Andreas Lund|Lund]] {{goal|73}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Peter Jones (referee)|Peter Jones]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 26
+|date       = 26 February 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 2–1
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/658005.stm Report]
+|team2      = [[Watford F.C.|Watford]]
+|goals1     = [[Marcel Desailly|Desailly]] {{goal|2}}<br>[[Jon Harley|Harley]] {{goal|65}}
+|goals2     = [[Allan Smart|Smart]] {{goal|39}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Steve Dunn (referee)|Steve Dunn]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 27
+|date       = 4 March 2000
+|time       = 
+|team1      = [[Newcastle United]]
+|score      = 0–1
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/665968.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = [[Gustavo Poyet|Poyet]] {{goal|22}}
+|location   = [[Newcastle-upon-Tyne]], [[Tyne and Wear]]
+|stadium    = [[St. James' Park]]
+|attendance = 
+|referee    = [[Mike Riley (referee)|Mike Riley]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 28
+|date       = 11 March 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 1–1
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/673888.stm Report]
+|team2      = [[Everton F.C.|Everton]]
+|goals1     = [[Dennis Wise|Wise]] {{goal|29}}
+|goals2     = [[Danny Cadamarteri|Cadamarteri]] {{goal|69}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[David Elleray]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 29
+|date       = 18 March 2000
+|time       = 
+|team1      = [[West Ham United]]
+|score      = 0–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/682160.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Igor Stimac|Stimac]] {{sent off|0|71}}
+|goals2     = 
+|location   = [[London Borough of Newham|Newham]], [[London]]
+|stadium    = [[Boleyn Ground]]
+|attendance = 
+|referee    = [[Steve Dunn (referee)|Steve Dunn]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 30
+|date       = 25 March 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 1–1
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/690381.stm Report]
+|team2      = [[Southampton F.C.|Southampton]]
+|goals1     = [[Dean Richards (footballer)|Richards]] {{goal|75|o.g.}}
+|goals2     = [[Jo Tessem|Tessem]] {{goal|69}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Dermot Gallagher]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 31
+|date       = 1 April 2000
+|time       = 
+|team1      = [[Leeds United A.F.C.|Leeds United]]
+|score      = 0–1
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/697994.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = [[Jon Harley|Harley]] {{goal|62}}
+|location   = [[Leeds]], [[West Yorkshire]]
+|stadium    = [[Elland Road]]
+|attendance = 
+|referee    = [[Jeff Winter]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 32
+|date       = 12 April 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 2–1
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/711290.stm Report]
+|team2      = [[Coventry City]]
+|goals1     = [[Colin Hendry|Hendry]] {{goal|53|o.g.}}<br>[[Gianfranco Zola|Zola]] {{goal|56}}
+|goals2     = [[Gary McAllister|McAllister]] {{goal|17}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Graham Poll]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 33
+|date       = 15 April 2000
+|time       = 
+|team1      = [[Sheffield Wednesday]]
+|score      = 1–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/714449.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Wim Jonk|Jonk]] {{goal|51|pen.}}
+|goals2     = 
+|location   = [[Sheffield]]
+|stadium    = [[Hillsborough Stadium]]
+|attendance = 
+|referee    = 
+|result     = L
+}}
+{{Football box collapsible
+|round      = 34
+|date       = 22 April 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 1–1
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/722791.stm Report]
+|team2      = [[Middlesbrough F.C.|Middlesbrough]]
+|goals1     = [[Gustavo Poyet|Poyet]] {{goal|10}}
+|goals2     = [[Hamilton Ricard|Ricard]] {{goal|37}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Uriah Rennie]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 35
+|date       = 24 April 2000
+|time       = 
+|team1      = [[Manchester United F.C.|Manchester United]]
+|score      = 3–2
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/724595.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Dwight Yorke|Yorke]] {{goal|10||69}}<br>[[Ole Gunnar Solskjær|Solskjær]] {{goal|40}}
+|goals2     = [[Dan Petrescu|Petrescu]] {{goal|22}}<br>[[Gianfranco Zola|Zola]] {{goal|36}}
+|location   = [[Trafford]], [[Greater Manchester]]
+|stadium    = [[Old Trafford]]
+|attendance = 
+|referee    = [[Steve Dunn (referee)|Steve Dunn]]
+|result     = L
+}}
+{{Football box collapsible
+|round      = 36
+|date       = 29 April 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 2–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/730395.stm Report]
+|team2      = [[Liverpool F.C.|Liverpool]]
+|goals1     = [[George Weah|Weah]] {{goal|2}}<br>[[Roberto Di Matteo|Di Matteo]] {{goal|14}}
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Graham Barber]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 37
+|date       = 6 May 2000
+|time       = 
+|team1      = [[Arsenal F.C.|Arsenal]]
+|score      = 2–1
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/738597.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Thierry Henry|Henry]] {{goal|21||48}}
+|goals2     = [[Gustavo Poyet|Poyet]] {{goal|79}}
+|location   = [[London Borough of Islington|Islington]], [[London]]
+|stadium    = [[Highbury]]
+|attendance = 
+|referee    = [[Mike Reed (referee)|Mike Reed]]
+|result     = L
+}}
+{{Football box collapsible
+|round      = 38
+|date       = 14 May 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 4–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/748063.stm Report]
+|team2      = [[Derby County]]
+|goals1     = [[Gianfranco Zola|Zola]] {{goal|46}}<br>[[Gustavo Poyet|Poyet]] {{goal|55}}<br>[[Roberto Di Matteo|Di Matteo]] {{goal|69}}<br>[[Tore André Flo|Flo]] {{goal|90}}
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Jeff Winter]]
+|result     = W
+}}
+
+===UEFA Champions League===
+
+====Third qualifying round====
+{{Football box collapsible
+|round      = 1
+|date       = 12 August 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score      = 3–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/417698.stm Report]
+|team2      = {{flagicon|LAT}} [[Skonto FC|Skonto Riga]]
+|goals1     = [[Celestine Babayaro|Babayaro]] {{goal|76}}<br>[[Gustavo Poyet|Poyet]] {{goal|77}}<br>[[Chris Sutton|Sutton]] {{goal|84}}
+|goals2     = 
+|location   = [[London]], England
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = {{flagicon|SUI}} [[Urs Meier]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 2
+|date       = 25 August 1999
+|time       = 
+|team1      = [[Skonto FC|Skonto Riga]] {{flagicon|LAT}}
+|score      = 0–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/430118.stm Report]
+|team2      = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = 
+|location   = [[Riga]], [[Latvia]]
+|stadium    = 
+|attendance = 
+|referee    = {{flagicon|FRA}} [[Gilles Veissiere]]
+|result     = D
+}}
+
+====First group stage====
+{{Football box collapsible
+|round      = 1
+|date       = 15 September 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score      = 0–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/champions_league/448544.stm Report]
+|team2      = {{flagicon|ITA}} [[A.C. Milan|Milan]]
+|goals1     = 
+|goals2     = 
+|location   = [[London]], England
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 33,873
+|referee    = {{flagicon|SWE}} [[Anders Frisk]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 2
+|date       = 21 September 1999
+|time       = 
+|team1      = [[Hertha BSC|Hertha Berlin]] {{flagicon|GER}} 
+|score      = 2–1
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/champions_league/454002.stm Report]
+|team2      = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Ali Daei|Daei]] {{goal|3||70}}
+|goals2     = [[Franck Leboeuf|Leboeuf]] {{goal|86|pen.}}
+|location   = [[Berlin]], [[Germany]]
+|stadium    = [[Olympic Stadium (Berlin)|Olympiastadion]]
+|attendance = 51,541
+|referee    = {{flagicon|BEL}} [[Michel Piraux]]
+|result     = L
+}}
+{{Football box collapsible
+|round      = 3
+|date       = 29 September 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score      = 1–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/champions_league/460264.stm Report]
+|team2      = {{flagicon|TUR}} [[Galatasaray S.K. (football)|Galatasaray]]
+|goals1     = [[Dan Petrescu|Petrescu]] {{goal|55}}
+|goals2     = 
+|location   = [[London]], England
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 33,426
+|referee    = {{flagicon|NED}} [[Dick Jol]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 4
+|date       = 19 October 1999
+|time       = 
+|team1      = [[Galatasaray S.K. (football)|Galatasaray]] {{flagicon|TUR}}
+|score      = 0–5
+|report     = 
+|team2      = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = [[Tore André Flo|Flo]] {{goal|32||49}}<br>[[Gianfranco Zola|Zola]] {{goal|54}}<br>[[Dennis Wise|Wise]] {{goal}}<br>[[Gabriele Ambrosetti|Ambrosetti]] {{goal|87}}
+|location   = [[Istanbul]], [[Turkey]]
+|stadium    = [[Ali Sami Yen Stadium]]
+|attendance = 20,600
+|referee    = {{flagicon|POR}} [[Vítor Melo Pereira]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 5
+|date       = 26 October 1999
+|time       = 
+|team1      = [[A.C. Milan|Milan]] {{flagicon|ITA}}
+|score      = 1–1
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/champions_league/486702.stm Report]
+|team2      = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Oliver Bierhoff|Bierhoff]] {{goal|74}}
+|goals2     = [[Dennis Wise|Wise]] {{goal|77}}
+|location   = [[Milan]], [[Italy]]
+|stadium    = [[San Siro]]
+|attendance = 74,855
+|referee    = {{flagicon|RUS}} [[Nikolay Levnikov]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 6
+|date       = 4 November 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score      = 2–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/champions_league/503921.stm Report]
+|team2      = {{flagicon|GER}} [[Hertha BSC|Hertha Berlin]]
+|goals1     = [[Didier Deschamps|Deschamps]] {{goal|11}}<br>[[Albert Ferrer|Ferrer]] {{goal|44}}
+|goals2     = 
+|location   = [[London]], England
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 33,623
+|referee    = {{flagicon|SWE}} [[Karl-Erik Nilsson (referee)|Karl-Erik Nilsson]]
+|result     = W
+}}
+
+====Second group stage====
+{{Football box collapsible
+|round      = 1
+|date       = 24 November 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score      = 3–1
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/champions_league/535551.stm Report]
+|team2      = {{flagicon|NED}} [[Feyenoord]]
+|goals1     = [[Celestine Babayaro|Babayaro]] {{goal|45}}<br>[[Tore André Flo|Flo]] {{goal|67||85}}
+|goals2     = [[Julio Ricardo Cruz|Cruz]] {{goal|90}}
+|location   = [[London]], England
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 29,704
+|referee    = {{flagicon|ESP}} [[José María García-Aranda|Jose Garcia Aranda]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 2
+|date       = 7 December 1999
+|time       = 
+|team1      = [[S.S. Lazio|Lazio]] {{flagicon|ITA}}
+|score      = 0–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/champions_league/554733.stm Report]
+|team2      = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = 
+|location   = [[Rome]], [[Italy]]
+|stadium    = [[Stadio Olimpico]]
+|attendance = 38,662
+|referee    = {{flagicon|GER}} [[Hellmut Krug]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 3
+|date       = 29 February 2000
+|time       = 
+|team1      = [[Olympique de Marseille]] {{flagicon|FRA}}
+|score      = 1–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/champions_league/661702.stm Report]
+|team2      = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Robert Pires|Pires]] {{goal|16}}
+|goals2     = 
+|location   = [[Marseille]], [[France]]
+|stadium    = [[Stade Vélodrome]]
+|attendance = 24,700
+|referee    = {{flagicon|NOR}} [[Rune Pedersen (referee)|Rune Pedersen]]
+|result     = L
+}}
+{{Football box collapsible
+|round      = 4
+|date       = 8 March 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score      = 1–0
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/champions_league/669402.stm Report]
+|team2      = {{flagicon|FRA}} [[Olympique de Marseille]]
+|goals1     = [[Dennis Wise|Wise]] {{goal|27}}
+|goals2     = 
+|location   = [[London]], England
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 33,206
+|referee    = {{flagicon|ESP}} Juan Fernandez Marin
+|result     = W
+}}
+{{Football box collapsible
+|round      = 5
+|date       = 14 March 2000
+|time       = 
+|team1      = [[Feyenoord]] {{flagicon|NED}}
+|score      = 1–3
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/champions_league/677727.stm Report]
+|team2      = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Bonaventure Kalou|Kalou]] {{goal|59}}
+|goals2     = [[Gianfranco Zola|Zola]] {{goal|39}}<br>[[Dennis Wise|Wise]] {{goal|64}}<br>[[Tore André Flo|Flo]] {{goal|69}}
+|location   = [[Feyenoord]], [[Netherlands]]
+|stadium    = [[De Kuip]]
+|attendance = 44,000
+|referee    = {{flagicon|DEN}} [[Knut-Erik Fisker]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 6
+|date       = 22 March 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score      = 1–2
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/champions_league/687314.stm Report]
+|team2      = {{flagicon|ITA}} [[S.S. Lazio|Lazio]]
+|goals1     = [[Gustavo Poyet|Poyet]] {{goal|44}}
+|goals2     = [[Simone Inzaghi|S. Inzaghi]] {{goal|54}}<br>[[Siniša Mihajlović|Mihajlović]] {{goal|66}}
+|location   = [[London]], England
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 34,260
+|referee    = {{flagicon|POR}} [[Vitor Manuel Melo Pereira]]
+|result     = L
+}}
+
+====Quarter-finals====
+{{Football box collapsible
+|round      = First leg
+|date       = 5 April 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score      = 3–1
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/champions_league/701340.stm Report]
+|team2      = {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1     = [[Gianfranco Zola|Zola]] {{goal|30}}<br>[[Tore André Flo|Flo]] {{goal|34||38}}
+|goals2     = [[Luís Figo|Figo]] {{goal|64}}
+|location   = [[London]], England
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 34,000
+|referee    = {{flagicon|GER}} [[Markus Merk]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = Second leg
+|date       = 18 April 2000
+|time       = 
+|team1      = [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score      = 5–1 (a.e.t.)
+|report     = [http://news.bbc.co.uk/2/hi/sport/football/champions_league/717082.stm Report]
+|team2      = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Rivaldo]] {{goal|24||98|pen.}}<br>[[Luís Figo|Figo]] {{goal|45}}<br>[[Daniel García Lara|Dani]] {{goal|83}}<br>[[Patrick Kluivert|Kluivert]] {{goal|104}}
+|goals2     = [[Tore André Flo|Flo]] {{goal|60}}
+|location   = [[Barcelona]], [[Spain]]
+|stadium    = [[Nou Camp]]
+|attendance = 80,000
+|referee    = {{flagicon|SWE}} [[Anders Frisk]]
+|result     = L
+}}
+
+===Football League Cup===
+{| class="wikitable sortable" style="font-size:95%; text-align:center"
+|-
+!Date!!Round!!Opponent!!Venue!!Result!!Attendance!!Scorers
+|- style="background:#fee;"
+| {{left}}13 October 1999 ||R3||{{left}}[[Huddersfield Town A.F.C.|Huddersfield Town]]||H||[http://news.bbc.co.uk/2/hi/sport/football/474278.stm 0–1]||21,008||{{left}}
+|}
+
+===FA Cup===
+{| class="wikitable sortable" style="font-size:95%; text-align:center"
+|-
+!Date!!Round!!Opponent!!Venue!!Result!!Attendance!!Scorers
+|- style="background:#efe;"
+| {{left}}11 December 1999 ||R3||{{left}}[[Hull City A.F.C.|Hull City]]||A||[http://news.bbc.co.uk/2/hi/sport/football/fa_cup/560289.stm 6–1]||10,279||{{left}}[[Gustavo Poyet|Poyet]] (3), [[Chris Sutton|Sutton]], [[Roberto Di Matteo|Di Matteo]], [[Dennis Wise|Wise]]
+|- style="background:#efe;"
+| {{left}}19 January 2000 ||R4||{{left}}[[Nottingham Forest F.C.|Nottingham Forest]]||H||[http://news.bbc.co.uk/2/hi/sport/football/fa_cup/611239.stm 2–0]||30,125||{{left}}[[Frank Leboeuf|Leboeuf]], [[Dennis Wise|Wise]]
+|- style="background:#efe;"
+| {{left}}30 January 2000 ||R5||{{left}}[[Leicester City F.C.|Leicester City]]||H||[http://news.bbc.co.uk/2/hi/sport/football/fa_cup/624873.stm 2–1]||30,141||{{left}}[[Gustavo Poyet|Poyet]], [[George Weah|Weah]]
+|- style="background:#efe;"
+| {{left}}20 February 2000 ||QF||{{left}}[[Gillingham F.C.|Gillingham]]||H||[http://news.bbc.co.uk/2/hi/sport/football/fa_cup/649870.stm 5–0]||34,205||{{left}}[[Tore André Flo|Flo]], [[John Terry|Terry]], [[George Weah|Weah]], [[Gianfranco Zola|Zola]] ([[Penalty kick (association football)|pen.]]), [[Jody Morris|Morris]]
+|- style="background:#efe;"
+| {{left}}9 April 2000 ||SF||{{left}}[[Newcastle United F.C.|Newcastle United]]||N||[http://news.bbc.co.uk/2/hi/sport/football/fa_cup/707388.stm 2–1]||73,876||{{left}}[[Gustavo Poyet|Poyet]] (2)
+|- style="background:#efe;"
+| {{left}}20 May 2000 ||[[2000 FA Cup Final|F]]||{{left}}[[Aston Villa F.C.|Aston Villa]]||N||[http://news.bbc.co.uk/2/hi/sport/football/fa_cup/756784.stm 1–0]||78,217||{{left}}[[Roberto Di Matteo|Di Matteo]]
+|}
+
+==First team squad==
+:''Squad at end of season''<ref>{{Cite web | url=https://www.footballsquads.co.uk/eng/1999-2000/faprem/chelsea.htm | title=FootballSquads - Chelsea - 1999/00 }}</ref>
+{{fs start}}
+{{Fs player|no=1|nat=NED|pos=GK|name=[[Ed de Goey]]}}
+{{Fs player|no=2|nat=ROU|pos=DF|name=[[Dan Petrescu]]}}
+{{Fs player|no=3|nat=NGA|pos=DF|name=[[Celestine Babayaro]]}}
+{{Fs player|no=4|nat=DEN|pos=DF|name=[[Jes Høgh]]}}
+{{Fs player|no=5|nat=FRA|pos=DF|name=[[Frank Leboeuf]]}}
+{{Fs player|no=6|nat=FRA|pos=DF|name=[[Marcel Desailly]]}}
+{{Fs player|no=7|nat=FRA|pos=MF|name=[[Didier Deschamps]]}}
+{{Fs player|no=8|nat=URU|pos=MF|name=[[Gus Poyet]]}}
+{{Fs player|no=9|nat=ENG|pos=FW|name=[[Chris Sutton]]}}
+{{Fs player|no=11|nat=ENG|pos=MF|name=[[Dennis Wise]]|other=captain}}
+{{Fs player|no=13|nat=ENG|pos=GK|name=[[Kevin Hitchcock]]}}
+{{Fs player|no=14|nat=ENG|pos=DF|name=[[Graeme Le Saux]]}}
+{{Fs player|no=15|nat=NED|pos=DF|name=[[Mario Melchiot]]}}
+{{Fs player|no=16|nat=ITA|pos=MF|name=[[Roberto Di Matteo]]}}
+{{Fs player|no=17|nat=ESP|pos=DF|name=[[Albert Ferrer]]}}
+{{Fs player|no=18|nat=ITA|pos=MF|name=[[Gabriele Ambrosetti]]}}
+{{fs mid}}
+{{Fs player|no=19|nat=NOR|pos=FW|name=[[Tore Andre Flo]]}}
+{{Fs player|no=20|nat=ENG|pos=MF|name=[[Jody Morris]]}}
+{{Fs player|no=21|nat=FRA|pos=DF|name=[[Bernard Lambourde]]}}
+{{Fs player|no=22|nat=ENG|pos=FW|name=[[Mark Nicholls (footballer)|Mark Nicholls]]}}
+{{Fs player|no=24|nat=ITA|pos=MF|name=[[Samuele Dalla Bona]]}}
+{{Fs player|no=25|nat=ITA|pos=FW|name=[[Gianfranco Zola]]}}
+{{Fs player|no=26|nat=ENG|pos=DF|name=[[John Terry]]}}
+{{Fs player|no=28|nat=ENG|pos=MF|name=[[Rob Wolleaston]]}}
+{{Fs player|no=29|nat=ENG|pos=DF|name=[[Neil Clement]]}}
+{{Fs player|no=30|nat=BRA|pos=DF|name=[[Emerson Thome]]}}
+{{Fs player|no=31|nat=LBR|pos=FW|name=[[George Weah]]|other=on loan from [[A.C. Milan|Milan]]}}
+{{Fs player|no=32|nat=FIN|pos=FW|name=[[Mikael Forssell]]}}
+{{Fs player|no=33|nat=ITA|pos=DF|name=[[Luca Percassi]]}}
+{{Fs player|no=34|nat=ENG|pos=DF|name=[[Jon Harley]]}}
+{{Fs player|no=36|nat=ENG|pos=FW|name=[[Leon Knight]]}}
+{{Fs end}}
+
+===Left club during season===
+{{Fs start}}
+{{Fs player|no=12|nat=DEN|pos=MF|name=[[Bjarne Goldbæk]]|other=to [[Fulham F.C.|Fulham]]}}
+{{Fs end}}
+
+==Statistics==
+{{Efs start|[[Premier League]]|[[UEFA Champions League]]|[[FA Cup]]|[[EFL Cup|League Cup]]}}
+{{Efs player|no=1|name=[[Ed de Goey]]|pos=GK|nat=NED|37|0|16|0|6|0|0|0}}
+{{Efs player|no=2|name=[[Dan Petrescu]]|pos=DF|nat=ROU|24+5|4|13+2|1|2+1|0|0|0}}
+{{Efs player|no=3|name=[[Celestine Babayaro]]|pos=DF|nat=NGA|23+2|0|14+1|2|1|0|0|0}}
+{{Efs player|no=4|name=[[Jes Høgh]]|pos=DF|nat=DEN|6+3|0|2+3|0|2|0|1|0}}
+{{Efs player|no=5|name=[[Frank Leboeuf]]|pos=DF|nat=FRA|28|2|13+1|1|4|1|0|0}}
+{{Efs player|no=6|name=[[Marcel Desailly]]|pos=DF|nat=FRA|23|1|16|0|4|0|0|0}}
+{{Efs player|no=7|name=[[Didier Deschamps]]|pos=MF|nat=FRA|24+3|0|14|1|6|0|0|0}}
+{{Efs player|no=8|name=[[Gus Poyet]]|pos=MF|nat=URU|25+8|10|11+3|2|6|6|0|0}}
+{{Efs player|no=9|name=[[Chris Sutton]]|pos=FW|nat=ENG|21+7|1|3+4|1|3+1|1|0|0}}
+{{Efs player|no=11|name=[[Dennis Wise]]|pos=MF|nat=ENG|29+1|4|14+1|4|5|1|0|0}}
+{{Efs player|no=12|name=[[Bjarne Goldbæk]]|pos=MF|nat=DEN|2+4|0|1+1|0|0|0|1|0}}
+{{Efs player|no=14|name=[[Graeme Le Saux]]|pos=DF|nat=ENG|6+2|0|3+1|0|0|0|1|0}}
+{{Efs player|no=15|name=[[Mario Melchiot]]|pos=DF|nat=NED|4+1|0|0|0|1|0|0|0}}
+{{Efs player|no=16|name=[[Roberto Di Matteo]]|pos=MF|nat=ITA|14+4|2|3+6|0|3|2|1|0}}
+{{Efs player|no=17|name=[[Albert Ferrer]]|pos=DF|nat=ESP|24+1|0|14|1|2|0|0|0}}
+{{Efs player|no=18|name=[[Gabriele Ambrosetti]]|pos=MF|nat=ITA|9+7|0|1+4|1|0+1|0|1|0}}
+{{Efs player|no=19|name=[[Tore André Flo]]|pos=FW|nat=NOR|20+14|10|14+2|8|2+4|1|1|0}}
+{{Efs player|no=20|name=[[Jody Morris]]|pos=MF|nat=ENG|19+11|3|6+5|0|1+3|1|1|0}}
+{{Efs player|no=21|name=[[Bernard Lambourde]]|pos=DF|nat=FRA|12+3|2|0+2|0|3|0|1|0}}
+{{Efs player|no=22|name=[[Mark Nicholls (footballer)|Mark Nicholls]]|pos=FW|nat=ENG|0|0|0+1|0|0|0|0+1|0}}
+{{Efs player|no=24|name=[[Samuele Dalla Bona]]|pos=MF|nat=ITA|0+2|0|0+1|0|0|0|0|0}}
+{{Efs player|no=25|name=[[Gianfranco Zola]]|pos=FW|nat=ITA|25+8|4|15|3|4+1|1|0|0}}
+{{Efs player|no=26|name=[[John Terry]]|pos=DF|nat=ENG|2+2|0|0|0|2+2|1|1|0}}
+{{Efs player|no=28|name=[[Rob Wolleaston]]|pos=MF|nat=ENG|0+1|0|0|0|0|0|0+1|0}}
+{{Efs player|no=29|name=[[Neil Clement]]|pos=DF|nat=ENG|0|0|0|0|1|0|0|0}}
+{{Efs player|no=30|name=[[Emerson Thome]]|pos=DF|nat=BRA|18+2|0|1|0|0|0|0|0}}
+{{Efs player|no=31|name=[[George Weah]]|pos=FW|nat=LBR|9+2|3|0|0|4|2|0|0}}
+{{Efs player|no=32|name=[[Mikael Forssell]]|pos=FW|nat=FIN|0|0|1|0|0|0|1|0}}
+{{Efs player|no=33|name=[[Luca Percassi]]|pos=DF|nat=ITA|0|0|0|0|0+1|0|0|0}}
+{{Efs player|no=34|name=[[Jon Harley]]|pos=DF|nat=ENG|13+4|2|1+3|0|5|0|0|0}}
+|}
+
+Statistics taken from.<ref>{{Cite web | url=http://www.11v11.com/teams/chelsea/tab/players/season/2000/comp/3 | title=Chelsea players: UEFA Champions League 2000 }}</ref><ref>{{Cite web | url=http://www.11v11.com/teams/chelsea/tab/players/season/2000/comp/7 | title=Chelsea players: FA Cup 2000 }}</ref><ref>{{Cite web | url=http://www.11v11.com/teams/chelsea/tab/players/season/2000/comp/79 | title=Chelsea players: Worthington Cup 2000 }}</ref> Squad details and shirt numbers from <ref>{{Cite web |url=http://www.zanziball.it/en/28/2635.html |title=Chelsea 1999 / 2000 _ Squad - Zanziball.it |access-date=18 December 2007 |archive-url=https://web.archive.org/web/20080218054426/http://www.zanziball.it/en/28/2635.html |archive-date=18 February 2008 |url-status=dead }}</ref> and.<ref>{{Cite web | url=http://www.eufo.de/football/eng/1999/chela_fc.htm | title=Chelsea FC 1999-00 }}</ref>
+
+==Transfers==
+
+===In===
+* {{flagicon|FRA}} [[Didier Deschamps]] – {{flagicon|ITA}} [[Juventus FC|Juventus]], 13 June, £3,000,000
+* {{flagicon|NED}} [[Mario Melchiot]] – {{flagicon|NED}} [[AFC Ajax|Ajax]], 14 June, free
+* {{flagicon|ENG}} [[Chris Sutton]] – {{flagicon|ENG}} [[Blackburn Rovers F.C.|Blackburn Rovers]], 5 July, £10,000,000<ref>{{cite news |title=Chelsea seal £10m Sutton deal |url=http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/386816.stm |work=BBC News |publisher=BBC |date=5 July 1999 |access-date=4 April 2012 }}</ref>
+* {{flagicon|DEN}} [[Jes Høgh]] – {{flagicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]], 8 July, £300,000
+* {{flagicon|ITA}} [[Gabriele Ambrosetti]] – {{flagicon|ITA}} [[Vicenza Calcio|Vicenza]], 13 August, £3,500,000<ref>{{cite news| url=http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/419959.stm | work=BBC News | title=Chelsea tie up Ambrosetti deal | date=13 August 1999}}</ref>
+* {{flagicon|ENG}} [[Stuart Reddington]] - {{flagicon|ENG}} [[Lincoln United F.C.|Lincoln United]], 26 August, £75,000
+* {{flagicon|BRA}} [[Emerson Thome]] – {{flagicon|ENG}} [[Sheffield Wednesday F.C.|Sheffield Wednesday]], 23 December, £2,500,000<ref>{{cite news| url=http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/575535.stm | work=BBC News | title=Blues swoop for Owls star | date=23 December 1999}}</ref>
+* {{flagicon|LBR}} [[George Weah]] – {{flagicon|ITA}} [[A.C. Milan|Milan]] 11 January, Loan
+
+===Out===
+*{{flagicon|DEN}} [[Brian Laudrup]] - {{flagicon|NED}} [[A.F.C. Ajax|Ajax]], 14 June, £2,000,000
+* {{flagicon|RUS}} [[Dmitri Kharine]] – {{flagicon|SCO}} [[Celtic F.C.|Celtic]], 22 June, free
+* {{flagicon|ENG}} [[Eddie Newton]] – {{flagicon|ENG}} [[Birmingham City F.C.|Birmingham City]], 2 July, free  
+* {{flagicon|ENG}} [[Andy Myers]] – {{flagicon|ENG}} [[Bradford City A.F.C.|Bradford City]], 8 July, £800,000
+* {{flagicon|ENG}} [[Michael Duberry]] – {{flagicon|ENG}} [[Leeds United A.F.C.|Leeds United]], 9 July, £4,500,000
+* {{flagicon|SCO}} [[Steve Hampshire]] - {{flagicon|SCO}} [[Dunfermline Athletic F.C.|Dunfermline Athletic]], 7 January, free
+* {{flagicon|DEN}} [[Bjarne Goldbæk]] – {{flagicon|ENG}} [[Fulham F.C.|Fulham]], 15 January, £650,000
+* {{flagicon|ENG}} [[Joe Sheerin]] - {{flagicon|ENG}} [[AFC Bournemouth]], 26 February, free
+* {{flagicon|ENG}} [[Paul Hughes (footballer)|Paul Hughes]] - {{flagicon|ENG}} [[Southampton F.C.|Southampton]], 23 March, free
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.chelseafc.com Chelsea FC Official Website]
+* [https://www.soccerbase.com/teams/team.sd?team_id=536 Chelsea FC on Soccerbase] {{webarchive |url=https://web.archive.org/web/20070627030941/http://www.soccerbase.com/teams2.sd?teamid=536 |date=2007-06-27}}
+* [http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/default.stm Chelsea FC on BBC]
+
+{{Chelsea F.C. seasons}}
+{{1999–2000 in English football}}
+
+{{DEFAULTSORT:1999-2000 Chelsea F.C. season}}
+[[Category:Chelsea F.C. seasons]]
+[[Category:1999–2000 FA Premier League by team|Chelsea]]

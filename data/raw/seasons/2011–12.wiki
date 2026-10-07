@@ -1,0 +1,2816 @@
+{{Short description|English football club season}}
+{{Use British English|date=March 2012}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox football club season
+ | club          = [[Chelsea F.C.|Chelsea]]
+ | season        = 2011–12
+ | manager       = [[André Villas-Boas]] (until 4 March 2012)<br />[[Roberto Di Matteo]] (caretaker manager)
+ | owner         = [[Roman Abramovich]]
+ | chairman      = [[Bruce Buck]]
+ | stadium       = [[Stamford Bridge (stadium)|Stamford Bridge]]
+ | league        = [[Premier League]]
+ | league result = [[2011–12 Premier League|6th]]
+ | cup1          = [[FA Cup]]
+ | cup1 result   = [[2012 FA Cup Final|'''Winners''']]
+ | cup2          = [[Football League Cup|League Cup]]
+ | cup2 result   = [[2011–12 Football League Cup#Quarter-finals|Quarter-finals]]
+ | cup3          = [[UEFA Champions League]]
+ | cup3 result   = [[2012 UEFA Champions League Final|'''Winners''']]
+ | league topscorer  = [[Frank Lampard]]<br />[[Daniel Sturridge]] (11)
+ | season topscorer  = Frank Lampard (16)
+ | highest attendance = 41,830 vs [[Tottenham Hotspur F.C.|Tottenham Hotspur]] (24 March 2012) 
+ | lowest attendance = 33,820 vs [[Bayer 04 Leverkusen|Bayer Leverkusen]] (13 September 2011)
+|pattern_la1   = _chelsea1112h
+|pattern_b1    = _chelsea1112h
+|pattern_ra1   = _chelsea1112h
+|pattern_sh1   = _chelsea1112h
+|pattern_so1   = _chelsea1112hl
+|leftarm1      = 0000FF
+|body1         = 0000FF
+|rightarm1     = 0000FF
+|shorts1       = 0000FF
+|socks1        = FFFFFF
+|pattern_b2    = _chelsea1112a
+|pattern_la2   = _chelsea1112a
+|pattern_ra2   = _chelsea1112a
+|pattern_sh2   = _chelsea1112a
+|pattern_so2   = _rmcf1415t
+|body2         = 000000
+|leftarm2      = 000000
+|rightarm2     = 000000
+|shorts2       = 000000
+|socks2        = 000000
+|pattern_b3    = _chelsea1112t
+|pattern_la3   = _chelsea1112t
+|pattern_ra3   = _chelsea1112t
+|pattern_sh3   = _chelsea1112t
+|pattern_so3   = _3 stripes black
+|body3         = FFFFFF
+|leftarm3      = FFFFFF
+|rightarm3     = FFFFFF
+|shorts3       = FFFFFF
+|socks3        = FFFFFF
+| prevseason   = [[2010–11 Chelsea F.C. season|2010–11]]
+| nextseason   = [[2012–13 Chelsea F.C. season|2012–13]]
+|image         = Chelsea Champions League Winners 2012 cropped.jpg
+|image_size    = 300px
+|caption       = Chelsea F.C. celebrating winning the 2012 UEFA Champions League Final
+}}
+
+The 2011–12 season was [[Chelsea F.C.|Chelsea Football Club]]'s 98th competitive season, their 23rd consecutive season in the top flight of English [[association football|football]] (20th in the [[Premier League]]), and their 106th year in existence as a [[football club (association football)|football club]]. While their sixth place in the league was their lowest domestic finish since 2001–02, they completed a cup double by winning their seventh [[FA Cup]] and their first [[UEFA Champions League]].
+
+==Kits==
+'''Supplier:''' [[Adidas]] / '''Sponsor:''' [[Samsung]]
+
+{|border="0" style="margin:1em auto;"
+|{{Football kit
+ |pattern_la   = _chelsea1112h
+ |pattern_b   = _chelsea1112h
+ |pattern_ra   = _chelsea1112h
+ |pattern_sh   = _chelsea1112h
+ |pattern_so   = _chelsea1112hl
+ |leftarm    = 0000FF
+ |body      = 0000FF
+ |rightarm    = 0000FF
+ |shorts     = 0000FF
+ |title     = Home
+}}
+|{{Football kit
+ |pattern_la   = _chelsea1112h
+ |pattern_b   = _chelsea1112h
+ |pattern_ra   = _chelsea1112h
+ |pattern_sh   = _chelsea1112h
+ |pattern_so   = _chelsea1112h2l
+ |leftarm    = 0000FF
+ |body      = 0000FF
+ |rightarm    = 0000FF
+ |shorts     = 0000FF
+ |socks     = 0000FF
+ |title     = Home <small>alt.</small>
+}}
+|{{Football kit
+ |pattern_la   = _chelsea1213H
+ |pattern_b   = _chelsea1213h2
+ |pattern_ra   = _chelsea1213H
+ |pattern_sh   = _chelsea1213h
+ |pattern_so   = _chelsea1213home
+ |leftarm    = 0000FF
+ |body      = 0000FF
+ |rightarm    = 0000FF
+ |shorts     = 0000FF
+ |title  = Home [[2012–13 Chelsea F.C. season|2012–13]]
+}}
+|{{Football kit
+ |pattern_b   = _chelsea1112a
+ |pattern_la   = _chelsea1112a
+ |pattern_ra   = _chelsea1112a
+ |pattern_sh   = _chelsea1112a
+ |pattern_so   = _rmcf1415t
+ |body      = 000000
+ |leftarm    = 000000
+ |rightarm    = 000000
+ |shorts     = 000000
+ |socks     = 000000
+ |title     = Away
+}}
+|{{Football kit
+ |pattern_b   = _chelsea1112t
+ |pattern_la   = _chelsea1112t
+ |pattern_ra   = _chelsea1112t
+ |pattern_sh   = _chelsea1112t
+ |pattern_so   = _3 stripes black
+ |title     = Third
+}}
+|}
+{| style="margin:1em auto;"
+|
+|{{Football kit
+ |pattern_la = _chelsea1112g1
+ |pattern_b = _chelsea1112g1
+ |pattern_ra = _chelsea1112g1
+ |pattern_sh = _chelsea1112g1
+ |pattern_so = _3_stripes_white
+ |socks   = 400B2E
+ |title   = Goalkeeper <small>1</small>
+}}
+|
+|{{Football kit
+|pattern_la =_chelsea1112g1
+|pattern_ra = _chelsea1112g1
+|pattern_b = _chelsea1112g1
+|pattern_sh = _chelsea1112g1
+|pattern_so = _3_stripes_on_white
+|socks    = 400B2E
+|title = Goalkeeper <small>alt. 1</small>
+}}
+|{{Football kit
+ |pattern_la = _chelsea1112g1
+ |pattern_b = _chelsea1112g1
+ |pattern_ra = _chelsea1112g1
+ |pattern_sh = _chelsea1112gk
+ |pattern_so = _3_stripes_white
+ |socks       = 400B2E
+ |title   = Goalkeeper <small>alt. 2</small>
+}}
+|{{Football kit
+ |pattern_la  = _chelsea1011g1
+ |pattern_b   = _chelsea1011g1
+ |pattern_ra  = _chelsea1011g1
+ |pattern_sh  = _chelsea1011g1
+ |pattern_so  = _3_stripes_black
+ |leftarm     = FFFFFF
+ |body        = FFFFFF
+ |rightarm    = FFFFFF
+ |shorts      = FFFFFF
+ |socks       = CCFF00
+ |title      = Goalkeeper <small>2</small>
+}}
+|{{Football kit
+ | pattern_la  = _chelsea0910g1
+ | pattern_b   = _chelsea0910g1
+ | pattern_ra  = _chelsea0910g
+ | pattern_sh  = _chelsea0910g1
+ | pattern_so  = _3_stripes_black
+ | leftarm    = 1c2841
+ | body       = 1c2841
+ | rightarm   = 1c2841
+ | shorts     = 1c2841
+ | socks      = 77DD77
+ | title      = Goalkeeper <small>3</small>
+}}
+|{{Football kit
+ |pattern_la = _chelsea1213g1
+ |pattern_b = _chelsea1213g1
+ |pattern_ra = _chelsea1213g1
+ |pattern_sh = _chelsea1213g1
+ |pattern_so = _chelsea1213g1
+ |leftarm  = 006030
+ |body    = 006030
+ |rightarm  = 006030
+ |shorts   = 006030
+ |socks   = 006030
+ |title   = Goalkeeper [[2012–13 Chelsea F.C. season|2012–13]]
+}}
+|}
+
+==Key dates==
+* 22 June 2011: [[André Villas-Boas]] is appointed as the new manager on a three-year contract, with immediate effect.<ref>{{cite news|url=https://www.theguardian.com/football/2011/jun/22/chelsea-confirm-andre-villas-boas|title=Chelsea appoint former Porto coach André Villas-Boas on three-year deal|date=22 June 2011|work=[[The Guardian]]|access-date=22 June 2011|first=Paul|last=Doyle}}</ref><ref>{{cite news|url=http://www.chelseafc.com/news-article/article/2380210 |archive-url=https://archive.today/20130804060856/http://www.chelseafc.com/news-article/article/2380210 |url-status=dead |archive-date=4 August 2013 |title=Villas-Boas appointed |publisher=Chelsea F.C |access-date=22 June 2011 }}</ref>
+* 7 July 2011: Villas-Boas and the rest of the first team squad have their first training of the season together.<ref>{{Cite news |last=INM |title=Villas-Boas more Pep talk than Jose on first Chelsea team-building day |url=http://www.independent.co.uk:80/sport/football/premier-league/villasboas-more-pep-talk-than-jose-on-first-chelsea-teambuilding-day-2307968.html |archive-url=https://web.archive.org/web/20110902095411/http://www.independent.co.uk:80/sport/football/premier-league/villasboas-more-pep-talk-than-jose-on-first-chelsea-teambuilding-day-2307968.html |archive-date=2011-09-02 |access-date=2025-08-15 |work=The Independent |language=en}}</ref>
+* 13 July 2011: Chelsea win their first [[friendly match]] against [[Wycombe Wanderers F.C.|Wycombe Wanderers]].
+* 26 July 2011: Chelsea confirm [[Thibaut Courtois]], a Belgian goalkeeper, as Villas-Boas' first signing. He is immediately loaned out to [[Atlético Madrid]] of [[La Liga]].<ref name="Courtois Relishing Challenge" />
+* 14 August 2011: Chelsea draw first match of the [[Premier League]] season away to [[Stoke City F.C.|Stoke City]]. It finishes 0–0 on Villas-Boas's debut as Chelsea manager.
+* 20 August 2011: Villas-Boas wins his first competitive match as a Chelsea manager after Chelsea defeat [[West Bromwich Albion F.C.|West Bromwich Albion]] 2–1 at Stamford Bridge.
+* 22 August 2011: Chelsea and [[Valencia CF|Valencia]] agree a deal for [[Juan Mata]], who signs for Chelsea for a fee rumoured to be £23.5 million.<ref>{{cite news|url=http://www.chelseafc.com/news-article/article/2427778 |archive-url=https://archive.today/20130804060834/http://www.chelseafc.com/news-article/article/2427778 |url-status=dead |archive-date=4 August 2013 |title=Mata deal agreed |publisher=Chelsea F.C |date=22 August 2011 |access-date=2 August 2013 }}</ref>
+* 27 August 2011: Juan Mata scores on his debut match in a 3–1 home victory against [[Norwich City F.C.|Norwich City]].
+* 27 August 2011: Chelsea and [[C.D. Guadalajara|Guadalajara]] agree a deal for [[Ulises Dávila]]. He joins Chelsea on a five-year contract.<ref name="Dávila"/>
+* 31 August 2011: The transfer deadline day sees [[Raul Meireles]] join from [[Liverpool F.C.|Liverpool]], whilst [[Yossi Benayoun]] and [[Patrick van Aanholt]] depart on seasonal loan deals. [[France national under-20 football team|France Under-20 international]] [[Gaël Kakuta]] joins [[Bolton Wanderers F.C.|Bolton Wanderers]] on loan until 1 January 2012.
+* 18 September 2011: Chelsea suffer their first defeat of the season, losing 1–3 to [[Manchester United F.C.|Manchester United]] at Old Trafford. [[Fernando Torres]] scored Chelsea's goal.
+* 29 November 2011: Liverpool knock Chelsea out of the [[Football League Cup|League Cup]] at the Quarter Final stage, winning 2–0 at [[Stamford Bridge (stadium)|Stamford Bridge]]. The loss is Chelsea's third in four games, and sixth of the season overall.
+* 3 December 2011: Manager André Villas-Boas confirms that [[Nicolas Anelka]] and [[Alex (footballer, born June 1982)|Alex]] have been transfer listed, and banned from training with the first team, after handing in transfer requests to the club. Both will be allowed to resume full training if the transfer does not happen in the January transfer window. The announcement is made after the away match against [[Newcastle United F.C.|Newcastle United]], which Chelsea win 3–0.
+* 6 December 2011: Chelsea win their final [[2011–12 UEFA Champions League group stage|Champions League]] group game against [[Valencia CF|Valencia]] 3–0 to secure progress to the knockout stages. [[K.R.C. Genk|Racing Genk's]] 1–1 draw against [[Bayer 04 Leverkusen|Bayer Leverkusen]] means that Chelsea top Group E.
+* 12 December 2011: Chelsea become the first team in the 2011–12 edition of the Premier League to defeat leaders [[Manchester City F.C.|Manchester City]]. Chelsea come from behind in a fiery encounter by goals from [[Raul Meireles]] and a late penalty by [[Frank Lampard]] to turn the deficit into a victory.
+* 4 March 2012: Villas-Boas is sacked and removed of his duties by the director's board following a 0–1 defeat against [[West Bromwich Albion F.C.|West Bromwich Albion]].<ref>{{cite news| url=http://www.chelseafc.com/news-article/article/2633048 | title=Villas-Boas: his Chelsea time | publisher=Chelsea F.C | date=4 March 2012 |access-date=7 August 2013}}</ref> Italian first team assistant manager [[Roberto Di Matteo]] Is officially appointed as caretaker manager until the end of the season.
+* 14 March 2012: Chelsea win their second match in the round of 16 of the [[UEFA champions league]] against [[S.S.C. Napoli|Napoli]] with a 5–4 aggregate victory. [[Branislav Ivanović]] scores the winner in extra time to secure a spot in the quarter-finals. Following defeat of [[Arsenal F.C.|Arsenal]] by [[A.C. Milan|Milan]] and defeats of the Manchester clubs in their respective [[2011–12 UEFA Europa League|Europa League]] ties, Chelsea becomes the only remaining English representative in all European competitions.
+* 18 March 2012: Chelsea progress to the [[FA Cup semi-finals#2010s|FA Cup semi-finals]] for a fifth time in seven years after beating [[Leicester City F.C.|Leicester City]] 5–2 at Stamford Bridge. [[Fernando Torres]] was the man of the match with two goals and two assists.
+* 4 April 2012: Chelsea progress to the Champions League semi-finals for the sixth time in the past nine seasons after beating [[S.L. Benfica|Benfica]] 3–1 on aggregate.
+* 15 April 2012: Chelsea progress to the FA Cup final for the third time in four seasons, courtesy of a 5–1 win against [[Tottenham Hotspur F.C.|Tottenham Hotspur]]. Controversy over Chelsea's second goal by [[Juan Mata]] adds to calls for goal-line technology.
+* 24 April 2012: Chelsea progress to the Champions League final in spectacular fashion, drawing 2–2 with [[FC Barcelona|Barcelona]] at [[Camp Nou]] despite playing with ten men for more than two-thirds of the game. Chelsea win 3–2 on aggregate.
+* 28 April 2012: Chelsea agree personal terms with [[Werder Bremen]]'s [[Marko Marin]]. He is set to join in the summer.<ref>[https://www.theguardian.com/football/2012/apr/28/chelsea-marko-marin-werder-bremen "Chelsea agree deal to sign Marko Marin from Werder Bremen"]. ''The Guardian''. 28 April 2012. Retrieved 4 August 2013.</ref>
+* 5 May 2012: Chelsea win the FA Cup for the seventh time after beating [[Liverpool F.C.|Liverpool]] 2–1 in the [[2012 FA Cup Final|Final]]. [[Didier Drogba]] scores in his fourth FA Cup Final – a new record.
+* 19 May 2012: Chelsea win their first Champions League title, defeating [[FC Bayern Munich|Bayern Munich]] on penalties after a 1–1 draw in the [[2012 UEFA Champions League Final|Final]]. In doing so, Chelsea becomes the 22nd club to win the European Cup, the fifth English team and the first team from London to win the trophy.
+
+==Club==
+{{col-float|width=47%}}
+
+===Coaching staff===
+{|class="wikitable"
+|-
+!Position
+!Staff
+|-
+|Manager||{{Flagicon|POR}} [[Andre Villas Boas]]<br /><small> (until 4 March 2012) </small>
+|-
+|[[Caretaker manager]]||{{flagicon|ITA}} [[Roberto Di Matteo]]<br /><small> (from 4 March 2012) </small>
+|-
+|rowspan="3"|Assistant manager||{{flagicon|ENG}} [[Steve Holland (footballer)|Steve Holland]]
+|-
+||{{flagicon|ITA}} [[Roberto Di Matteo]]<br /><small> (until 4 March 2012) </small>
+|-
+|{{flagicon|ENG}} [[Eddie Newton]]<br /><small> (from 5 March 2012) </small>
+|-
+|Technical Director||{{flagicon|NGR}} [[Michael Emenalo]]
+|-
+|Goalkeeper Coach||{{flagicon|FRA}} Christophe Lollichon
+|-
+|First Team Fitness Coach||{{flagicon|POR}} Jose Mario Rocha<br /><small> (until 4 March 2012) </small>
+|-
+|Assistant First Team Fitness Coach||{{flagicon|ENG}} Chris Jones
+|-
+|Head Opposition Scout||{{flagicon|POR}} Daniel Sousa<br /><small> (until 4 March 2012) </small>
+|-
+|Senior Opposition Scout||{{flagicon|ENG}} [[Mick McGiven]]
+|-
+|Medical Director||{{flagicon|ESP}} Paco Biosca
+|-
+|First team doctor||{{flagicon|GIB}} [[Eva Carneiro]]
+|-
+|Reserve Team Manager||{{flagicon|ENG}} [[Dermot Drummy]]
+|-
+|Youth Team Manager||{{flagicon|ENG}} [[Adi Viveash]]
+|-
+|Academy Manager||{{flagicon|ENG}} Neil Bath
+|-
+|Match Analyst||{{flagicon|ENG}} James Melbourne
+|-
+|}
+
+{{col-float-break|width=48%}}
+
+===Other information===
+{{fb oi header}}
+{{Fb oi information |id=Owner |i={{Flagicon|RUS}} [[Roman Abramovich]]}}
+{{Fb oi information |id=Chairman |i={{Flagicon|USA}} [[Bruce Buck]]}}
+|-
+||Chief Executive||{{Flagicon|ENG}} [[Ron Gourlay]]
+|-
+{{Fb oi information |id=Director |i={{Flagicon|Ukraine}} Eugene Tenenbaum}}
+{{fb oi information |bg=y |id={{Fb oi ground}} |i={{Fb oi ground|g=[[Stamford Bridge (stadium)|Stamford Bridge]]|c=41,837|d=103x67&nbsp;metres}} }}
+{{fb oi information |bg=y |id=Training ground |i=[[Cobham Training Centre]]}}
+|-
+|}
+{{col-float-end}}
+
+==Squads==
+
+===First team squad===
+{| class="wikitable" style="text-align:center; font-size:90%; width:85%;"
+|-
+! style="background:#00f; color:white; text-align:center;"| {{Abbr| No. |Squad Number}}
+! style="background:#00f; color:white; text-align:center;"| Name
+! style="background:#00f; color:white; text-align:center;"| Nationality
+! style="background:#00f; color:white; text-align:center;"| Position (s)
+! style="background:#00f; color:white; text-align:center;"| Date of Birth (Age)
+! style="background:#00f; color:white; text-align:center;"| Signed from
+|-
+! colspan="6" style="background:#dcdcdc; text-align:center;"| Goalkeepers
+|-
+| 1
+| [[Petr Čech]]
+| {{Flagicon|Czech Republic}}
+| [[Goalkeeper (association football)|GK]]
+| {{Birth date and age2|2012|5|20|1982|5|20|df=y}}
+| {{Flagicon|France}} [[Stade Rennais F.C.|Rennes]]
+|-
+| 22
+| [[Ross Turnbull]]
+| {{Flagicon|England}}
+| [[Goalkeeper (association football)|GK]]
+| {{Birth date and age2|2012|5|20|1985|1|4|df=yes}}
+| {{Flagicon|England}} [[Middlesbrough F.C.|Middlesbrough]]
+|-
+| 40
+| [[Henrique Hilário]]
+| {{Flagicon|Portugal}}
+| [[Goalkeeper (association football)|GK]]
+| {{Birth date and age2|2012|5|20|1975|10|21|df=yes}}
+| {{Flagicon|Portugal}} [[C.D. Nacional|Nacional]]
+|-
+! colspan="6" style="background:#dcdcdc; text-align:center;"| Defenders
+|-
+| 2
+| [[Branislav Ivanović]]
+| {{Flagicon|Serbia}}
+| [[Right back (association football)|RB]] / [[Centre-back|CB]]
+| {{Birth date and age2|2012|5|20|1984|2|22|df=yes}}
+| {{Flagicon|Russia}} [[FC Lokomotiv Moscow|Lokomotiv Moscow]]
+|-
+| 3
+| [[Ashley Cole]]
+| {{Flagicon|England}}
+| [[Left back (association football)|LB]]
+| {{Birth date and age2|2012|5|20|1980|12|20|df=yes}}
+| {{Flagicon|England}} [[Arsenal F.C.|Arsenal]]
+|-
+| 4
+| [[David Luiz]]
+| {{Flagicon|Brazil}}
+| [[Centre-back|CB]]
+| {{Birth date and age2|2012|5|20|1987|04|22|df=yes}}
+| {{Flagicon|Portugal}} [[S.L. Benfica|Benfica]]
+|-
+| 17
+| [[José Bosingwa]]
+| {{Flagicon|Portugal}}
+| [[Right back (association football)|RB]] / [[Left back (association football)|LB]]
+| {{Birth date and age2|2012|5|20|1982|8|24|df=yes}}
+| {{Flagicon|Portugal}} [[FC Porto|Porto]]
+|-
+| 19
+| [[Paulo Ferreira]]
+| {{Flagicon|Portugal}}
+| [[Right back (association football)|RB]] / [[Left back (association football)|LB]]
+| {{Birth date and age2|2012|5|20|1979|1|18|df=yes}}
+| {{Flagicon|Portugal}} [[FC Porto|Porto]]
+|-
+| 24
+| [[Gary Cahill]] 
+| {{Flagicon|England}}
+| [[Centre-back|CB]]
+| {{Birth date and age2|2012|5|20|1985|12|19|df=yes}}
+| {{Flagicon|England}} [[Bolton Wanderers F.C.|Bolton Wanderers]]
+|-
+| 26
+| [[John Terry]] ''([[Captain (association football)|C]])''
+| {{Flagicon|England}}
+| [[Centre-back|CB]]
+| {{Birth date and age2|2012|5|20|1980|12|7|df=yes}}
+| {{Flagicon|England}} [[Chelsea F.C. Reserves and Academy|Chelsea Academy]]
+|-
+| 27
+| [[Sam Hutchinson]]
+| {{Flagicon|England}}
+| [[Right back (association football)|RB]] / [[Centre-back|CB]]
+| {{Birth date and age2|2012|5|20|1989|8|3|df=yes}}
+| {{Flagicon|England}} [[Chelsea F.C. Reserves and Academy|Chelsea Academy]]
+|-
+| 34
+| [[Ryan Bertrand]]
+| {{Flagicon|England}}
+| [[Left back (association football)|LB]] / [[Left winger (association football)|LW]]
+| {{Birth date and age2|2012|5|20|1989|08|5|df=yes}}
+| {{Flagicon|England}} [[Chelsea F.C. Reserves and Academy|Chelsea Academy]]
+|-
+! colspan="6" style="background:#dcdcdc; text-align:center;"| Midfielders
+|-
+| 5
+| [[Michael Essien]]
+| {{Flagicon|Ghana}}
+| [[Midfielder|CM]] / [[Defensive midfielder|DM]]
+| {{Birth date and age2|2012|5|20|1982|12|3|df=yes}}
+| {{Flagicon|France}} [[Olympique Lyonnais|Lyon]]
+|-
+| 6
+| [[Oriol Romeu]]
+| {{flagicon|Spain}}
+| [[Defensive midfielder|DM]] / [[Midfielder|CM]]
+| {{birth date and age2|2012|5|20|1991|9|24|df=yes}}
+| {{Flagicon|Spain}} [[FC Barcelona|Barcelona]]
+|-
+| 7
+| [[Ramires]]
+| {{Flagicon|Brazil
+}}
+| [[Midfielder|CM]] / [[Right midfielder|RM]]
+| {{Birth date and age2|2012|5|20|1987|3|24|df=yes}}
+| {{Flagicon|Portugal}} [[S.L. Benfica|Benfica]]
+|-
+| 8
+| [[Frank Lampard]] ''([[Vice-captain (association football)|VC]])''
+| {{Flagicon|England}}
+| [[Midfielder|CM]]
+| {{Birth date and age2|2012|5|20|1978|6|20|df=yes}}
+| {{Flagicon|England}} [[West Ham United F.C.|West Ham United]]
+|-
+| 10
+| [[Juan Mata]]
+| {{Flagicon|Spain}}
+| [[Left winger (association football)|LW]] / [[Right winger (association football)|RW]] / [[Attacking midfielder|AM]]
+| {{Birth date and age2|2012|5|20|1988|4|23|df=yes}}
+| {{Flagicon|Spain}} [[Valencia CF|Valencia]]
+|- 
+| 12
+| [[Mikel John Obi]]
+| {{Flagicon|Nigeria}}
+| [[Defensive midfielder|DM]] / [[Midfielder|CM]]
+| {{Birth date and age2|2012|5|20|1987|4|22|df=yes}}
+| {{Flagicon|Norway}} [[FK Lyn|Lyn]]
+|-
+| 15
+| [[Florent Malouda]]
+| {{Flagicon|France}}
+| [[Left winger (association football)|LW]] / [[Midfielder|CM]]
+| {{Birth date and age2|2012|5|20|1980|6|13|df=yes}}
+| {{Flagicon|France}} [[Olympique Lyonnais|Lyon]]
+|-
+| 16
+| [[Raul Meireles]]
+| {{Flagicon|Portugal}}
+| [[Midfielder|CM]] / [[Defensive midfielder|DM]]
+| {{Birth date and age2|2012|5|20|1983|3|17|df=yes}}
+| {{Flagicon|England}} [[Liverpool F.C.|Liverpool]]
+|-
+| 20
+| [[Josh McEachran]]
+| {{Flagicon|England}}
+| [[Midfielder|CM]]
+| {{Birth date and age2|2012|5|20|1993|3|1|df=yes}}
+| {{Flagicon|England}} [[Chelsea F.C. Reserves and Academy|Chelsea Academy]]
+|-
+! colspan="6" style="background:#dcdcdc; text-align:center;"| Forwards
+|-
+| 9
+| [[Fernando Torres]]
+| {{Flagicon|Spain}}
+| [[Striker (association football)|ST]]
+| {{Birth date and age2|2012|5|20|1984|03|20|df=yes}}
+| {{Flagicon|England}} [[Liverpool F.C.|Liverpool]]
+|-
+| 11
+| [[Didier Drogba]]
+| {{Flagicon|Ivory Coast}}
+| [[Striker (association football)|ST]]
+| {{Birth date and age2|2012|5|20|1978|3|11|df=yes}}
+| {{Flagicon|France}} [[Olympique de Marseille|Marseille]]
+|-
+| 18
+| [[Romelu Lukaku]]
+| {{flagicon|Belgium}}
+| [[Striker (association football)|ST]]
+| {{Birth date and age2|2012|5|20|1993|5|13|df=yes}}
+| {{Flagicon|Belgium}} [[R.S.C. Anderlecht|Anderlecht]]
+|-
+| 21
+| [[Salomon Kalou]]
+| {{Flagicon|Ivory Coast}}
+| [[Right winger (association football)|RW]] / [[Left winger (association football)|LW]] / [[Striker (association football)|ST]]
+| {{Birth date and age2|2012|5|20|1985|8|5|df=yes}}
+| {{Flagicon|Netherlands}} [[Feyenoord]]
+|-
+| 23
+| [[Daniel Sturridge]]
+| {{Flagicon|England}}
+| [[Right winger (association football)|RW]] / [[Left winger (association football)|LW]] / [[Striker (association football)|ST]]
+| {{Birth date and age2|2012|5|20|1989|9|1|df=yes}}
+| {{Flagicon|England}} [[Manchester City F.C.|Manchester City]]
+|}
+
+===Premier League squad===
+{{Fs start}}
+{{Fs player|no=1|nat=CZE|pos=GK|name=[[Petr Čech]]}}
+{{Fs player|no=2|nat=SER|pos=DF|name=[[Branislav Ivanović]]}}
+{{Fs player|no=3|nat=ENG|pos=DF|name=[[Ashley Cole]] <sup>'''HG'''</sup>}}
+{{Fs player|no=4|nat=BRA|pos=DF|name=[[David Luiz]]}}
+{{Fs player|no=5|nat=GHA|pos=MF|name=[[Michael Essien]]}}
+{{Fs player|no=6|nat=ESP|pos=MF|name=[[Oriol Romeu]] <sup>'''U21'''</sup>}}
+{{Fs player|no=7|nat=BRA|pos=MF|name=[[Ramires]]}}
+{{Fs player|no=8|nat=ENG|pos=MF|name=[[Frank Lampard]] <sup>'''HG'''</sup>}}
+{{Fs player|no=9|nat=ESP|pos=FW|name=[[Fernando Torres]]}}
+{{Fs player|no=10|nat=ESP|pos=MF|name=[[Juan Mata]]}}
+{{Fs player|no=11|nat=CIV|pos=FW|name=[[Didier Drogba]]}}
+{{Fs player|no=12|nat=NGA|pos=MF|name=[[Mikel John Obi]]}}
+{{Fs player|no=15|nat=FRA|pos=MF|name=[[Florent Malouda]]}}
+{{Fs player|no=16|nat=POR|pos=MF|name=[[Raul Meireles]]}}
+{{Fs player|no=17|nat=POR|pos=DF|name=[[José Bosingwa]]}}
+{{fs mid}}
+{{Fs player|no=18|nat=BEL|pos=FW|name=[[Romelu Lukaku]] <sup>'''U21'''</sup>}}
+{{Fs player|no=19|nat=POR|pos=DF|name=[[Paulo Ferreira]]}}
+{{Fs player|no=20|nat=ENG|pos=MF|name=[[Josh McEachran]] <sup>'''U21'''</sup>}}
+{{Fs player|no=21|nat=CIV|pos=FW|name=[[Salomon Kalou]]}}
+{{Fs player|no=22|nat=ENG|pos=GK|name=[[Ross Turnbull]] <sup>'''HG'''</sup>}}
+{{Fs player|no=23|nat=ENG|pos=FW|name=[[Daniel Sturridge]] <sup>'''HG'''</sup>}}
+{{Fs player|no=24|nat=ENG|pos=DF|name=[[Gary Cahill]] <sup>'''HG'''</sup>}}
+{{Fs player|no=26|nat=ENG|pos=DF|name=[[John Terry]] <sup>'''HG'''</sup>|other=[[Captain (association football)|<small>Captain</small>]]}}
+{{Fs player|no=27|nat=ENG|pos=DF|name=[[Sam Hutchinson]] <sup>'''HG'''</sup>}}
+{{Fs player|no=34|nat=ENG|pos=DF|name=[[Ryan Bertrand]] <sup>'''HG'''</sup>}}
+{{Fs player|no=35|nat=BRA|pos=MF|name=[[Lucas Piazon]]}}  <sup>'''U21'''</sup>
+{{Fs player|no=40|nat=POR|pos=GK|name=[[Henrique Hilário]]}}
+{{Fs player|no=45|nat=ENG|pos=DF|name=[[Nathaniel Chalobah]]}} <sup>'''U21'''</sup>
+{{Fs player|no=46|nat=ENG|pos=GK|name=[[Jamal Blackman]]}} <sup>'''U21'''</sup>
+{{Fs end}}
+* <small>'''HG''' = Home Grown Player</small>
+* <small>'''U21''' = Under 21 Player</small>
+<small>Source: [https://web.archive.org/web/20130731092613/http://www.premierleague.com/content/dam/premierleague/site-content/News/publications/squad-lists/squad-lists-september-2011.pdf '''2011–12 Premier League squad''']</small>
+
+===Reserve team===
+{{Fs start}}
+{{Fs player|no=27|nat=ENG|pos=DF|name=[[Sam Hutchinson]]}}
+{{Fs player|no=35|nat=BRA|pos=MF|name=[[Lucas Piazon]]}}
+{{Fs player|no=45|nat=ENG|pos=DF|name=[[Nathaniel Chalobah]]}}
+{{Fs player|no=47|nat=ENG|pos=DF|name=[[Billy Clifford (footballer)|Billy Clifford]]}}
+{{Fs player|no=48|nat=IRL|pos=MF|name=[[Conor Clifford]]}}
+{{Fs player|no=49|nat=ENG|pos=DF|name=[[Aziz Deen-Conteh]]}} 
+{{fs mid}}
+{{Fs player|no=51|nat=ENG|pos=DF|name=[[Rohan Ince]]}}
+{{Fs player|no=53|nat=SWE|pos=FW|name=[[Marko Mitrović (footballer, born 1992)|Marko Mitrović]]}}
+{{Fs player|no=54|nat=ENG|pos=DF|name=[[Todd Kane]]}}
+{{Fs player|no=56|nat=ENG|pos=MF|name=[[George Saville (footballer)|George Saville]]}}
+{{Fs player|no=58|nat=GHA|pos=DF|name=[[Daniel Pappoe]]}}
+{{Fs player|no=– |nat=ENG|pos=FW|name=[[Adam Phillip]]}}
+{{Fs end}}
+
+===UEFA Champions League squad===
+{{Fs start}}
+{{Fs player|no=1|nat=CZE|pos=GK|name=[[Petr Čech]]}}
+{{Fs player|no=2|nat=SER|pos=DF|name=[[Branislav Ivanović]]}}
+{{Fs player|no=3|nat=ENG|pos=DF|name=[[Ashley Cole]] <sup>'''HG'''<sup>'''1'''</sup></sup>}}
+{{Fs player|no=4|nat=BRA|pos=DF|name=[[David Luiz]]}}
+{{Fs player|no=5|nat=GHA|pos=MF|name=[[Michael Essien]]}}
+{{Fs player|no=6|nat=ESP|pos=MF|name=[[Oriol Romeu]]}}
+{{Fs player|no=7|nat=BRA|pos=MF|name=[[Ramires]]}}
+{{Fs player|no=8|nat=ENG|pos=MF|name=[[Frank Lampard]] <sup>'''HG'''<sup>'''1'''</sup></sup>|other=[[Captain (association football)#Vice-captain|<small>Vice-Captain</small>]]}}
+{{Fs player|no=9|nat=Spain|pos=FW|name=[[Fernando Torres]]}}
+{{Fs player|no=10|nat=ESP|pos=MF|name=[[Juan Mata]]}}
+{{Fs player|no=11|nat=CIV|pos=FW|name=[[Didier Drogba]]}}
+{{Fs player|no=12|nat=Nigeria|pos=MF|name=[[Mikel John Obi]]}}
+{{Fs player|no=15|nat=FRA|pos=MF|name=[[Florent Malouda]]}}
+{{Fs player|no=16|nat=POR|pos=MF|name=[[Raul Meireles]]}}
+{{Fs player|no=17|nat=POR|pos=DF|name=[[José Bosingwa]]}}
+{{Fs player|no=19|nat=POR|pos=DF|name=[[Paulo Ferreira]]}}
+{{Fs player|no=20|nat=ENG|pos=MF|name=[[Josh McEachran]] <sup>'''B'''</sup>}}
+{{Fs player|no=21|nat=CIV|pos=FW|name=[[Salomon Kalou]]}}
+{{Fs player|no=22|nat=ENG|pos=GK|name=[[Ross Turnbull]] <sup>'''HG'''<sup>'''1'''</sup></sup>}}
+{{Fs mid}}
+{{Fs player|no=23|nat=ENG|pos=FW|name=[[Daniel Sturridge]] <sup>'''HG'''<sup>'''1'''</sup></sup>}}
+{{Fs player|no=24|nat=ENG|pos=DF|name=[[Gary Cahill]] <sup>'''HG'''<sup>'''1'''</sup></sup>}}
+{{Fs player|no=26|nat=ENG|pos=DF|name=[[John Terry]] <sup>'''HG'''<sup>'''2'''</sup></sup>|other=[[Captain (association football)|<small>Captain</small>]]}}
+{{Fs player|no=34|nat=ENG|pos=DF|name=[[Ryan Bertrand]] <sup>'''HG'''<sup>'''2'''</sup></sup>}}
+{{Fs player|no=40|nat=POR|pos=GK|name=[[Henrique Hilário]]}}
+{{Fs player|no=45|nat=ENG|pos=DF|name=[[Nathaniel Chalobah]] <sup>'''B'''</sup>}}
+{{Fs player|no=46|nat=ENG|pos=GK|name=[[Jamal Blackman]] <sup>'''B'''</sup>}}
+{{Fs player|no=47|nat=ENG|pos=DF|name=[[Billy Clifford (footballer)|Billy Clifford]] <sup>'''B'''</sup>}}
+{{Fs player|no=48|nat=IRL|pos=MF|name=[[Conor Clifford]] <sup>'''B'''</sup>}}
+{{Fs player|no=49|nat=ENG|pos=DF|name=[[Aziz Deen-Conteh]] <sup>'''B'''</sup>}}
+{{Fs player|no=51|nat=ENG|pos=DF|name=[[Rohan Ince]] <sup>'''B'''</sup>}}
+{{Fs player|no=53|nat=SWE|pos=MF|name=[[Marko Mitrović (footballer, born 1992)|Marko Mitrović]] <sup>'''B'''</sup>}}
+{{Fs player|no=54|nat=ENG|pos=DF|name=[[Todd Kane]] <sup>'''B'''</sup>}}
+{{Fs player|no=55|nat=ENG|pos=MF|name=James Ashton <sup>'''B'''</sup>}}
+{{Fs player|no=56|nat=ENG|pos=MF|name=[[George Saville (footballer)|George Saville]] <sup>'''B'''</sup>}}
+{{Fs player|no=57|nat=ENG|pos=DF|name=[[Archange Nkumu]] <sup>'''B'''</sup>}}
+{{Fs player|no=58|nat=GHA|pos=DF|name=[[Daniel Pappoe]] <sup>'''B'''</sup>}}
+{{Fs player|no=60|nat=WAL|pos=GK|name=[[Rhys Taylor]] <sup>'''B'''</sup>}}
+{{Fs end}}
+* <small>'''B''' = List B Player</small>
+* <small>'''HG'''<sup>'''1'''</sup> = Association-trained player</small>
+* <small>'''HG'''<sup>'''2'''</sup> = Club-trained player</small>
+<small>Source: [https://www.uefa.com/uefachampionsleague/history/clubs/52914--chelsea/ '''2011–12 UEFA Champions League squad''']</small>
+
+==Transfers==
+
+===In===
+
+====Summer====
+{| class="wikitable plainrowheaders sortable" style="font-size:88%"
+|-
+!{{Abbr| No. | Squad Number }}
+!{{Abbr| Pos | Position }}
+!scope=col width=103|'''Player'''
+!'''Transferred From'''
+!scope=col width=55|'''Fee'''
+!scope=col width=70|'''Date'''
+!'''Source'''
+|-
+|align=center|—
+|align=center|{{sort|1|GK}}
+|{{sort|Courtois, Thibaut|{{Flagicon|BEL}} [[Thibaut Courtois]]}}
+|{{Flagicon|BEL}} [[K.R.C. Genk|Genk]]
+|{{sort|4|[[Euro|€]]9 million}}
+|{{dts|26 July 2011}}
+|<ref>{{Cite news|url=http://www.chelseafc.com/news-article/article/2402319 |archive-url=https://archive.today/20130804060836/http://www.chelseafc.com/news-article/article/2402319 |url-status=dead |archive-date=4 August 2013 |title=Courtois completed |publisher=Chelsea F.C |date=26 July 2011 |access-date=2 August 2013 }}</ref><ref>{{Cite news| url=https://www.theguardian.com/football/2011/jul/16/chelsea-thibaut-courtois-genk-goalkeeper | title=Chelsea agree deal to sign goalkeeper Thibaut Courtois from Genk |work=The Guardian| date=16 July 2011 | access-date=2 August 2013}}</ref>
+|-
+|align=center|6
+|align=center|{{sort|3|MF}}
+|{{sort|Romeu, Oriol|{{flagicon|ESP}} [[Oriol Romeu]]}}
+|{{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|{{sort|5|€5 million}}
+|{{dts|4 August 2011}}
+|<ref>{{Cite news | url=http://www.chelseafc.com/news-article/article/2409841 | title=Oriol Romeu deal completed | publisher=Chelsea F.C | date=4 August 2011 | access-date=2 August 2013 | archive-url=https://archive.today/20130425110405/http://www.chelseafc.com/news-article/article/2409841 | archive-date=25 April 2013 | url-status=dead}}</ref><ref>{{Cite news| url=https://www.theguardian.com/football/2011/aug/04/chelsea-barcelona-oriol-romeu-signing | title=Chelsea complete signing of Oriol Romeu from Barcelona |work=The Guardian| date=4 August 2011 | access-date=2 August 2013}}</ref>
+|-
+|align=center|18
+|align=center|{{sort|4|FW}}
+|{{sort|Lukaku, Romelu|{{flagicon|BEL}} [[Romelu Lukaku]]}}
+|{{flagicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|{{sort|3|€12 million}}
+|{{dts|18 August 2011}}
+|<ref name="Lukaku">{{cite news | url=http://www.chelseafc.com/news-article/article/2424552 | title=Lukaku: The first interview | publisher=Chelsea F.C | date=18 August 2011 | access-date=2 August 2013}}</ref><ref>{{cite news| url=http://www.nieuwsblad.be/sportwereld/cnt/DC3DOMDV |work=[[Het Nieuwsblad]] |language=nl| title=Chelsea betaalt €12 miljoen voor Lukaku (maar het kan oplopen tot €20 miljoen)|trans-title=Chelsea pay €12 million for Lukaku (but it can rise up to €20 million) | date=7 August 2011| access-date=2 August 2013}}</ref>
+|-
+|align=center|10
+|align=center|{{sort|3|MF}}
+|{{sort|Mata, Juan Manuel|{{flagicon|ESP}} [[Juan Mata]]}}
+|{{flagicon|ESP}} [[Valencia CF|Valencia]]
+|{{sort|1|[[Pound sterling|£]]23.5 million}}
+|{{dts|22 August 2011}}
+|<ref>{{cite news | url=http://www.chelseafc.com/news-article/article/2430847 | title=Juan Mata deal completed | publisher=Chelsea F.C | date=24 August 2011 | access-date=4 August 2013}}</ref><ref>{{cite news | url=https://www.bbc.co.uk/sport/football/14656464 |title=Juan Mata completes move to Chelsea from Valencia |work=BBC Sport | date=24 August 2011| access-date=2 August 2013}}</ref>
+|-
+|align=center|—
+|align=center|{{sort|3|MF}}
+|{{sort|Dávila, Ulises |{{flagicon|MEX}} [[Ulises Dávila]]}}
+|{{flagicon|MEX}} [[C.D. Guadalajara|Guadalajara]]
+|{{sort|6|£1.75 million}}
+|{{dts|27 August 2011}}
+|<ref name="Dávila">{{cite news|url=http://www.chelseafc.com/news-article/article/2434327 |archive-url=https://archive.today/20130726224628/http://www.chelseafc.com/news-article/article/2434327 |url-status=dead |archive-date=26 July 2013 |title=Chelsea sign Ulises Davila |publisher=Chelsea F.C |date=27 August 2011 |access-date=2 August 2013 }}</ref><ref>{{cite web | url=http://www.mirrorfootball.co.uk/opinion/blogs/football-spy/Chelsea-transfer-Ulises-Davila-what-the-fans-can-expect-by-Joe-Krishnan-article792141.html | title=The new Chicharito? | work=[[Daily Mirror|Mirror Football]] | date=28 August 2011 | access-date=2 August 2013}}</ref> 
+|-
+|align=center|16
+|align=center|{{sort|3|MF}}
+|{{sort|Meireles, Raul|{{flagicon|POR}} [[Raul Meireles]]}}
+|{{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|{{sort|2|£12 million}}
+|{{dts|31 August 2011}}
+|<ref name="Meireles">{{cite news|url=http://www.chelseafc.com/news-article/article/2438063 |archive-url=https://archive.today/20130726224715/http://www.chelseafc.com/news-article/article/2438063 |url-status=dead |archive-date=26 July 2013 |title=Raul Meireles joins Chelsea |publisher=Chelsea F.C. |date=31 August 2011 |access-date=26 July 2013 }}</ref><ref>{{cite news | url=https://www.bbc.co.uk/sport/football/14708743 |title=Liverpool's Raul Meireles moves to Chelsea |work=BBC Sport | date=31 August 2011| access-date=2 August 2013}}</ref>
+|}
+
+====Winter====
+{| class="wikitable plainrowheaders sortable" style="font-size:88%"
+|-
+!{{Abbr| No. | Squad Number }}
+!{{Abbr| Pos | Position }}
+!'''Player'''
+!scope=col width=115|'''Transferred From'''
+!scope=col width=60|'''Fee'''
+!scope=col width=80|'''Date'''
+!'''Source'''
+|-
+|align=center|27
+|align=center|{{sort|2|DF}}
+|{{sort|Hutchinson, Sam|{{Flagicon|ENG}} [[Sam Hutchinson]]}}
+|Comeback
+|Free transfer
+|{{dts|1 December 2011}}
+|<ref>{{cite news| url=http://www.chelseafc.com/news-article/article/2534355 | title=New deal for Hutchinson | publisher=Chelsea F.C | date=1 December 2011 |access-date=7 August 2013}}</ref><ref>{{cite news| url=https://www.bbc.co.uk/sport/football/15993883 | title=Chelsea give defender Sam Hutchinson new contract | work=BBC Sport | date=1 December 2011 |access-date=3 August 2013}}</ref>
+|-
+|align=center|—
+|align=center|{{sort|2|DF}}
+|{{sort|Omeruo, Kenneth|{{Flagicon|Nigeria}} [[Kenneth Omeruo]]}}
+|{{Flagicon|BEL}} [[Standard Liège]]
+|{{sort|5|Undisclosed}}
+|{{dts|6 January 2012}}
+||<ref name="Omeruo">{{cite news |url=http://www.mtnfootball.com/europe/epl/news/2012/jan/07-chelsea-sign-nigeria-u20-star-omeruo.html |title=Chelsea sign Nigeria U20 star Omeruo |work=[[MTN Group|MTN Football]] |date=7 January 2012 |access-date=2 August 2013 |archive-url=https://web.archive.org/web/20130508070429/http://www.mtnfootball.com/europe/epl/news/2012/jan/07-chelsea-sign-nigeria-u20-star-omeruo.html |archive-date=8 May 2013 |url-status=dead}}</ref>
+|-
+|align=center|24
+|align=center|{{sort|2|DF}}
+|{{sort|Cahill, Gary|{{Flagicon|ENG}} [[Gary Cahill]]}}
+|{{Flagicon|ENG}} [[Bolton Wanderers F.C.|Bolton Wanderers]]
+|{{sort|1|[[Pound sterling|£]]7 million}}
+|{{dts|16 January 2012}}
+|<ref>{{cite news|url=http://www.chelseafc.com/news-article/article/2578766 |archive-url=https://archive.today/20130826235424/http://www.chelseafc.com/news-article/article/2578766 |url-status=dead |archive-date=26 August 2013 |title=Cahill signs |publisher=Chelsea F.C |date=16 January 2012 |access-date=2 August 2013 }}</ref><ref>{{Cite news| url=https://www.theguardian.com/football/2012/jan/16/chelsea-bolton-wanderers-gary-cahill | title=Chelsea complete deal for Bolton Wanderers defender Gary Cahill |work=The Guardian| date=16 January 2012 | access-date=2 August 2013}}</ref>
+|-
+|align=center|35
+|align=center|{{sort|3|MF}}
+|{{sort|Piazón, Lucas|{{Flagicon|BRA}} [[Lucas Piazon]]}}
+|{{Flagicon|BRA}} [[São Paulo FC|São Paulo]]
+|{{sort|3|[[Euro|€]]7.5 million}}
+|{{dts|20 January 2012}}
+|<ref name="Piazon">{{cite news|url=http://www.chelseafc.com/news-article/article/2324419 |archive-url=https://archive.today/20130425084522/http://www.chelseafc.com/news-article/article/2324419 |url-status=dead |archive-date=25 April 2013 |title=Terms agreed for young Brazilian |publisher=Chelsea F.C |date=25 March 2011 |access-date=31 May 2011 }}</ref><ref>{{Cite news| url=http://globoesporte.globo.com/futebol/noticia/2011/03/assim-que-voltar-da-selecao-sub-17-piazon-sera-vendido-para-o-chelsea.html | title=Assim que voltar da seleção sub-17, Piazon será vendido para o Chelsea |work=[[Globo.com|Globo Esporte]]|language=pt | date=15 March 2011 | access-date=2 August 2013}}</ref>
+|-
+|align=center|—
+|align=center|{{sort|4|FW}}
+|{{sort|Bamford, Patrick|{{Flagicon|ENG}} [[Patrick Bamford]]}}
+|{{Flagicon|ENG}} [[Nottingham Forest F.C.|Nottingham Forest]]
+|{{sort|4|£1 million}}
+|{{dts|31 January 2012}}
+|<ref>{{cite news| url=http://www.chelseafc.com/news-article/article/2595732 | title=Teenager Bamford joins | publisher=Chelsea F.C | date=1 February 2012 |access-date=2 August 2013}}</ref>
+|-
+|align=center|—
+|align=center|{{sort|3|MF}}
+|{{sort|De Bruyne, Kevin|{{Flagicon|BEL}} [[Kevin De Bruyne]]}}
+|{{Flagicon|BEL}} [[K.R.C. Genk|Genk]]
+|{{sort|2|£6.7 million}}
+|{{dts|31 January 2012}}
+|<ref name="De Bruyne">{{cite news|url=http://www.chelseafc.com/news-article/article/2594667 |archive-url=https://archive.today/20130425091338/http://www.chelseafc.com/news-article/article/2594667 |url-status=dead |archive-date=25 April 2013 |title=De Bruyne becomes a blue |publisher=Chelsea F.C |date=31 January 2012 |access-date=2 August 2013 }}</ref><ref>{{cite news| url=http://www1.skysports.com/football/news/11668/7465768/Blues-medical-for-De-Bruyne| title=Blues medical for De Bruyne | work=Sky Sports | date=30 January 2012 |access-date=2 August 2013}}</ref>
+|}
+
+===Out===
+
+====Summer====
+{| class="wikitable plainrowheaders sortable" style="font-size:88%"
+|-
+!{{Abbr| No. | Squad Number }}
+!{{Abbr| Pos | Position }}
+!'''Player'''
+!'''Transferred To'''
+!scope=col width=63|'''Fee'''
+!scope=col width=68|'''Date'''
+!'''Source'''
+|-
+|align=center|—
+|align=center|{{sort|4|FW}}
+|{{sort|Devyne, Bobby|{{flagicon|ENG}} Bobby Devyne}}
+|{{flagicon|ENG}} [[Chesham United F.C.|Chesham United]]
+|Free transfer
+|{{dts|30 June 2011}}
+|<ref name="pastures"/><ref name="youth"/><ref>{{cite web|url=http://nonleague.pitchero.com/news/ex-chelsea-starlet-joins-chesham-28721/|title=Ex-Chelsea Starlet Joins Chesham|work=Pitcher|access-date=28 April 2016}}</ref>
+|-
+|align=center|45
+|align=center|{{sort|4|FW}}
+|{{sort|Borini, Fabio|{{flagicon|ITA}} [[Fabio Borini]]}}
+|{{flagicon|ITA}} [[Parma Calcio 1913|Parma]]
+|{{sort|6|[[Euro|€]]360,000}}
+|{{dts|1 July 2011}}
+|<ref name="Borini Parma">{{cite news | url=http://www.skysports.com/story/0,19528,11661_6965946,00.html | title=Borini – I have no regrets | work=Sky Sports | date=4 June 2011 | access-date=4 June 2011}}</ref>
+|-
+|align=center|42
+|align=center|{{sort|2|DF}}
+|{{sort|Mancienne, Michael|{{Flagicon|ENG}} [[Michael Mancienne]]}}
+|{{Flagicon|GER}} [[Hamburger SV]]
+|{{sort|2|[[Pound sterling|£]]3 million}}
+|{{dts|1 July 2011}}
+|<ref>{{cite news|url=http://www.chelseafc.com/news-article/article/2369748 |archive-url=https://archive.today/20130410165828/http://www.chelseafc.com/news-article/article/2369748 |url-status=dead |archive-date=10 April 2013 |title=Mancienne move agreed |publisher=Chelsea F.C |date=31 May 2011 |access-date=2 August 2013 }}</ref><ref name="Mancienne HSV">{{Cite news| url=http://www.skysports.com/story/0,19528,11668_6961373,00.html | title=Mancienne seals Hamburg move | work=Sky Sports | date=31 May 2011 | access-date=31 May 2011}}</ref>
+|-
+|align=center|24
+|align=center|{{sort|3|MF}}
+|{{sort|Matić, Nemanja|{{flagicon|SRB}} [[Nemanja Matić]]}}
+|{{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|{{Abbr| Free transfer* | Part of David Luiz deal }}
+|{{dts|1 July 2011}}
+|<ref>{{cite news | url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/9372540.stm | title=Chelsea sign David Luiz from Benfica for £21.3m |work=BBC Sport | date=1 February 2011 | access-date=23 August 2011| archive-url= https://web.archive.org/web/20110721070622/http://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/9372540.stm| archive-date= 21 July 2011| url-status= live}}</ref>
+|-
+|align=center|60
+|align=center|{{sort|3|MF}}
+|{{sort|Philliskirk, Danny|{{flagicon|ENG}} [[Danny Philliskirk]]}}
+|{{flagicon|ENG}} [[Sheffield United F.C.|Sheffield United]]
+|Free transfer
+|{{dts|1 July 2011}}
+|<ref name="Philliskirk">{{cite news | url=http://www.skysports.com/story/0,19528,12875_7012807,00.html | title=Blades swoop for Philliskirk | work=Sky Sports | date=1 July 2011 | access-date=1 July 2011}}</ref>
+|-
+|align=center|—
+|align=center|{{sort|3|MF}}
+|{{sort|Rodgers, Anton|{{flagicon|IRL}} [[Anton Rodgers (footballer)|Anton Rodgers]]}}
+|{{flagicon|ENG}} [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+|Free transfer
+|{{dts|1 July 2011}}
+|<ref name="pastures">{{cite web | url=http://thechels.net/2011/05/young-blues-head-for-pastures-new/ | title=Young Blues Head For Pastures New | work=TheChels.net | date=12 May 2011 | access-date=26 August 2013}}</ref><ref name="youth">{{cite web | url=http://www.chelseafc.com/news-article/article/2368360 | title=The Young Generation: Youth reviewed | work=Chelsea F.C. | date=29 May 2011 | access-date=26 August 2013}}</ref>
+|-
+|align=center|55
+|align=center|{{sort|3|MF}}
+|{{sort|Sala, Jacopo|{{flagicon|ITA}} [[Jacopo Sala]]}}
+|{{flagicon|GER}} [[Hamburger SV]]
+|{{sort|7|€100,000}}
+|{{dts|1 July 2011}}
+|<ref name="Sala HSV">{{cite news | url=https://www.bbc.co.uk/sport/football/13644871 | title=Hamburg capture Jacopo Sala from Chelsea |work=BBC Sport | date=3 June 2011 | access-date=3 June 2011}}</ref>
+|-
+|align=center|—
+|align=center|{{sort|2|DF}}
+|{{sort|Sampayo, Ben|{{flagicon|ENG}} [[Ben Sampayo]]}}
+|{{flagicon|ENG}} [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+|Free transfer
+|{{dts|1 July 2011}}
+|<ref name="pastures"/><ref name="youth"/>
+|-
+|align=center|61
+|align=center|{{sort|1|GK}}
+|{{sort|Sebek, Jan|{{flagicon|CZE}} [[Jan Šebek]]}}
+|{{flagicon|CZE}} [[FK Baumit Jablonec|Baumit Jablonec]]
+|Free transfer
+|{{dts|1 July 2011}}
+|<ref name="YoungGeneration"/><ref name="Sebek Jablonec">{{cite news | url=http://www.skysports.com/story/0,19528,11668_6998453,00.html | title=Sebek leaves Stamford Bridge | work=Sky Sports | author=Vasek Kadlec | date=20 June 2011 | access-date=20 June 2011}}</ref>
+|-
+|align=center|63
+|align=center|{{sort|3|MF}}
+|{{sort|Töre, Gökhan|{{flagicon|TUR}} [[Gökhan Töre]]}}
+|{{flagicon|GER}} [[Hamburger SV]]
+|{{sort|4|€1.3 million}}
+|{{dts|1 July 2011}}
+|<ref name="Tore HSV">{{cite news|url=http://www.chelseafc.com/news-article/article/2372131 |archive-url=https://archive.today/20130726224714/http://www.chelseafc.com/news-article/article/2372131 |url-status=dead |archive-date=26 July 2013 |title=Töre returns to Germany |publisher=Chelsea F.C |date=7 June 2011 |access-date=2 August 2013 }}</ref><ref>{{cite news | url=http://www.turkish-football.com/news_read.php?id=3198 | title=Chelsea stand to make 50% from outgoing Hamburg winger Gökhan Töre | publisher=Turkish-Football.com | date=13 July 2012 | access-date=3 August 2013}}</ref>
+|-
+|align=center|59
+|align=center|{{sort|3|MF}}
+|{{sort|Woods, Michael|{{flagicon|ENG}} [[Michael Woods (footballer, born 1990)|Michael Woods]]}}
+|{{flagicon|ENG}} [[Yeovil Town F.C.|Yeovil Town]]
+|Free transfer
+|{{dts|1 July 2011}}
+|<ref name="YoungGeneration">{{cite web|url=http://www.chelseafc.com/news-article/article/2368342 |archive-url=https://archive.today/20130726224637/http://www.chelseafc.com/news-article/article/2368342 |url-status=dead |archive-date=26 July 2013 |title=The Young Generation: Reserves reviewed |work=Chelsea F.C. |date=28 May 2011 |access-date=3 June 2011 }}</ref>
+|-
+|align=center|—
+|align=center|{{sort|3|MF}}
+|{{sort|Cork, Jack|{{flagicon|ENG}} [[Jack Cork]]}}
+|{{flagicon|ENG}} [[Southampton F.C.|Southampton]]
+|{{sort|5|£750,000}}
+|{{dts|7 July 2011}}
+|<ref name="Cork">{{cite news | url=http://www.chelseafc.com/news-article/article/2388425 | title=Cork Transfer Agreed | publisher=Chelsea F.C | date=7 July 2011 | access-date=7 July 2011}}</ref><ref>{{cite news | url=http://www.dailyecho.co.uk/sport/9128673.First_summer_signing_unveiled_by_Saints/ | title=Southampton sign Jack Cork from Chelsea | work=[[Southern Daily Echo]] | date=7 July 2011 | access-date=4 August 2013}}</ref>
+|-
+|align=center|18
+|align=center|{{sort|3|MF}}
+|{{sort|Zhirkov, Yuri|{{flagicon|RUS}} [[Yuri Zhirkov]]}}
+|{{flagicon|RUS}} [[FC Anzhi Makhachkala|Anzhi Makhachkala]]
+|{{sort|1|€15 million}}
+|{{dts|6 August 2011}}
+|<ref name="Zhirkov Departs">{{cite news | url=http://www.chelseafc.com/news-article/article/2412397 | title=Zhirkov Departs | publisher=Chelsea F.C | date=6 August 2011 | access-date=2 August 2013 | archive-url=https://archive.today/20130726224627/http://www.chelseafc.com/news-article/article/2412397 | archive-date=26 July 2013 | url-status=dead}}</ref><ref>{{cite news | url=http://www.uefa.com/memberassociations/news/newsid=1656872.html | archive-url=https://web.archive.org/web/20111108151731/http://www.uefa.com/memberassociations/news/newsid=1656872.html | url-status=dead | archive-date=8 November 2011 | title=Zhirkov leaves Chelsea to join Anzhi revolution | work=[[UEFA|UEFA.com]] | date=6 August 2011 | access-date=2 August 2013}}</ref>
+|-
+|align=center|—
+|align=center|{{sort|2|DF}}
+|{{sort|Rajković, Slobodan|{{flagicon|SER}} [[Slobodan Rajković]]}}
+|{{flagicon|GER}} [[Hamburger SV]]
+|{{sort|3|£1.75 million}}
+|{{dts|24 August 2011}}
+|<ref name="Rajkovic">{{cite news | url=https://www.independent.co.uk/sport/football/transfers/chelsea-defender-slobodan-rajkovic-signs-for-hamburg-2342974.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football/transfers/chelsea-defender-slobodan-rajkovic-signs-for-hamburg-2342974.html |archive-date=1 May 2022 |url-access=subscription |url-status=live |title=Chelsea defender Slobodan Rajkovic signs for Hamburg |work=[[The Independent]] | date=24 August 2011 |access-date=3 August 2013}}{{cbignore}}</ref>
+|}
+
+====Winter====
+{| class="wikitable plainrowheaders sortable" style="font-size:88%"
+|-
+!{{Abbr| No. | Squad Number }}
+!{{Abbr| Pos | Position }}
+!'''Player'''
+!'''Transferred To'''
+!scope=col width=60|'''Fee'''
+!scope=col width=78|'''Date'''
+!'''Source'''
+|-
+|align=center|—
+|align=center|{{sort|3|MF}}
+|{{sort|Magnay, Carl|{{flagicon|POR}} [[Mesca]]}}
+|{{flagicon|ENG}} [[Fulham F.C.|Fulham]]
+|Free transfer
+|{{dts|20 September 2011}}
+|<ref>[http://www.thefa.com/~/media/700C18BA3A364BE3A6B354C4594806B8.ashx "List of players under written contract registered between 01/09/2011 and 30/09/2011"]. ''[[The Football Association]]''.  Retrieved 16 October 2013.</ref><ref>[http://thechels.net/2011/09/mesca-swaps-chelsea-for-fulham/ "Mesca swaps Chelsea for Fulham"]. ''TheChels.net''. 27 September 2011. Retrieved 16 October 2013.</ref>
+|-
+|align=center|39
+|align=center|{{sort|4|FW}}
+|{{sort|Anelka, Nicolas|{{flagicon|FRA}} [[Nicolas Anelka]]}}
+|{{flagicon|CHN}} [[Shanghai Shenhua F.C.|Shanghai Shenhua]]
+|{{sort|2|Undisclosed}}
+|{{dts|1 January 2012}}
+|<ref>{{cite news | url=http://www.chelseafc.com/news-article/article/2561412 | title=Farewell Nicolas Anelka |publisher=Chelsea F.C | date=30 December 2011| access-date=7 August 2013}}</ref><ref>{{cite news | url=http://soccernet.espn.go.com/news/story/_/id/995696/shanghai-shenhua-sign-chelsea-striker-nicoals-anelka?cc=5901 | title=Shanghai land Chelsea striker Anelka | work=[[ESPN FC|ESPN Soccernet]] | date=12 December 2011 | access-date=3 August 2013 | archive-date=11 January 2012 | archive-url=https://web.archive.org/web/20120111154330/http://soccernet.espn.go.com/news/story/_/id/995696/shanghai-shenhua-sign-chelsea-striker-nicoals-anelka?cc=5901 | url-status=dead }}</ref>
+|-
+|align=center|—
+|align=center|{{sort|2|DF}}
+|{{sort|Magnay, Carl|{{flagicon|NIR}} [[Carl Magnay]]}}
+|{{flagicon|ENG}} [[Gateshead F.C.|Gateshead]]
+|Free transfer
+|{{dts|1 January 2012}}
+|<ref>[https://www.bbc.co.uk/sport/football/16759714 "Gateshead snap up ex-Chelsea defender Carl Magnay"]. ''BBC Sport''. 27 January 2012. Retrieved 3 August 2013.</ref>
+|-
+|align=center|33
+|align=center|{{sort|2|DF}}
+|{{sort|Alex|{{flagicon|BRA}} [[Alex (footballer, born June 1982)|Alex]]}}
+|{{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|{{sort|1|[[Pound sterling|£]]4.2 million}}
+|{{dts|27 January 2012}}
+|<ref>{{cite news| url=http://www.chelseafc.com/news-article/article/2591278 | publisher=Chelsea F.C | title=Alex joins PSG | date=27 January 2012|access-date=3 August 2013}}</ref><ref>{{cite news| url=https://www.bbc.co.uk/sport/football/16756100 | work=BBC Sport | title=Alex completes £4.2m move from Chelsea to Paris Saint-Germain | date=27 January 2012|access-date=3 August 2013}}</ref>
+|-
+|align=center|50
+|align=center|{{sort|3|MF}}
+|{{sort|Kaby|{{flagicon|POR}} [[Aliu Djaló|Kaby]]}}
+|{{flagicon|CYP}} [[AEL Limassol F.C.|AEL Limassol]]
+|Free transfer
+|{{dts|27 January 2012}}
+|<ref name="kaby">[http://www.chelseafc.com/news-article/article/2591294 "Kaby goes south"]. Chelsea F.C. 27 January 2012. Retrieved 3 August 2013.</ref>
+|-
+|align=center|59
+|align=center|{{sort|4|FW}}
+|{{sort|Prosenik, Philipp|{{flagicon|AUT}} [[Philipp Prosenik]]}}
+|{{flagicon|ITA}} [[A.C. Milan|Milan]]
+|{{sort|2|Undisclosed}}
+|{{dts|31 January 2012}}
+|<ref>[http://www.chelseafc.com/news-article/article/2594726 "Milan move for Prosenik"]. Chelsea F.C. 31 January 2012. Retrieved 3 August 2013.</ref>
+|-
+|align=center|52
+|align=center|{{sort|3|MF}}
+|{{sort|Mellis, Jacob|{{flagicon|ENG}} [[Jacob Mellis]]}}
+|{{flagicon|ENG}} [[Barnsley F.C.|Barnsley]]
+|Free transfer
+|{{dts|20 March 2012}}
+|<ref>[https://www.bbc.co.uk/sport/football/17450634 "Jacob Mellis leaves Chelsea after smoke grenade prank"]. ''BBC Sport''. 20 March 2012. Retrieved 3 August 2013.</ref>
+|}
+
+===Loan out===
+{| class="wikitable plainrowheaders sortable" style="font-size:88%"
+|-
+!{{Abbr| No. | Squad Number }}
+!{{Abbr| Pos | Position }}
+!'''Player'''
+!'''Loaned To'''
+!scope=col width=92|'''Start'''
+!'''End'''
+!'''Loan Fee'''
+!'''Source'''
+|-
+|align=center|43
+|align=center|{{sort|2|DF}}
+|{{sort|Bruma, Jeffrey|{{flagicon|NED}} [[Jeffrey Bruma]]}}
+|{{flagicon|GER}} [[Hamburger SV]]
+|{{dts|1 July 2011}}
+|{{dts|30 June 2012}}
+|align=center|{{sort|1|[[Euro|€]]500,000}}
+|<ref>{{cite news|url=http://www.chelseafc.com/news-article/article/2384576 |archive-url=https://archive.today/20130726224622/http://www.chelseafc.com/news-article/article/2384576 |url-status=dead |archive-date=26 July 2013 |title=Bruma loan to Hamburg |publisher=Chelsea F.C |date=30 June 2011 |access-date=3 August 2013 }}</ref>
+|-
+|align=center|54
+|align=center|{{sort|1|GK}}
+|{{sort|Walker, Sam|{{flagicon|ENG}} [[Sam Walker (footballer)|Sam Walker]]}}
+|{{flagicon|ENG}} [[Northampton Town F.C.|Northampton Town]]
+|{{dts|11 July 2011}}
+|{{dts|23 December 2011}}
+|align=center|Free
+|<ref>{{cite news | url=https://www.bbc.co.uk/sport/football/14110671 | title=Northampton sign Chelsea goalkeeper Sam Walker on loan |work=BBC Sport | date=11 July 2011|access-date=3 August 2013}}</ref><ref>{{cite news | url=http://www.chelseafc.com/news-article/article/2556725 | title=Goalkeeper Walker recalled |publisher=Chelsea F.C | date=23 December 2011|access-date=3 August 2013}}</ref>
+|-
+|align=center|—
+|align=center|{{sort|1|GK}}
+|{{sort|Courtois, Thibaut|{{flagicon|BEL}} [[Thibaut Courtois]]}}
+|{{flagicon|ESP}} [[Atlético Madrid]]
+|{{dts|26 July 2011}}
+|{{dts|30 June 2012}}
+|align=center|Free
+|<ref name="Courtois Relishing Challenge">{{cite news | url=http://www.skysports.com/story/0,19528,12875_7062954,00.html | title=Courtois relishing challenge | work=[[Sky Sports]] | date=26 July 2011|access-date=3 August 2013}}</ref>
+|-
+|align=center|—
+|align=center|{{sort|2|DF}}
+|{{sort|Gordon, Ben|{{flagicon|ENG}} [[Ben Gordon (footballer, born 1991)|Ben Gordon]]}}
+|{{flagicon|ENG}} [[Peterborough United F.C.|Peterborough United]]
+|{{dts|17 August 2011}}
+|{{dts|24 September 2011}}
+|align=center|Free
+|<ref>{{cite news | url=https://www.bbc.co.uk/sport/football/14561049 | title=Peterborough United land Chelsea defender Ben Gordon |work=BBC Sport | date=17 August 2011|access-date=3 August 2013}}</ref><ref>{{cite news | url=http://www.weaintgotnohistory.com/2011/9/25/2448486/ben-gordon-recalled-from-his-loan-to-peterborough-united-by-chelsea-fc | title=Ben Gordon recalled from his loan to Peterborough United by Chelsea |work=SB Nation | date=25 September 2011|access-date=3 August 2013}}</ref>
+|-
+|align=center|64
+|align=center|{{sort|4|FW}}
+|{{sort|Lalkovič, Milan|{{flagicon|SVK}} [[Milan Lalkovič]]}}
+|{{flagicon|ENG}} [[Doncaster Rovers F.C.|Doncaster Rovers]]
+|{{dts|18 August 2011}}
+|{{dts|15 October 2011}}
+|align=center|Free
+|<ref>{{cite news | url=http://www.skysports.com/story/0,19528,12875_7110025,00.html | title=Lalkovic joins Doncaster | work=Sky Sports|date=18 August 2011|access-date=3 August 2013}}</ref><ref>{{cite news | url=http://www.chelseafc.com/news-article/article/2484166 | title=Reserves live on Chelsea TV | publisher=Chelsea F.C.|date=17 October 2011|access-date=3 August 2013}}</ref>
+|-
+|align=center|—
+|align=center|{{sort|2|DF}}
+|{{sort|Kalas, Tomáš|{{flagicon|CZE}} [[Tomáš Kalas]]}}
+|{{flagicon|NED}} [[SBV Vitesse|Vitesse]]
+|{{dts|22 August 2011}}
+|{{dts|30 June 2012}}
+|align=center|Free
+|<ref>{{cite news | url=http://www.chelseafc.com/news-article/article/2428363 | title=Kalas loan to Vitesse | publisher=Chelsea F.C | date=22 August 2011 | access-date=23 August 2011}}</ref>
+|-
+|align=center|—
+|align=center|{{sort|4|FW}}
+|{{sort|Dávila, Ulises|{{flagicon|MEX}} [[Ulises Dávila]]}}
+|{{flagicon|NED}} [[SBV Vitesse|Vitesse]]
+|{{dts|30 August 2011}}
+|{{dts|30 June 2012}}
+|align=center|Free
+|<ref>{{cite news | url=http://www.skysports.com/story/0,19528,12875_7138409,00.html | title=Blues starlet joins Vitesse | work=Sky Sports | date=30 August 2011 | access-date=30 August 2011}}</ref>
+|-
+|align=center|30
+|align=center|{{sort|3|MF}}
+|{{sort|Benayoun, Yossi|{{flagicon|ISR}} [[Yossi Benayoun]]}}
+|{{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|{{dts|31 August 2011}}
+|{{dts|31 May 2012}}
+|align=center|Free
+|<ref>{{cite news | url=https://www.bbc.co.uk/sport/football/14739185 | title=Arsenal sign midfielders Mikel Arteta and Yossi Benayoun |work=BBC Sport |date=31 August 2011 | access-date=31 August 2011}}</ref>
+|-
+|align=center|44
+|align=center|{{sort|4|FW}}
+|{{sort|Kakuta, Gaël|{{flagicon|FRA}} [[Gaël Kakuta]]}}
+|{{flagicon|ENG}} [[Bolton Wanderers F.C.|Bolton Wanderers]]
+|{{dts|31 August 2011}}
+|{{dts|1 January 2012}}
+|align=center|Free
+|<ref>{{cite news | url=http://www.chelseafc.com/news-article/article/2437904 | archive-url=https://archive.today/20130726224657/http://www.chelseafc.com/news-article/article/2437904 | url-status=dead | archive-date=26 July 2013 | title=Kakuta loan to Bolton | publisher=Chelsea F.C | date=31 August 2011 | access-date=1 September 2011 }}</ref>
+|-
+|align=center|38
+|align=center|{{sort|2|DF}}
+|{{sort|van Aanholt, Patrick|{{flagicon|NED}} [[Patrick van Aanholt]]}}
+|{{flagicon|ENG}} [[Wigan Athletic F.C.|Wigan Athletic]]
+|{{dts|31 August 2011}}
+|{{dts|6 January 2012}}
+|align=center|Free
+|<ref>{{cite news | url=http://www.chelseafc.com/news-article/article/2437772 | title=Wigan Loan for Van Aanholt | publisher=Chelsea F.C | date=31 August 2011 | access-date=3 August 2013}}</ref><ref>{{cite news|url=http://www.chelseafc.com/news-article/article/2568792 |archive-url=https://archive.today/20130804060830/http://www.chelseafc.com/news-article/article/2568792 |url-status=dead |archive-date=4 August 2013 |title=Van Aanholt returns |publisher=Chelsea F.C |date=6 January 2012 |access-date=3 August 2013 }}</ref>
+|-
+|align=center|—
+|align=center|{{sort|1|GK}}
+|{{sort|Delač, Matej|{{flagicon|CRO}} [[Matej Delač]]}}
+|{{flagicon|CZE}} [[SK Dynamo České Budějovice|České Budějovice]]
+|{{dts|13 September 2011}}
+|{{dts|30 June 2012}}
+|align=center|Free
+|<ref>{{cite news | url=http://www.chelseafc.com/news-article/article/2453314 | title=Delac loan deal | publisher=Chelsea F.C | date=16 September 2011 | access-date=16 September 2011}}</ref>
+|-
+|align=center|48
+|align=center|{{sort|3|MF}}
+|{{sort|Clifford, Conor|{{flagicon|IRE}} [[Conor Clifford]]}}
+|{{flagicon|ENG}} [[Yeovil Town F.C.|Yeovil Town]]
+|{{dts|4 November 2011}}
+|{{dts|3 January 2012}}
+|align=center|Free
+|<ref>{{cite news | url=https://www.bbc.co.uk/sport/football/15593797 | title=Chelsea's Conor Clifford joins Yeovil Town on loan | work=BBC Sport | date=4 November 2011 | access-date=3 August 2013}}</ref><ref>{{cite news | url=https://www.bbc.co.uk/sport/football/16035468 | title=Yeovil Town extend loan of Chelsea's Conor Clifford | work=BBC Sport | date=5 December 2011 | access-date=3 August 2013}}</ref>
+|-
+|align=center|60
+|align=center|{{sort|1|GK}}
+|{{sort|Taylor, Rhys|{{flagicon|WAL}} [[Rhys Taylor]]}}
+|{{flagicon|ENG}} [[Rotherham United F.C.|Rotherham United]]
+|{{dts|2 January 2012}}
+|{{dts|5 May 2012}}
+|align=center|Free
+|<ref name="kaby"/><ref>{{cite news | url =http://www.chelseafc.com/news-article/article/2563548 | title=Taylor loaned to Millers | publisher=Chelsea F.C | date=2 January 2012 | access-date=3 August 2013}}</ref>
+|-
+|align=center| —
+|align=center|{{sort|2|DF}}
+|{{sort|Omeruo, Kenneth|{{flagicon|NGR}} [[Kenneth Omeruo]]}}
+|{{flagicon|NED}} [[ADO Den Haag]]
+|{{dts|7 January 2012}}
+|{{dts|30 June 2013}}
+|align=center|Free
+|<ref name="Omeruo"/>
+|-
+|align=center|—
+|align=center|{{sort|2|DF}}
+|{{sort|Gordon, Ben|{{flagicon|ENG}} [[Ben Gordon (footballer, born 1991)|Ben Gordon]]}}
+|{{flagicon|SCO}} [[Kilmarnock F.C.|Kilmarnock]]
+|{{dts|11 January 2012}}
+|{{dts|31 May 2012}}
+|align=center|Free
+|<ref>{{cite news | url =https://www.bbc.co.uk/sport/football/16516470 | title=Kilmarnock complete deals for Dean Shiels and Ben Gordon |work=BBC Sport | date=11 January 2012 | access-date=3 August 2013}}</ref>
+|-
+|align=center|44
+|align=center|{{sort|4|FW}}
+|{{sort|Kakuta, Gaël|{{flagicon|FRA}} [[Gaël Kakuta]]}}
+|{{flagicon|FRA}} [[Dijon FCO|Dijon]]
+|{{dts|11 January 2012}}
+|{{dts|30 June 2012}}
+|align=center|Free
+|<ref>{{cite news| url=http://www1.skysports.com/football/news/11668/7419672/Kakuta-claims-Dijon-deal | title=Kakuta claims Dijon deal | work=Sky Sports | date=9 January 2012| access-date=3 June 2012}}</ref>
+|-
+|align=center|20
+|align=center|{{sort|3|MF}}
+|{{sort|McEachran, Josh|{{flagicon|ENG}} [[Josh McEachran]]}}
+|{{flagicon|WAL}} [[Swansea City A.F.C.|Swansea City]]
+|{{dts|15 January 2012}}
+|{{dts|31 May 2012}}
+|align=center|Free
+|<ref>[https://www.bbc.co.uk/sport/football/16456179 "Swansea City reach Josh McEachran loan deal with Chelsea"]. ''BBC Sport''. 15 January 2012. Retrieved 3 August 2013.</ref>
+|-
+|align=center|38
+|align=center|{{sort|2|DF}}
+|{{sort|van Aanholt, Patrick|{{flagicon|NED}} [[Patrick van Aanholt]]}}
+|{{flagicon|NED}} [[SBV Vitesse|Vitesse]]
+|{{dts|16 January 2012}}
+|{{dts|30 June 2012}}
+|align=center|Free
+|<ref>[http://www1.skysports.com/football/news/11661/7436073/ "Vitesse grab Van Aanholt"]. ''Sky Sports''. 16 January 2012. Retrieved 3 August 2013</ref>
+|-
+|align=center|—
+|align=center|{{sort|1|GK}}
+|{{sort|Walker, Sam|{{flagicon|ENG}} [[Sam Walker (footballer)|Sam Walker]]}}
+|{{flagicon|ENG}} [[Yeovil Town F.C.|Yeovil Town]]
+|{{dts|19 January 2012}}
+|{{dts|31 May 2012}}
+|align=center|Free
+|<ref>[https://www.bbc.co.uk/sport/football/16627639 "Yeovil sign Chelsea's Sam Walker"]. ''BBC Sport''. 19 January 2012. Retrieved 3 August 2013.</ref>
+|-
+|align=center|—
+|align=center|{{sort|3|MF}}
+|{{sort|De Bruyne, Kevin|{{flagicon|BEL}} [[Kevin De Bruyne]]}}
+|{{flagicon|BEL}} [[K.R.C. Genk|Genk]]
+|{{dts|31 January 2012}}
+|{{dts|30 June 2012}}
+|align=center|Free
+|<ref name="De Bruyne"/>
+|-
+|align=center|64
+|align=center|{{sort|4|FW}}
+|{{sort|Lalkovič, Milan|{{flagicon|SVK}} [[Milan Lalkovič]]}}
+|{{flagicon|NED}} [[ADO Den Haag]]
+|{{dts|31 January 2012}}
+|{{dts|11 April 2012}}
+|align=center|Free
+|<ref>{{cite news | url=http://www.chelseafc.com/news-article/article/2595671 | title=Lalkovic loaned | publisher=Chelsea F.C.|date=3 February 2012|access-date=3 August 2013}}</ref><ref>{{cite news | url=http://www.voetbalprimeur.nl/nieuws/item/ado-bevestigt-lalkovic-terug-naar-chelsea | language=nl | title=ADO bevestigt: Lalkovic terug naar Chelsea | trans-title=ADO confirms: Lalkovic returns to Chelsea | work=VoetbalPrimeur.nl | date=11 April 2012 | access-date=3 August 2013 | archive-url=https://web.archive.org/web/20140419014745/http://www.voetbalprimeur.nl/nieuws/item/ado-bevestigt-lalkovic-terug-naar-chelsea | archive-date=19 April 2014 | url-status=dead }}</ref>
+|}
+
+===Overall transfer activity===
+{{col-begin}}
+{{col-3}}
+
+====Spending====
+Summer: {{loss}} £60 million
+
+Winter: {{loss}} £21.2<small>+</small> million
+
+Total: {{loss}}  £81.2 million
+
+{{col-3}}
+
+====Income====
+Summer: {{profit}} £20.65 million
+
+Winter: {{profit}} £4.2<small>+</small> million
+
+Total: {{profit}} £24.85 million
+
+{{col-3}}
+
+====Expenditure====
+Summer: {{loss}} £39.35 million
+
+Winter: {{loss}} £17 million
+
+Total: {{loss}} £56.35 million
+{{col-end}}
+
+==Competitions==
+
+===Overview===
+{{fb overall competition header}}
+{{fb overall2 competition |bg= |cl = [[2011–12 Premier League|Premier League]]|fprn=6th |dfm=14 August 2011 |dlm=13 May 2012}}
+{{fb overall2 competition |bg=y |cl = [[2011–12 FA Cup|FA Cup]]|srn = [[2011–12 FA Cup#Third round proper|3rd round]]|fp=Winner |fprn=Winners |dfm=8 January 2012 |dlm=5 May 2012}}
+{{fb overall2 competition |bg= |cl = [[2011–12 Football League Cup|Football League Cup]]|srn = [[2011–12 Football League Cup#Third round|3rd round]]|fprn=Quarterfinal |dfm=21 September 2011|dlm=29 November 2011}}
+{{fb overall2 competition |bg=y |cl = [[2011–12 UEFA Champions League|UEFA Champions League]]|srn = [[2011–12 UEFA Champions League#Group stage|Group stage]]|fp=Winner |fprn=Winners |dfm=13 September 2011 |dlm=19 May 2012}}
+{{end}}
+
+===Pre-season and friendlies===
+{{football box collapsible
+|date=12 July 2011
+|time=
+|team1=[[Chelsea F.C.|Chelsea]]
+|score=3–0
+|team2=[[Wycombe Wanderers F.C.|Wycombe Wanderers]]
+|report={{Deprecated archive|url=https://archive.today/20130215170155/http://www.chelseafc.com/news-article/article/2391413|title=Report}} 
+|goals1=[[Yossi Benayoun|Benayoun]] {{goal|4}}<br>[[Fernando Torres|Torres]] {{goal|52}}<br>[[Slobodan Rajković|Rajković]] {{goal|56}}
+|goals2=
+|stadium=[[Cobham Training Centre]]
+|location=[[Cobham, Surrey|Cobham]]<ref>{{cite news|url=http://www.chelseafc.com/news-article/article/2391413 |archive-url=https://archive.today/20130215170155/http://www.chelseafc.com/news-article/article/2391413 |url-status=dead |archive-date=15 February 2013 |title=Closed Door Friendly |publisher=Chelsea F.C. |date=12 July 2011 |access-date=12 July 2011 }}</ref>
+|attendance=None (Behind closed doors)
+|referee=[[Phil Dowd]]
+|result=W
+}}
+
+{{football box collapsible
+|date=16 July 2011
+|time=15:00 [[British Summer Time|BST]]
+|team1=[[Portsmouth F.C.|Portsmouth]]
+|score= 0–1
+|team2=[[Chelsea F.C.|Chelsea]]
+|report=[http://www.chelseafc.com/news-article/article/2394386 Report] 
+|goals1=
+|goals2= [[Tal Ben Haim|Ben Haim]] {{Goal|7|o.g.}} <br> [[Henrique Hilário|Hilário]] {{yel|60}} <br> [[Yossi Benayoun|Benayoun]] {{yel|87}}
+|stadium=[[Fratton Park]]
+|location=[[Portsmouth]]<ref>{{cite news | url=http://www.chelseafc.com/news-article/article/2362628 | title=South coast Summer friendly announced | publisher=Chelsea F.C. | date=18 May 2011 | access-date=1 June 2011| archive-url= https://web.archive.org/web/20110522035504/http://www.chelseafc.com/news-article/article/2362628| archive-date= 22 May 2011 | url-status= live}}</ref>
+|attendance=19,345
+|referee=[[Keith Stroud]]
+|result=W
+}}
+
+{{football box collapsible
+|date=21 July 2011
+|time=13:45 [[British Summer Time|BST]]
+|team1=[[Malaysia League XI|Malaysia XI]] {{Flagicon|MAS}}
+|score=0–1
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|report=[http://www.chelseafc.com/news-article/article/2398657 Report]
+|goals2= [[Didier Drogba|Drogba]] {{goal|81}} 
+|stadium=[[Bukit Jalil Stadium]]
+|location=[[Kuala Lumpur]], [[Malaysia]]<ref>{{cite news|url=http://www.chelseafc.com/page/TourDetails/0,,10268~2181293,00.html |title=Tour Articles – Kuala Lumpur, Malaysia |publisher=Chelsea F.C |access-date=1 June 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110923020813/http://www.chelseafc.com/page/TourDetails/0%2C%2C10268~2181293%2C00.html |archive-date=23 September 2011 }}</ref>
+|attendance=84,980
+|referee= [[Subkhiddin Mohd Salleh]]
+|result=W
+}}
+
+{{football box collapsible
+|date=24 July 2011
+|time=11:45 [[British Summer Time|BST]]
+|team1=Thailand XI {{Flagicon|THA}}
+|score=0–4
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|report=[http://www.chelseafc.com/news-article/article/2400613 (Report)]
+|goals1= Florent {{yel|88}}
+|goals2= [[Frank Lampard|Lampard]] {{goal|37}} <br> [[José Bosingwa|Bosingwa]] {{goal|49}} <br> [[Branislav Ivanović|Ivanović]] {{goal|51}} <br> [[Florent Malouda|Malouda]] {{goal|72}}
+|stadium=[[Rajamangala National Stadium]]
+|location=[[Bangkok]], [[Thailand]]<ref>{{cite news|url=http://www.chelseafc.com/page/TourDetails/0,,10268~2181294,00.html |title=Tour Articles – Bangkok, Thailand |publisher=Chelsea F.C |access-date=1 June 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110513095114/http://www.chelseafc.com/page/TourDetails/0%2C%2C10268~2181294%2C00.html |archive-date=13 May 2011 }}</ref>
+|attendance=50,000
+|referee=[[Apisit Aonrak]]
+|result=W
+}}
+
+{{football box collapsible
+|date=6 August 2011
+|time=15:00 [[British Summer Time|BST]]
+|team1=[[Rangers F.C.|Rangers]] {{Flagicon|SCO}}
+|score=1–3
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|report=[http://www.chelseafc.com/news-article/article/2412153 Report]
+|goals1=[[Nikica Jelavić|Jelavić]] {{goal|6}}
+|goals2=[[Daniel Sturridge|Sturridge]] {{goal|21||29}} <br> [[Florent Malouda|Malouda]] {{goal|71}}
+|stadium=[[Ibrox Stadium]]
+|location=[[Glasgow]], [[Scotland]]<ref>{{cite web | url=http://www.chelseafc.com/news-article/article/2365424 | title=Scottish date added to pre-season programme | publisher=Chelsea F.C | date=23 May 2011 | access-date=1 June 2011}}</ref>
+|attendance=47,379
+|referee=[[Craig Thomson (referee)|Craig Thomson]]
+|result=W
+}}
+
+====Barclays Asia Trophy====
+{{main|2011 Barclays Asia Trophy}}
+
+{{football box collapsible
+|round=Semi-Final
+|date=27 July 2011
+|time=13:30 [[British Summer Time|BST]]
+|team1=[[Kitchee SC|Kitchee]] {{Flagicon|HKG}}
+|score= 0–4
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|report= [http://www.chelseafc.com/news-article/article/2403522 Report]
+|goals1= 
+|goals2= [[Frank Lampard|Lampard]] {{goal|38|pen.}} <br> [[Ubay Luzardo|Luzardo]] {{goal|50|o.g.}} <br> [[Didier Drogba|Drogba]] {{goal|61}} <br> [[Daniel Sturridge|Sturridge]] {{goal|78}}
+|stadium=[[Hong Kong Stadium]]
+|location=Hong Kong<ref name="HongKong">{{cite web|url=http://www.chelseafc.com/page/TourDetails/0,,10268~2181296,00.html |title=Tour Articles – Hong Kong |publisher=Chelsea F.C |access-date=7 August 2013 |url-status=dead |archive-url=https://web.archive.org/web/20110718071316/http://www.chelseafc.com/page/TourDetails/0%2C%2C10268~2181296%2C00.html |archive-date=18 July 2011 }}</ref>
+|attendance=33,967
+|referee=[[Phil Dowd]]
+|result=W
+}}
+
+{{football box collapsible
+|round=Final
+|date=30 July 2011
+|time=13:30 [[British Summer Time|BST]]
+|team1= [[Chelsea F.C.|Chelsea]] {{Flagicon|ENG}} 
+|score= 2–0
+|team2= {{Flagicon|ENG}} [[Aston Villa F.C.|Aston Villa]] 
+|report=[http://www.chelseafc.com/news-article/article/2405853 Report]
+|goals1= [[Josh McEachran|McEachran]] {{goal|1}} <br> [[Fernando Torres|Torres]] {{goal|59}} <br> [[Florent Malouda|Malouda]] {{yel|90+2}}
+|goals2= [[Marc Albrighton|Albrighton]] {{yel|28}}
+|stadium=[[Hong Kong Stadium]]
+|location=Hong Kong<ref name="HongKong"/>
+|attendance=38,911
+|referee= [[Mike Dean (referee)|Mike Dean]]
+|result=W
+}}
+
+===Premier League===
+{{main|2011–12 Premier League}}
+
+====League table====
+{{:2011–12 Premier League|showteam=CHE}}
+
+====Results summary====
+{{Fb_rs |hw=12 |hd=3 |hl=4 |hgf=41 |hga=24 |aw=6 |ad=7 |al=6 |agf=24 |aga=22}}
+
+====Results by round====
+{{#invoke:sports rbr table|table|legendpos=b
+|header=Round
+|label1= Ground
+| res1=[[Britannia Stadium|A]]/[[Stamford Bridge (stadium)|H]]/[[Stamford Bridge (stadium)|H]]/[[Stadium of Light|A]]/[[Old Trafford|A]]/[[Stamford Bridge (stadium)|H]]/[[Reebok Stadium|A]]/[[Stamford Bridge (stadium)|H]]/[[Loftus Road|A]]/[[Stamford Bridge (stadium)|H]]/[[Ewood Park|A]]/[[Stamford Bridge (stadium)|H]]/[[Stamford Bridge (stadium)|H]]/[[St James' Park|A]]/[[Stamford Bridge (stadium)|H]]/[[DW Stadium|A]]/[[White Hart Lane|A]]/[[Stamford Bridge (stadium)|H]]/[[Stamford Bridge (stadium)|H]]/[[Molineux Stadium|A]]/[[Stamford Bridge (stadium)|H]]/[[Carrow Road|A]]/[[Liberty Stadium|A]]/[[Stamford Bridge (stadium)|H]]/[[Goodison Park|A]]/[[Stamford Bridge (stadium)|H]]/[[The Hawthorns|A]]/[[Stamford Bridge (stadium)|H]]/[[City of Manchester Stadium|A]]/[[Stamford Bridge (stadium)|H]]/[[Villa Park|A]]/[[Stamford Bridge (stadium)|H]]/[[Craven Cottage|A]]/[[Emirates Stadium|A]]/[[Stamford Bridge (stadium)|H]]/[[Stamford Bridge (stadium)|H]]/[[Anfield|A]]/[[Stamford Bridge (stadium)|H]]
+|label2= Result
+| res2=D/W/W/W/L/W/W/W/L/L/W/L/W/W/W/D/D/D/L/W/W/D/D/D/L/W/L/W/L/D/W/W/D/D/W/L/L/W
+|label3= Position
+| res3=11/6/4/3/3/3/3/3/3/4/4/5/5/4/3/4/4/4/5/4/4/4/4/4/5/5/5/5/5/5/5/5/6/6/6/6/6/6
+|label4=Points
+|
+res4=1/4/7/10/10/13/16/19/19/19/22/22/25/28/31/32/33/34/34/37/40/41/42/43/43/46/46/49/49/50/53/56/57/58/61/61/61/64
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_2=2nd|color_3=3rd|color_180-=red1
+
+|source=
+}}
+
+====Matches====
+{{football box collapsible 
+|date=14 August 2011
+|time=13:30 [[British Summer Time|BST]]
+|round=1
+|team1=[[Stoke City F.C.|Stoke City]] 
+|score=0–0
+|report=https://www.bbc.co.uk/sport/0/football/14435069 
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Ryan Shawcross|Shawcross]] {{yel|10}}<br>[[Marc Wilson (Irish footballer)|Wilson]] {{yel|80}}
+|goals2= {{yel|66}} [[Ashley Cole|Cole]] <br> {{yel|88}} [[Frank Lampard|Lampard]]
+|stadium=[[Britannia Stadium]]
+|location=[[Stoke-on-Trent]]
+|attendance=27,412
+|referee=[[Mark Halsey]]
+|result=D
+}}
+{{football box collapsible
+|date=20 August 2011
+|time=17:30 [[British Summer Time|BST]]
+|round=2
+|team1=[[Chelsea F.C.|Chelsea]] 
+|score= 2–1
+|report=https://www.bbc.co.uk/sport/0/football/14514579 
+|team2=[[West Bromwich Albion F.C.|West Bromwich Albion]]
+|goals1= [[Frank Lampard|Lampard]] {{yel|23}} <br>[[Nicolas Anelka|Anelka]] {{goal|53}}<br>[[Florent Malouda|Malouda]] {{goal|83}}<br>[[John Terry|Terry]] {{yel|90}}
+|goals2= {{goal|4}} [[Shane Long|Long]] <br> {{yel|7}} [[Gabriel Tamaș|Tamaș]] <br> {{yel|45}} [[Youssouf Mulumbu|Mulumbu]] <br> {{yel|60}} [[Jonas Olsson (footballer, born 1983)|Olsson]] <br> {{yel|90+2}} [[Peter Odemwingie|Odemwingie]] 
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London
+|attendance=41,091
+|referee=[[Lee Mason]]
+|result=W
+}}
+{{football box collapsible
+|date=27 August 2011
+|time=15:00 [[British Summer Time|BST]]
+|round=3
+|team1=[[Chelsea F.C.|Chelsea]] 
+|score= 3–1
+|report=https://www.bbc.co.uk/sport/0/football/14600575 
+|team2=[[Norwich City F.C.|Norwich City]]
+|goals1= [[José Bosingwa|Bosingwa]] {{goal|5}}, {{yel|35}}<br>[[Fernando Torres|Torres]] {{yel|56}}<br>[[Frank Lampard|Lampard]] {{goal|82|pen.}}<br>[[Juan Mata|Mata]] {{goal|90+9}}
+|goals2= {{yel|41}} [[Andrew Crofts (footballer)|Crofts]] <br> {{yel|59}} [[Kyle Naughton|Naughton]] <br> {{goal|63}} [[Grant Holt|Holt]] <br> {{sent off|0|80}} [[John Ruddy|Ruddy]] 
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London
+|attendance=41,765
+|referee=Jones
+|result=W
+}}
+{{football box collapsible
+|date=10 September 2011
+|time=15:00 [[British Summer Time|BST]]
+|round=4
+|team1=[[Sunderland A.F.C.|Sunderland]] 
+|score= 1–2
+|report=https://www.bbc.co.uk/sport/0/football/14773097 
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Jack Colback|Colback]] {{yel|23}}<br>[[Ji Dong-won|Ji]] {{goal|90+1}}
+|goals2= {{goal|18}} [[John Terry|Terry]] <br> {{goal|50}} [[Daniel Sturridge|Sturridge]] <br> {{yel|90+2}} [[José Bosingwa|Bosingwa]] 
+|stadium=[[Stadium of Light]]
+|location=[[Sunderland, Tyne and Wear|Sunderland]]
+|attendance=36,699
+|referee=[[Lee Probert]]
+|result=W
+}}
+{{football box collapsible
+|date=18 September 2011
+|time=16:00 [[British Summer Time|BST]]
+|round=5
+|team1=[[Manchester United F.C.|Manchester United]] 
+|score= 3–1
+|report=https://www.bbc.co.uk/sport/0/football/14869914 
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Chris Smalling|Smalling]] {{goal|8}}<br>[[Nani (footballer)|Nani]] {{goal|37}}<br>[[Wayne Rooney|Rooney]] {{goal|45}}<br>[[Antonio Valencia|Valencia]] {{yel|80}}<br> [[Darren Fletcher|Fletcher]] {{yel|85}}
+|goals2= {{goal|47}} [[Fernando Torres|Torres]] <br> {{yel|49}} [[Ramires]] <br> {{yel|56}} [[John Terry|Terry]] <br> {{yel|78}} [[Ashley Cole|Cole]] 
+|stadium=[[Old Trafford]]
+|location=[[Manchester]]
+|attendance=75,455
+|referee=[[Phil Dowd]]
+|result=L
+}}
+{{football box collapsible
+|date=24 September 2011
+|time=15:00 [[British Summer Time|BST]]
+|round=6
+|team1=[[Chelsea F.C.|Chelsea]] 
+|score= 4–1
+|report=https://www.bbc.co.uk/sport/0/football/14957961 
+|team2=[[Swansea City A.F.C.|Swansea City]]
+|goals1=[[Fernando Torres|Torres]] {{goal|29}}, {{sent off|0|38}}<br>[[Juan Mata|Mata]] {{yel|32}}<br>[[Ramires]] {{goal|35||71}}<br>[[Ashley Cole|Cole]] {{yel|85}}<br>[[Mikel John Obi|Mikel]] {{yel|90+3}}<br>[[Didier Drogba|Drogba]] {{goal|90+3}}
+|goals2= {{yel|53}} [[Nathan Dyer|Dyer]] <br> {{goal|85}} [[Ashley Williams (footballer)|Williams]] <br> {{yel|88}} [[Neil Taylor (footballer)|Taylor]] 
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London
+|attendance=41,800
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=W
+}}
+{{football box collapsible
+|date=2 October 2011
+|time=13:30 [[British Summer Time|BST]]
+|round=7
+|team1=[[Bolton Wanderers F.C.|Bolton Wanderers]]
+|score= 1–5
+|report=https://www.bbc.co.uk/sport/0/football/15051291 
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[David Ngog|Ngog]] {{yel|10}} <br> [[Dedryck Boyata|Boyata]] {{goal|46}}
+|goals2= {{goal|2||25}} [[Daniel Sturridge|Sturridge]] <br> {{goal|15||27||59}} [[Frank Lampard|Lampard]] <br> {{yel|61}} [[David Luiz]] <br> {{yel|78}} [[John Terry|Terry]]
+|stadium=[[Reebok Stadium]]
+|location=[[Bolton]]
+|attendance=24,657
+|referee=[[Peter Walton (referee)|Peter Walton]]
+|result=W
+}}
+{{football box collapsible
+|date=15 October 2011
+|time=17:30 [[British Summer Time|BST]]
+|round=8
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 3–1
+|report=https://www.bbc.co.uk/sport/0/football/15226120 
+|team2=[[Everton F.C.|Everton]]
+|goals1=[[Daniel Sturridge|Sturridge]] {{goal|31}} {{yel|70}}<br>[[Ashley Cole|Cole]] {{yel|37}}<br>[[John Terry|Terry]] {{goal|45+2}}<br>[[Ramires]] {{goal|61}}
+|goals2= {{yel|16}} [[Marouane Fellaini|Fellaini]] <br> {{yel|42}} [[Leighton Baines|Baines]]<br> {{goal|81}} [[Apostolos Vellios|Vellios]]
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London
+|attendance=41,789
+|referee=[[Mike Jones (referee)|Mike Jones]]
+|result=W
+}}
+{{football box collapsible
+|date=23 October 2011
+|time=16:00 [[British Summer Time|BST]]
+|round=[[West London derby|9]]
+|team1=[[Queens Park Rangers F.C.|Queens Park Rangers]]
+|score= 1–0
+|report= https://www.bbc.co.uk/sport/0/football/15325522 
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Heiðar Helguson|Helguson]] {{goal|10|pen.}} <br> [[Shaun Derry|Derry]] {{yel|52}} <br> [[Joey Barton|Barton]] {{yel|59}}
+|goals2= {{sent off|0|32}} [[José Bosingwa|Bosingwa]] <br> {{sent off|0|41}} [[Didier Drogba|Drogba]] <br> {{yel|50}} [[Mikel John Obi|Mikel]] <br> {{yel|52}} [[Frank Lampard|Lampard]] <br> {{yel|58}} [[Branislav Ivanović|Ivanović]] <br> {{yel|70}} [[David Luiz]] <br> {{yel|72}} [[Raul Meireles|Meireles]] <br> {{yel|76}} [[Ashley Cole|Cole]] <br> {{yel|90}} [[John Terry|Terry]] 
+|stadium=[[Loftus Road]]
+|location=London
+|attendance=18,050
+|referee=[[Chris Foy (referee)|Chris Foy]]
+|result=L
+}}
+{{football box collapsible
+|date=29 October 2011
+|time=12:45 [[British Summer Time|BST]]
+|round=[[Arsenal F.C.–Chelsea F.C. rivalry|10]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 3–5
+|report= https://www.bbc.co.uk/sport/0/football/15413593 
+|team2=[[Arsenal F.C.|Arsenal]]
+|goals1=[[Frank Lampard|Lampard]] {{goal|14}} <br> [[John Terry|Terry]] {{goal|44}} <br> [[Branislav Ivanović|Ivanović]] {{yel|79}} <br> [[Juan Mata|Mata]] {{goal|80}} <br> [[Raul Meireles|Meireles]] {{yel|90+2}}
+|goals2={{goal|37||85||90+2}} {{yel|78}} [[Robin van Persie|Van Persie]] <br> {{goal|49}} [[André Santos|Santos]] <br> {{yel|50}} [[Wojciech Szczęsny|Szczęsny]] <br> {{goal|55}} [[Theo Walcott|Walcott]] <br> {{yel|90+1}} [[Alex Song|Song]]
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London
+|attendance= 41,801
+|referee=[[Andre Marriner]]
+|result=L
+}}
+{{football box collapsible
+|date=5 November 2011
+|time=15:00 [[Greenwich Mean Time|GMT]]
+|round=11
+|team1= [[Blackburn Rovers F.C.|Blackburn Rovers]]
+|score= 0–1
+|report=https://www.bbc.co.uk/sport/0/football/15504024 
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Jason Lowe (footballer)|Lowe]] {{yel|55}} <br /> [[Grant Hanley|Hanley]] {{yel|70}} <br /> [[Gaël Givet|Givet]] {{yel|76}} <br /> [[Morten Gamst Pedersen|Pedersen]] {{yel|79}} 
+|goals2= {{goal|51}} [[Frank Lampard|Lampard]]<br /> {{yel|76}} [[Daniel Sturridge|Sturridge]] <br /> {{yel|89}} [[Raul Meireles|Meireles]] 
+|stadium=[[Ewood Park]]
+|location=[[Blackburn]]
+|attendance= 21,985
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=W
+}}
+{{football box collapsible
+|date=20 November 2011
+|time=16:00 [[Greenwich Mean Time|GMT]]
+|round=12
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 1–2
+|report= https://www.bbc.co.uk/sport/0/football/15710566 
+|team2= [[Liverpool F.C.|Liverpool]]
+|goals1= [[David Luiz]] {{yel|41}} <br> [[Daniel Sturridge|Sturridge]] {{goal|54}} <br> [[Ramires]] {{yel|62}} <br> [[Branislav Ivanović|Ivanović]] {{yel|79}}
+|goals2= {{yel|29}} [[Lucas Leiva|Lucas]] <br> {{goal|33}} [[Maxi Rodríguez|Rodríguez]] <br> {{yel|64}} [[Dirk Kuyt|Kuyt]] <br> {{goal|87}} [[Glen Johnson (English footballer)|G. Johnson]]
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London
+|attendance= 41,820
+|referee=[[Lee Probert]]
+|result= L
+}}
+{{football box collapsible
+|date=26 November 2011
+|time=15:00 [[Greenwich Mean Time|GMT]]
+|round=13
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 3–0
+|report= https://www.bbc.co.uk/sport/0/football/15802555 
+|team2= [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|goals1= [[John Terry|Terry]] {{goal|7}}, {{yel|89}}<br> [[Daniel Sturridge|Sturridge]] {{goal|29}} <br> [[Juan Mata|Mata]] {{goal|45}}
+|goals2= {{yel|16}} [[David Edwards (footballer, born 1986)|Edwards]]<br> {{yel|34}} [[Karl Henry|Henry]]
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London
+|attendance= 41,648
+|referee=[[Lee Mason]]
+|result= W
+}}
+{{football box collapsible
+|date=3 December 2011
+|time=12:45 [[Greenwich Mean Time|GMT]]
+|round=14
+|team1= [[Newcastle United F.C.|Newcastle United]]
+|score= 0–3
+|report= https://www.bbc.co.uk/sport/0/football/15901588 
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1= [[Danny Simpson|Simpson]] {{yel|89}} <br> [[Ryan Taylor (footballer, born 1984)|R. Taylor]] {{yel|90+3}}
+|goals2= {{yel|4}} [[David Luiz]] <br> {{goal|38}} [[Didier Drogba|Drogba]] <br> {{yel|85}}, {{goal|90+2}} [[Daniel Sturridge|Sturridge]] <br> {{goal|89}} [[Solomon Kalou|Kalou]] <br> {{yel|90+4}} [[John Terry|Terry]]
+|stadium=[[St James' Park]]
+|location=[[Newcastle upon Tyne]]
+|attendance= 52,305
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result= W
+}}
+{{football box collapsible
+|date=12 December 2011
+|time=20:00 [[Greenwich Mean Time|GMT]]
+|round=15
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 2–1
+|report= http://news.bbc.co.uk/sport1/hi/football/eng_prem/16117291.stm  
+|team2= [[Manchester City F.C.|Manchester City]]
+|goals1= [[Raul Meireles|Meireles]] {{goal|35}}, {{yel|36}} <br> [[Oriol Romeu|Romeu]] {{yel|64}} <br> [[Ramires]] {{yel|75}} <br> [[Didier Drogba|Drogba]] {{yel|78}} <br> [[Frank Lampard|Lampard]] {{goal|82|pen.}}
+|goals2= {{goal|2}} [[Mario Balotelli|Balotelli]] <br> {{yel|41}} [[Vincent Kompany|Kompany]]<br> {{sent off|2|47|58}} [[Gaël Clichy|Clichy]] 
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London
+|attendance= 41,730 
+|referee=[[Mark Clattenburg]]
+|result= W
+}}
+{{football box collapsible
+|date=17 December 2011
+|time=17:30 [[Greenwich Mean Time|GMT]]
+|round=16
+|team1= [[Wigan Athletic F.C.|Wigan Athletic]]
+|score= 1–1
+|report= https://www.bbc.co.uk/sport/0/football/16124079 
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1= [[Jordi Gómez|Gómez]] {{goal|88}}
+|goals2= {{goal|59}} [[Daniel Sturridge|Sturridge]]
+|stadium=[[DW Stadium]]
+|location=[[Wigan]]
+|attendance= 18,320 
+|referee=[[Martin Atkinson]]
+|result= D
+}}
+{{football box collapsible
+|date=22 December 2011
+|time=20:00 [[Greenwich Mean Time|GMT]]
+|round=[[Chelsea F.C.–Tottenham Hotspur F.C. rivalry|17]]
+|team1= [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|score= 1–1
+|report= https://www.bbc.co.uk/sport/0/football/16192968 
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1= [[Emmanuel Adebayor|Adebayor]] {{goal|8}}, {{yel|19}} <br> [[Gareth Bale|Bale]] {{yel|70}}
+|goals2= {{yel|12}} [[Branislav Ivanović|Ivanović]] <br> {{goal|23}} [[Daniel Sturridge|Sturridge]] <br> {{yel|42}} [[Ramires]]
+|stadium=[[White Hart Lane]]
+|location=London
+|attendance= 36,141
+|referee=[[Howard Webb]]
+|result= D
+}}
+{{football box collapsible
+|date=26 December 2011
+|time=13:00 [[Greenwich Mean Time|GMT]]
+|round=[[West London derby|18]]
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 1–1
+|report= https://www.bbc.co.uk/sport/0/football/16240767 
+|team2= [[Fulham F.C.|Fulham]]
+|goals1= [[Juan Mata|Mata]] {{goal|47}} <br> [[José Bosingwa|Bosingwa]] {{yel|68}}
+|goals2= {{yel|7}}, {{goal|55}} [[Clint Dempsey|Dempsey]]
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London
+|attendance= 41,548
+|referee=[[Kevin Friend]]
+|result= D
+}}
+{{football box collapsible
+|date=31 December 2011
+|time=15:00 [[Greenwich Mean Time|GMT]]
+|round=19
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 1–3
+|report= https://www.bbc.co.uk/sport/0/football/16324977 
+|team2= [[Aston Villa F.C.|Aston Villa]]
+|goals1= [[Didier Drogba|Drogba]] {{goal|23|pen.}} <br> [[John Terry|Terry]] {{yel|32}}
+|goals2= {{goal|28}} [[Stephen Ireland|Ireland]] <br> {{yel|67}} [[Carlos Cuéllar|Cuéllar]] <br> {{goal|83}} [[Stiliyan Petrov|Petrov]] <br> {{goal|85}} [[Darren Bent|Bent]]
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London
+|attendance= 41,332
+|referee=[[Mark Halsey]]
+|result= L
+}}
+{{football box collapsible
+|date=2 January 2012
+|time=15:00 [[Greenwich Mean Time|GMT]]
+|round=20
+|team1= [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|score= 1–2 
+|report= http://news.bbc.co.uk/sport1/hi/football/eng_prem/16331488.stm 
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1= [[Adam Hammill|Hammill]] {{yel|26}}<br>[[Karl Henry|Henry]] {{yel|27}}<br>[[Kevin Doyle (footballer)|Doyle]] {{yel|31}}<br>[[Stephen Ward (footballer)|Ward]] {{goal|84}}
+|goals2=[[Frank Lampard|Lampard]] {{yel|25}}, {{goal|89}}<br>[[Oriol Romeu|Romeu]] {{yel|33}}<br> [[Ramires]] {{goal|54}} 
+|stadium=[[Molineux Stadium|Molineux]]
+|location=[[Wolverhampton]]
+|attendance= 27,289
+|referee= [[Peter Walton (referee)|Peter Walton]]
+|result= W
+}}
+{{football box collapsible
+|date=14 January 2012
+|time=15:00 [[Greenwich Mean Time|GMT]]
+|round=21
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 1–0
+|report= http://news.bbc.co.uk/sport1/hi/football/eng_prem/16453245.stm 
+|team2= [[Sunderland A.F.C.|Sunderland]]
+|goals1= [[David Luiz]] {{yel|8}} <br> [[Frank Lampard|Lampard]] {{goal|13}}<br>[[Fernando Torres|Torres]] {{yel|66}}<br>[[Raul Meireles|Meireles]] {{yel|73}} 
+|goals2=[[Lee Cattermole|Cattermole]] {{yel|59}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London
+|attendance= 41,696
+|referee= [[Phil Dowd]]
+|result= W
+}}
+{{football box collapsible
+|round = 22
+|date = 21 January 2012
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|team1 = [[Norwich City F.C.|Norwich City]]
+|score = 0–0
+|result = D
+|report = http://news.bbc.co.uk/sport2/hi/football/16559646.stm 
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = 
+|goals2 = 
+|stadium = [[Carrow Road]]
+|location = [[Norwich]]
+|attendance =26,792 
+|referee = [[Mark Clattenburg]]
+}}
+{{football box collapsible
+|round = 23
+|date = 31 January 2012
+|time = 19:45 [[Greenwich Mean Time|GMT]]
+|team1 = [[Swansea City A.F.C.|Swansea City]]
+|score = 1–1
+|result = D
+|report = http://news.bbc.co.uk/sport2/hi/football/16695854.stm 
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Neil Taylor (footballer)|Taylor]] {{yel|14}}<br>[[Scott Sinclair|Sinclair]] {{goal|40}}<br>[[Àngel Rangel|Rangel]] {{yel|48}} 
+|goals2 = [[Florent Malouda|Malouda]] {{yel|45+2}}<br>[[Ashley Cole|Cole]] {{sent off|2|45|86}}<br>&nbsp;&nbsp;&nbsp;[[Raul Meireles|Meireles]] {{yel|87}}<br>&nbsp;&nbsp;&nbsp;[[Neil Taylor (footballer)|Taylor]] {{goal|90+3|o.g.}}
+|stadium = [[Liberty Stadium]]
+|location = [[Swansea]]
+|attendance =20,526 
+|referee = [[André Marriner]]
+}}
+{{football box collapsible
+|round = 24
+|date = 5 February 2012
+|time = 16:00 [[Greenwich Mean Time|GMT]]
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 3–3
+|result = D
+|report = https://www.bbc.co.uk/sport/0/football/16779082 
+|team2 = [[Manchester United F.C.|Manchester United]] 
+|goals1 = [[Fernando Torres|Torres]] {{yel|31}} <br> [[Jonny Evans|Evans]] {{goal|33|o.g.}} <br> [[Branislav Ivanović|Ivanović]] {{yel|45+1}} <br> [[Juan Mata|Mata]] {{goal|49}} <br> [[David Luiz]] {{goal|54}}
+|goals2 = [[Patrice Evra|Evra]] {{yel|50}} <br> [[Wayne Rooney|Rooney]] {{goal|57|pen.|69|pen.}} <br> [[Javier Hernández|Hernández]] {{goal|84}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London
+|attendance = 41,668
+|referee = [[Howard Webb]]
+}}
+{{football box collapsible
+|round = 25
+|date = 11 February 2012
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|team1 = [[Everton F.C.|Everton]]
+|score = 2–0
+|result = L
+|report = https://www.bbc.co.uk/sport/0/football/16884797 
+|team2 = [[Chelsea F.C.|Chelsea]] 
+|goals1 = [[Steven Pienaar|Pienaar]] {{goal|5}} <br> [[Denis Stracqualursi|Stracqualursi]] {{goal|71}}
+|goals2 = [[Raul Meireles|Meireles]] {{yel|42}} <br> [[José Bosingwa|Bosingwa]] {{yel|52}} <br> [[Fernando Torres|Torres]] {{yel|59}}
+|stadium=[[Goodison Park]]
+|location=[[Liverpool]]
+|attendance = 33,924
+|referee = [[Mike Jones (referee)|Mike Jones]]
+}}
+{{football box collapsible
+|round = 26
+|date = 25 February 2012
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 3–0
+|result = W
+|report = https://www.bbc.co.uk/sport/0/football/17082758 
+|team2 = [[Bolton Wanderers F.C.|Bolton Wanderers]]
+|goals1 = [[David Luiz]] {{goal|48}} <br> [[Didier Drogba|Drogba]] {{goal|61}} <br> [[Frank Lampard|Lampard]] {{goal|79}}
+|goals2 = [[Darren Pratley|Pratley]] {{yel|43}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London
+|attendance =40,999
+|referee = [[Michael Oliver (referee)|Michael Oliver]]
+}}
+{{football box collapsible
+|round = 27
+|date = 3 March 2012
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|team1 = [[West Bromwich Albion F.C.|West Bromwich Albion]]
+|score = 1–0
+|result = L
+|report = https://www.bbc.co.uk/sport/0/football/17163246 
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Liam Ridgewell|Ridgewell]] {{yel|66}} <br> [[Keith Andrews (footballer)|Andrews]] {{yel|79}} <br> [[Gareth McAuley|McAuley]] {{goal|82}}
+|goals2 = [[Ashley Cole|Cole]] {{yel|85}}
+|stadium=[[The Hawthorns]]
+|location=[[West Bromwich]]
+|attendance =24,838
+|referee = [[Phil Dowd]]
+}}
+{{football box collapsible
+|round = 28
+|date = 10 March 2012
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 1–0
+|result = W
+|report = https://www.bbc.co.uk/sport/0/football/17243447
+|team2 = [[Stoke City F.C.|Stoke City]]
+|goals1 = [[Mikel John Obi|Mikel]] {{yel|18}} <br> [[Didier Drogba|Drogba]] {{goal|67}} 
+|goals2 = [[Salif Diao|Diao]] {{yel|13}} <br> [[Ricardo Fuller|Fuller]] {{sent off|0|24}} <br> [[Marc Wilson (footballer)|Wilson]] {{yel|37}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London
+|attendance = 40,945
+|referee = [[Andre Marriner]]
+}}
+{{football box collapsible
+|round = 29
+|date = 21 March 2012
+|time = 19:45 [[Greenwich Mean Time|GMT]]
+|team1 = [[Manchester City F.C.|Manchester City]]
+|score = 2–1
+|result = L
+|report = https://www.bbc.co.uk/sport/0/football/17363120 
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1= [[Sergio Agüero|Agüero]] {{goal|78|pen.}}<br>[[Samir Nasri|Nasri]] {{goal|85}}, {{yel|88}}
+|goals2 = [[Juan Mata|Mata]] {{yel|44}}<br>[[Frank Lampard|Lampard]] {{yel|58}}<br>[[Gary Cahill|Cahill]] {{goal|60}}
+|stadium= [[City of Manchester Stadium]] 
+|location=[[Manchester]]
+|attendance = 46,324
+|referee  = [[Mike Dean (referee)|Mike Dean]]
+}}
+{{football box collapsible
+|round = [[Chelsea F.C.–Tottenham Hotspur F.C. rivalry|30]]
+|date = 24 March 2012
+|time = 12:30 [[Greenwich Mean Time|GMT]]
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 0–0 
+|result = D
+|report = https://www.bbc.co.uk/sport/0/football/17412539 
+|team2 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1 = [[Michael Essien|Essien]] {{yel|50}}
+|goals2 = [[Benoît Assou-Ekotto|Assou-Ekotto]] {{yel|65}}<br>[[Sandro (footballer, born 1989)|Sandro]] {{yel|66}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London
+|attendance = 41,830 
+|referee = [[Martin Atkinson]]
+}}
+{{football box collapsible
+|round = 31
+|date = 31 March 2012
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|team1 = [[Aston Villa F.C.|Aston Villa]]
+|score = 2–4
+|result = W
+|report = https://www.bbc.co.uk/sport/0/football/17497274 
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1= [[Stephen Warnock|Warnock]] {{yel|44}}<br>[[James Collins (footballer, born 1983)|Collins]] {{goal|77}}<br>[[Eric Lichaj|Lichaj]] {{goal|80}}
+|goals2 = [[Daniel Sturridge|Sturridge]] {{goal|9}}<br>[[Branislav Ivanović|Ivanović]] {{goal|50||86}}<br>[[Fernando Torres|Torres]] {{goal|90+4}}
+|stadium=[[Villa Park]] 
+|location=[[Birmingham]]
+|attendance = 34,740
+|referee  = [[Lee Mason]]
+}}
+{{football box collapsible
+|round = 32
+|date = 7 April 2012
+|time = 15:00 [[British Summer Time|BST]]
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 2–1
+|result = W
+|report = https://www.bbc.co.uk/sport/0/football/17570961 
+|team2 = [[Wigan Athletic F.C.|Wigan Athletic]]
+|goals1= [[Michael Essien|Essien]] {{yel|22}} <br> [[Florent Malouda|Malouda]] {{yel|53}} <br> [[Branislav Ivanović|Ivanović]] {{goal|62}}<br>[[Juan Mata|Mata]] {{goal|90}}
+|goals2 = [[Shaun Maloney|Maloney]] {{yel|61}} <br> [[Maynor Figueroa|Figueroa]] {{yel|65}} <br> [[Mohamed Diamé|Diame]] {{goal|82}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]] 
+|location=London
+|attendance = 40,651
+|referee  = [[Mike Jones (referee)|Mike Jones]]
+}}
+{{football box collapsible
+|round = [[West London derby|33]]
+|date = 9 April 2012
+|time = 20:00 [[British Summer Time|BST]]
+|team1 = [[Fulham F.C.|Fulham]]
+|score = 1–1
+|result = D
+|report = https://www.bbc.co.uk/sport/0/football/17581564 
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1= [[Danny Murphy (footballer, born 1977)|Murphy]] {{yel|63}}<br>[[Clint Dempsey|Dempsey]] {{goal|82}}
+|goals2 = {{yel|24}} [[Raul Meireles|Meireles]]<br>{{yel|41}} [[Gary Cahill|Cahill]]<br>{{goal|45|pen.}} [[Frank Lampard|Lampard]]<br>{{yel|58}} [[Mikel John Obi|Mikel]]
+|stadium=[[Craven Cottage]] 
+|location=London
+|attendance = 25,697
+|referee  = [[Mark Clattenburg]]
+}}
+{{football box collapsible
+|round = [[Arsenal F.C.–Chelsea F.C. rivalry|34]]
+|date = 21 April 2012
+|time = 12:45 [[British Summer Time|BST]]
+|team1 = [[Arsenal F.C.|Arsenal]]
+|score = 0–0
+|result = D
+|report = https://www.bbc.co.uk/sport/0/football/17711484 
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Tomáš Rosický|Rosický]] {{yel|30}}<br>[[Robin van Persie|Van Persie]] {{yel|50}}<br>[[Abou Diaby|Diaby]] {{yel|76}}
+|goals2 = {{yel|49}} [[Florent Malouda|Malouda]]<br>{{yel|54}} [[Gary Cahill|Cahill]]<br>{{yel|72}} [[José Bosingwa|Bosingwa]]<br>{{yel|81}} [[Ashley Cole|Cole]]
+|stadium=[[Emirates Stadium]]
+|location=London
+|attendance = 60,111
+|referee = [[Mike Dean (referee)|Dean]]
+}}
+{{football box collapsible
+|round = [[West London derby|35]]
+|date = 29 April 2012
+|time = 13:30 [[British Summer Time|BST]]
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 6–1
+|result = W
+|report = https://www.bbc.co.uk/sport/0/football/17803533 
+|team2 = [[Queens Park Rangers F.C.|Queens Park Rangers]]
+|goals1 = [[Daniel Sturridge|Sturridge]] {{goal|1}}<br>[[John Terry|Terry]] {{goal|13}}<br>[[Fernando Torres|Torres]] {{goal|19||25||64}}<br>[[Florent Malouda|Malouda]] {{goal|80}}
+|goals2 = {{yel|61}} [[Joey Barton|Barton]]<br>{{goal|84}} [[Djibril Cissé|Cissé]]
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London
+|attendance = 41,675
+|referee = [[Howard Webb]]
+}}
+{{football box collapsible
+|round = 36
+|date = 2 May 2012
+|time = 19:45 [[British Summer Time|BST]]
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 0–2
+|result = L
+|report = https://www.bbc.co.uk/sport/0/football/17836021 
+|team2 = [[Newcastle United F.C.|Newcastle United]]
+|goals1 = 
+|goals2 = {{yel|4}} [[Cheick Tioté|Tioté]] <br> {{goal|19||90+2}} [[Papiss Cissé|Cissé]] <br> {{yel|56}} [[Yohan Cabaye|Cabaye]] <br> {{yel|90+1}} [[Tim Krul|Krul]]
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London
+|attendance = 41,559
+|referee = [[Mark Halsey]]
+}}
+{{football box collapsible
+|round = 37
+|date = 8 May 2012
+|time = 20:00 [[British Summer Time|BST]]
+|team1 = [[Liverpool F.C.|Liverpool]]
+|score = 4–1
+|result = L
+|report = https://www.bbc.co.uk/sport/0/football/17904221 
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Michael Essien|Essien]] {{goal|19|o.g.}} <br> [[Jordan Henderson|Henderson]] {{goal|25}}, {{yel|65}} <br> [[Daniel Agger|Agger]] {{goal|28}}, {{yel|70}} <br> [[Jonjo Shelvey|Shelvey]] {{goal|61}}
+|goals2 = {{yel|15}} [[Paulo Ferreira|Ferreira]] <br> {{yel|22}} [[John Terry|Terry]] <br> {{yel|44}} [[Michael Essien|Essien]] <br> {{yel|45}} [[Branislav Ivanović|Ivanović]] <br> {{goal|50}} [[Ramires]]
+|stadium=[[Anfield]]
+|location=[[Liverpool]]
+|attendance = 40,721
+|referee = [[Kevin Friend]]
+}}
+{{football box collapsible
+|round = 38
+|date = 13 May 2012
+|time = 15:00 [[British Summer Time|BST]]
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 2–1
+|result = W
+|report = https://www.bbc.co.uk/sport/0/football/17973169
+|team2 = [[Blackburn Rovers F.C.|Blackburn Rovers]]
+|goals1 = [[John Terry|Terry]] {{goal|31}} <br> [[Raul Meireles|Meireles]] {{goal|33}} <br>[[Ryan Bertrand|Bertrand]] {{yel|90}} 
+|goals2 = {{goal|60|}} [[Yakubu (footballer)|Yakubu]]
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London
+|attendance = 40,742
+|referee = [[Lee Mason]]
+}}
+
+===UEFA Champions League===
+{{main|2011–12 UEFA Champions League}}
+
+====Group stage====
+{{main|2011–12 UEFA Champions League group stage#Group E}}
+{{:2011–12 UEFA Champions League group stage|transcludesection=Group E|showteam=CHE}}
+{{football box collapsible 
+|round=[[2011–12 UEFA Champions League group stage#Chelsea v Bayer Leverkusen|1]]
+|date=13 September 2011
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score= 2–0
+|report=[http://www.chelseafc.com/news-article/article/2450237 Report]
+|team2={{flagicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|goals1= [[Fernando Torres|Torres]] {{yel|9}}<br>[[David Luiz]] {{yel|59}} {{goal|67}}<br> [[Juan Mata|Mata]] {{goal|90+3}}
+|goals2= [[Gonzalo Castro|Gastro]] {{yel|38}}<br>[[Lars Bender|Bender]] {{yel|72}}<br> [[Eren Derdiyok|Derdiyok]] {{yel|74}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London, England
+|attendance=33,820
+|referee=[[Stéphane Lannoy]] ([[French Football Federation|France]])
+|result=W
+}}
+{{football box collapsible 
+|round=[[2011–12 UEFA Champions League group stage#Valencia v Chelsea|2]]
+|date=28 September 2011
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Valencia CF|Valencia]] {{flagicon|ESP}}
+|score= 1–1
+|report=[http://www.chelseafc.com/news-article/article/2466281 Report]
+|team2={{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1= [[Víctor Ruiz (Spanish footballer)|Ruiz]] {{yel|13}}<br>[[David Albelda|Albelda]] {{yel|48}}<br>[[Roberto Soldado|Soldado]] {{goal|87|pen.}}
+|goals2= [[Frank Lampard|Lampard]] {{goal|55}}<br>[[Salomon Kalou|Kalou]] {{yel|86}}<br>[[Florent Malouda|Malouda]] {{yel|90+3}}<br>[[Juan Mata|Mata]] {{yel|90+4}}<br>[[Ashley Cole|Cole]] {{yel|90+4}}
+|stadium=[[Mestalla Stadium|Mestalla]]
+|location=[[Valencia]], Spain
+|attendance=33,791
+|referee= [[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+|result=D
+}}
+{{football box collapsible
+|round=[[2011–12 UEFA Champions League group stage#Chelsea v Genk|3]] 
+|date=19 October 2011
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score= 5–0
+|report=[http://www.chelseafc.com/news-article/article/2487667 Report]
+|team2={{flagicon|BEL}} [[K.R.C. Genk|Genk]]
+|goals1= [[Raul Meireles|Meireles]] {{goal|8}}<br>[[Fernando Torres|Torres]] {{goal|13||50}}<br>[[David Luiz]] {{yel|18}}<br>[[Branislav Ivanović|Ivanović]] {{goal|42}}<br>[[Salomon Kalou|Kalou]] {{goal|72}}
+|goals2= [[Khaleem Hyland|Hyland]] {{yel|15}}<br> [[Daniel Pudil|Pudil]] {{yel|42}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London, England
+|attendance=38,518
+|referee= [[Aleksei Nikolaev (referee)|Aleksei Nikolaev]] ([[Russian Football Union|Russia]])
+|result=W
+}}
+{{football box collapsible 
+|round=[[2011–12 UEFA Champions League group stage#Genk v Chelsea|4]]
+|date=1 November 2011
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[K.R.C. Genk|Genk]] {{flagicon|BEL}}
+|score= 1–1
+|report= [http://www.chelseafc.com/news-article/article/2502519 Report]
+|team2={{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1= [[Jelle Vossen|Vossen]] {{goal|61}} <br> [[Kevin De Bruyne|De Bruyne]] {{yel|76}} 
+|goals2= [[Ramires]] {{goal|25}} <br> [[Raul Meireles|Meireles]] {{yel|90+2}} 
+|stadium=[[Cristal Arena]]
+|location=[[Genk]], Belgium
+|attendance= 24,000
+|referee= [[Svein Oddvar Moen]] ([[Football Association of Norway|Norway]])
+|result= D
+}}
+{{football box collapsible 
+|round=[[2011–12 UEFA Champions League group stage#Bayer Leverkusen v Chelsea|5]]
+|date=23 November 2011
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Bayer 04 Leverkusen|Bayer Leverkusen]] {{flagicon|GER}}
+|score= 2–1
+|report= [https://www.bbc.co.uk/sport/football/15751350 Report]
+|team2={{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1= [[Stefan Kießling|Kießling]] {{yel|37}} <br> [[Michal Kadlec|Kadlec]] {{yel|39}} <br> [[Michael Ballack|Ballack]] {{yel|44}} <br> [[Eren Derdiyok|Derdiyok]] {{goal|73}} <br> [[Manuel Friedrich|M. Friedrich]] {{goal|90+1}}
+|goals2= [[Didier Drogba|Drogba]] {{goal|62}} <br> [[Branislav Ivanović|Ivanović]] {{yel|55}} <br> [[Raul Meireles|Meireles]] {{yel|72}} 
+|stadium=[[BayArena]]
+|location=[[Leverkusen]], Germany
+|attendance= 28,551
+|referee= [[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+|result= L
+}}
+{{football box collapsible 
+|round=[[2011–12 UEFA Champions League group stage#Chelsea v Valencia|6]]
+|date=6 December 2011
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score= 3–0
+|report= [https://www.bbc.co.uk/sport/football/15933202 Report]
+|team2={{flagicon|ESP}} [[Valencia CF|Valencia]]
+|goals1=[[Didier Drogba|Drogba]] {{goal|3||77}} <br> [[Ramires]] {{goal|22}} <br> [[Oriol Romeu|Romeu]] {{yel|67}}
+|goals2= [[Tino Costa|T. Costa]] {{yel|68}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London, England
+|attendance=41,109
+|referee=[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|result= W
+}}
+
+====Knockout phase====
+{{main|2011–12 UEFA Champions League knockout phase}}
+
+=====Round of 16=====
+{{football box collapsible
+|round      = [[2011–12 UEFA Champions League knockout phase#Napoli v Chelsea|First leg]]
+|date       = 21 February 2012
+|time       = 19:45 [[Greenwich Mean Time|GMT]]
+|team1      = [[S.S.C. Napoli|Napoli]] {{flagicon|ITA}}
+|score      = 3–1
+|report     = [https://www.uefa.com/uefachampionsleague/news/01fa-0e7bfc532464-027808dc675e-1000--chelsea-floored-by-slick-napoli-comeback/ Report]
+|team2      = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Ezequiel Lavezzi|Lavezzi]] {{goal|37||65}} <br> [[Edinson Cavani|Cavani]] {{yel|39}}, {{goal|45+2}}
+|goals2     = [[Juan Mata|Mata]] {{goal|27}} <br> [[Raul Meireles|Meireles]] {{yel|41}}<br> [[Gary Cahill|Cahill]] {{yel|56}} 
+|stadium    = [[Stadio San Paolo]]
+|location   = [[Naples]], Italy
+|attendance = 60,000
+|referee    = [[Carlos Velasco Carballo]] ([[Royal Spanish Football Federation|Spain]])
+|result     = L
+}}
+{{football box collapsible
+|round          = [[2011–12 UEFA Champions League knockout phase#Chelsea v Napoli|Second leg]]
+|date           = 14 March 2012
+|time           = 19:45 [[Greenwich Mean Time|GMT]]
+|team1          = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score          = 4–1  
+|aet=yes
+|aggregatescore = 5–4
+|report         = [https://www.uefa.com/uefachampionsleague/news/01fb-0e7d35f0336d-a44af3fd71ca-1000--ivanovic-completes-rousing-chelsea-comeback/ Report]
+|team2          = {{flagicon|ITA}} [[S.S.C. Napoli|Napoli]]
+|goals1         = [[Didier Drogba|Drogba]] {{goal|29}} <br> [[Frank Lampard|Lampard]] {{yel|43}}, {{goal|75|pen.}} <br> [[John Terry|Terry]] {{goal|47}} <br> [[Ashley Cole|Cole]] {{yel|98}} <br> [[Branislav Ivanović|Ivanović]] {{goal|105+1}}
+|goals2         = [[Paolo Cannavaro|Cannavaro]] {{yel|53}} <br> [[Gökhan Inler|Inler]] {{goal|55}}, {{yel|112}}<br>[[Andrea Dossena|Dossena]] {{yel|68}} <br> [[Hugo Campagnaro|Campagnaro]] {{yel|115}} 
+|stadium        = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location       = London, England
+|attendance     = 37,784
+|referee        = [[Felix Brych]] ([[German Football Association|Germany]])
+|result         = W
+}}
+
+=====Quarter-finals=====
+{{football box collapsible
+|round      = [[2011–12 UEFA Champions League knockout phase#Benfica v Chelsea|First leg]]
+|date       = 27 March 2012
+|time       = 19:45 [[Greenwich Mean Time|GMT]]
+|team1      = [[S.L. Benfica|Benfica]] {{flagicon|POR}}
+|score      = 0–1
+|report     = [https://www.uefa.com/uefachampionsleague/news/01fb-0e9d0f97c3db-af5299758c01-1000--timely-chelsea-earn-valuable-win-at-benfica/ Report]
+|team2      = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Bruno César]] {{yel|25}}<br> [[Luisão]] {{yel|67}}<br> [[Javi García|García]] {{yel|75}}
+|goals2     = [[Raul Meireles|Meireles]] {{yel|18}}<br> [[Salomon Kalou|Kalou]] {{goal|75}} 
+|stadium    = [[Estádio da Luz]]
+|location   = [[Lisbon]], Portugal
+|attendance = 60,830
+|referee    = [[Paolo Tagliavento]] ([[Italian Football Federation|Italy]])
+|result     = W
+}}
+{{football box collapsible
+|round          = [[2011–12 UEFA Champions League knockout phase#Chelsea v Benfica|Second leg]]
+|date           = 4 April 2012
+|time           = 19:45 [[Greenwich Mean Time|GMT]]
+|team1          = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score          = 2–1
+|aggregatescore = 3–1
+|report         = [https://www.uefa.com/uefachampionsleague/news/01fc-0e9d1724246a-9704216c1395-1000--shaky-chelsea-hold-off-ten-man-benfica/ Report]
+|team2          = {{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|goals1         = [[Frank Lampard|Lampard]] {{Goal|21|pen.}}<br> [[Branislav Ivanović|Ivanović]] {{yel|38}}<br> [[Ramires]] {{yel|44}}<br> [[Mikel John Obi|Mikel]] {{yel|79}}<br> [[Raul Meireles|Meireles]] {{goal|90+2}}
+|goals2         = [[Óscar Cardozo|Cardozo]] {{yel|19}}<br> [[Maxi Pereira|Pereira]] {{sent off|2|20|40}}<br> [[Bruno César]] {{yel|20}}<br> [[Pablo Aimar|Aimar]] {{yel|27}}<br> [[Javi García|García]] {{goal|85}} 
+|stadium        = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location       = London, England
+|attendance     = 37,264
+|referee        = [[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+|result         = W
+}}
+
+=====Semi-finals=====
+{{football box collapsible
+|round          = [[2011–12 UEFA Champions League knockout phase#Chelsea v Barcelona|First leg]]
+|date           = 18 April 2012
+|time           = 19:45 [[British Summer Time|BST]]
+|team1          = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score          = 1–0
+|report         = [https://www.uefa.com/uefachampionsleague/news/0254-0d7dd2dc15a8-43c2ee68b8ea-1000--drogba-the-difference-for-chelsea-against-barca/ Report]
+|team2          = {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1         = [[Didier Drogba|Drogba]] {{goal|45+2}}, {{yel|88}} <br> [[Ramires]] {{yel|69}}
+|goals2         = [[Pedro (footballer, born July 1987)|Pedro]] {{yel|71}} <br> [[Sergio Busquets|Busquets]] {{yel|90+2}} 
+|stadium        = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location       = London, England
+|attendance     = 38,039
+|referee        = [[Felix Brych]] ([[German Football Association|Germany]])
+|result         = W
+}}
+{{football box collapsible
+|round          = [[2011–12 UEFA Champions League knockout phase#Barcelona v Chelsea|Second leg]]
+|date           = 24 April 2012
+|time           = 19:45 [[British Summer Time|BST]]
+|team1          = [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score          = 2–2
+|aggregatescore = 2–3
+|report         = [https://www.uefa.com/uefachampionsleague/news/01fc-0e7df449e8f5-b7a861c948eb-1000--ten-man-chelsea-hold-off-barca-to-reach-final/ Report]
+|team2          = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1         = [[Sergio Busquets|Busquets]] {{goal|35}} <br> [[Andrés Iniesta|Iniesta]] {{goal|44}}, {{yel|50}} <br> [[Lionel Messi|Messi]] {{penmiss}} <small>49'</small> {{yel|71}}
+|goals2         = [[Mikel John Obi|Mikel]] {{yel|32}} <br> [[John Terry|Terry]] {{sent off|0|37}} <br> [[Ramires]] {{yel|45}}, {{goal|62}} <br> [[Branislav Ivanović|Ivanović]] {{yel|49}}<br> [[Petr Čech|Čech]] {{yel|59}} <br> [[Frank Lampard|Lampard]] {{yel|73}} <br> [[Raul Meireles|Meireles]] {{yel|89}} <br> [[Fernando Torres|Torres]] {{goal|90+2}} 
+|stadium        = [[Camp Nou]]
+|location       = [[Barcelona]], Spain
+|attendance     = 95,845
+|referee        = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|result         = D
+}}
+
+=====Final=====
+{{main|2012 UEFA Champions League Final}}
+
+{{football box collapsible
+|round= Final
+|date=19 May 2012
+|time=20:45 [[Central European Summer Time|CEST]]
+|team1=[[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+|score=1 - 1
+|aet=yes
+|penalties1=[[Philipp Lahm|Lahm]] {{pengoal}}<br />[[Mario Gómez|Gómez]] {{pengoal}}<br />[[Manuel Neuer|Neuer]] {{pengoal}}<br />[[Ivica Olić|Olić]] {{penmiss}}<br />[[Bastian Schweinsteiger|Schweinsteiger]] {{penmiss}}
+|penaltyscore=3 - 4
+|penalties2={{penmiss}} [[Juan Mata|Mata]]<br />{{pengoal}} [[David Luiz]]<br />{{pengoal}} [[Frank Lampard|Lampard]]<br />{{pengoal}} [[Ashley Cole|Cole]]<br />{{pengoal}} [[Didier Drogba|Drogba]]
+|report=[https://www.bbc.co.uk/sport/football/18044385 Report]
+|team2={{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=[[Bastian Schweinsteiger|Schweinsteiger]] {{yel|2}}<br>[[Thomas Müller|Müller]] {{goal|83}}<br>[[Arjen Robben|Robben]] {{penmiss}} <small>95'</small>
+|goals2=[[Ashley Cole|Cole]] {{yel|81}}<br>[[David Luiz]] {{yel|85}}<br>[[Didier Drogba|Drogba]] {{goal|88}}, {{yel|93}}<br>[[Fernando Torres|Torres]] {{yel|120}}
+|stadium=[[Allianz Arena]]
+|location=[[Munich]], Germany
+|attendance=62,500
+|result = D
+|referee=[[Pedro Proença]] ([[Portuguese Football Federation|Portugal]])
+|motm= [[Didier Drogba]]<ref>{{cite news|url=https://www.uefa.com/uefachampionsleague/news/0252-0cd3fae4b776-06473dd5a037-1000--chelsea-success-leaves-drogba-speechless/|title=Chelsea success leaves Drogba speechless|date=20 May 2012|work=[[UEFA]]|access-date=11 November 2014|first=Anderew|last=Haslam}}</ref>
+}}
+
+===League Cup===
+{{main|2011–12 Football League Cup}}
+
+{{football box collapsible
+|date=21 September 2011
+|time=19:45 [[British Summer Time|BST]]
+|round=[[2011–12 Football League Cup#Third round|Third round]]
+|team1=[[Chelsea F.C.|Chelsea]] 
+|score= 0–0
+|aet=yes
+|report=[http://www.chelseafc.com/news-article/article/2458690 Report]
+|team2=[[Fulham F.C.|Fulham]]
+|goals1=[[Alex (footballer, born June 1982)|Alex]] {{sent off|0|47}}<br>[[Frank Lampard|Lampard]] {{yel|120}} 
+|goals2=[[Kerim Frei|Frei]] {{yel|98}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London
+|attendance=37,632
+|referee=[[Chris Foy (referee)|Chris Foy]]
+|result=D
+|penalties1 = [[Frank Lampard|Lampard]] {{penmiss}}<br />[[David Luiz]] {{pengoal}}<br />[[John Terry|Terry]] {{pengoal}}<br />[[Salomon Kalou|Kalou]] {{pengoal}}<br />[[Florent Malouda|Malouda]] {{pengoal}}
+|penaltyscore = 4–3
+|penalties2 = {{pengoal}} [[Bobby Zamora|Zamora]]<br />{{pengoal}} [[Steve Sidwell|Sidwell]]<br />{{penmiss}} [[Mousa Dembélé (Belgian footballer)|Dembélé]]<br />{{pengoal}} [[Chris Baird|Baird]]<br />{{penmiss}} [[Bryan Ruiz|Ruiz]]
+}}
+{{football box collapsible
+|date = 26 October 2011
+|time = 20:00 [[British Summer Time|BST]]
+|round=[[2011–12 Football League Cup#Fourth round|Fourth round]]
+|team1 = [[Everton F.C.|Everton]] 
+|score = 1–2
+|aet=yes
+|report = [http://www.chelseafc.com/news-article/article/2495586 Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Marouane Fellaini|Fellaini]] {{yel|20}}<br>[[Leighton Baines|Baines]] {{penmiss}} <small>61'</small><br>[[Louis Saha|Saha]] {{goal|83}}<br>[[Royston Drenthe|Drenthe]] {{sent off|2|75|107}}
+|goals2 = [[Nicolas Anelka|Anelka]] {{penmiss}} <small>16'</small> <br>[[Alex (footballer, born June 1982)|Alex]] {{yel|23}} <br>[[Salomon Kalou|Kalou]] {{goal|38}} <br>[[Ross Turnbull|Turnbull]] {{sent off|0|58}} <br>[[Mikel John Obi|Mikel]] {{yel|76}} <br>[[Daniel Sturridge|Sturridge]] {{goal|116}} 
+|stadium = [[Goodison Park]]
+|location= [[Liverpool]]
+|attendance = 23,170
+|referee = [[Lee Mason]]
+|result = w 
+}}
+{{football box collapsible
+|date = 29 November 2011
+|time = 19:45 [[Greenwich Mean Time|GMT]]
+|round=[[2011–12 Football League Cup#Fifth round|Quarter-finals]]
+|team1 = [[Chelsea F.C.|Chelsea]] 
+|score = 0–2
+|report = [https://www.bbc.co.uk/sport/football/15831951 Report]
+|team2 = [[Liverpool F.C.|Liverpool]]
+|goals1 = [[David Luiz]] {{yel|3}}<br>[[Alex (footballer, born June 1982)|Alex]] {{yel|21}}<br>[[Florent Malouda|Malouda]] {{yel|34}}<br>[[Romelu Lukaku|Lukaku]]<ref>{{cite news|url=http://www.chelseafc.com/news-article/article/2535327| title=Lukaku cautioned | date=30 March 2012 |publisher=Chelsea F.C.|access-date=26 July 2013}}</ref> {{yel|44}}<br>[[Ramires]] {{yel|66}}
+|goals2 = [[Sebastián Coates|Coates]] {{yel|54}}<br>[[Maxi Rodríguez|Rodríguez]] {{goal|58}}<br> [[Martin Kelly (footballer)|Kelly]] {{goal|63}}
+|stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance = 40,511
+|referee = [[Phil Dowd]]
+|result = L
+}}
+
+===FA Cup===
+{{main|2011–12 FA Cup}}
+
+{{football box collapsible
+|date = 8 January 2012
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|round=[[2011–12 FA Cup#Third round proper|Third round]]
+|team1 = [[Chelsea F.C.|Chelsea]] 
+|score = 4–0
+|report = [http://www.chelseafc.com/news-article/article/2570338 Report]
+|team2 = [[Portsmouth F.C.|Portsmouth]]
+|goals1 = [[Florent Malouda|Malouda]] {{yel|40}}<br>[[Juan Mata|Mata]] {{goal|48}}<br>[[John Terry|Terry]] {{yel|75}}<br>[[Ramires]] {{goal|85||87}}<br>[[Raul Meireles|Meireles]] {{yel|90+2}}<br>[[Frank Lampard|Lampard]] {{goal|90+3}}
+|goals2 = {{yel|37}} [[Jason Pearce|Pearce]]<br>{{yel|44}} [[Greg Halford|Halford]]<br>{{yel|76}} [[Ryan Williams (footballer, born 1993)|Williams]]<br>{{yel|81}} [[Dave Kitson|Kitson]]
+|stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance = 41,529
+|referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+|result = w 
+}}
+{{football box collapsible
+|date = 28 January 2012
+|time = 12:00 [[Greenwich Mean Time|GMT]]
+|round=[[2011–12 FA Cup#Fourth round proper|Fourth round]]
+|team1 = [[Queens Park Rangers F.C.|Queens Park Rangers]] 
+|score = 0–1
+|report = [http://www.chelseafc.com/news-article/article/2591748 Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Shaun Wright-Phillips|Wright-Phillips]] {{yel|29}}<br />[[Fitz Hall|Hall]] {{yel|47}}
+|goals2 = {{goal|62|pen.}} [[Juan Mata|Mata]]<br />{{yel|73}} [[Ashley Cole|Cole]]<br />{{yel|90}} [[Oriol Romeu|Romeu]]
+|stadium = [[Loftus Road]]
+|location= London
+|attendance = 15,728
+|referee = [[Mike Dean (referee)|Mike Dean]]
+|result = w
+}}
+{{football box collapsible
+|date = 18 February 2012
+|time = 12:30 [[Greenwich Mean Time|GMT]]
+|round = [[2011–12 FA Cup#Fifth round proper|Fifth round]]
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 1–1
+|report = [http://www.chelseafc.com/news-article/article/2615502 Report]
+|team2 = [[Birmingham City]]
+|goals1 = [[Juan Mata|Mata]] {{penmiss}} <small>23'</small><br> [[Gary Cahill|Cahill]] {{yel|55}} <br> [[Daniel Sturridge|Sturridge]] {{goal|62}} <br> [[David Luiz]] {{yel|90+2}}
+|goals2 = {{goal|20}} [[David Murphy (footballer, born 1984)|Murphy]] <br> {{yel|34}} [[Jordon Mutch|Mutch]]
+|stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = London
+|attendance = 36,870
+|referee = [[Martin Atkinson]]
+|result = D
+}}
+{{football box collapsible
+|date = 6 March 2012
+|time = 19:45 [[Greenwich Mean Time|GMT]]
+|round = [[2011–12 FA Cup#Fifth round proper|Replay]]
+|team1 = [[Birmingham City F.C.|Birmingham City]]
+|score = 0–2
+|report = [http://www.chelseafc.com/news-article/article/2637540 Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Nikola Žigić|Žigić]] {{yel|28}}
+|goals2 = {{goal|54}}, {{penmiss}} <small>68'</small> [[Juan Mata|Mata]]<br>{{goal|60}} [[Raul Meireles|Meireles]]<br>{{yel|63}} [[Fernando Torres|Torres]]
+|stadium = [[St Andrew's (stadium)|St Andrew's]]
+|location = [[Birmingham]]
+|attendance = 21,822
+|referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+|result = W
+}}
+{{football box collapsible
+| date = 18 March 2012
+| time =  14:05 [[Greenwich Mean Time|GMT]] 
+|round = [[2011–12 FA Cup#Sixth round proper|Quarter-finals]]
+| team1 = [[Chelsea F.C.|Chelsea]]
+| score = 5–2
+| report = [https://www.bbc.co.uk/sport/football/17330279 Report]
+| team2 = [[Leicester City F.C.|Leicester City]]|
+| goals1 = [[Gary Cahill|Cahill]] {{goal|12}}<br>[[Salomon Kalou|Kalou]] {{goal|18}}<br>[[Fernando Torres|Torres]] {{goal|67||85}}<br>[[Raul Meireles|Meireles]] {{goal|90+1}}
+| goals2 = {{goal|77}} [[Jermaine Beckford|Beckford]]<br>{{goal|88}} [[Ben Marshall (footballer)|Marshall]] 
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| location = London
+| attendance = 38,276
+| referee = [[Lee Probert]]
+| result = W
+}}
+{{football box collapsible
+| date = 15 April 2012
+| time = 18:00 [[British Summer Time|BST]]
+|round = [[2011–12 FA Cup#Semi-finals|Semi-finals]]
+| team1 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| score = 1–5
+| report = [https://www.bbc.co.uk/sport/football/17649443 Report]
+| team2 = [[Chelsea F.C.|Chelsea]]
+| goals1 = [[Gareth Bale|Bale]] {{goal|54}} <br> [[William Gallas|Gallas]] {{yel|80}} <br> [[Emmanuel Adebayor|Adebayor]] {{yel|90+1}} <br> [[Scott Parker|Parker]] {{yel|90+2}}
+| goals2 =  {{yel|16}}, {{goal|43}} [[Didier Drogba|Drogba]] <br> {{goal|49}} [[Juan Mata|Mata]] <br> {{goal|77}} [[Ramires]] <br> {{goal|81}} [[Frank Lampard|Lampard]] <br> {{yel|90+3}} [[Mikel John Obi|Mikel]] <br> {{goal|90+5}} [[Florent Malouda|Malouda]]
+| stadium = [[Wembley Stadium]]
+| location = London
+| attendance =  85,731
+| referee = [[Martin Atkinson]]
+| result = W
+}}
+{{football box collapsible
+| date = 5 May 2012
+| time = 17:15 [[British Summer Time|BST]]
+|round = [[2012 FA Cup Final|Final]]
+| team1 = [[Chelsea F.C.|Chelsea]] 
+| score = 2–1
+| report = [https://www.bbc.co.uk/sport/football/17878435 Report]
+| team2 = [[Liverpool F.C.|Liverpool]]
+| goals1 = [[Ramires]] {{goal|9}} <br> [[Mikel John Obi|Mikel]] {{yel|37}} <br> [[Didier Drogba|Drogba]] {{goal|52}}
+| goals2 = {{yel|45}} [[Daniel Agger|Agger]] <br>[[Andy Carroll|Carroll]] {{goal|64}}<br> {{yel|82}} [[Luis Suárez (Uruguayan footballer)|Suárez]]
+| stadium = [[Wembley Stadium]]
+| location = London
+| attendance = 89,102
+| referee = [[Phil Dowd]]
+|motm = [[Juan Mata]]{{citation needed|date=July 2020}} 
+| result = W
+}}
+
+==Statistics==
+
+===Appearances and goals===
+''As of end of season''<ref name="Post-Season Briefing">{{cite web|url=http://www.chelseafc.com/news-article/article/2794031 |title=Post-Season Briefing 2011/12 |publisher=Chelsea F.C |date=4 July 2012 |access-date=23 July 2013}}</ref>
+{{Efs start|Premier League|FA Cup|League Cup|Champions League}}
+{{Efs player|no=1|name=[[Petr Čech]]|pos=GK|nat=CZE                      |34|0|7|0|1+1|0|13|0}}
+{{Efs player|no=2|name=[[Branislav Ivanović]]|pos=DF|nat=SRB             |26+3|3|5|0|1|0|10|2}}
+{{Efs player|no=3|name=[[Ashley Cole]]|pos=DF|nat=ENG                    |31+1|0|4|0|0|0|11+1|0}}
+{{Efs player|no=4|name=[[David Luiz]]|pos=DF|nat=BRA                     |18+2|2|5+1|0|3|0|11|1}}
+{{Efs player|no=5|name=[[Michael Essien]]|pos=MF|nat=GHA                 |10+4|0|0+3|0|0|0|1+1|0}}
+{{Efs player|no=6|name=[[Oriol Romeu]]|pos=MF|nat=ESP                    |11+5|0|0+2|0|3|0|3|0}}
+{{Efs player|no=7|name=[[Ramires]]|pos=MF|nat=BRA                        |28+2|5|6|4|0+1|0|10|3}}
+{{Efs player|no=8|name=[[Frank Lampard]]|pos=MF|nat=ENG                  |26+4|11|3+2|2|1+1|0|8+4|3}}
+{{Efs player|no=9|name=[[Fernando Torres]]|pos=FW|nat=ESP                |20+12|6|5+1|2|1|0|6+4|3}}
+{{Efs player|no=10|name=[[Juan Mata]]|pos=MF|nat=ESP                     |29+5|6|7|4|0+1|0|11+1|2}}
+{{Efs player|no=11|name=[[Didier Drogba]]|pos=FW|nat=CIV                 |16+8|5|2+1|2|0|0|7+1|6}}
+{{Efs player|no=12|name=[[Mikel John Obi]]|pos=MF|nat=NGA                |15+7|0|5|0|0+1|0|7+2|0}}
+{{Efs player|no=15|name=[[Florent Malouda]]|pos=MF|nat=FRA               |11+15|2|2+3|1|3|0|5+4|0}}
+{{Efs player|no=16|name=[[Raul Meireles]]|pos=MF|nat=POR                 |23+5|2|5+1|2|0|0|9+2|2}}
+{{Efs player|no=17|name=[[José Bosingwa]]|pos=DF|nat=POR                 |24+3|1|4|0|1|0|7+4|0}}
+{{Efs player|no=18|name=[[Romelu Lukaku]]|pos=FW|nat=BEL                 |1+7|0|0+1|0|3|0|0|0}}
+{{Efs player|no=19|name=[[Paulo Ferreira]]|pos=DF|nat=POR                |3+3|0|0|0|1|0|1+1|0}}
+{{Efs player|no=21|name=[[Salomon Kalou]]|pos=FW|nat=CIV                 |7+5|1|4+1|1|2|1|3+4|2}}
+{{Efs player|no=22|name=[[Ross Turnbull]]|pos=GK|nat=ENG                 |2|0|0|0|2+1|0|0|0}}
+{{Efs player|no=23|name=[[Daniel Sturridge]]|pos=FW|nat=ENG              |28+2|11|3+1|1|1+1|1|5+2|0}}
+{{Efs player|no=24|name=[[Gary Cahill]]|pos=DF|nat=ENG                   |9+1|1|3+1|1|0|0|4+1|0}}
+{{Efs player|no=26|name=[[John Terry]]|pos=DF|nat=ENG                    |31|6|4|0|0+1|0|8|1}}
+{{Efs player|no=27|name=[[Sam Hutchinson]]|pos=DF|nat=ENG                |1+1|0|0|0|0|0|0|0}}
+{{Efs player|no=34|name=[[Ryan Bertrand]]|pos=DF|nat=ENG                 |6+1|0|3+1|0|3|0|1|0}}
+{{Efs player|no=35|name=[[Lucas Piazon]]|pos=MF|nat=BRA                  |0|0|0|0|0|0|0|0}}
+{{Efs player|no=40|name=[[Henrique Hilário]]|pos=GK|nat=POR              |2|0|0|0|0|0|0|0}}
+{{Efs player|no=45|name=[[Nathaniel Chalobah]]|pos=DF|nat=ENG            |0|0|0|0|0|0|0|0}}
+|-
+|colspan="14"|''Players who spent the season/part of the season out on loan, or left the club in January transfer window''
+{{Efs player|no=20|name=[[Josh McEachran]]|pos=MF|nat=ENG                |0+2|0|0|0|3|0|0|0}}
+{{Efs player|no=30|name=[[Yossi Benayoun]]|pos=MF|nat=ISR                |0+1|0|0|0|0|0|0|0}}
+{{Efs player|no=33|name=[[Alex (footballer, born June 1982)|Alex]]|pos=DF|nat=BRA |3|0|0|0|3|0|0+3|0}}
+{{Efs player|no=39|name=[[Nicolas Anelka]]|pos=FW|nat=FRA                |3+6|1|0|0|1+1|0|2+2|0}}
+|}
+
+===Goalscorers===
+''As of end of season.''<ref name="Post-Season Briefing"/>
+{| class="wikitable sortable" style="font-size: 90%; text-align: center;"
+|-
+!width=10|{{Abbr| Rnk | Ranking }}
+!width=10|{{Abbr| No. | Squad Number }}
+!width=10|{{Abbr| Pos | Position }}
+!width=200|Player
+!width=80|Premier League
+!width=80|FA Cup
+!width=80|League Cup
+!width=80|Champions League
+!width=80|'''Total'''
+|-
+|1
+|8
+|[[Midfielder|MF]]
+|align=left|{{flagicon|England}} [[Frank Lampard|Lampard]]
+|11||2||0||3||'''16'''
+|-
+|rowspan=2|2
+|11
+|[[Forward (association football)|FW]]
+|align=left|{{flagicon|Ivory Coast}} [[Didier Drogba|Drogba]]
+|5||2||0||6||'''13'''
+|-
+|23
+|[[Forward (association football)|FW]]
+|align=left|{{flagicon|England}} [[Daniel Sturridge|Sturridge]]
+|11||1||1||0||'''13'''
+|-
+|rowspan=2|4
+|7
+|[[Midfielder|MF]]
+|align=left|{{flagicon|Brazil}} [[Ramires]]
+|5||4||0||3||'''12'''
+|-
+|10
+|[[Midfielder|MF]]
+|align=left|{{flagicon|Spain}} [[Juan Mata|Mata]]
+|6||4||0||2||'''12'''
+|-
+|6
+|9
+|[[Forward (association football)|FW]]
+|align=left|{{flagicon|Spain}} [[Fernando Torres|Torres]]
+|6||2||0||3
+||'''11'''
+|-
+|7
+|26
+|[[Defender (association football)|DF]]
+|align=left|{{flagicon|England}} [[John Terry|Terry]]
+|6||0||0||1||'''7'''
+|-
+|8
+|16
+|[[Midfielder|MF]]
+|align=left|{{flagicon|Portugal}} [[Raul Meireles|Meireles]]
+|2||2||—||2||'''6'''
+|-
+|rowspan=2|9
+|2
+|[[Defender (association football)|DF]]
+|align=left|{{flagicon|Serbia}} [[Branislav Ivanović|Ivanović]]
+|3||0||0||2||'''5'''
+|-
+|21
+|[[Forward (association football)|FW]]
+|align=left|{{flagicon|Ivory Coast}} [[Salomon Kalou|Kalou]]
+|1||1||1||2||'''5'''
+|-
+|rowspan=2|11
+|4
+|[[Defender (association football)|DF]]
+|align=left|{{flagicon|Brazil}} [[David Luiz]]
+|2||0||0||1||'''3'''
+|-
+|15
+|[[Midfielder|MF]]
+|align=left|{{flagicon|France}} [[Florent Malouda|Malouda]]
+|2
+|1
+|0
+|0
+|'''3'''
+|-
+|13
+|24
+|[[Defender (association football)|DF]]
+|align=left|{{flagicon|England}} [[Gary Cahill|Cahill]]
+|1||1||—||0||'''2'''
+|-
+|rowspan=2|14
+|17
+|[[Defender (association football)|DF]]
+|align=left|{{flagicon|Portugal}} [[José Bosingwa|Bosingwa]]
+|1||0||0||0||'''1'''
+|-
+|39
+|[[Forward (association football)|FW]]
+|align=left|{{flagicon|France}} [[Nicolas Anelka|Anelka]]
+|1||—||0||0||'''1'''
+|-
+|colspan="4"|'''Own Goals'''
+|2||0||0||0||'''2'''
+|-
+|colspan="4"|'''TOTALS'''
+|'''65'''||'''20'''||'''2'''||'''25'''||'''112'''
+|}
+
+===Clean sheets===
+''As of end of season.''<ref name="Post-Season Briefing"/>
+{| class="wikitable" style="font-size: 90%; text-align: center;"
+|-
+!width=10|{{Abbr| Rnk | Ranking }} 
+!width=10|{{Abbr| No. | Squad Number }} 
+!width=10|{{Abbr| Pos | Position }}
+!width=200|Player
+!width=80|Premier League
+!width=80|FA Cup
+!width=80|League Cup
+!width=80|Champions League
+!width=80|'''Total'''
+|-
+|1
+|1
+|[[Goalkeeper (association football)|GK]]
+|align=left|{{Flagicon|CZE}} [[Petr Čech|Čech]]
+|10||3||1||5||'''19'''
+|-
+|2
+|22
+|[[Goalkeeper (association football)|GK]]
+|align=left|{{flagicon|England}} [[Ross Turnbull|Turnbull]]
+|0||0||0+1||0||'''1'''
+|-
+|colspan="4"|'''TOTALS'''
+|'''10'''||'''3'''||'''1'''||'''5'''||'''20'''
+|}
+
+===Disciplinary record===
+''As of end of season.''<ref name="Post-Season Briefing"/>
+{| class="wikitable" style="font-size: 90%; text-align: center;"
+|-
+| rowspan="2"  style="width:2%;"|'''{{Abbr|Rnk|Ranking}}'''
+| rowspan="2"  style="width:3%;"|'''{{Abbr|Pos.|Position}}'''
+| rowspan="2"  style="width:3%;"|'''{{Abbr|No.|Squad Number}}'''
+| rowspan="2"  style="width:18%;"|'''Player'''
+| colspan="3"|'''{{Abbr|PL|Premier League}}'''
+| colspan="3"|'''FA Cup'''
+| colspan="3"|'''League Cup'''
+| colspan="3"|'''{{Abbr|CL|Champions League}}'''
+| colspan="3"|'''Total (FA Total)'''
+|-
+! style="width:25px; background:#fe9;"|{{yel}}
+! style="width:28px; background:#ff8888;"|{{sent off|2}}
+! style="width:25px; background:#ff8888;"|{{sent off}}
+! style="width:25px; background:#fe9;"|{{yel}}
+! style="width:28px; background:#ff8888;"|{{sent off|2}}
+! style="width:25px; background:#ff8888;"|{{sent off}}
+! style="width:25px; background:#fe9;"|{{yel}}
+! style="width:28px; background:#ff8888;"|{{sent off|2}}
+! style="width:25px; background:#ff8888;"|{{sent off}}
+! style="width:25px; background:#fe9;"|{{yel}}
+! style="width:28px; background:#ff8888;"|{{sent off|2}}
+! style="width:25px; background:#ff8888;"|{{sent off}}
+! style="width:25px; background:#fe9;"|{{yel}}
+! style="width:28px; background:#ff8888;"|{{sent off|2}}
+! style="width:25px; background:#ff8888;"|{{sent off}}
+|-
+|1
+|[[Defender (association football)|DF]]
+|3
+|align=left|{{flagicon|ENG}} [[Ashley Cole]]
+|7||1||0
+|1||0||0
+|0||0||0
+|3||0||0
+|'''11 (8)'''||'''1 (1)'''||'''0'''
+|-
+|2
+|[[Midfielder|MF]]
+|16
+|align=left|{{flagicon|POR}} [[Raul Meireles]]
+|8||0||0
+|1||0||0
+|colspan="3"|—
+|5||0||0
+|'''14 (9)'''||'''0'''||'''0'''
+|-
+|3
+|[[Defender (association football)|DF]]
+|26
+|align=left|{{flagicon|ENG}} [[John Terry]]
+|8||0||0
+|1||0||0
+|0||0||0
+|0||0||1
+|'''9 (9)'''||'''0'''||'''1 (0)'''
+|-
+|4
+|[[Defender (association football)|DF]]
+|4
+|align=left|{{flagicon|BRA}} [[David Luiz]]
+|5||0||0
+|1||0||0
+|1||0||0
+|3||0||0
+|'''10 (7)'''||'''0'''||'''0'''
+|-
+|rowspan="2"|5
+|[[Defender (association football)|DF]]
+|2
+|align=left|{{flagicon|SER}} [[Branislav Ivanović]]
+|6||0||0
+|0||0||0
+|0||0||0
+|3||0||0
+|'''9 (6)'''||'''0'''||'''0'''
+|-
+|[[Midfielder|MF]]
+|12
+|align=left|{{flagicon|NGA}} [[Mikel John Obi]]
+|4||0||0
+|2||0||0
+|1||0||0
+|2||0||0
+|'''9 (7)'''||'''0'''||'''0'''
+|-
+|7
+|[[Forward (association football)|FW]]
+|9
+|align=left|{{flagicon|ESP}} [[Fernando Torres]]
+|4||0||1
+|1||0||0
+|0||0||0
+|2||0||0
+|'''7 (5)'''||'''0'''||'''1 (1)'''
+|-
+|rowspan="2"|8
+|[[Midfielder|MF]]
+|7
+|align=left|{{flagicon|BRA}} [[Ramires]]
+|4||0||0
+|0||0||0
+|1||0||0
+|3||0||0
+|'''8 (5)'''||'''0'''||'''0'''
+|-
+|[[Midfielder|MF]]
+|8
+|align=left|{{flagicon|ENG}} [[Frank Lampard]]
+|5||0||0
+|0||0||0
+|1||0||0
+|2||0||0
+|'''8 (6)'''||'''0'''||'''0'''
+|-
+|10
+|[[Defender (association football)|DF]]
+|17
+|align=left|{{flagicon|POR}} [[José Bosingwa]]
+|5||0||1
+|0||0||0
+|0||0||0
+|0||0||0
+|'''5 (5)'''||'''0'''||'''1 (1)'''
+|-
+|11
+|[[Midfielder|MF]]
+|15
+|align=left|{{flagicon|FRA}} [[Florent Malouda]]
+|3||0||0
+|1||0||0
+|1||0||0
+|1||0||0
+|'''6 (5)'''||'''0'''||'''0'''
+|-
+|12
+|[[Forward (association football)|FW]]
+|11
+|align=left|{{flagicon|CIV}} [[Didier Drogba]]
+|1||0||1
+|1||0||0
+|0||0||0
+|2||0||0
+|'''4 (2)'''||'''0'''||'''1 (1)'''
+|-
+|rowspan="2"|13
+|[[Midfielder|MF]]
+|6
+|align=left|{{flagicon|ESP}} [[Oriol Romeu]]
+|2||0||0
+|1||0||0
+|0||0||0
+|1||0||0
+|'''4 (3)'''||'''0'''||'''0'''
+|-
+|[[Defender (association football)|DF]]
+|24
+|align=left|{{flagicon|ENG}} [[Gary Cahill]]
+|2||0||0
+|1||0||0
+|colspan="3"|—
+|1||0||0
+|'''4 (3)'''||'''0'''||'''0'''
+|-
+|15
+|[[Defender (association football)|DF]]
+|33
+|align=left|{{flagicon|BRA}} [[Alex (footballer, born June 1982)|Alex]]
+|0||0||0
+|0||0||0
+|2||0||1
+|0||0||0
+|'''2 (2)'''||'''0'''||'''1 (1)'''
+|-
+|rowspan="3"|16
+|[[Midfielder|MF]]
+|5
+|align=left|{{flagicon|GHA}} [[Michael Essien]]
+|3||0||0
+|0||0||0
+|0||0||0
+|0||0||0
+|'''3 (3)'''||'''0'''||'''0'''
+|-
+|[[Midfielder|MF]]
+|10
+|align=left|{{flagicon|ESP}} [[Juan Mata]]
+|2||0||0
+|0||0||0
+|0||0||0
+|1||0||0
+|'''3 (2)'''||'''0'''||'''0'''
+|-
+|[[Forward (association football)|FW]]
+|23
+|align=left|{{flagicon|ENG}} [[Daniel Sturridge]]
+|3||0||0
+|0||0||0
+|0||0||0
+|0||0||0
+|'''3 (3)'''||'''0'''||'''0'''
+|-
+|19
+|[[Goalkeeper (association football)|GK]]
+|22
+|align=left|{{flagicon|ENG}} [[Ross Turnbull]]
+|0||0||0
+|0||0||0
+|0||0||1
+|0||0||0
+|'''0'''||'''0'''||'''1 (1)'''
+|-
+|rowspan="5"|20
+|[[Goalkeeper (association football)|GK]]
+|1
+|align=left|{{flagicon|CZE}} [[Petr Čech]]
+|0||0||0
+|0||0||0
+|0||0||0
+|1||0||0
+|'''1 (0)'''||'''0'''||'''0'''
+|-
+|[[Forward (association football)|FW]]
+|18
+|align=left|{{flagicon|BEL}} [[Romelu Lukaku]]
+|0||0||0
+|0||0||0
+|1||0||0
+|0||0||0
+|'''1 (1)'''||'''0'''||'''0'''
+|-
+|[[Defender (association football)|DF]]
+|19
+|align=left|{{flagicon|POR}} [[Paulo Ferreira]]
+|1||0||0
+|0||0||0
+|0||0||0
+|0||0||0
+|'''1 (1)'''||'''0'''||'''0'''
+|-
+|[[Forward (association football)|FW]]
+|21
+|align=left|{{flagicon|CIV}} [[Salomon Kalou]]
+|0||0||0
+|0||0||0
+|0||0||0
+|1||0||0
+|'''1 (0)'''||'''0'''||'''0'''
+|-
+|[[Defender (association football)|DF]]
+|34
+|align=left|{{flagicon|ENG}} [[Ryan Bertrand]]
+|1||0||0
+|0||0||0
+|0||0||0
+|0||0||0
+|'''1 (1)'''||'''0'''||'''0'''
+|-
+|colspan="4"|'''TOTALS'''
+|'''74'''||'''1'''||'''3'''
+|'''11'''||'''0'''||'''0'''
+|'''8'''||'''0'''||'''2'''
+|'''31'''||'''0'''||'''1'''
+|'''124'''||'''1'''||'''6'''
+|}
+
+===Overall===
+''As of end of season.''<ref name="Post-Season Briefing"/>
+{|class="wikitable"
+|-
+|Games played || 61 (38 [[Premier League]], 13 [[UEFA Champions League]], 3 [[Football League Cup]], 7 [[FA Cup]])
+|-
+|Games won || 32 (18 [[Premier League]], 7 [[UEFA Champions League]], 1 [[Football League Cup]], 6 [[FA Cup]])
+|-
+|Games drawn || 16 (10 [[Premier League]], 4 [[UEFA Champions League]], 1 [[Football League Cup]], 1 [[FA Cup]])
+|-
+|Games lost || 13 (10 [[Premier League]], 2 [[UEFA Champions League]], 1 [[Football League Cup]])
+|-
+|Goals scored || 112 (65 [[Premier League]], 25 [[UEFA Champions League]], 2 [[Football League Cup]], 20 [[FA Cup]])
+|-
+|Goals conceded || 66 (46 [[Premier League]] 12 [[UEFA Champions League]], 3 [[Football League Cup]], 5 [[FA Cup]])
+|-
+|Goal difference || +46 (+19 [[Premier League]], +13 [[UEFA Champions League]], −1 [[Football League Cup]], +15 [[FA Cup]])
+|-
+|Clean sheets || 19 (10 [[Premier League]], 1 [[Football League Cup]], 5 [[UEFA Champions League]], 3 [[FA Cup]])
+|-
+|Yellow cards || 124 (74 [[Premier League]], 31 [[UEFA Champions League]], 8 [[Football League Cup]], 11 [[FA Cup]])
+|-
+|Red cards || 7 (4 [[Premier League]], 1 [[UEFA Champions League]], 2 [[Football League Cup]])
+|-
+|Worst discipline ||{{Flagicon|ENG}} [[Ashley Cole]] (11 {{yel}}, 1 {{sent off|2}})
+|-
+|Best result(s) || W 6–1 (H) v [[Queens Park Rangers F.C.|Queens Park Rangers]] – [[Premier League]] – 29 April 2012
+|-
+|Worst result(s) || L 4–1 (A) v [[Liverpool F.C.|Liverpool]] – [[Premier League]] – 8 May 2012
+|-
+|Most appearances ||{{Flagicon|CZE}} [[Petr Čech]] with 56 appearances
+|-
+|Top scorer(s) || {{Flagicon|ENG}} [[Frank Lampard]] (16 goals) 
+|-
+|Top assister(s) || {{Flagicon|ESP}} [[Juan Mata]] (20 assists)
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official website|http://www.chelseafc.com/}}
+
+{{Chelsea F.C. seasons}}
+{{2011–12 in English football}}
+
+{{DEFAULTSORT:Chelsea F.C. Season 2011-12}}
+[[Category:Chelsea F.C. seasons|2011-12]]
+[[Category:2011–12 Premier League by team]]
+[[Category:UEFA Champions League–winning seasons|2011-12]]
+[[Category:2011–12 UEFA Champions League participants seasons]]

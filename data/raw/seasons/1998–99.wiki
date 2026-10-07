@@ -1,0 +1,909 @@
+{{Short description|English football club season}}
+{{Use dmy dates|date=February 2015}}
+{{Use British English|date=February 2015}}
+{{Refimprove|date=February 2010}}
+{{Infobox football club season
+  | club               = [[Chelsea F.C.|Chelsea]]
+  | season             = 1998–99
+  | manager            = [[Gianluca Vialli]]
+  | chairman           = [[Ken Bates]]
+  | league             = [[Premier League|FA Premier League]]
+  | league result      = [[1998-99 FA Premier League|3rd]]
+  | cup1               = [[FA Cup]]
+  | cup1 result        = [[1998-99 FA Cup#Quarter-finals|Quarter-finals]]
+  | cup2               = [[Football League Cup|League Cup]]
+  | cup2 result        = [[1998-99 Football League Cup#Quarter-finals|Quarter-finals]]
+  | cup3               = [[UEFA Super Cup]]
+  | cup3 result        = [[1998 UEFA Super Cup|'''Winners''']]
+  | cup4               = [[UEFA Cup Winners' Cup]]
+  | cup4 result        = [[1998–99 UEFA Cup Winners' Cup#Semi-finals|Semi-finals]]
+  | league topscorer   = <br>[[Gianfranco Zola]] (13)
+  | season topscorer   = <br>Gianfranco Zola (15)
+  | highest attendance = 35,016 (vs. [[Derby County F.C.|Derby County]], 16 May 1999)
+  | lowest attendance  = 17,714 (vs. [[Helsingborgs IF]], 17 September 1998)
+  | average attendance = 34,754
+ | pattern_b1  = _chelsea1997h
+ | pattern_la1 = _chelsea1997h
+ | pattern_ra1 = _chelsea1997h
+ | pattern_sh1 = _chelsea9899h
+ | leftarm1    = 0000FF
+ | body1       = 0000FF
+ | rightarm1   = 0000FF
+ | shorts1     = 0000FF
+ | socks1      = FFFFFF
+ | pattern_b2  = _chelsea1998a
+ | pattern_ra2 = _chelsea1998a
+ | pattern_la2 = _chelsea1998a
+ | pattern_so2 = 
+ | leftarm2    = FF0000
+ | body2       = FFFFFF
+ | rightarm2   = FF0000
+ | shorts2     = FFFFFF
+ | socks2      = FFFFFF
+ | pattern_b3  =  _chelsea1998t
+ | pattern_ra3  = _chelsea1998t
+ | pattern_la3  = _chelsea1998t
+ | pattern_so3  = 
+ | leftarm3     = FFFF00
+ | body3        = FFFF00
+ | rightarm3    = FFFF00
+ | shorts3      = FFFF00
+ | socks3       = FFFF00
+  | prevseason         = [[1997–98 Chelsea F.C. season|1997–98]]
+  | nextseason         = [[1999–2000 Chelsea F.C. season|1999–2000]]
+}}
+The '''1998–99''' season was '''Chelsea F.C.'s''' 85th competitive season, seventh consecutive season in the [[Premier League]] and 93rd year as a club.
+
+==Season summary==
+After a solid fourth-place finish coupled with European and [[League Cup]] success the previous season, Chelsea really felt that they could challenge for the title this season. Chelsea made more big name signings, including [[France national football team|French]] [[FIFA World Cup|World Cup]] winning defender [[Marcel Desailly]] from [[A.C. Milan]], [[Spain national football team|Spanish]] international full-back [[Albert Ferrer]] from [[F.C. Barcelona|Barcelona]] and, in a club-record £5.4 million move, [[Italy national football team|Italian]] international striker [[Pierluigi Casiraghi]] from [[S.S. Lazio|Lazio]]. Casiraghi's season and career was cut short by a knee injury, but his compatriot [[Gianfranco Zola]] had arguably the best season of his career, leading Chelsea to a serious title challenge, scoring 15 goals in all competitions and setting up many other goals for his teammates.
+
+Ultimately, the [[European Super Cup]], won by beating Champions League winners [[Real Madrid C.F.|Real Madrid]], was the only trophy that Chelsea had to show for them. Their defence of the now-defunct [[European Cup Winners' Cup|Cup Winners' Cup]] ended in the semi-finals, while their title challenge was ended in early May when they couldn't get the better of [[Manchester United F.C.|Manchester United]] or [[Arsenal F.C.|Arsenal]]. Nonetheless, a final third-place finish booked them their first ever [[UEFA Champions League]] campaign and was another triumph for their young manager [[Gianluca Vialli]], who, at 35, announced his retirement as a player to concentrate on his managerial duties.
+
+==Final league table==
+{{main|1998–99 FA Premier League}}
+{{:1998–99 FA Premier League|showteam=CHE}}
+
+;Results summary
+{{Fb_rs|hw=12|hd=6|hl=1|hgf=29|hga=13|aw=8|ad=9|al=2|agf=28|aga=17}}
+{{Fb_rs_footer|s=[https://www.soccerbase.com/tournaments/tournament.sd?tourn_id=115 1998-99 FA Premier League table]|date=September 2015}}
+
+;Results by round
+{{#invoke:sports rbr table|table|legendpos=b
+|header=Round
+|label1= Ground
+| res1=A/H/H/H/A/H/A/H/A/A/H/A/H/A/H/A/A/H/A/H/A/H/A/H/H/A/H/H/A/A/A/A/H/A/H/H/A/H
+|label2= Result
+| res2=L/D/D/W/W/W/D/W/D/D/W/W/D/D/W/D/D/W/W/D/W/W/L/W/D/W/W/L/W/W/W/D/D/D/W/W/D/W
+|label3= Position
+| res3=18/17/18/15/11/7/6/4/6/5/4/4/4/6/3/3/3/1/1/2/1/1/2/2/2/2/2/3/3/3/3/3/2/3/3/3/3/3
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_1=1st|color_2=2nd|color_3=3rd|color_18-=red1
+
+|source=[http://www.11v11.com/teams/chelsea/tab/matches/season/1999 11v11.com: 1998-99 Chelsea results]
+|date=September 2015
+}}
+
+==Squad==
+<ref>{{Cite web|url=https://www.footballsquads.co.uk/eng/1998-1999/faprem/chelsea.htm|title = FootballSquads - Chelsea - 1998/99}}</ref><ref>{{Cite web|url=http://www.11v11.com/teams/chelsea/tab/players/season/1999|title = All Chelsea players: 1999}}</ref>
+{{fs start}}
+{{Fs player|no=1|nat=NED|pos=GK|name=[[Ed de Goey]]}}
+{{Fs player|no=2|nat=ROU|pos=DF|name=[[Dan Petrescu]]}}
+{{Fs player|no=3|nat=NGA|pos=DF|name=[[Celestine Babayaro]]}}
+{{Fs player|no=5|nat=FRA|pos=DF|name=[[Frank Leboeuf]]}}
+{{Fs player|no=6|nat=FRA|pos=DF|name=[[Marcel Desailly]]}}
+{{Fs player|no=7|nat=DEN|pos=MF|name=[[Bjarne Goldbæk]]}}
+{{Fs player|no=8|nat=URU|pos=MF|name=[[Gustavo Poyet]]}}
+{{Fs player|no=9|nat=ITA|pos=FW|name=[[Gianluca Vialli]]}}
+{{Fs player|no=10|nat=ITA|pos=FW|name=[[Pierluigi Casiraghi]]}}
+{{Fs player|no=11|nat=ENG|pos=MF|name=[[Dennis Wise]]|other=captain}}
+{{Fs player|no=12|nat=ENG|pos=DF|name=[[Michael Duberry]]}}
+{{Fs player|no=13|nat=ENG|pos=GK|name=[[Kevin Hitchcock]]}}
+{{Fs player|no=14|nat=ENG|pos=DF|name=[[Graeme Le Saux]]}}
+{{Fs player|no=15|nat=ITA|pos=MF|name=[[Samuele Dalla Bona]]}}
+{{Fs player|no=16|nat=ITA|pos=MF|name=[[Roberto Di Matteo]]}}
+{{Fs player|no=17|nat=ESP|pos=DF|name=[[Albert Ferrer]]}}
+{{Fs mid}}
+{{Fs player|no=18|nat=ENG|pos=DF|name=[[Andy Myers]]}}
+{{Fs player|no=19|nat=NOR|pos=FW|name=[[Tore André Flo]]}}
+{{Fs player|no=20|nat=WAL|pos=DF|name=Danny Slatter}}
+{{Fs player|no=21|nat=FRA|pos=DF|name=[[Bernard Lambourde]]}}
+{{Fs player|no=22|nat=ENG|pos=FW|name=[[Mark Nicholls (footballer)|Mark Nicholls]]}}
+{{Fs player|no=23|nat=RUS|pos=GK|name=[[Dmitri Kharine]]}}
+{{Fs player|no=24|nat=ENG|pos=MF|name=[[Eddie Newton]]}}
+{{Fs player|no=25|nat=ITA|pos=FW|name=[[Gianfranco Zola]]}}
+{{Fs player|no=26|nat=ENG|pos=DF|name=[[John Terry]]}}
+{{Fs player|no=27|nat=ENG|pos=DF|name=[[Jon Harley]]}}
+{{Fs player|no=28|nat=ENG|pos=MF|name=[[Jody Morris]]}}
+{{Fs player|no=29|nat=ENG|pos=DF|name=[[Neil Clement]]}}
+{{Fs player|no=30|nat=ITA|pos=DF|name=[[Luca Percassi]]}}
+{{Fs player|no=32|nat=FIN|pos=FW|name=[[Mikael Forssell]]}}
+{{Fs player|no=34|nat=ENG|pos=MF|name=[[Nick Crittenden]]}}
+{{Fs end}}
+
+===Left club during season===
+{{Fs start}}
+{{Fs player|no=4|nat=SCO|pos=DF|name=[[Steve Clarke]]|other=retired}}
+{{Fs player|no=7|nat=DEN|pos=MF|name=[[Brian Laudrup]]|other=to [[F.C. Copenhagen|Copenhagen]]}}
+{{Fs mid}}
+{{Fs player|no=15|nat=ENG|pos=DF|name=[[David Lee (footballer born 1969)|David Lee]]|other=to [[Bristol Rovers F.C.|Bristol Rovers]]}}
+{{Fs player|no=20|nat=JAM|pos=DF|name=[[Frank Sinclair]]<ref>Sinclair was born in [[London Borough of Lambeth|Lambeth]], [[England]], but also qualified to represent [[Jamaica]] internationally.</ref>|other=to [[Leicester City F.C.|Leicester City]]}}
+{{Fs end}}
+
+===Reserve squad===
+{{Fs start}}
+{{Fs player|no=-|nat=ENG|pos=GK|name=[[Rhys Evans]]}}
+{{Fs player|no=-|nat=ENG|pos=DF|name=[[Darren Baxter (English footballer)|Darren Baxter]]}}
+{{Fs player|no=-|nat=ENG|pos=DF|name=[[Stephen Broad]]}}
+{{Fs player|no=-|nat=ITA|pos=MF|name=[[Samuele Dalla Bona]]}}
+{{Fs player|no=-|nat=ENG|pos=MF|name=[[Paul Hughes (footballer)|Paul Hughes]]}}
+{{Fs player|no=-|nat=ENG|pos=MF|name=[[Courtney Pitt]]}}
+{{Fs mid}}
+{{Fs player|no=-|nat=ENG|pos=MF|name=[[Jay Richardson (footballer)|Jay Richardson]]}}
+{{Fs player|no=-|nat=SCO|pos=FW|name=[[Steven Hampshire]]}}
+{{Fs player|no=-|nat=ENG|pos=FW|name=[[Sam Parkin]]}}
+{{Fs player|no=-|nat=ENG|pos=FW|name=[[Joe Sheerin]]}}
+{{Fs player|no=-|nat=ENG|pos=FW|name=[[Rob Wolleaston]]}}
+{{Fs end}}
+
+==Statistics==
+{{Efs start|[[FA Premier League]]|[[UEFA Cup Winners Cup|Cup Winners Cup]]|[[FA Cup]]|[[Football League Cup]]}}
+{{Efs player|no=1|name=[[Ed de Goey]]|pos=GK|nat=NED|35|0|7|0|6|0|0|0}}
+{{Efs player|no=2|name=[[Dan Petrescu]]|pos=DF|nat=ROU|23+9|3|6|0|4|0|3|0}}
+{{Efs player|no=3|name=[[Celestine Babayaro]]|pos=DF|nat=NGA|26+2|3|7|1|4+1|0|3|0}}
+{{Efs player|no=5|name=[[Frank Leboeuf]]|pos=DF|nat=FRA|33|4|6|1|4|1|2|1}}
+{{Efs player|no=6|name=[[Marcel Desailly]]|pos=DF|nat=FRA|30+1|0|7|1|6|0|0|0}}
+{{Efs player|no=7|name=[[Brian Laudrup]]|pos=MF|nat=DEN|5+2|0|3|1|0|0|0|0}}
+{{Efs player|no=7|name=[[Bjarne Goldbæk]]|pos=MF|nat=DEN|13+10|5|0|0|2+4|0|2|0}}
+{{Efs player|no=8|name=[[Gustavo Poyet]]|pos=MF|nat=URU|21+7|11|6|0|0|0|3|2}}
+{{Efs player|no=9|name=[[Gianluca Vialli]]|pos=FW|nat=ITA|9|1|5|1|3|2|3|6}}
+{{Efs player|no=10|name=[[Pierluigi Casiraghi]]|pos=FW|nat=ITA|10|1|4|0|0|0|0|0}}
+{{Efs player|no=11|name=[[Dennis Wise]]|pos=MF|nat=ENG|21+1|0|7|1|5|1|2|0}}
+{{Efs player|no=12|name=[[Michael Duberry]]|pos=DF|nat=ENG|18+7|0|2|0|2|0|3|0}}
+{{Efs player|no=13|name=[[Kevin Hitchcock]]|pos=GK|nat=ENG|2+1|0|0|0|0|0|0|0}}
+{{Efs player|no=14|name=[[Graeme Le Saux]]|pos=DF|nat=ENG|30+1|0|8|0|6|0|0|0}}
+{{Efs player|no=15|name=[[Andy Myers]]|pos=DF|nat=ENG|1|0|1|0|0+2|0|0|0}}
+{{Efs player|no=16|name=[[Roberto Di Matteo]]|pos=MF|nat=ITA|26+4|2|7|0|4+2|1|1+1|0}}
+{{Efs player|no=17|name=[[Albert Ferrer]]|pos=DF|nat=ESP|30|0|7|0|2|0|0+1|0}}
+{{Efs player|no=19|name=[[Tore Andre Flo]]|pos=FW|nat=NOR|18+12|10|8|2|2+1|0|2+1|1}}
+{{Efs player|no=21|name=[[Bernard Lambourde]]|pos=DF|nat=FRA|12+5|0|3|1|2|0|2+1|0}}
+{{Efs player|no=22|name=[[Mark Nicholls (footballer)|Mark Nicholls]]|pos=FW|nat=ENG|0+9|0|2|0|0+3|0|2|0}}
+{{Efs player|no=23|name=[[Dmitri Kharine]]|pos=GK|nat=RUS|1|0|1|0|0|0|3|0}}
+{{Efs player|no=24|name=[[Eddie Newton]]|pos=MF|nat=ENG|1+6|0|1|0|0+1|0|0|0}}
+{{Efs player|no=25|name=[[Gianfranco Zola]]|pos=FW|nat=ITA|35+2|13|5|1|6|1|0|0}}
+{{Efs player|no=26|name=[[John Terry]]|pos=DF|nat=ENG|0+2|0|1|0|2+1|0|0+1|0}}
+{{Efs player|no=27|name=[[Jon Harley]]|pos=DF|nat=ENG|0|0|0|0|0|0|0+1|0}}
+{{Efs player|no=28|name=[[Jody Morris]]|pos=MF|nat=ENG|14+4|1|2|0|5|0|2|0}}
+{{Efs player|no=29|name=[[Neil Clement]]|pos=DF|nat=ENG|0|0|0|0|0|0|0+2|0}}
+{{Efs player|no=30|name=[[Luca Percassi]]|pos=DF|nat=ITA|0|0|0|0|0|0|0+1|0}}
+{{Efs player|no=32|name=[[Mikael Forssell]]|pos=FW|nat=FIN|4+6|1|0|0|1+2|2|0|0}}
+|}
+
+Statistics taken from [http://www.soccerbase.com/squad_season.sd?teamid=536] {{Webarchive|url=https://web.archive.org/web/20090520151010/http://www.soccerbase.com/squad_season.sd?teamid=536 |date=20 May 2009 }}. Squad details and shirt numbers from [http://www.zanziball.it/en/28/22b9.html] {{Webarchive|url=https://web.archive.org/web/20080303112017/http://www.zanziball.it/en/28/22b9.html |date=3 March 2008 }} and [http://www.eufo.de/football/eng/1998/chela_fc.htm].
+
+==Results==
+
+===Premier League===
+{{Football box collapsible
+|round      = 1
+|date       = 15 August 1998
+|time       = 
+|team1      = [[Coventry City]]
+|score      = 2–1
+|report     = 
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Darren Huckerby|Huckerby]] {{goal|10}}<br>[[Dion Dublin|Dublin]] {{goal|16}}
+|goals2     = [[Gustavo Poyet|Poyet]] {{goal|37}}
+|location   = [[Coventry]]
+|stadium    = [[Highfield Road]]
+|attendance = 
+|referee    = 
+|result     = L
+}}
+{{Football box collapsible
+|round      = 2
+|date       = 22 August 1998
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 1–1
+|report     = 
+|team2      = [[Newcastle United]]
+|goals1     = [[Celestine Babayaro|Babayaro]] {{goal|23}}
+|goals2     = [[Andreas Andersson (footballer, born 1974)|A. Andersson]] {{goal|43}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = 
+|result     = D
+}}
+{{Football box collapsible
+|round      = 3
+|date       = 9 September 1998
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 0–0
+|report     = 
+|team2      = [[Arsenal F.C.|Arsenal]]
+|goals1     = 
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = 
+|result     = D
+}}
+{{Football box collapsible
+|round      = 4
+|date       = 12 September 1998
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 2–1
+|report     = 
+|team2      = [[Nottingham Forest]]
+|goals1     = [[Gianfranco Zola|Zola]] {{goal|1}}<br>[[Gustavo Poyet|Poyet]] {{goal|35}}
+|goals2     = [[Jean-Claude Darcheville|Darcheville]] {{goal|69}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = 
+|result     = W
+}}
+{{Football box collapsible
+|round      = 5
+|date       = 21 September 1998
+|time       = 
+|team1      = [[Blackburn Rovers]]
+|score      = 3–4
+|report     = [https://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/177008.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Chris Sutton|Sutton]] {{goal|34||79|pen.}}<br>[[Sébastien Pérez|Pérez]] {{goal|57}} {{sent off|0|66}}
+|goals2     = [[Gianfranco Zola|Zola]] {{goal|15}}<br>[[Franck Leboeuf|Leboeuf]] {{goal|51|pen.}}<br>[[Graeme Le Saux|Le Saux]] {{sent off|0|66}}<br>[[Tore André Flo|Flo]] {{goal|82||86}}
+|location   = [[Blackburn]], [[Lancashire]]
+|stadium    = [[Ewood Park]]
+|attendance = 
+|referee    = [[Peter Jones (referee)|Peter Jones]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 6
+|date       = 26 September 1998
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 2–0
+|report     = [https://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/180741.stm Report]
+|team2      = [[Middlesbrough F.C.|Middlesbrough]]
+|goals1     = [[Gary Pallister|Pallister]] {{goal|46|o.g.}}<br>[[Gianfranco Zola|Zola]] {{goal|81}}
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Mike Reed (referee)|Mike Reed]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 7
+|date       = 4 October 1998
+|time       = 
+|team1      = [[Liverpool F.C.|Liverpool]]
+|score      = 1–1
+|report     = 
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Jamie Redknapp|Redknapp]] {{goal|83}}
+|goals2     = [[Pierluigi Casiraghi|Casiraghi]] {{goal|10}}
+|location   = [[Liverpool]], [[Merseyside]]
+|stadium    = [[Anfield]]
+|attendance = 
+|referee    = 
+|result     = D
+}}
+{{Football box collapsible
+|round      = 8
+|date       = 17 October 1998
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 2–1
+|report     = 
+|team2      = [[Charlton Athletic]]
+|goals1     = [[Franck Leboeuf|Leboeuf]] {{goal|18|pen.}}<br>[[Gustavo Poyet|Poyet]] {{goal|88}}
+|goals2     = [[Eddie Youds|Youds]] {{goal|58}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = 
+|result     = W
+}}
+{{Football box collapsible
+|round      = 9
+|date       = 25 October 1998
+|time       = 
+|team1      = [[Leeds United]]
+|score      = 0–0
+|report     = 
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = 
+|location   = [[Leeds]], [[West Yorkshire]]
+|stadium    = [[Elland Road]]
+|attendance = 
+|referee    = 
+|result     = D
+}}
+{{Football box collapsible
+|round      = 10
+|date       = 8 November 1998
+|time       = 
+|team1      = [[West Ham United]]
+|score      = 1–1
+|report     = 
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Neil Ruddock|Ruddock]] {{goal|4}}
+|goals2     = [[Celestine Babayaro|Babayaro]] {{goal|76}}
+|location   = [[London Borough of Newham|Newham]], [[London]]
+|stadium    = [[Boleyn Ground]]
+|attendance = 
+|referee    = 
+|result     = D
+}}
+{{Football box collapsible
+|round      = 11
+|date       = 14 November 1998
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 3–0
+|report     = 
+|team2      = [[Wimbledon F.C.|Wimbledon]]
+|goals1     = [[Gianfranco Zola|Zola]] {{goal|32}}<br>[[Gustavo Poyet|Poyet]] {{goal|55}}<br>[[Dan Petrescu|Petrescu]] {{goal|70}}
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = 
+|result     = W
+}}
+{{Football box collapsible
+|round      = 12
+|date       = 21 November 1998
+|time       = 
+|team1      = [[Leicester City]]
+|score      = 2–4
+|report     = 
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Muzzy Izzet|Izzet]] {{goal|40}}<br>[[Steve Guppy|Guppy]] {{goal|60}}
+|goals2     = [[Gianfranco Zola|Zola]] {{goal|28||90}}<br>[[Gustavo Poyet|Poyet]] {{goal|39}}<br>[[Tore André Flo|Flo]] {{goal|56}}
+|location   = [[Leicester]], [[Leicestershire]]
+|stadium    = [[Filbert Street]]
+|attendance = 
+|referee    = 
+|result     = W
+}}
+{{Football box collapsible
+|round      = 13
+|date       = 28 November 1998
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 1–1
+|report     = 
+|team2      = [[Sheffield Wednesday]]
+|goals1     = [[Gianfranco Zola|Zola]] {{goal|27}}
+|goals2     = [[Andy Booth|Booth]] {{goal|67}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = 
+|result     = D
+}}
+{{Football box collapsible
+|round      = 14
+|date       = 5 December 1998
+|time       = 
+|team1      = [[Everton F.C.|Everton]]
+|score      = 0–0
+|report     = 
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = 
+|location   = [[Liverpool]], [[Merseyside]]
+|stadium    = [[Goodison Park]]
+|attendance = 
+|referee    = 
+|result     = D
+}}
+{{Football box collapsible
+|round      = 15
+|date       = 9 December 1998
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 2–1
+|report     = 
+|team2      = [[Aston Villa F.C.|Aston Villa]]
+|goals1     = [[Gianfranco Zola|Zola]] {{goal|30}}<br>[[Tore André Flo|Flo]] {{goal|90}}
+|goals2     = [[Lee Hendrie|Hendrie]] {{goal|32}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = 
+|result     = W
+}}
+{{Football box collapsible
+|round      = 16
+|date       = 12 December 1998
+|time       = 
+|team1      = [[Derby County]]
+|score      = 2–2
+|report     = 
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Horacio Carbonari|Carbonari]] {{goal|26}}<br>[[Dean Sturridge|Sturridge]] {{goal|90}}
+|goals2     = [[Tore André Flo|Flo]] {{goal|55}}<br>[[Gustavo Poyet|Poyet]] {{goal|59}}
+|location   = [[Derby]], [[Derbyshire]]
+|stadium    = [[Pride Park Stadium]]
+|attendance = 
+|referee    = 
+|result     = D
+}}
+{{Football box collapsible
+|round      = 17
+|date       = 16 December 1998
+|time       = 
+|team1      = [[Manchester United F.C.|Manchester United]]
+|score      = 1–1
+|report     = 
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Andy Cole|A. Cole]] {{goal|45}}
+|goals2     = [[Gianfranco Zola|Zola]] {{goal|83}}
+|location   = [[Trafford]], [[Greater Manchester]]
+|stadium    = [[Old Trafford]]
+|attendance = 
+|referee    = 
+|result     = D
+}}
+{{Football box collapsible
+|round      = 18
+|date       = 19 December 1998
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 2–0
+|report     = 
+|team2      = [[Tottenham Hotspur]]
+|goals1     = [[Gustavo Poyet|Poyet]] {{goal|80}}<br>[[Tore André Flo|Flo]] {{goal|90}}
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = 
+|result     = W
+}}
+{{Football box collapsible
+|round      = 19
+|date       = 26 December 1998
+|time       = 
+|team1      = [[Southampton F.C.|Southampton]]
+|score      = 0–2
+|report     = 
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = [[Tore André Flo|Flo]] {{goal|20}}<br>[[Gustavo Poyet|Poyet]] {{goal|48}}
+|location   = [[Southampton]], [[Hampshire]]
+|stadium    = [[The Dell (Southampton)|The Dell]]
+|attendance = 
+|referee    = 
+|result     = W
+}}
+{{Football box collapsible
+|round      = 20
+|date       = 29 December 1998
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 0–0
+|report     = 
+|team2      = [[Manchester United F.C.|Manchester United]]
+|goals1     = 
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = 
+|result     = D
+}}
+{{Football box collapsible
+|round      = 21
+|date       = 9 January 1999
+|time       = 
+|team1      = [[Newcastle United]]
+|score      = 0–1
+|report     = 
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = [[Dan Petrescu|Petrescu]] {{goal|39}}
+|location   = [[Newcastle-upon-Tyne]]
+|stadium    = [[St. James' Park]]
+|attendance = 
+|referee    = 
+|result     = W
+}}
+{{Football box collapsible
+|round      = 22
+|date       = 16 January 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 2–1
+|report     = 
+|team2      = [[Coventry City]]
+|goals1     = [[Franck Leboeuf|Leboeuf]] {{goal|45}}<br>[[Roberto Di Matteo|Di Matteo]] {{goal|90}}
+|goals2     = [[Darren Huckerby|Huckerby]] {{goal|9}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = 
+|result     = W
+}}
+{{Football box collapsible
+|round      = 23
+|date       = 31 January 1999
+|time       = 
+|team1      = [[Arsenal F.C.|Arsenal]]
+|score      = 1–0
+|report     = 
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Dennis Bergkamp|Bergkamp]] {{goal|32}}
+|goals2     = 
+|location   = [[London Borough of Islington|Islington]], [[London]]
+|stadium    = [[Arsenal Stadium|Highbury]]
+|attendance = 
+|referee    = 
+|result     = L
+}}
+{{Football box collapsible
+|round      = 24
+|date       = 6 February 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 1–0
+|report     = 
+|team2      = [[Southampton F.C.|Southampton]]
+|goals1     = [[Gianfranco Zola|Zola]] {{goal|11}}
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = 
+|result     = W
+}}
+{{Football box collapsible
+|round      = 25
+|date       = 17 February 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 1–1
+|report     = 
+|team2      = [[Blackburn Rovers]]
+|goals1     = [[Jody Morris|Morris]] {{goal|44}}
+|goals2     = [[Ashley Ward|Ward]] {{goal|84}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = 
+|result     = D
+}}
+{{Football box collapsible
+|round      = 26
+|date       = 20 February 1999
+|time       = 
+|team1      = [[Nottingham Forest]]
+|score      = 1–3
+|report     = 
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Pierre van Hooijdonk|van Hooijdonk]] {{goal|39}}
+|goals2     = [[Mikael Forssell|Forssell]] {{goal|6}}<br>[[Bjarne Goldbæk|Goldbæk]] {{goal|25, 83}}
+|location   = [[Nottingham]]
+|stadium    = [[City Ground]]
+|attendance = 
+|referee    = 
+|result     = W
+}}
+{{Football box collapsible
+|round      = 27
+|date       = 27 February 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 2–1
+|report     = [https://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/287351.stm Report]
+|team2      = [[Liverpool F.C.|Liverpool]]
+|goals1     = [[Franck Leboeuf|Leboeuf]] {{goal|7|pen.}}<br>[[Bjarne Goldbæk|Goldbæk]] {{goal|38}}
+|goals2     = [[Michael Owen|Owen]] {{goal|77}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Paul Durkin]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 28
+|date       = 13 March 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 0–1
+|report     = 
+|team2      = [[West Ham United]]
+|goals1     = 
+|goals2     = [[Paul Kitson|Kitson]] {{goal|75}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = 
+|result     = L
+}}
+{{Football box collapsible
+|round      = 29
+|date       = 21 March 1999
+|time       = 
+|team1      = [[Aston Villa F.C.|Aston Villa]]
+|score      = 0–3
+|report     = 
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = [[Tore André Flo|Flo]] {{goal|59||89}}<br>[[Bjarne Goldbæk|Goldbæk]] {{goal|86}}
+|location   = [[Birmingham]], [[West Midlands (county)|West Midlands]]
+|stadium    = [[Villa Park]]
+|attendance = 
+|referee    = 
+|result     = W
+}}
+{{Football box collapsible
+|round      = 30
+|date       = 3 April 1999
+|time       = 
+|team1      = [[Charlton Athletic]]
+|score      = 0–1
+|report     = 
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = [[Roberto Di Matteo|Di Matteo]] {{goal|11}}
+|location   = [[Royal Borough of Greenwich|Greenwich]], [[London]]
+|stadium    = [[The Valley (London)|The Valley]]
+|attendance = 
+|referee    = 
+|result     = W
+}}
+{{Football box collapsible
+|round      = 31
+|date       = 11 April 1999
+|time       = 
+|team1      = [[Wimbledon F.C.|Wimbledon]]
+|score      = 1–2
+|report     = 
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Marcus Gayle|Gayle]] {{goal|90}}
+|goals2     = [[Tore André Flo|Flo]] {{goal|24}}<br>[[Gustavo Poyet|Poyet]] {{goal|53}}
+|location   = [[London Borough of Croydon|Croydon]], [[London]]
+|stadium    = [[Selhurst Park]]
+|attendance = 
+|referee    = 
+|result     = W
+}}
+{{Football box collapsible
+|round      = 32
+|date       = 14 April 1999
+|time       = 
+|team1      = [[Middlesbrough F.C.|Middlesbrough]]
+|score      = 0–0
+|report     = 
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = 
+|location   = [[Middlesbrough]], [[North Yorkshire]]
+|stadium    = [[Riverside Stadium]]
+|attendance = 
+|referee    = 
+|result     = D
+}}
+{{Football box collapsible
+|round      = 33
+|date       = 18 April 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 2–2
+|report     = 
+|team2      = [[Leicester City]]
+|goals1     = [[Gianfranco Zola|Zola]] {{goal|30}}<br>[[Matt Elliott (footballer)|Elliott]] {{goal|69|o.g.}}
+|goals2     = [[Michael Duberry|Duberry]] {{goal|82|o.g.}}<br>[[Steve Guppy|Guppy]] {{goal|88}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = 
+|result     = D
+}}
+{{Football box collapsible
+|round      = 34
+|date       = 25 April 1999
+|time       = 
+|team1      = [[Sheffield Wednesday]]
+|score      = 0–0
+|report     = 
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = 
+|location   = [[Sheffield]]
+|stadium    = [[Hillsborough Stadium|Hillsborough]]
+|attendance = 
+|referee    = 
+|result     = D
+}}
+{{Football box collapsible
+|round      = 35
+|date       = 1 May 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 3–1
+|report     = 
+|team2      = [[Everton F.C.|Everton]]
+|goals1     = [[Gianfranco Zola|Zola]] {{goal|25||81}}<br>[[Dan Petrescu|Petrescu]] {{goal|60}}
+|goals2     = [[Francis Jeffers|Jeffers]] {{goal|69}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = 
+|result     = W
+}}
+{{Football box collapsible
+|round      = 36
+|date       = 5 May 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 1–0
+|report     = 
+|team2      = [[Leeds United]]
+|goals1     = [[Gustavo Poyet|Poyet]] {{goal|68}}
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = 
+|result     = W
+}}
+{{Football box collapsible
+|round      = 37
+|date       = 10 May 1999
+|time       = 
+|team1      = [[Tottenham Hotspur]]
+|score      = 2–2
+|report     = 
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Steffen Iversen|Iversen]] {{goal|38}}<br>[[David Ginola|Ginola]] {{goal|64}}
+|goals2     = [[Gustavo Poyet|Poyet]] {{goal|4}}<br>[[Bjarne Goldbæk|Goldbæk]] {{goal|73}}
+|location   = [[London Borough of Haringey|Haringey]], [[London]]
+|stadium    = [[White Hart Lane]]
+|attendance = 
+|referee    = 
+|result     = D
+}}
+{{Football box collapsible
+|round      = 38
+|date       = 16 May 1999
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 2–1
+|report     = 
+|team2      = [[Derby County]]
+|goals1     = [[Celestine Babayaro|Babayaro]] {{goal|40}}<br>[[Gianluca Vialli|Vialli]] {{goal|68}}
+|goals2     = [[Horacio Carbonari|Carbonari]] {{goal|88}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = 
+|result     = W
+}}
+
+====Goalscorers====
+
+* {{flagicon|ITA}} [[Gianfranco Zola]] 13
+* {{flagicon|URU}} [[Gustavo Poyet]] 11
+* {{flagicon|NOR}} [[Tore Andre Flo]] 10
+* {{flagicon|DEN}} [[Bjarne Goldbaek]] 5
+* {{flagicon|FRA}} [[Frank Leboeuf]] 4
+* {{flagicon|NGA}} [[Celestine Babayaro]] 3
+* {{flagicon|ROM}} [[Dan Petrescu]] 3
+* {{flagicon|ITA}} [[Roberto Di Matteo]] 2
+* {{flagicon|ITA}} [[Pierluigi Casiraghi]] 1
+* {{flagicon|ENG}} [[Jody Morris]] 1
+* {{flagicon|FIN}} [[Mikael Forssell]] 1
+* {{flagicon|ITA}} [[Gianluca Vialli]] 1
+
+===UEFA Super Cup===
+{| class="wikitable sortable" style="font-size:95%; text-align:center"
+!Date!!Opponent!!Venue!!Result!!Attendance!!Scorers
+|- bgcolor = "#EEFFEE"
+| {{left}}28 August 1998 ||{{left}}{{flagicon|ESP}} [[Real Madrid]]||N||1–0||10,000||{{left}}[[Gustavo Poyet|Poyet]]
+|}
+
+====Goalscorers====
+
+* {{flagicon|URU}} [[Gustavo Poyet]] 1
+
+===UEFA Cup Winners' Cup===
+{| class="wikitable sortable" style="font-size:95%; text-align:center"
+!Date!!Round!!Opponent!!Venue!!Result!!Attendance!!Scorers
+|- bgcolor = "#EEFFEE"
+| {{left}}17 September 1998 ||R1||{{left}}{{flagicon|SWE}} [[Helsingborgs IF|Helsingborg]]||H||1–0||17,714||{{left}}[[Frank Leboeuf|Leboeuf]]
+|- bgcolor = "#FFFFEE"
+| {{left}}1 October 1998 ||R1||{{left}}{{flagicon|SWE}} [[Helsingborgs IF|Helsingborg]]||A||0–0||12,348||{{left}}
+|- bgcolor = "#FFFFEE"
+| {{left}}22 October 1998 ||R2||{{left}}{{flagicon|DEN}} [[F.C. Copenhagen|Copenhagen]]||H||1–1||21,207||{{left}}[[Marcel Desailly|Desailly]]
+|- bgcolor = "#EEFFEE"
+| {{left}}5 November 1998 ||R2||{{left}}{{flagicon|DEN}} [[F.C. Copenhagen|Copenhagen]]||A||1–0||24,188||{{left}}[[Brian Laudrup|Laudrup]]
+|- bgcolor = "#EEFFEE"
+| {{left}}4 March 1999 ||QF||{{left}}{{flagicon|NOR}} [[Vålerenga IF Fotball|Vålerenga]]||H||3–0||34,177||{{left}}[[Celestine Babayaro|Babayaro]], [[Gianfranco Zola|Zola]], [[Dennis Wise|Wise]]
+|- bgcolor = "#EEFFEE"
+| {{left}}18 March 1999 ||QF||{{left}}{{flagicon|NOR}} [[Vålerenga IF Fotball|Vålerenga]]||A||3–2||17,936||{{left}}[[Gianluca Vialli|Vialli]], [[Bernard Lambourde|Lambourde]], [[Tore André Flo|Flo]]
+|- bgcolor = "#FFFFEE"
+| {{left}}8 April 1999 ||SF||{{left}}{{flagicon|ESP}} [[RCD Mallorca|Mallorca]]||H||1–1||35,524||{{left}}[[Tore André Flo|Flo]]
+|- bgcolor = "#FFEEEE"
+| {{left}}22 April 1999 ||SF||{{left}}{{flagicon|ESP}} [[RCD Mallorca|Mallorca]]||A||0–1||18,848||{{left}}
+|}
+
+====Goalscorers====
+
+* {{flagicon|NOR}} [[Tore Andre Flo]] 2
+* {{flagicon|FRA}} [[Frank Leboeuf]] 1
+* {{flagicon|FRA}} [[Marcel Desailly]] 1
+* {{flagicon|DEN}} [[Brian Laudrup]] 1
+* {{flagicon|NGA}} [[Celestine Babayaro]] 1
+* {{flagicon|ITA}} [[Gianfranco Zola]] 1
+* {{flagicon|ENG}} [[Dennis Wise]] 1
+* {{flagicon|ITA}} [[Gianluca Vialli]] 1
+* {{flagicon|FRA}} [[Bernard Lambourde]] 1
+
+===League Cup===
+{| class="wikitable sortable" style="font-size:95%; text-align:center"
+!Date!!Round!!Opponent!!Venue!!Result!!Attendance!!Scorers
+|- bgcolor = "#EEFFEE"
+| {{left}}28 October 1998 ||R3||{{left}}[[Aston Villa F.C.|Aston Villa]]||H||4–1||26,790||{{left}}[[Gianluca Vialli|Vialli]] (3), [[Tore André Flo|Flo]]
+|- bgcolor = "#EEFFEE"
+| {{left}}11 November 1998 ||R4||{{left}}[[Arsenal F.C.|Arsenal]]||A||5–0||37,562||{{left}}[[Frank Leboeuf|Leboeuf]], [[Gianluca Vialli|Vialli]] (2), [[Gustavo Poyet|Poyet]] (2)
+|- bgcolor = "#FFEEEE"
+| {{left}}1 December 1998 ||QF||{{left}}[[Wimbledon F.C.|Wimbledon]]||A||1–2||19,286||{{left}}[[Gianluca Vialli|Vialli]]
+|}
+
+====Goalscorers====
+
+* {{flagicon|ITA}} [[Gianluca Vialli]] 6
+* {{flagicon|URU}} [[Gustavo Poyet]] 2
+* {{flagicon|NOR}} [[Tore Andre Flo]] 1
+* {{flagicon|FRA}} [[Frank Leboeuf]] 1
+
+===FA Cup===
+{| class="wikitable sortable" style="font-size:95%; text-align:center"
+!Date!!Round!!Opponent!!Venue!!Result!!Attendance!!Scorers
+|- bgcolor = "#EEFFEE"
+| {{left}}2 January 1999 ||R3||{{left}}[[Oldham Athletic A.F.C.|Oldham Athletic]]||A||2–0||12,770||{{left}}[[Gianluca Vialli|Vialli]] (2)
+|- bgcolor = "#FFFFEE"
+| {{left}}25 January 1999 ||R4||{{left}}[[Oxford United F.C.|Oxford United]]||A||1–1||9,059||{{left}}[[Frank Leboeuf|Leboeuf]] ([[Penalty kick (association football)|pen.]])
+|- bgcolor = "#EEFFEE"
+| {{left}}3 February 1999 ||R4 (R)||{{left}}[[Oxford United F.C.|Oxford United]]||H||4–2||32,106||{{left}}[[Dennis Wise|Wise]], [[Gianfranco Zola|Zola]], [[Mikael Forssell|Forssell]] (2)
+|- bgcolor = "#EEFFEE"
+| {{left}}13 February 1999 ||R5||{{left}}[[Sheffield Wednesday F.C.|Sheffield Wednesday]]||A||1–0||29,410||{{left}}[[Roberto Di Matteo|Di Matteo]]
+|- bgcolor = "#FFFFEE"
+| {{left}}7 March 1999 ||R6||{{left}}[[Manchester United F.C.|Manchester United]]||A||0–0||54,587||{{left}}
+|- bgcolor = "#FFEEEE"
+| {{left}}10 March 1999 ||R6 (R)||{{left}}[[Manchester United F.C.|Manchester United]]||H||0–2||33,075||{{left}}
+|}
+
+====Goalscorers====
+* {{flagicon|ITA}} [[Gianluca Vialli]] 2
+* {{flagicon|FIN}} [[Mikael Forssell]] 2
+* {{flagicon|FRA}} [[Frank Leboeuf]] 1
+* {{flagicon|ENG}} [[Dennis Wise]] 1
+* {{flagicon|ITA}} [[Gianfranco Zola]] 1
+* {{flagicon|ITA}} [[Roberto Di Matteo]] 1
+
+==References==
+{{reflist}}
+
+{{Chelsea F.C. seasons}}
+{{1998–99 in English football}}
+
+{{DEFAULTSORT:1998-99 Chelsea F.C. season}}
+[[Category:Chelsea F.C. seasons]]
+[[Category:1998–99 FA Premier League by team|Chelsea]]

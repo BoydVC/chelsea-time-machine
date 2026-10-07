@@ -1,0 +1,2340 @@
+{{Short description|English football club season}}
+{{Use British English|date=February 2015}}
+{{Use dmy dates|date=April 2020}}
+{{Infobox football club season
+| club               = Chelsea F.C.
+| season             = 2008–09
+| image              = 2009FACupFinal.jpeg
+| image_size         = 300px
+| alt                =
+| caption            = Chelsea players celebrating [[2008–09 FA Cup|FA Cup]] title
+| manager            = [[Luiz Felipe Scolari]] (until 9 February 2009)<br />[[Ray Wilkins]] (caretaker manager)<br />[[Guus Hiddink]] (interim manager)
+| owner              = [[Roman Abramovich]]
+| chairman           = [[Bruce Buck]]
+| stadium            = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| league             = [[2008–09 Premier League|Premier League]]
+| league result      = 3rd
+| cup1               = [[2008–09 FA Cup|FA Cup]]
+| cup1 result        = [[2009 FA Cup final|'''Winners''']]
+| cup2               = [[2008–09 Football League Cup|League Cup]]
+| cup2 result        = Fourth round
+| cup3               = [[2008–09 UEFA Champions League|UEFA Champions League]]
+| cup3 result        = Semi-finals
+| league topscorer   = [[Nicolas Anelka]] (19)
+| season topscorer   = Nicolas Anelka (25)
+| highest attendance = 41,810 v [[Manchester City F.C.|Manchester City]]<br /> (15 March 2009)
+| lowest attendance  = 37,857 v [[FC Barcelona|Barcelona]]<br /> (6 May 2009)
+| pattern_la1 = _chelsea0809h
+| pattern_b1  = _chelsea0809h
+| pattern_ra1 = _chelsea0809h
+| pattern_sh1 = _adidaswhite
+| pattern_so1 = _adidasbluel
+| leftarm1    = 0000FF
+| body1       = 0000FF
+| rightarm1   = 0000FF
+| shorts1     = 0000FF
+| socks1      = FFFFFF
+| pattern_la2 = _chelsea0809a
+| pattern_b2  = _chelsea0809a
+| pattern_ra2 = _chelsea0809a
+| pattern_sh2 = _adidaswhite
+| pattern_so2 = _adidaswhitel
+| leftarm2    = 000000
+| body2       = 000000
+| rightarm2   = 000000
+| shorts2     = 000000
+| socks2      = 000000
+| pattern_la3 = _chelsea0809t
+| pattern_b3  = _chelsea0809t
+| pattern_ra3 = _chelsea0809t
+| pattern_sh3 = _adidasblue
+| pattern_so3 = _adidasbluel
+| leftarm3    = FFDD00
+| body3       = FFDD00
+| rightarm3   = FFDD00
+| shorts3     = FFDD00
+| socks3      = FFDD00
+| prevseason         = [[2007–08 Chelsea F.C. season|2007–08]]
+| nextseason         = [[2009–10 Chelsea F.C. season|2009–10]]
+}}
+
+The 2008–09 season was [[Chelsea F.C.|Chelsea Football Club]]'s 95th competitive season, 17th consecutive season in the [[Premier League]] and 103rd year in existence as a [[association football|football]] club.
+
+==Kits==
+'''Supplier:''' [[Adidas]] / '''Sponsor:''' [[Samsung]]
+
+{|border="0" style="margin:1em auto;"
+|{{Football kit
+ | pattern_la = _chelsea0809h
+ | pattern_b  = _chelsea0809h
+ | pattern_ra = _chelsea0809h
+ | pattern_sh = _adidaswhite
+ | pattern_so = _adidasbluel
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | socks      = FFFFFF
+ | title      = Home
+}}
+|
+|{{Football kit
+ | pattern_la = _chelsea0809h
+ | pattern_b  = _chelsea0809h
+ | pattern_ra = _chelsea0809h
+ | pattern_sh = _adidaswhite
+ | pattern_so = _adidaswhitel
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | socks      = 0000FF
+ | title      = Home <small>alt.</small>
+}}
+|
+|{{Football kit
+ | pattern_la = _chelsea0910h
+ | pattern_b  = _chelsea0910h
+ | pattern_ra = _chelsea0910h
+ | pattern_sh = _adidaswhite
+ | pattern_so = _adidasbluel
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | socks      = FFFFFF
+ | title      = [[2009–10 Chelsea F.C. season|2009–10]]
+}}
+|
+|{{Football kit
+ | pattern_la = _chelsea0809a
+ | pattern_b  = _chelsea0809a
+ | pattern_ra = _chelsea0809a
+ | pattern_sh = _adidaswhite
+ | pattern_so = _adidaswhitel
+ | leftarm    = 000000
+ | body       = 000000
+ | rightarm   = 000000
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Away
+}}
+|
+|{{Football kit
+ | pattern_la = _chelsea0809t
+ | pattern_b  = _chelsea0809t
+ | pattern_ra = _chelsea0809t
+ | pattern_sh = _adidasblue
+ | pattern_so = _adidasbluel
+ | leftarm    = FFDD00
+ | body       = FFDD00
+ | rightarm   = FFDD00
+ | shorts     = FFDD00
+ | socks      = FFDD00
+ | title      = Third
+}}
+|}
+{| style="margin:1em auto;"
+|
+|{{Football kit
+ | pattern_la = _adidas10orange
+ | pattern_b  = _chelsea0910g2
+ | pattern_ra = _adidas10orange
+ | pattern_sh = _chelsea0810gk
+ | pattern_so = _3_stripes_black
+ | leftarm    = FF8000
+ | body       = FF8000
+ | rightarm   = FF8000
+ | shorts     = 000000
+ | socks      = FF8000
+ | title      = Goalkeeper <small>1</small>
+}}
+|
+|{{Football kit
+ | pattern_la = _shoulder stripes black stripes half
+ | pattern_b  = _chelsea0910agk
+ | pattern_ra = _shoulder stripes black stripes half
+ | pattern_sh = _black_stripes_adidas
+ | pattern_so = _3_stripes_on_black
+ | leftarm    = FF8000
+ | body       = FF8000
+ | rightarm   = FF8000
+ | shorts     = FF8000
+ | socks      = FF8000
+ | title      = Goalkeeper <small>alt.</small>
+}}
+|
+|{{Football kit
+ | pattern_la = _shoulder stripes black stripes half
+ | pattern_b  = _chelsea0910agk
+ | pattern_ra = _shoulder stripes black stripes half
+ | pattern_sh = _black_stripes_adidas
+ | pattern_so = _3_stripes_black
+ | leftarm    = FF8000
+ | body       = FF8000
+ | rightarm   = FF8000
+ | shorts     = FF8000
+ | socks      = FF8000
+ | title      = Goalkeeper <small>alt. 2</small>
+}}
+|
+|{{Football kit
+ | pattern_la = _shoulder_stripes_white_stripes_half
+ | pattern_b  = _shoulder_stripes_white_stripes
+ | pattern_ra = _shoulder_stripes_white_stripes_half
+ | pattern_sh = _adidaswhite
+ | pattern_so = _3_stripes_white
+ | leftarm    = 191970
+ | body       = 191970
+ | rightarm   = 191970
+ | shorts     = 191970
+ | socks      = 191970
+ | title      = Goalkeeper <small>2</small>
+}}
+|
+|{{Football kit
+ | pattern_la = _shoulder_stripes_white_stripes_half
+ | pattern_b  = _shoulder_stripes_white_stripes
+ | pattern_ra = _shoulder_stripes_white_stripes_half
+ | pattern_sh = _adidaswhite
+ | pattern_so = _3_stripes_white
+ | leftarm    = 000000
+ | body       = 000000
+ | rightarm   = 000000
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Goalkeeper <small>3</small>
+}}
+|
+|}
+
+==Season summary==
+After again finishing second to [[Manchester United]] in the [[Premier League]] [[2007–08 FA Premier League|the previous season]], Chelsea sacked their manager [[Avram Grant]], replacing him with the Brazilian [[Luiz Felipe Scolari]], who had managed the [[Portugal national football team|Portugal national team]] at [[UEFA Euro 2008]] that lost in the quarter finals to Germany. The first few months of his management went according to plan, as Scolari's narrow 4–1–4–1 formation, using [[Ashley Cole]] and new arrival [[José Bosingwa]] as wing-backs, initially took the league by storm, leaving Chelsea top ahead of [[Liverpool F.C.|Liverpool]] after 13 games.
+
+By the end of November, however, Scolari's Chelsea began to lose their form due to exhaustion. They suffered a 3–1 defeat away to [[A.S. Roma|Roma]] in the [[2008–09 UEFA Champions League|Champions League]] and were eliminated from the [[2008–09 Football League Cup|League Cup]] at [[Stamford Bridge (stadium)|Stamford Bridge]] by Championship side [[Burnley F.C.|Burnley]] on penalties. In the league, they had a 0–0 draw at home to [[Newcastle United F.C.|Newcastle United]], (who were later to be relegated). Chelsea lost a home league game for the first time since 2004 (and 86 matches) when they lost to Liverpool, and a second home league defeat to rivals [[Arsenal F.C.|Arsenal]] dropped Chelsea to second place.
+
+Chelsea qualified for the knock-out stages of the Champions League with a 2–1 victory against Romanian champions [[CFR Cluj]] at Stamford Bridge in the final match of the group. During the winter months, they drew against [[West Ham United F.C.|West Ham United]], [[Fulham F.C.|Fulham]], [[Hull City A.F.C.|Hull City]] and [[Football League One|League One]]'s [[Southend United F.C.|Southend United]] in the [[2008–09 FA Cup|FA Cup]]. Chelsea suffered defeats away to [[Manchester United F.C.|Manchester United]] and Liverpool, which left them in fourth place during February which would mean a Champions League place would not be certain. Long-term injuries to [[Michael Essien]] and [[Joe Cole]] marked the period while [[Didier Drogba]] was not included frequently.
+
+Chelsea sacked Scolari, replacing him with [[Russia national football team|Russia national team]] manager [[Guus Hiddink]] for the remainder of the season. Hiddink's regenerative effect was immediate, with four-straight league wins, including a vital 1–0 victory away to [[Aston Villa F.C.|Aston Villa]] in his first game in charge, moving Chelsea into the top three. Eleven wins in the team's last 13 league games, marked by a 4–1 victory over Arsenal away at the [[Emirates Stadium]], finally secured third place in the league, and [[UEFA Champions League|Champions League]] football for a seventh consecutive season.
+
+Although Chelsea's title challenge was already realistically over when he arrived, Hiddink led Chelsea to their fifth Champions League semi-final, knocking out [[Juventus FC|Juventus]] and Liverpool, where they were eliminated in controversial circumstances by [[FC Barcelona|Barcelona]] on [[away goals rule|away goals]] in the semi-final.
+
+Despite the Champions League exit, the season culminated in a trip to [[Wembley Stadium]], with Chelsea's final game of 2008–09 contested against [[Everton F.C.|Everton]] in the [[2009 FA Cup Final]]. Chelsea won 2–1, winning the [[FA Cup]] for the fifth time in their history.
+
+==Key dates==
+*24.05.08 – [[Avram Grant]] is sacked as Chelsea manager.
+*29.05.08 – Chelsea terminate assistant manager [[Henk ten Cate]]'s contract.
+*11.06.08 – Chelsea name [[Luiz Felipe Scolari]] as new manager, with his contract officially starting on 1 July 2008.
+*03.08.08 – Chelsea thrash [[A.C. Milan|Milan]] 5–0 to take third place in the preseason [[Russian Railways Cup]].
+*17.08.08 – Chelsea start their [[2008–09 Premier League]] campaign with an emphatic 4–0 home victory over [[Portsmouth F.C.|Portsmouth]].
+*15.09.08 – Assistant manager [[Steve Clarke]] leaves Chelsea to become number two under [[Gianfranco Zola]] at [[West Ham United F.C.|West Ham United]].
+*16.09.08 – Chelsea defeat [[FC Girondins de Bordeaux|Bordeaux]] 4–0 at [[Stamford Bridge (stadium)|Stamford Bridge]] in the opening match of the [[2008–09 UEFA Champions League|UEFA Champions League]].
+*18.09.08 – [[Ray Wilkins]] is appointed assistant manager of Chelsea, in place of the departed Steve Clarke.
+*21.09.08 – Exactly four months after the 2008 Champions League final, Chelsea draw 1–1 at home against [[Manchester United F.C.|Manchester United]] in the [[Premier League]].
+*24.09.08 – For the third time in a row, Chelsea start a competition with a 4–0 win, beating [[Portsmouth F.C.|Portsmouth]] 4–0 away at [[Fratton Park]] in the [[2008–09 Football League Cup|League Cup]].
+*26.10.08 – Chelsea lose 1–0 against [[Liverpool F.C.|Liverpool]] at Stamford Bridge in the Premier League. Chelsea's home unbeaten run ends after an astonishing 4 years, 8 months and 86 games.
+*12.11.08 – Chelsea lose 5–4 on penalties after a 1–1 draw in extra time against [[Burnley F.C.|Burnley]] at home in the fourth round of the [[Football League Cup|League Cup]].
+*30.11.08 – Chelsea lose 2–1 against [[Arsenal F.C.|Arsenal]] at home in the Premier League after a [[Robin van Persie]] brace. Replays later show the Dutchman's first goal to be offside.
+*09.12.08 – Chelsea fight back to win 2–1 against [[CFR Cluj]] in the [[UEFA Champions League]] at home. With the win, they secure second place in Group A and advance to the [[2008–09 UEFA Champions League#First knockout round|First knockout round]].
+*03.01.09 – Chelsea draw 1–1 against [[Football League One]] side [[Southend United F.C.|Southend United]] in the third round of the [[FA Cup]] at Stamford Bridge.
+*11.01.09 – Chelsea lose 3–0 against Manchester United in the Premier League at [[Old Trafford]], their first away loss in the Premier League this season.
+*17.01.09 – Chelsea snatch a crucial 2–1 home victory against [[Stoke City F.C.|Stoke City]] in the Premier League after two last minute goals from [[Juliano Belletti]] and [[Frank Lampard]]. Lampard also makes his 400th appearance for Chelsea.
+*01.02.09 – Chelsea lose 2–0 against Liverpool at [[Anfield]] in the Premier League by way of two late [[Fernando Torres]] goals after Frank Lampard is incorrectly sent off in the 60th minute.
+*09.02.09 – Due to the team's poor run of form, endangering Chelsea's hopes of Champions League qualification for [[2009–10 UEFA Champions League|the following season]], the Chelsea board dismiss Luiz Felipe Scolari from his position as manager with immediate effect. [[Ray Wilkins]] is named as caretaker manager while a suitable replacement for Scolari is found.
+*11.02.09 – [[Russia national football team|Russian national manager]] [[Guus Hiddink]] is named as temporary Chelsea manager until the end of the season.
+*14.02.09 – With Ray Wilkins in charge as caretaker manager, a [[Nicolas Anelka]] [[hattrick (football)|hat trick]] against [[Watford F.C.|Watford]] at [[Vicarage Road]] gives Chelsea a 3–1 victory and a place in the [[2008–09 FA Cup#Sixth round proper|FA Cup quarter-finals]] against [[Coventry City F.C.|Coventry City]]. [[Michael Essien]] makes his return from the bench after six months out of action due to an [[anterior cruciate ligament|ACL]] [[injury]].
+*21.02.09 – In Guus Hiddink's first match as manager, a Nicolas Anelka goal and a gritty Chelsea performance bring about a vital 1–0 win against [[Aston Villa F.C.|Aston Villa]] at [[Villa Park]], Chelsea's first Premier League victory there since [[1998–99 Chelsea F.C. season|1998–99]]. With it, Chelsea overtake Villa to reclaim third place in the table.
+*25.02.09 – Chelsea end the first leg of their [[UEFA Champions League 2008–09 knockout stage#Round of 16|Champions League first knockout round]] tie against [[Juventus FC|Juventus]] with a slight advantage, winning the first ever competitive meeting between the clubs 1–0 by a [[Didier Drogba]] goal. The match also marks [[Petr Čech]]'s 200th appearance for Chelsea.
+*28.02.09 – A [[John Terry]] volley and a late Frank Lampard header seal a 2–1 victory for [[Chelsea F.C.|Chelsea]] over [[Wigan Athletic F.C.|Wigan Athletic]] in the Premier League. While Liverpool's 2–0 loss to [[Middlesbrough F.C.|Middlesbrough]] at [[Riverside Stadium|the Riverside]] returns Chelsea to second place, [[Michael Mancienne]] makes his first ever Premier League start at [[defender (association football)#Full back|right back]], John Terry's goal makes him the highest scoring defender in Chelsea history, and Frank Lampard joins [[George Mills (footballer)|George Mills]] as [[Chelsea F.C. statistics#All-time Goalscorers|Chelsea's joint sixth all-time scorer]] with 125 goals.
+*10.03.09 – A tempestuous 2–2 second leg draw at the [[Stadio Olimpico di Torino]] against Juventus, with goals scored by Michael Essien in his first start since September and a reborn Didier Drogba, gives Chelsea a 3–2 victory on aggregate in their [[2008–09 UEFA Champions League knockout stage#Round of 16|Champions League first knockout round]] clash, sending them through to the [[UEFA Champions League 2008–09 knockout stage#Quarter-finals|quarter-finals]] of the competition.
+*08.04.09 – Chelsea claim a commanding 3–1 win in the first leg of their [[2008–09 UEFA Champions League knockout stage#Quarter-finals|Champions League quarter-final]] tie with Liverpool at Anfield, recovering from an early Fernando Torres goal to score twice from the head of [[Branislav Ivanović]], with a reborn Didier Drogba capping off the scoring. Liverpool captain [[Steven Gerrard]] is notably marked out of the game by Michael Essien.
+*11.04.09 – Chelsea take a 4–0 lead after 63 minutes against [[Bolton Wanderers F.C.|Bolton Wanderers]] at Stamford Bridge in the Premier League, scoring through [[Michael Ballack]], a double from Didier Drogba and a penalty from Frank Lampard, for Bolton to surprisingly surge back into the game, scoring three goals in an eight-minute span. Although Bolton come close to equalising in injury-time, Chelsea just manage to hold off their comeback to scrape a 4–3 victory.
+*14.04.09 – The second leg of Chelsea's [[2008–09 UEFA Champions League knockout stage#Quarter-finals|Champions League quarter-final]] match with Liverpool ends in a stunning 4–4 draw. After a clever [[Fábio Aurélio]] free-kick and a [[Xabi Alonso]] penalty give Liverpool a 0–2 lead in the first 30 minutes, Chelsea fight back in the second half to make the score 3–2 with goals from Didier Drogba and Frank Lampard sandwiching a trademark [[Alex (footballer, born June 1982)|Alex]] cannonball free-kick. Two more goals from [[Lucas Leiva|Lucas]] and [[Dirk Kuyt]] give Liverpool renewed hope in progression, but a second Lampard strike puts the tie to bed. The tie ends 7–5 to Chelsea on aggregate, leaving them to play a rampant [[FC Barcelona|Barcelona]] in the [[2008–09 UEFA Champions League knockout stage#Semi-finals|semi-finals]], Chelsea's fifth attendance at this stage in six seasons. [[Ashley Cole]]'s yellow card in this game rules him out of the first leg of that tie, leaving Chelsea without a recognised [[left back]] to field at the Camp Nou.
+*18.04.09 – A mistake by goalkeeper [[Łukasz Fabiański]] gifts Didier Drogba an 84th-minute winner in Chelsea's [[2008–09 FA Cup#Semi-finals|FA Cup semi-final]] clash against Arsenal at [[Wembley Stadium]], sending Chelsea to a tense 2–1 victory after a goal by Florent Malouda equalises [[Theo Walcott]]'s early strike. Chelsea consequently reach their ninth FA Cup final, to be contested against [[Everton F.C.|Everton]] on 30 May.
+*25.04.09 – Petr Čech's save from [[Mark Noble]]'s penalty secures Chelsea a 1–0 Premier League victory over West Ham United at [[Boleyn Ground|Upton Park]] after [[Salomon Kalou]] scores his ninth goal of the season before giving away a spot-kick at the other end. [[Michael Mancienne]] starts his second Premier League game of the season, while [[José Bosingwa]] makes an experimental appearance at [[left back]] in preparation for Chelsea's visit to the Camp Nou.
+*28.4.09 – A masterful defensive display by Chelsea sees them become the first team not to concede a goal at the Camp Nou this season in an intriguing 0–0 draw with Barcelona, the first leg of the clubs' Champions League semi-final tie. Petr Čech shrugs off his recent media criticism with a string of important saves and despite Barcelona's domination on possession, Didier Drogba has an excellent chance to secure an away goal for Chelsea, only to be stopped by a double save from [[Víctor Valdés]] at the end of the first half.
+*02.5.09 – John Terry's 400th game for Chelsea, a [[West London derby]] at Stamford Bridge against Fulham in the Premier League, ends in a 3–1 victory to the home side following goals from Gallic trio Nicolas Anelka, Florent Malouda, and Didier Drogba. The asymmetric 4–3–3 formation used by Chelsea in this game, with Anelka playing more like a second striker, was Guus Hiddink's preference for the remainder of the season.
+*06.5.09 – A controversial 1–1 draw in the second leg of Chelsea's Champions League semi-final tie against Barcelona at Stamford Bridge eliminates Chelsea from the competition on the [[away goals rule]], sending Barcelona to [[2009 UEFA Champions League Final|the final]] to play Manchester United in Rome. Essien's brilliant left footed volley early in the game gives Chelsea the lead, but unclinical finishing and four viable [[Penalty kick (association football)|penalty]] appeals turned down by [[Norwegian people|Norwegian]] referee [[Tom Henning Øvrebø]] allow Barcelona to equalise in the ninety-third minute with their only shot on target all game, a strike from outside the penalty area by [[Andrés Iniesta]], despite the earlier sending off of [[Eric Abidal]]. Incensed by the referee's terrible performance, Chelsea players surround and criticise Øvrebø after the final whistle, with Didier Drogba controversially labelling the result "a fucking disgrace" on live international television.
+*10.5.09 – Chelsea shake off their post-Barcelona blues with an emphatic 4–1 victory against Arsenal at the [[Emirates Stadium]] in the Premier League. After surviving an early bout of Arsenal pressure, Chelsea take a 3–0 lead through an Alex header, a long range shot from Nicolas Anelka against his former club, and a [[Kolo Touré]] own goal. [[Nicklas Bendtner]] pulls one back for the home side, but a tap in from Florent Malouda completes the rout. The result ends the Gunners' 21 game unbeaten run in the league, and is the joint best away result against Arsenal in the league in Chelsea's history. Chelsea will finish the league season in at least third place, securing automatic [[UEFA Champions League|Champions League]] qualification for 2009–10.
+*17.05.09 – Chelsea's last home game of the season against [[Blackburn Rovers F.C.|Blackburn Rovers]] in the Premier League at Stamford Bridge ends in a 2–0 victory, with goals scored by Florent Malouda and Nicolas Anelka. The game is marked by an end-of-season party atmosphere as fans chant repeatedly for Guus Hiddink to remain at the club, criticising the club's apparent pursuit of [[A.C. Milan|Milan]] manager [[Carlo Ancelotti]] to replace Hiddink over the summer.
+*24.05.09 – The last game of Chelsea's 2008–09 season ends in a 3–2 victory against [[Sunderland A.F.C.|Sunderland]] away at the [[Stadium of Light]]. In preparation for the [[2009 FA Cup Final|FA Cup final]] against Everton the following Sunday, Frank Lampard and Alex are rested, and Sunderland's still uncertain survival in the Premier League leads to a tense first half. Nicolas Anelka's long-range curler early in the second half, his 19th league goal of the season, secures him the [[2008–09 Premier League#Top scorers .28Golden Boot.29|Premier League Golden Boot]] ahead of [[Cristiano Ronaldo]]. Salomon Kalou replies to [[Kieran Richardson]]'s equaliser, and, despite [[Kenwyne Jones]]' late header, Ashley Cole's first goal of the season wins the game for Chelsea.
+*30.05.09 – Chelsea win the [[2009 FA Cup Final]] with a 2–1 victory over Merseysiders Everton, who were chasing their first FA Cup since their victory over Manchester United in [[1995 FA Cup Final|1995]]. A [[Louis Saha]] goal after 25 seconds becomes the fastest in FA Cup history, but Chelsea quickly recover with a Florent Malouda cross finding the head of Didier Drogba. Chelsea continue to dominate before finally taking the lead in the 70th minute, after Frank Lampard escapes his marker Phil Neville for the first time in the game and unleashes a shot from 25 yards. A Malouda shot from 40 yards is incorrectly judged not to have crossed the line after rebounding from the crossbar, but Chelsea hold on for a famous victory. Guus Hiddink ends his short tenure as Chelsea manager with silverware.
+
+==Squad==
+
+===First-team squad===
+{{football squad start}}
+{{football squad player|no=1|nat=Czech Republic|pos=GK|name=[[Petr Čech]]}}
+{{football squad player|no=2|nat=Serbia|pos=DF|name=[[Branislav Ivanović]]}}
+{{football squad player|no=3|nat=England|pos=DF|name=[[Ashley Cole]]}}
+{{football squad player|no=5|nat=Ghana|pos=MF|name=[[Michael Essien]]}}
+{{football squad player|no=6|nat=Portugal|pos=DF|name=[[Ricardo Carvalho]]}}
+{{football squad player|no=8|nat=England|pos=MF|name=[[Frank Lampard]]|other=[[captain (association football)|vice-captain]]}}
+{{football squad player|no=9|nat=Argentina|pos=FW|name=[[Franco Di Santo]]}}
+{{football squad player|no=10|nat=England|pos=FW|name=[[Joe Cole]]}}
+{{football squad player|no=11|nat=Ivory Coast|pos=FW|name=[[Didier Drogba]]}}
+{{football squad player|no=12|nat=Nigeria|pos=MF|name=[[Mikel John Obi]]}}
+{{football squad player|no=13|nat=Germany|pos=MF|name=[[Michael Ballack]]}}
+{{football squad player|no=15|nat=France|pos=MF|name=[[Florent Malouda]]}}
+{{football squad player|no=17|nat=Portugal|pos=DF|name=[[José Bosingwa]]}}
+{{football squad player|no=18|nat=Portugal|pos=MF|name=[[Ricardo Quaresma]]|other=on loan from [[Inter Milan]]}}
+{{football squad mid}}
+{{football squad player|no=19|nat=Portugal|pos=DF|name=[[Paulo Ferreira]]}}
+{{football squad player|no=20|nat=Portugal|pos=MF|name=[[Deco]]}}
+{{football squad player|no=21|nat=Ivory Coast|pos=FW|name=[[Salomon Kalou]]}}
+{{football squad player|no=26|nat=England|pos=DF|name=[[John Terry]]|other=[[captain (association football)|captain]]}}
+{{football squad player|no=27|nat=Brazil|pos=MF|name=[[Mineiro (footballer, born 1975)|Mineiro]]}}
+{{football squad player|no=30|nat=Wales|pos=GK|name=[[Rhys Taylor]]}}
+{{football squad player|no=33|nat=Brazil|pos=DF|name=[[Alex (footballer, born June 1982)|Alex]]}}
+{{football squad player|no=35|nat=Brazil|pos=DF|name=[[Juliano Belletti]]}}
+{{football squad player|no=39|nat=France|pos=FW|name=[[Nicolas Anelka]]}}
+{{football squad player|no=40|nat=Portugal|pos=GK|name=[[Hilário (footballer, born 1975)|Hilário]]}}
+{{football squad player|no=42|nat=England|pos=DF|name=[[Michael Mancienne]]}}
+{{football squad player|no=43|nat=Slovakia|pos=FW|name=[[Miroslav Stoch]]}}
+{{football squad player|no=50|nat=England|pos=MF|name=[[Jacob Mellis]]}}
+{{football squad end}}
+<ref>[http://www.chelseafc.com/page/PlayerHome/0,,10268,00.html First team]  {{webarchive|url=https://web.archive.org/web/20100129103847/http://www.chelseafc.com/page/PlayerHome/0%2C%2C10268%2C00.html |date=29 January 2010}} Chelseafc.com</ref>
+
+===Reserve squad===
+{{football squad start}}
+{{football squad player|nat=Wales|pos=GK|name=[[Rhys Taylor]]}}
+{{football squad player|nat=England|pos=DF|name=[[Nana Ofori-Twumasi]]}}
+{{football squad player|nat=England|pos=DF|name=[[Sam Hutchinson]]}}
+{{football squad player|nat=England|pos=DF|name=[[Carl Magnay]]}} (''On loan at [[Northampton Town F.C.|Northampton Town]]'')
+{{football squad player|nat=Netherlands|pos=DF|name=[[Jeffrey Bruma]]}}
+{{football squad player|nat=England|pos=DF|name=[[Michael Mancienne]]}}
+{{football squad player|nat=England|pos=DF|name=[[Ryan Bertrand]]}} (''On loan at [[Norwich City F.C.|Norwich City]]'')
+{{football squad player|nat=Netherlands|pos=DF|name=[[Patrick van Aanholt]]}}
+{{football squad player|nat=England|pos=MF|name=[[Jack Cork]]}} (''On loan at [[Watford F.C.|Watford]]'')
+{{football squad player|nat=England|pos=MF|name=[[Liam Bridcutt]]}}
+{{football squad player|nat=Portugal|pos=MF|name=Ricardo Fernandes}}
+{{football squad player|nat=England|pos=MF|name=[[Lee Sawyer]]}} (''On loan at [[Wycombe Wanderers F.C.|Wycombe Wanderers]]'')
+{{football squad mid}}
+{{football squad player|nat=England|pos=MF|name=[[Tom Taiwo]]}}
+{{football squad player|nat=England|pos=MF|name=[[Jacob Mellis]]}}
+{{football squad player|nat=England|pos=MF|name=[[Michael Woods (footballer, born 1990)|Michael Woods]]}}
+{{football squad player|nat=Spain|pos=MF|name=[[Sergio Tejera]]}} (''On loan at [[RCD Mallorca|Real Mallorca]]'')
+{{football squad player|nat=France|pos=FW|name=[[Gaël Kakuta]]}}
+{{football squad player|nat=Portugal|pos=FW|name=[[Fábio Ferreira (Portuguese footballer)|Fábio Ferreira]]}} (''On loan at [[Oldham Athletic A.F.C.|Oldham Athletic]]'')
+{{football squad player|nat=Slovakia|pos=FW|name=[[Miroslav Stoch]]}}
+{{football squad player|nat=England|pos=FW|name=[[Shaun Cummings]]}} (''On loan at [[Milton Keynes Dons F.C.|MK Dons]]'')
+{{football squad player|nat=Israel|pos=FW|name=[[Ben Sahar]]}} (''On loan at [[De Graafschap]]'')
+{{football squad player|nat=Denmark|pos=FW|name=[[Morten Nielsen (footballer, born 1990)|Morten Nielsen]]}}
+{{football squad player|nat=England|pos=FW|name=[[Jimmy Smith (footballer, born 1987)|Jimmy Smith]]}} (''On loan at [[Leyton Orient F.C.|Leyton Orient]]'')
+{{football squad end}}
+<ref>[http://www.chelseafc.com/page/ReservesProfilesIndex/0,,10268,00.html The Reserves] Chelseafc.com</ref>
+
+===Youth squad===
+{{football squad start}}
+{{football squad player|nat=Germany|pos=GK|name=[[Niclas Heimann]]}}
+{{football squad player|nat=Kosovo|pos=GK|name=Aldi Haxhia}}
+{{football squad player|nat=England|pos=GK|name=[[Sam Walker (footballer)|Sam Walker]]}}
+{{football squad player|nat=Czech Republic|pos=GK|name=[[Jan Šebek]]}}
+{{football squad player|nat=Sri Lanka|pos=DF|name=[[Nikki Ahamed]]}}
+{{football squad player|nat=England|pos=DF|name=Tom Hayden}}
+{{football squad player|nat=England|pos=DF|name=[[Jack Saville]]}}
+{{football squad player|nat=England|pos=DF|name=[[Ben Gordon (footballer, born 1991)|Ben Gordon]]}}
+{{football squad player|nat=England|pos=DF|name=Billy Joe-King}}
+{{football squad player|nat=POR|pos=MF|name=[[Aliu Djaló]]}}
+{{football squad mid}}
+{{football squad player|nat=IRL|pos=MF|name=[[Conor Clifford]]}}
+{{football squad player|nat=Turkey|pos=MF|name=[[Gökhan Töre]]}}
+{{football squad player|nat=England|pos=MF|name=[[Danny Philliskirk]]}}
+{{football squad player|nat=Italy|pos=MF|name=[[Jacopo Sala]]}}
+{{football squad player|nat=England|pos=MF|name=[[Jordan Tabor]]}}
+{{football squad player|nat=Italy|pos=FW|name=[[Fabio Borini]]}}
+{{football squad player|nat=Sweden|pos=FW|name=[[Marko Mitrović (footballer, born 1992)|Marko Mitrović]]}}
+{{football squad player|nat=England|pos=FW|name=[[Adam Phillip]]}}
+{{football squad player|nat=England|pos=FW|name=[[Frank Nouble]]}} 
+{{football squad player|nat=Somalia|pos=FW|name=Abdoul Rahmar}}
+{{football squad end}}
+<ref>[http://www.chelseafc.com/page/AcademyProfilesIndex/0,,10268,00.html The Academy] Chelseafc.com</ref>
+
+===UEFA Champions League squad===
+{{football squad start}}
+{{football squad player|no=1|nat=Czech Republic|pos=GK|name=[[Petr Čech]]}}
+{{football squad player|no=2|nat=Serbia|pos=DF|name=[[Branislav Ivanović]]}}
+{{football squad player|no=3|nat=England|pos=DF|name=[[Ashley Cole]]}}
+{{football squad player|no=5|nat=Ghana|pos=MF|name=[[Michael Essien]]}}
+{{football squad player|no=6|nat=Portugal|pos=DF|name=[[Ricardo Carvalho]]}}
+{{football squad player|no=8|nat=England|pos=MF|name=[[Frank Lampard]]|other=[[captain (association football)|vice-captain]]}}
+{{football squad player|no=9|nat=Argentina|pos=FW|name=[[Franco Di Santo]]}}
+{{football squad player|no=10|nat=England|pos=MF|name=[[Joe Cole]]}}
+{{football squad player|no=11|nat=Ivory Coast|pos=FW|name=[[Didier Drogba]]}}
+{{football squad player|no=12|nat=Nigeria|pos=MF|name=[[Mikel John Obi]]}} ''(from List B)''
+{{football squad player|no=13|nat=Germany |pos=MF|name=[[Michael Ballack]]}}
+{{football squad player|no=15|nat=France|pos=MF|name=[[Florent Malouda]]}}
+{{football squad player|no=17|nat=Portugal|pos=DF|name=[[José Bosingwa]]}}
+{{football squad mid}}
+{{football squad player|no=19|nat=Portugal|pos=DF|name=[[Paulo Ferreira]]}}
+{{football squad player|no=20|nat=Portugal|pos=MF|name=[[Deco]]}}
+{{football squad player|no=21|nat=Ivory Coast|pos=FW|name=[[Salomon Kalou]]}}
+{{football squad player|no=26|nat=England|pos=DF|name=[[John Terry]]|other=[[captain (association football)|captain]]}}
+{{football squad player|no=27|nat=Brazil|pos=MF|name=[[Mineiro (footballer, born 1975)|Mineiro]]}}
+{{football squad player|no=30|nat=Wales|pos=GK|name=[[Rhys Taylor]]}} ''(from List B)''
+{{football squad player|no=33|nat=Brazil|pos=DF|name=[[Alex (footballer, born June 1982)|Alex]]}}
+{{football squad player|no=35|nat=Brazil|pos=DF|name=[[Juliano Belletti]]}}
+{{football squad player|no=39|nat=France|pos=FW|name=[[Nicolas Anelka]]}}
+{{football squad player|no=40|nat=Portugal|pos=GK|name=[[Hilário (footballer, born 1975)|Hilário]]}}
+{{football squad player|no=41|nat=ENG|pos=DF|name=[[Sam Hutchinson]]}} ''(from List B)''
+{{football squad player|no=42|nat=ENG|pos=DF|name=[[Michael Mancienne]]}} ''(from List B)''
+{{football squad player|no=43|nat=Slovakia|pos=FW|name=[[Miroslav Stoch]]}} ''(from List B)''
+{{football squad end}}
+<ref>[https://web.archive.org/web/20051001014822/http://www.uefa.com/footballEurope/Club=52914/competition=1/index.html Chelsea FC Champions League Squad List] UEFA</ref>
+
+==Club==
+{{col-float|width=47%}}
+
+===Coaching staff===
+{|class="wikitable"
+!Position
+!Staff
+|-
+|rowspan="3"|Manager||{{Flagicon|BRA}} [[Luiz Felipe Scolari]] <br /><small> (until 9 February 2009) </small>
+|-
+|{{Flagicon|ENG}} [[Ray Wilkins]] <br /><small> (caretaker manager) </small>
+|-
+|{{Flagicon|NED}} [[Guus Hiddink]] <br /><small> (interim manager) </small>
+|-
+|rowspan="3"|Assistant managers||{{Flagicon|BRA}} [[Flávio Murtosa]] <br /><small> (until 9 February 2009) </small>
+|-
+|{{Flagicon|SCO}} [[Steve Clarke]] <br /><small> (until 15 September 2008) </small>
+|-
+|{{Flagicon|ENG}} [[Ray Wilkins]]
+|-
+|rowspan="2"|First team fitness coach||{{Flagicon|BRA}} Darlan Schneider <br /><small> (until 9 February 2009) </small>
+|-
+|{{Flagicon|ENG}} Glen Driscoll
+|-
+|rowspan="2"|Goalkeeping coach||{{Flagicon|FRA}} Christophe Lollichon
+|-
+|{{Flagicon|BRA}} Carlos Pracidelli <br /><small> (until 9 February 2009) </small>
+|-
+|Head scout||{{Flagicon|NGA}} [[Michael Emenalo]]
+|-
+|Match observer scout||{{Flagicon|ENG}} [[Mick McGiven]]
+|-
+|Club doctor||{{Flagicon|ENG}} Dr. Bryan English
+|-
+|Chief scout and director of youth development||{{Flagicon|DEN}} [[Frank Arnesen]]
+|-
+|rowspan="2"|Reserve team manager||{{Flagicon|NIR}} [[Brendan Rodgers]] <br /><small> (until December 2008) </small>
+|-
+|{{Flagicon|ENG}} [[Paul Clement (football coach)|Paul Clement]]
+|-
+|rowspan="2"|Youth team manager||{{Flagicon|ENG}} [[Paul Clement (football coach)|Paul Clement]] <br /><small> (until December 2008) </small>
+|-
+|{{Flagicon|ENG}} [[Dermot Drummy]]
+|-
+|Academy manager||{{Flagicon|ENG}} Neil Bath
+|-
+|Match analyst||{{Flagicon|ENG}} James Melbourne
+{{Fb cs footer|s=[http://www.chelseafc.com/page/TheManagementIndex/0,,10268,00.html Chelsea FC]|date=April 2013}}
+
+{{col-float-break|width=48%}}
+
+===Other information===
+{{fb oi header}}
+{{Fb oi information |bg= |id=Owner         |i={{Flagicon|RUS}} [[Roman Abramovich]]}}
+{{Fb oi information |bg= |id=Chairman         |i={{Flagicon|USA}} [[Bruce Buck]]}}
+{{Fb oi information |bg= |id=Chief Executive         |i={{Flagicon|ENG}} [[Peter Kenyon]]}}
+{{fb oi information |bg=y |id={{Fb oi ground}} |i={{Fb oi ground|g=[[Stamford Bridge (stadium)|Stamford Bridge]]|c=41,841|d=103x67 metres}} }}
+{{Fb oi footer|s=[http://www.chelseafc.com/page/ClubInfo/0,,10268,00.html Chelsea FC]|date=April 2013}}
+{{col-float-end}}
+
+==Transfers==
+
+===In===
+
+====Summer====
+{|width=65% class="wikitable" style="text-align:center; font-size:95%; text-align:left"
+!#
+!Pos
+!Player
+!From
+!Fee
+!Date
+|----
+|17|| DF||{{Flagicon|POR}} [[José Bosingwa]] ||{{flagicon|POR}} [[FC Porto|Porto]] || £16.2 million<ref name="Bosingwa">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/7395831.stm|title=Chelsea seal £16.2m Bosingwa deal|publisher=BBC Sport|access-date=12 May 2008 | date=12 May 2008| archive-url= https://web.archive.org/web/20080513230323/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7395831.stm| archive-date= 13 May 2008 | url-status= live}}</ref> || 12 May 2008
+|----
+|20|| MF||{{Flagicon|POR}} [[Deco]] ||{{flagicon|ESP}} [[FC Barcelona|Barcelona]] || £7.9 million<ref name="Deco">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/7482359.stm|title=Chelsea sign Barca playmaker Deco|publisher=BBC Sport|access-date=30 June 2008 | date=30 June 2008}}</ref> || 30 June 2008
+|----
+||| FW||{{Flagicon|POR}} [[Fábio Paím]] ||{{flagicon|POR}} [[Sporting Clube de Portugal|Sporting CP]] || Loan<ref name="Paim">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/7575799.stm|title=Portuguese striker joins Chelsea|publisher=BBC Sport|access-date=21 August 2008 | date=21 August 2008| archive-url= https://web.archive.org/web/20080828040141/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7575799.stm| archive-date= 28 August 2008 | url-status= live}}</ref> || 21 August 2008
+|----
+|27|| MF||{{Flagicon|BRA}} [[Mineiro (footballer, born 1975)|Mineiro]] ||{{flagicon|GER}} [[Hertha BSC]] || Free<ref name="Mineiro">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/7628308.stm|title=Chelsea snap up Brazilian Mineiro|publisher=BBC Sport|access-date=24 September 2008 | date=24 September 2008| archive-url= https://web.archive.org/web/20080922133313/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7628308.stm| archive-date=22 September 2008 | url-status= live}}</ref> || 24 September 2008
+|----
+|}
+
+====Winter====
+{|width=65% class="wikitable" style="text-align:center; font-size:95%; text-align:left"
+!#
+!Pos
+!Player
+!From
+!Fee
+!Date
+|----
+||| MF||{{Flagicon|TUR}} [[Gökhan Töre]] ||{{flagicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]] || £500,000<ref name="Tore">{{cite news|url=https://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7861618.stm|work=BBC Sport|title=Chelsea snap up Turkish youngster|date=30 January 2009|access-date=25 April 2020}}</ref>|| 30 January 2009
+|----
+|18|| MF||{{Flagicon|POR}} [[Ricardo Quaresma]] ||{{flagicon|ITA}} [[Inter Milan]] || Loan<ref name="Quaresma">{{Cite web|url=http://www.chelseafc.com/news-article/article/1543209 |title=Quaresma signs on loan |work=ChelseaFC.com |access-date=28 April 2014|archive-url= https://web.archive.org/web/20111012024452/http://www.chelseafc.com/page/LatestNews/0,,10268~1543209,00.html |archive-date=12 October 2011 |url-status= dead}}</ref> || 2 February 2009
+|----
+|}
+
+===Out===
+
+====Summer====
+{|width=65% class="wikitable" style="text-align:center; font-size:95%; text-align:left"
+!#
+!Pos
+!Player
+!To
+!Fee
+!Date
+|----
+||| MF||{{Flagicon|DEN}} Per Weihrauch || N/A || Retired || April 2008
+|----
+||| FW||{{Flagicon|PHL}} [[Phil Younghusband]] || Unattached || Released || Summer 2008
+|----
+||| FW||{{Flagicon|Gambia}} [[Momoudou Ceesay]] ||{{flagicon|BEL}} [[K.V.C. Westerlo|Westerlo]] || Free || Summer 2008
+|----
+||| MF||{{Flagicon|ENG}} James Simmonds || Unattatched || Released || Summer 2008
+|----
+||| DF||{{Flagicon|ENG}} [[Harry Worley]] ||{{flagicon|ENG}} [[Leicester City F.C.|Leicester City]] || Free<ref name="Worley">{{Cite web|url=https://news.bbc.co.uk/sport1/hi/football/teams/l/leicester_city/7389779.stm|title=Foxes hand Worley long-term deal|publisher=BBC Sport|access-date=8 May 2008 | date=8 May 2008| archive-url= https://web.archive.org/web/20080513133813/http://news.bbc.co.uk/sport1/hi/football/teams/l/leicester_city/7389779.stm| archive-date= 13 May 2008 | url-status= live}}</ref> || 8 May 2008
+|----
+||| DF||{{Flagicon|ENG}} [[Adrian Pettigrew]] || Unattached || Released || 31 May 2008
+|----
+||| FW||{{Flagicon|ARG}} [[Hernán Crespo]] ||{{flagicon|ITA}} [[Inter Milan]] || Free<ref name="Crespo">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/europe/7488928.stm|title=Crespo released from Chelsea deal|publisher=BBC Sport|access-date=3 July 2008 | date=3 July 2008}}</ref> || 3 July 2008
+|----
+|9|| MF||{{Flagicon|ENG}} [[Steve Sidwell]] ||{{flagicon|ENG}} [[Aston Villa F.C.|Aston Villa]] || £5.0 million<ref name="Sidwell">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/a/aston_villa/7497536.stm|title=Villa complete Sidwell transfer |publisher=BBC Sport|access-date=10 July 2008 | date=10 July 2008}}</ref> || 10 July 2008
+|----
+|4|| MF||{{Flagicon|FRA}} [[Claude Makélélé]] ||{{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]] || Free<ref name="Makelele">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/europe/7516798.stm|title=Makelele leaves Chelsea for PSG |publisher=BBC Sport|access-date=21 July 2008 | date=21 July 2008| archive-url= https://web.archive.org/web/20080927063448/http://news.bbc.co.uk/sport1/hi/football/europe/7516798.stm| archive-date=27 September 2008| url-status= live}}</ref> || 21 July 2008
+|----
+||| DF||{{Flagicon|NED}} [[Khalid Boulahrouz]] ||{{flagicon|GER}} [[VfB Stuttgart]] || £3.9 million<ref name="Boulahrouz">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/europe/7517777.stm|title=Chelsea agree to sell Boulahrouz |publisher=BBC Sport|access-date=21 July 2008 | date=21 July 2008}}</ref> || 21 July 2008
+|----
+|22|| DF||{{Flagicon|ISR}} [[Tal Ben Haim]] ||{{flagicon|ENG}} [[Manchester City F.C.|Manchester City]] || £5.0 million<ref name="Ben Haim">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/m/man_city/7533718.stm|title=Man City sign Ben Haim from Blues |work=BBC Sport|access-date=30 July 2008 | date=30 July 2008| archive-url= https://web.archive.org/web/20080828204402/http://news.bbc.co.uk/sport1/hi/football/teams/m/man_city/7533718.stm| archive-date=28 August 2008| url-status= live}}</ref> |||30 July 2008
+|----
+|31|| MF||{{Flagicon|ENG}} [[Anthony Grant (English footballer)|Anthony Grant]] ||{{flagicon|ENG}} [[Southend United F.C.|Southend United]] || Free<ref name="Grant">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/s/southend_utd/7524716.stm|title=Southend snap up Chelsea's Grant |work=BBC Sport|access-date=7 August 2008 | date=7 August 2008}}</ref> ||7 August 2008
+|----
+|24|| MF||{{Flagicon|ENG}} [[Shaun Wright-Phillips]]  ||{{flagicon|ENG}} [[Manchester City F.C.|Manchester City]] || £9.0 million<ref name="Wright-Phillips">{{Cite web|url=https://news.bbc.co.uk/sport1/hi/football/teams/m/man_city/7584964.stm|title=Man City re-sign Wright-Phillips|publisher=BBC Sport|access-date=28 August 2008 | date=28 August 2008| archive-url= https://web.archive.org/web/20080828203627/http://news.bbc.co.uk/sport1/hi/football/teams/m/man_city/7584964.stm| archive-date= 28 August 2008 | url-status= live}}</ref> ||28 August 2008
+|}
+
+====Winter====
+{|width=65% class="wikitable" style="text-align:center; font-size:95%; text-align:left"
+!#
+!Pos
+!Player
+!To
+!Fee
+!Date
+|----
+|18|| DF||{{Flagicon|ENG}} [[Wayne Bridge]]  ||{{flagicon|ENG}} [[Manchester City F.C.|Manchester City]] || £12.0 million<ref name="Bridge">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/m/man_city/7807951.stm|title=Bridge seals transfer to Man City|publisher=BBC Sport|access-date=3 January 2009 | date=3 January 2009| archive-url= https://web.archive.org/web/20090116181546/http://news.bbc.co.uk/sport1/hi/football/teams/m/man_city/7807951.stm| archive-date=16 January 2009| url-status= live}}</ref> || 3 January 2009
+|----
+||| GK||{{Flagicon|ENG}} [[Stuart Searle]]  ||{{flagicon|ENG}} [[Watford F.C.|Watford]] || Free|| 23 January 2009
+|----
+|23|| GK||{{Flagicon|ITA}} [[Carlo Cudicini]]  ||{{flagicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]] || Free<ref name="Cudicini">{{Cite web|url=http://www.chelseafc.com/news-article/article/1533052|title=Cudicini moves on|work=Chelsea F.C.|access-date=28 April 2014}}</ref>||26 January 2009
+|----
+|}
+
+===Loaned out===
+{|width=65% class="wikitable" style="text-align:center; font-size:95%; text-align:left"
+!#
+!Pos
+!Player
+!To
+!Start
+!End
+|-
+||| FW||{{Flagicon|ISR}} [[Ben Sahar]] ||{{flagicon|ENG}} [[Portsmouth F.C.|Portsmouth]] || 1 July 2008|| 1 January 2009<ref name="Sahar">{{Cite web|url=https://news.bbc.co.uk/sport1/hi/football/teams/p/portsmouth/7483632.stm|title=Chelsea loan Sahar to Portsmouth |publisher=BBC Sport|access-date=1 July 2008 | date=1 July 2008}}</ref>
+|-
+||| MF||{{Flagicon|ENG}} [[Jimmy Smith (footballer, born 1987)|Jimmy Smith]] ||{{flagicon|ENG}} [[Sheffield Wednesday F.C.|Sheffield Wednesday]] || 2 July 2008 || 1 January 2009<ref name="Smith">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/s/sheff_wed/7485594.stm|title=Owls net Chelsea midfielder Smith |publisher=BBC Sport|access-date=2 July 2008 | date=2 July 2008}}</ref>
+|-
+||| DF||{{Flagicon|ENG}} [[Ryan Bertrand]] ||{{flagicon|ENG}} [[Norwich City F.C.|Norwich City]] || 5 July 2008 || 31 May 2009<ref name="Bertrand">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/n/norwich/7491258.stm|title=Norwich re-sign Bertrand on loan  |publisher=BBC Sport|access-date=5 July 2008 | date=5 July 2008}}</ref><ref name="BertrandExtended">{{Cite web|url=http://www.chelseafc.com/news-article/article/1499281|title=Bertrand Extension  |work=ChelseaFC.com|access-date=28 April 2014}}</ref>
+|-
+||| DF||{{Flagicon|SER}} [[Slobodan Rajković]] ||{{flagicon|NED}} [[FC Twente|Twente]] || 9 July 2008 || 1 July 2009<ref name="Rajkovic">{{Cite web|url=https://news.bbc.co.uk/sport1/hi/football/europe/7498528.stm|title=McClaren signs Chelsea youngster |publisher=BBC Sport|access-date=9 July 2008 | date=9 July 2008}}</ref>
+|-
+||| FW||{{Flagicon|ENG}} [[Shaun Cummings]] ||{{flagicon|ENG}} [[Milton Keynes Dons F.C.|Milton Keynes Dons]] || 4 August 2008 || 3 May 2009<ref name="Cummings">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/m/milton_keynes_dons/7541286.stm|title=MK Dons seal Cummings loan deal|publisher=BBC Sport|access-date=4 August 2008 | date=4 August 2008}}</ref><ref name="CummingsExtended">{{Cite web |url=http://www.chelseafc.com/page/LatestNews/0,,10268~1503767,00.html |title=Cummings Deal Extended |work=ChelseaFC.com |access-date=1 January 2009 |archive-url=https://web.archive.org/web/20081231110409/http://www.chelseafc.com/page/LatestNews/0%2C%2C10268~1503767%2C00.html |archive-date=31 December 2008 |url-status=dead}}</ref>
+|-
+|14|| FW||{{Flagicon|Peru}} [[Claudio Pizarro]] ||{{flagicon|GER}} [[SV Werder Bremen|Werder Bremen]] || 15 August 2008 || 30 June 2009<ref name="Pizarro">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/7564009.stm|title=Chelsea's Pizarro moves to Bremen|publisher=BBC Sport|access-date=15 August 2008 | date=18 August 2008| archive-url= https://web.archive.org/web/20080828204357/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7564009.stm| archive-date= 28 August 2008 | url-status= live}}</ref>
+|-
+||| MF||{{Flagicon|ENG}} [[Lee Sawyer]] ||{{flagicon|ENG}} [[Southend United F.C.|Southend United]] || 18 August 2008 || 18 November 2008<ref name="Sawyer">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/s/southend_utd/7568661.stm|title=Shrimpers sign Chelsea's Sawyer|publisher=BBC Sport|access-date=18 August 2008 | date=18 August 2008}}</ref>
+|-
+||| DF||{{Flagicon|ENG}} [[Jack Cork]] ||{{flagicon|ENG}} [[Southampton F.C.|Southampton]] || 21 August 2008 || 1 November 2008<ref name="Cork">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/s/southampton/7574599.stm|title=Saints bag Chelsea's Cork on loan|publisher=BBC Sport|access-date=21 August 2008 | date=21 August 2008| archive-url= https://web.archive.org/web/20080828072512/http://news.bbc.co.uk/sport1/hi/football/teams/s/southampton/7574599.stm| archive-date= 28 August 2008 | url-status= live}}</ref>
+|-
+|7|| FW||{{Flagicon|UKR}} [[Andriy Shevchenko]] ||{{flagicon|ITA}} [[A.C. Milan|Milan]] || 25 August 2008||1 July 2009<ref name="Shevchenko">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/7573135.stm|title=Shevchenko completes Milan move|publisher=BBC Sport|access-date=25 August 2008 | date=25 August 2008| archive-url= https://web.archive.org/web/20080828040135/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7573135.stm| archive-date=28 August 2008| url-status= live}}</ref>
+|-
+|42|| DF||{{Flagicon|ENG}} [[Michael Mancienne]] ||{{flagicon|ENG}} [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] || 27 October 2008 || 29 December 2008<ref name="Mancienne">{{Cite web|url=https://news.bbc.co.uk/sport1/hi/football/teams/w/wolverhampton_wanderers/7693604.stm|title=Chelsea loan Mancienne to Wolves|publisher=BBC Sport|access-date=27 October 2008 | date=27 October 2008}}</ref>
+|-
+||| MF||{{Flagicon|ENG}} [[Liam Bridcutt]] ||{{flagicon|ENG}} [[Watford F.C.|Watford]] || 27 November 2008 || 31 January 2009<ref name="Bridcutt">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/w/watford/7752706.stm|title=Watford land Chelsea's Bridcutt|publisher=BBC Sport|access-date=27 November 2008 | date=27 November 2008| archive-url= https://web.archive.org/web/20081204045204/http://news.bbc.co.uk/sport1/hi/football/teams/w/watford/7752706.stm| archive-date= 4 December 2008 | url-status= live}}</ref><ref name="BridcuttExtend">{{Cite web |url=http://www.chelseafc.com/page/LatestNews/0,,10268~1504824,00.html |title=Bridcutt Extends Loan Stay |work=ChelseaFC.com |access-date=1 January 2009 |archive-url=https://web.archive.org/web/20090101105236/http://www.chelseafc.com/page/LatestNews/0%2C%2C10268~1504824%2C00.html |archive-date=1 January 2009 |url-status=dead}}</ref>
+|-
+||| DF||{{Flagicon|ENG}} [[Jack Cork]] ||{{flagicon|ENG}} [[Watford F.C.|Watford]] || 2 January 2009 || 1 July 2009<ref>{{Cite web |url=http://www.chelseafc.com/page/LatestNews/0,,10268~1506114,00.html |title=Cork loan to Watford |work=Chelsea F.C. |access-date=2 January 2009 |archive-url=https://web.archive.org/web/20090104133638/http://www.chelseafc.com/page/LatestNews/0%2C%2C10268~1506114%2C00.html |archive-date=4 January 2009 |url-status=dead}}</ref>
+|-
+||| FW||{{Flagicon|ISR}} [[Ben Sahar]] ||{{flagicon|NED}} [[De Graafschap]] || 3 January 2009|| 1 July 2009<ref name="Sahar2">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/7809553.stm|title=Sahar moves on loan to Dutch side |publisher=BBC Sport|access-date=3 January 2009 | date=3 January 2009}}</ref>
+|-
+|16|| MF||{{Flagicon|ENG}} [[Scott Sinclair]] ||{{flagicon|ENG}} [[Birmingham City F.C.|Birmingham City]] || 6 January 2009 || 3 February 2009<ref name="Sinclair">{{Cite web |url=http://www.chelseafc.com/page/LatestNews/0,,10268~1510837,00.html |title=Sinclair loan to Birmingham |work=Chelsea F.C. |access-date=6 January 2009 |archive-url=https://web.archive.org/web/20090108083703/http://www.chelseafc.com/page/LatestNews/0%2C%2C10268~1510837%2C00.html |archive-date=8 January 2009 |url-status=dead}}</ref>
+|-
+||| MF||{{Flagicon|ENG}} [[Lee Sawyer]] ||{{flagicon|ENG}} [[Coventry City F.C.|Coventry City]] || 26 January 2009 || 22 February 2009<ref>{{Cite web|url=http://www.chelseafc.com/news-article/article/1533303|title=Sky Blue switch for Sawyer|work= Chelsea F.C.|access-date=28 April 2014}}</ref>
+|-
+||| DF||{{Flagicon|NIR}} [[Carl Magnay]] ||{{flagicon|ENG}} [[Milton Keynes Dons F.C.|Milton Keynes Dons]] || 30 January 2009 || 30 February 2009<ref name="Magnay">{{Cite web|url=http://www.chelseafc.com/news-article/article/1538263|title=Magnay to MK|work=Chelsea F.C.|access-date=28 April 2014}}</ref>
+|-
+||| MF||{{flagicon|ENG}} [[Jimmy Smith (footballer, born 1987)|Jimmy Smith]] ||{{flagicon|ENG}} [[Leyton Orient F.C.|Leyton Orient]] || 1 February 2009 || 1 July 2009<ref name="Smith2">{{Cite web|url=http://www.skysports.com/story/0,19528,11719_4888140,00.html |title=Orient swoop for Smith |publisher=Sky Sports |access-date=2 February 2009 |archive-url=https://web.archive.org/web/20121017073109/http://www.skysports.com/story/0%2C19528%2C11719_4888140%2C00.html |archive-date=17 October 2012 |url-status=live }}</ref>
+|-
+||| MF||{{Flagicon|ESP}} [[Sergio Tejera]] ||{{flagicon|ESP}} [[RCD Mallorca|Mallorca]] || 2 February 2009 || 1 July 2009<ref name="Tejera">{{Cite web|url=http://www.chelseafc.com/news-article/article/1544330|title=The young generation|work=Chelsea F.C.|access-date=28 April 2014}}</ref>
+|-
+||| FW||{{Flagicon|POR}} [[Fábio Ferreira (Portuguese footballer)|Fábio Ferreira]] ||{{flagicon|ENG}} [[Oldham Athletic A.F.C.|Oldham Athletic]] || 20 February 2009 || 20 March 2009<ref name="F Ferreira">{{Cite web |url=http://www.chelseafc.com/page/LatestNews/0,,10268~1563952,00.html |title=Fabio's Oldham Switch |work=Chelsea F.C. |access-date=23 February 2009 |archive-url=https://web.archive.org/web/20090223093653/http://www.chelseafc.com/page/LatestNews/0%2C%2C10268~1563952%2C00.html |archive-date=23 February 2009 |url-status=dead}}</ref>
+|-
+||| DF||{{Flagicon|NIR}} [[Carl Magnay]] ||{{flagicon|ENG}} [[Northampton Town F.C.|Northampton Town]] || 9 March 2009 || 9 April 2009<ref name="Magnay2">{{Cite web|url=https://news.bbc.co.uk/sport1/hi/football/teams/n/northampton_town/7933140.stm|title=Northampton sign Chelsea defender|publisher=BBC Sport|access-date=17 March 2009 | date=9 March 2009| archive-url= https://web.archive.org/web/20090312024051/http://news.bbc.co.uk/sport1/hi/football/teams/n/northampton_town/7933140.stm| archive-date= 12 March 2009 | url-status= live}}</ref>
+|-
+||| MF||{{flagicon|ENG}} [[Lee Sawyer]] ||{{flagicon|ENG}} [[Wycombe Wanderers F.C.|Wycombe Wanderers]] || 19 March 2009 || 1 July 2009<ref name="Sawyer 2">{{Cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/w/wycombe_wanderers/7953428.stm|title=Wycombe sign Chelsea midfielder|work= BBC Sport|access-date=21 March 2009 | date=19 March 2009| archive-url= https://web.archive.org/web/20090322150043/http://news.bbc.co.uk/sport1/hi/football/teams/w/wycombe_wanderers/7953428.stm| archive-date= 22 March 2009 | url-status= live}}</ref>
+|}
+
+===Overall===
+{{col-begin}}
+{{col-3}}
+
+====Spending====
+Summer: {{loss}}  24,100,000 £
+
+Winter: {{loss}}  0,500,000 £
+
+Total: {{loss}}  24,600,000 £
+
+{{col-3}}
+
+====Income====
+Summer: {{gain}}  22,900,000 £
+
+Winter: {{gain}}  12,000,000 £
+
+Total: {{gain}}  34,900,000 £
+
+{{col-3}}
+
+====Expenditure====
+Summer: {{loss}} 1,200,000 £
+
+Winter: {{gain}} 11,500,000 £
+
+Total: {{gain}} 10,300,000 £
+{{col-end}}
+
+==Pre-season==
+{{football box collapsible
+|date=23 July 2008
+|time=13:00
+|team1=[[Guangzhou Pharmaceutical F.C.|Guangzhou Pharmaceutical]] {{Flagicon|CHN}}
+|score= 0–4
+|report=[http://www.chelseafc.com/news-article/article/1349840 (Report)]
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2= [[Salomon Kalou|Kalou]] {{goal|20}}<br />[[Frank Lampard|Lampard]] {{goal|51}}<br />[[Franco Di Santo|Di Santo]] {{goal|79}}<br />[[Shaun Wright Phillips|Wright-Phillips]] {{goal|87}}
+|stadium=[[Guangdong Olympic Stadium]], [[Guangzhou]]
+|attendance=
+|referee={{Flagicon|CHN}} Zhao Liang
+|result=W
+}}
+{{football box collapsible
+|date=26 July 2008
+|time=13:00
+|team1=[[Chengdu Blades]] {{Flagicon|CHN}}
+|score= 0–7
+|report=[http://www.chelseafc.com/news-article/article/1351833 (Report)]
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2= [[Nicolas Anelka|Anelka]] {{goal|15}}<br />[[Salomon Kalou|Kalou]] {{goal|31}}<br />[[Frank Lampard|Lampard]] {{goal|38}}<br />[[Joe Cole|J. Cole]] {{goal|59||82}}<br />[[Franco Di Santo|Di Santo]] {{goal|65}}<br />[[Shaun Wright-Phillips|Wright-Phillips]] {{goal|84}}
+|stadium=[[Estádio Campo Desportivo]], [[Macau]]
+|attendance=
+|referee={{Flagicon|MAC}} Tou Lap Meng
+|result=W
+}}
+{{football box collapsible
+|date=29 July 2008
+|time=13:45
+|team1=[[Malaysia national football team|Malaysian Select XI]] {{Flagicon|MYS}}
+|score= 0–2
+|report=[http://www.chelseafc.com/news-article/article/1353657 (Report)]
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2= [[Nicolas Anelka|Anelka]] {{goal|26}}<br />[[Ashley Cole|A. Cole]] {{goal|53}}
+|stadium=[[Shah Alam Stadium]], [[Selangor]]
+|attendance=
+|referee={{Flagicon|Malaysia}} Subkhiddin Sallehk
+|result=W
+}}
+{{football box collapsible
+|date=1 August 2008
+|time=18:05
+|team1=[[FC Lokomotiv Moscow|Lokomotiv Moscow]] {{Flagicon|RUS}}
+|score= 1–1
+|report=[http://www.chelseafc.com/news-article/article/1356589 (Report)]
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1= [[Ruslan Kambolov|Kambolov]] {{goal|84}}
+|goals2= [[Michael Essien|Essien]] {{goal|26}}
+|stadium=[[Lokomotiv Stadium (Moscow)|Lokomotiv Stadium]], Moscow
+|attendance=
+|referee={{Flagicon|Switzerland}} [[Massimo Busacca]]
+|penaltyscore=5–4
+|penalties1=[[Diniyar Bilyaletdinov|Bilyaletdinov]] {{penmiss}}<br />[[Emir Spahić|Spahić]] {{pengoal}}<br />[[Denis Glushakov|Glushakov]] {{pengoal}}<br />[[Răzvan Cociș|Cociș]] {{pengoal}}<br />[[Davit Mujiri|Mujiri]] {{pengoal}}<br />[[Ruslan Kambolov|Kambolov]] {{pengoal}}
+|penalties2={{pengoal}} [[Frank Lampard|Lampard]]<br />{{pengoal}} [[Deco]] <br />{{pengoal}} [[Shaun Wright-Phillips|Wright-Phillips]]<br />{{pengoal}} [[Michael Essien|Essien]]<br />{{penmiss}} [[Wayne Bridge|Bridge]]<br />{{penmiss}} [[Andriy Shevchenko|Shevchenko]]
+|result=L
+}}
+{{football box collapsible
+|team1=[[A.C. Milan|Milan]] {{Flagicon|ITA}}
+|date=3 August 2008
+|time=11:00
+|score= 0–5
+|report=[http://www.chelseafc.com/news-article/article/1357291 (Report)]
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=[[Frank Lampard|Lampard]] {{goal|3}}<br />[[Nicolas Anelka|Anelka]] {{goal|8||18||51||58}}
+|stadium=[[Lokomotiv Stadium (Moscow)|Lokomotiv Stadium]], Moscow
+|attendance=
+|referee={{Flagicon|RUS}} [[Yuri Baskakov]]
+|result=W
+}}
+
+==Competitions==
+
+===Overall===
+{{fb overall competition header |curr=y }}
+{{fb overall2 competition |bg= |curr=y |cl = [[2008–09 Premier League|Premier League]]|srn= |cprn= |fprn= 3rd|dfm=17 August 2008 |dlm= 24 May 2009}}
+{{fb overall2 competition |bg=y |curr=y |cl = [[2008–09 UEFA Champions League|Champions League]]|srn = [[2008–09 UEFA Champions League#Group stage|Group stage]]|cprn= |fprn = [[2008–09 UEFA Champions League#Knockout stage|Semi-finals]]|dfm=16 September 2008 |dlm= 6 May 2009 }}
+{{fb overall2 competition |bg= |curr=y |cl = [[2008–09 Football League Cup|Football League Cup]]|srn = [[2008–09 Football League Cup#Third round|3rd round]]|cprn= |fprn = [[2008–09 Football League Cup#Fourth round|4th round]]|dfm=24 September 2008 |dlm=12 November 2008 }}
+{{fb overall2 competition |bg=y |curr=y |cl = [[2008–09 FA Cup|FA Cup]]|srn = [[2008–09 FA Cup#Third round proper|3rd round]]|fp=Winner |fprn= Winners |dfm=3 January 2009 |dlm=30 May 2009 }}
+{{fb overall competition footer}}
+
+===Premier League===
+{{main|2008–09 Premier League}}
+
+====League table====
+{{:2008–09 Premier League|showteam=CHE}}
+
+====Results summary====
+{{Fb_rs |hw=11 |hd=6 |hl=2 |hgf=33 |hga=12 |aw=14 |ad=2 |al=3 |agf=35 |aga=12 }}
+{{Fb rs footer|s=[https://web.archive.org/web/20100329014141/http://www.premierleague.com:80/page/LeagueTable/ Barclays Premier League]|date=April 2013}}
+
+====Results by round====
+{{#invoke:sports rbr table|table|legendpos=b
+|header=Round
+|label1= Ground
+| res1=H/A/H/A/H/A/H/A/H/A/H/A/A/H/H/A/H/A/H/A/A/H/H/A/H/A/H/A/H/A/A/H/H/A/H/A/H/A
+|label2= Result
+| res2=W/W/D/W/D/W/W/W/L/W/W/W/W/D/L/W/D/D/W/D/L/W/W/L/D/W/W/W/W/L/W/W/D/W/W/W/W/W
+|label3= Position
+| res3=1/1/1/1/2/1/1/1/2/2/1/1/1/1/2/2/2/2/2/2/3/3/2/3/4/3/2/2/2/3/3/3/3/3/3/3/3/3
+|label4= Points
+|
+res4=3/6/7/10/11/14/17/20/20/23/26/29/32/33/33/36/37/38/41/42/42/45/48/48/49/52/55/58/61/61/64/67/68/71/74/77/80/83
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_1=1st|color_2=2nd|color_3=3rd|color_189-=red1|
+
+|source=[[#Matches|Matches]]
+|date=April 2013
+}}
+
+====Matches====
+{{football box collapsible
+|round=1
+|date=17 August 2008
+|time=13:30
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 4–0
+|report=[https://news.bbc.co.uk/sport1/hi/football/eng_prem/7551171.stm (Report)]
+|team2= [[Portsmouth F.C.|Portsmouth]]
+|goals1=[[Joe Cole|J. Cole]] {{goal|12}} <br /> [[Nicolas Anelka|Anelka]] {{goal|26}} <br /> [[Frank Lampard|Lampard]] {{goal|45+1|pen.}} <br /> [[Deco]] {{goal|88}}
+|goals2=[[David James (footballer, born 1970)|James]] {{yel|45+1}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance=41,468
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=W
+}}
+{{football box collapsible
+|round=2
+|date=24 August 2008
+|time=13:30
+|team1= [[Wigan Athletic F.C.|Wigan Athletic]]
+|score=0–1
+|report=[https://news.bbc.co.uk/sport1/hi/football/eng_prem/7570618.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Lee Cattermole|Cattermole]] {{yel|49}}
+|goals2=[[Deco]] {{goal|4}} <br /> [[John Terry|Terry]] {{yel|14}} <br /> [[Ricardo Carvalho|Carvalho]] {{yel|74}}
+|stadium=[[JJB Stadium]], [[Wigan]]
+|attendance=18,139
+|referee=[[Alan Wiley]]
+|result=W
+}}
+{{football box collapsible
+|round=3
+|date=31 August 2008
+|time=13:30
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 1–1
+|report= [https://news.bbc.co.uk/sport2/hi/football/eng_prem/7578479.stm (Report)]
+|team2= [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1=[[Deco]] {{yel|10}}<br />[[Juliano Belletti|Belletti]] {{goal|27}}<br /> [[Joe Cole|J. Cole]] {{yel|45}}<br />[[José Bosingwa|Bosingwa]] {{yel|86}}
+|goals2=[[Darren Bent|Bent]] {{goal|45}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance=41,790
+|referee=[[Howard Webb]]
+|result=D
+}}
+{{football box collapsible
+|round=4
+|date=13 September 2008
+|time=17:30
+|team1= [[Manchester City F.C.|Manchester City]]
+|score= 1–3
+|report= [https://news.bbc.co.uk/sport2/hi/football/eng_prem/7601889.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1= [[Robinho]] {{goal|13}}
+|goals2= [[Ricardo Carvalho|Carvalho]] {{goal|16}}<br /> [[Mikel John Obi|Mikel]] {{yel|45}}<br />[[Frank Lampard|Lampard]] {{goal|53}}<br />[[Nicolas Anelka|Anelka]] {{goal|69}}<br /> [[John Terry|Terry]] {{sent off|0|77}} (suspension withdrawn)
+|stadium=[[City of Manchester Stadium]], [[Manchester]]
+|attendance=47,331
+|referee=[[Mark Halsey]]
+|result=W
+}}
+{{football box collapsible
+|round=5
+|date=21 September 2008
+|time=14:00
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 1–1
+|report= [https://news.bbc.co.uk/sport2/hi/football/eng_prem/7613923.stm (Report)]
+|team2= [[Manchester United F.C.|Manchester United]]
+|goals1= [[Mikel John Obi|Mikel]] {{yel|68}}<br />[[Salomon Kalou|Kalou]] {{goal|80}}
+|goals2= [[Park Ji-sung|Park]] {{goal|18}}<br />[[Paul Scholes|Scholes]] {{yel|36}}<br />[[Rio Ferdinand|Ferdinand]] {{yel|41}}<br />[[Gary Neville|Neville]] {{yel|58}}<br />[[Dimitar Berbatov|Berbatov]] {{yel|60}}<br />[[Wayne Rooney|Rooney]] {{yel|80}}<br />[[Patrice Evra|Evra]] {{yel|86}}<br />[[Cristiano Ronaldo|Ronaldo]] {{yel|90}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance=41,760
+|referee=[[Mike Riley (referee)|Mike Riley]]
+|result=D
+}}
+{{football box collapsible
+|round=6
+|date=27 September 2008
+|time=15:00
+|team1= [[Stoke City F.C.|Stoke City]]
+|score= 0–2
+|report= [https://news.bbc.co.uk/sport2/hi/football/eng_prem/7626932.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1= [[Andy Griffin|Griffin]] {{yel|55}}<br />[[Richard Cresswell|Cresswell]] {{yel|66}}
+|goals2= [[José Bosingwa|Bosingwa]] {{goal|36}}<br />[[Florent Malouda|Malouda]] {{yel|55}}<br />[[Nicolas Anelka|Anelka]] {{goal|76}}
+|stadium=[[Britannia Stadium]], [[Stoke-on-Trent]]
+|attendance=27,500
+|referee=[[Martin Atkinson]]
+|result=W
+}}
+{{football box collapsible
+|round=7
+|date=5 October 2008
+|time=15:00
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 2–0
+|report= [https://news.bbc.co.uk/sport2/hi/football/eng_prem/7639482.stm (Report)]
+|team2= [[Aston Villa F.C.|Aston Villa]]
+|goals1= [[Joe Cole|J. Cole]] {{goal|21}}<br /> [[Nicolas Anelka|Anelka]] {{goal|43}}
+|goals2= [[Carlos Cuéllar|Cuéllar]] {{yel|68}}<br /> [[Stiliyan Petrov|Petrov]] {{yel|78}}<br /> [[Nicky Shorey|Shorey]] {{yel|85}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance=41,593
+|referee= [[Chris Foy (referee)|Chris Foy]]
+|result=W
+}}
+{{football box collapsible
+|round=8
+|date=18 October 2008
+|time=12:45
+|team1= [[Middlesbrough F.C.|Middlesbrough]]
+|score= 0–5
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/7665097.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Gary O'Neil|O'Neil]] {{yel|25}}<br /> [[Alfonso Alves|Alves]] {{yel|77}}
+|goals2=[[Salomon Kalou|Kalou]] {{goal|14}} <br />[[Juliano Belletti|Belletti]] {{goal|51}}<br />[[David Wheater|Wheater]] {{goal|53|o.g.}} <br />[[Frank Lampard|Lampard]] {{goal|63}}<br />[[Florent Malouda|Malouda]] {{goal|67}}
+|stadium=[[Riverside Stadium]], [[Middlesbrough]]
+|attendance=29,221
+|referee= [[Phil Dowd]]
+|result=W
+}}
+{{football box collapsible
+|round=9
+|date=26 October 2008
+|time=13:30
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 0–1
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/7674108.stm (Report)]
+|team2= [[Liverpool F.C.|Liverpool]]
+|goals1= [[Florent Malouda|Malouda]] {{yel|53}} <br /> [[Ashley Cole|A. Cole]] {{yel|56}} <br /> [[Deco]] {{yel|79}}
+|goals2= [[Xabi Alonso|Alonso]] {{goal|10}}<br /> [[Albert Riera|Riera]] {{yel|22}}<br /> [[Steven Gerrard|Gerrard]] {{yel|39}} <br /> [[Javier Mascherano|Mascherano]] {{yel|65}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance=41,705
+|referee= [[Howard Webb]]
+|result=L
+}}
+{{football box collapsible
+|round=10
+|date=29 October 2008
+|time=19:45
+|team1= [[Hull City A.F.C.|Hull City]]
+|score= 0–3
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/7684592.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=[[Frank Lampard|Lampard]] {{goal|3}}<br />[[Joe Cole|J. Cole]] {{yel|11}}<br />[[Nicolas Anelka|Anelka]] {{goal|50}} <br />[[Deco]] {{yel|59}}<br />[[Florent Malouda|Malouda]] {{goal|75}}
+|stadium=[[KC Stadium]], [[Kingston upon Hull|Hull]]
+|attendance=24,906
+|referee= [[Andre Marriner]]
+|result=W
+}}
+{{football box collapsible
+|round=11
+|date=1 November 2008
+|time=15:00
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 5–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/7684736.stm (Report)]
+|team2=[[Sunderland A.F.C.|Sunderland]]
+|goals1=[[Alex (footballer, born June 1982)|Alex]] {{goal|27}}<br />[[Nicolas Anelka|Anelka]] {{goal|30||45||53}}<br />[[Frank Lampard|Lampard]] {{goal|51}}
+|goals2=[[Teemu Tainio|Tainio]] {{yel|39}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance= 41,693
+|referee=[[Martin Atkinson]]
+|result=W
+}}
+{{football box collapsible
+|round=12
+|date=9 November 2008
+|time=13:30
+|team1= [[Blackburn Rovers F.C.|Blackburn Rovers]]
+|score= 0–2
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/7709044.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Stephen Warnock|Warnock]] {{yel|62}}<br />[[Danny Simpson|Simpson]] {{yel|80}}
+|goals2=[[Nicolas Anelka|Anelka]] {{goal|40||68}}<br />[[Florent Malouda|Malouda]] {{yel|85}}
+|stadium= [[Ewood Park]], [[Blackburn]]
+|attendance= 20,670
+|referee=[[Chris Foy (referee)|Chris Foy]]
+|result=W
+}}
+{{football box collapsible
+|round=13
+|date=15 November 2008
+|time=17:30
+|team1= [[West Bromwich Albion F.C.|West Bromwich Albion]]
+|score= 0–3
+|report=[https://news.bbc.co.uk/sport1/hi/football/eng_prem/7711324.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2= [[José Bosingwa|Bosingwa]] {{goal|34}}, {{yel|57}}<br />[[Nicolas Anelka|Anelka]] {{goal|38||45}}<br />[[John Terry|Terry]] {{yel|51}}<br />[[Branislav Ivanović|Ivanović]] {{yel|78}}
+|stadium= [[The Hawthorns]], [[West Bromwich]]
+|attendance=26,322
+|referee=[[Steve Bennett (referee)|Steve Bennett]]
+|result=W
+}}
+{{football box collapsible
+|round=14
+|date=22 November 2008
+|time=15:00
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 0–0
+|report=[https://news.bbc.co.uk/sport1/hi/football/eng_prem/7727197.stm (Report)]
+|team2=[[Newcastle United F.C.|Newcastle United]]
+|goals1=
+|goals2= [[Jonás Gutiérrez|Gutiérrez]] {{yel|50}} <br /> [[Danny Guthrie|Guthrie]] {{yel|86}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance=41,660
+|referee=[[Phil Dowd]]
+|result=D
+}}
+{{football box collapsible
+|round=15
+|date=30 November 2008
+|time=16:00
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 1–2
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/7747649.stm (Report)]
+|team2=[[Arsenal F.C.|Arsenal]]
+|goals1= [[Johan Djourou|Djourou]] {{goal|31|o.g.}} <br /> [[John Terry|Terry]] {{yel|61}} <br /> [[Branislav Ivanović|Ivanović]] {{yel|85}}
+|goals2= [[Robin van Persie|Van Persie]] {{goal|59||62}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance=41,760
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=L
+}}
+{{football box collapsible
+|round=16
+|date=6 December 2008
+|time=15:00
+|team1= [[Bolton Wanderers F.C.|Bolton Wanderers]]
+|score= 0–2
+|report=[https://news.bbc.co.uk/sport1/hi/football/eng_prem/7748450.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Kevin Davies|Davies]] {{yel|18}} <br /> [[Andy O'Brien (footballer)|O'Brien]] {{yel|65}}
+|goals2= [[Nicolas Anelka|Anelka]] {{goal|9}} <br /> [[Deco]] {{goal|21}} <br /> [[Michael Ballack|Ballack]] {{yel|81}}
+|stadium= [[Reebok Stadium]], [[Horwich]]
+|attendance=22,023
+|referee=[[Howard Webb]]
+|result=W
+}}
+{{football box collapsible
+|round=17
+|date=14 December 2008
+|time=16:00
+|team1= [[Chelsea F.C.|Chelsea]]
+|score=1–1
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/7763507.stm (Report)]
+|team2=[[West Ham United F.C.|West Ham United]]
+|goals1= [[Mikel John Obi|Mikel]] {{yel|21}} <br /> [[Michael Ballack|Ballack]] {{yel|33}} <br /> [[Ashley Cole|A. Cole]] {{yel|37}} <br /> [[Nicolas Anelka|Anelka]] {{goal|51}}
+|goals2= [[Craig Bellamy|Bellamy]] {{goal|33}} {{yel|45+1}} <br /> [[Carlton Cole|Cole]] {{yel|40}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance= 41,675
+|referee=[[Mike Riley (referee)|Mike Riley]]
+|result=D
+}}
+{{football box collapsible
+|round=18
+|date=22 December 2008
+|time=20:00
+|team1= [[Everton F.C.|Everton]]
+|score=0–0
+|report= [https://news.bbc.co.uk/sport1/hi/football/eng_prem/7775702.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2= [[John Terry|Terry]] {{sent off|0|35}} <br /> [[Frank Lampard|Lampard]] {{yel|43}} <br /> [[Ashley Cole|A. Cole]] {{yel|43}} <br /> [[Michael Ballack|Ballack]] {{yel|68}}
+|stadium= [[Goodison Park]], [[Liverpool]]
+|attendance= 35,655
+|referee=[[Phil Dowd]]
+|result=D
+}}
+{{football box collapsible
+|round=19
+|date=26 December 2008
+|time=13:00
+|team1= [[Chelsea F.C.|Chelsea]]
+|score=2–0
+|report= [https://news.bbc.co.uk/sport2/hi/football/eng_prem/7787541.stm (Report)]
+|team2=[[West Bromwich Albion F.C.|West Bromwich Albion]]
+|goals1=[[Didier Drogba|Drogba]] {{goal|3}}<br />[[Frank Lampard|Lampard]] {{goal|45+1}}<br /> [[Michael Ballack|Ballack]] {{yel|74}}
+|goals2=
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance=41,417
+|referee=[[Rob Styles]]
+|result=W
+}}
+{{football box collapsible
+|round=20
+|date=28 December 2008
+|time=14:00
+|team1= [[Fulham F.C.|Fulham]]
+|score=2–2
+|report= [https://news.bbc.co.uk/sport2/hi/football/eng_prem/7788414.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Clint Dempsey|Dempsey]] {{goal|10||90}}, {{yel|90+1}}
+|goals2= [[Frank Lampard|Lampard]] {{goal|50||72}} <br /> [[Didier Drogba|Drogba]] {{yel|82}} <br /> [[José Bosingwa|Bosingwa]] {{yel|90+1}}
+|stadium= [[Craven Cottage]], London
+|attendance=25,462
+|referee=[[Andre Marriner]]
+|result=D
+}}
+{{football box collapsible
+|round=21
+|date=11 January 2009
+|time=16:00
+|team1= [[Manchester United F.C.|Manchester United]]
+|score=3–0
+|report=[https://newsimg.bbc.co.uk/sport1/hi/football/eng_prem/7808369.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{yel|28}} <br /> [[Nemanja Vidić|Vidić]] {{goal|45+2}} <br /> [[Wayne Rooney|Rooney]] {{goal|63}} {{yel|66}} <br /> [[Park Ji-sung|Park]] {{yel|68}} <br /> [[Dimitar Berbatov|Berbatov]] {{goal|87}}
+|goals2=[[Frank Lampard|Lampard]] {{yel|4}} <br /> [[José Bosingwa|Bosingwa]] {{yel|27}} <br /> [[Ricardo Carvalho|Carvalho]] {{yel|28}} <br /> [[John Terry|Terry]] {{yel|81}} <br /> [[Juliano Belletti|Belletti]] {{yel|87}}
+|stadium= [[Old Trafford]], [[Manchester]]
+|attendance=75,455
+|referee=[[Howard Webb]]
+|result=L
+}}
+{{football box collapsible
+|round=22
+|date=17 January 2009
+|time=15:00
+|team1= [[Chelsea F.C.|Chelsea]]
+|score=2–1
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/7815607.stm (Report)] <br /> [https://www.youtube.com/watch?v=7XKqnoafXX8 (Highlight)]
+|team2= [[Stoke City F.C.|Stoke City]]
+|goals1=[[Juliano Belletti|Belletti]] {{goal|88}} <br /> [[Frank Lampard|Lampard]] {{goal|90+3}}
+|goals2=[[Amdy Faye|Faye]] {{yel|15}} <br /> [[Rory Delap|Delap]] {{goal|60}} <br /> [[Dave Kitson|Kitson]] {{yel|89}} <br /> [[Glenn Whelan|Whelan]] {{yel|90}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance=41,788
+|referee=[[Peter Walton (referee)|Peter Walton]]
+|result=W
+}}
+{{football box collapsible
+|round=23
+|date=28 January 2009
+|time=19:45
+|team1= [[Chelsea F.C.|Chelsea]]
+|score=2–0
+|report=[https://news.bbc.co.uk/sport1/hi/football/eng_prem/7844521.stm (Report)]
+|team2= [[Middlesbrough F.C.|Middlesbrough]]
+|goals1=[[Salomon Kalou|Kalou]] {{goal|58||81}}
+|goals2=[[Mohamed Shawky|Shawky]] {{yel|10}} <br /> [[Chris Riggott|Riggott]] {{yel|56}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance=40,280
+|referee=[[Lee Probert]]
+|result=W
+}}
+{{football box collapsible
+|round=24
+|date=1 February 2009
+|time=16:00
+|team1= [[Liverpool F.C.|Liverpool]]
+|score=2–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/7856404.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1= [[Javier Mascherano|Mascherano]] {{yel|21}} <br /> [[Xabi Alonso|Alonso]] {{yel|46}} <br /> [[Steven Gerrard|Gerrard]] {{yel|70}} <br /> [[Fernando Torres|Torres]] {{goal|89||90+4}}
+|goals2=[[Ashley Cole|A. Cole]] {{yel|22}} <br /> [[Mikel John Obi|Mikel]] {{yel|53}} <br /> [[Frank Lampard|Lampard]] {{sent off|0|60}}<ref>Lampard's red card was rescinded after the match.</ref><br /> [[John Terry|Terry]] {{yel|61}}
+|stadium= [[Anfield]], [[Liverpool]]
+|attendance=44,174
+|referee=[[Mike Riley (referee)|Mike Riley]]
+|result=L
+|note=Lampard's red card was rescinded after the match. 
+}}
+{{football box collapsible
+|round=25
+|date=7 February 2009
+|time=15:00
+|team1= [[Chelsea F.C.|Chelsea]]
+|score=0–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/7867071.stm (Report)]
+|team2= [[Hull City A.F.C.|Hull City]]
+|goals1=[[Mikel John Obi|Mikel]] {{yel|26}}
+|goals2=[[Ian Ashbee|Ashbee]] {{yel|48}} <br /> [[Richard Garcia|Garcia]] {{yel|80}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance=41,802
+|referee=[[Lee Mason]]
+|result=D
+}}
+{{football box collapsible
+|round=26
+|date=21 February 2009
+|time=12:45
+|team1= [[Aston Villa F.C.|Aston Villa]]
+|score=0–1
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/7885820.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Carlos Cuéllar|Cuéllar]] {{yel|53}}
+|goals2=[[Nicolas Anelka|Anelka]] {{goal|19}} <br /> [[Michael Ballack|Ballack]] {{yel|84}} <br /> [[José Bosingwa|Bosingwa]] {{yel|84}} <br /> [[John Terry|Terry]] {{yel|90}}
+|stadium= [[Villa Park]], [[Birmingham]]
+|attendance=42,585
+|referee= [[Mark Halsey]]
+|result=W
+}}
+{{football box collapsible
+|round=27
+|date=28 February 2009
+|time=15:00
+|team1= [[Chelsea F.C.|Chelsea]]
+|score=2–1
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/7905860.stm (Report)]
+|team2= [[Wigan Athletic F.C.|Wigan Athletic]]
+|goals1=[[Alex (footballer, born June 1982)|Alex]] {{yel|10}} <br /> [[John Terry|Terry]] {{yel|19}}, {{goal|25}} <br /> [[Michael Mancienne|Mancienne]] {{yel|77}} <br /> [[Frank Lampard|Lampard]] {{goal|90+1}}
+|goals2=[[Charles N'Zogbia|N'Zogbia]] {{yel|24}} <br /> [[Lee Cattermole|Cattermole]] {{yel|29}} <br /> [[Olivier Kapo|Kapo]] {{goal|82}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance=40,714
+|referee=[[Lee Probert]]
+|result=W
+}}
+{{football box collapsible
+|round=28
+|date=3 March 2009
+|time=19:45
+|team1= [[Portsmouth F.C.|Portsmouth]]
+|score=0–1
+|report=[https://news.bbc.co.uk/sport1/hi/football/eng_prem/7908454.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=[[Didier Drogba|Drogba]] {{goal|79}}
+|stadium= [[Fratton Park]], [[Portsmouth]]
+|attendance=20,326
+|referee=[[Phil Dowd]]
+|result=W
+}}
+{{football box collapsible
+|round=29
+|date=15 March 2009
+|time=13:30
+|team1= [[Chelsea F.C.|Chelsea]]
+|score=1–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/7922079.stm (Report)]
+|team2= [[Manchester City F.C.|Manchester City]]
+|goals1=[[Michael Essien|Essien]] {{goal|18}}
+|goals2=[[Elano]] {{yel|29}} <br /> [[Ched Evans|Evans]] {{yel|75}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance=41,810
+|referee=[[Mike Riley (referee)|Mike Riley]]
+|result=W
+}}
+{{football box collapsible
+|round=30
+|date=21 March 2009
+|time=15:30
+|team1= [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|score= 1–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/7937098.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Luka Modrić|Modrić]] {{goal|50}}
+|goals2=[[Juliano Belletti|Belletti]] {{yel|45}} <br /> [[Michael Ballack|Ballack]] {{yel|84}}
+|stadium=[[White Hart Lane]], London
+|attendance=36,034
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=L
+}}
+{{football box collapsible
+|round=31
+|date=4 April 2009
+|time=15:00
+|team1= [[Newcastle United F.C.|Newcastle United]]
+|score=0–2
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/7972770.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=[[Frank Lampard|Lampard]] {{yel|38}}, {{goal|56}}<br /> [[Mikel John Obi|Mikel]] {{yel|45+3}}<br /> [[Florent Malouda|Malouda]] {{goal|65}}
+|stadium= [[St James' Park]], [[Newcastle upon Tyne|Newcastle]]
+|attendance=52,112
+|referee=[[Rob Styles]]
+|result=W
+}}
+{{football box collapsible
+|round=32
+|date=11 April 2009
+|time=15:00
+|team1= [[Chelsea F.C.|Chelsea]]
+|score=4–3
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/7978838.stm (Report)]
+|team2= [[Bolton Wanderers F.C.|Bolton Wanderers]]
+|goals1=[[Michael Ballack|Ballack]] {{goal|40}}<br />[[Didier Drogba|Drogba]] {{goal|48||63}} <br/> [[Frank Lampard|Lampard]] {{goal|60|pen.}}
+|goals2=[[Andy O'Brien (footballer)|O'Brien]] {{goal|70}}<br />[[Chris Basham|Basham]] {{goal|74}}<br />[[Matthew Taylor (footballer, born 1981)|Taylor]] {{goal|78}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance=41,096
+|referee=[[Peter Walton (referee)|Peter Walton]]
+|result=W
+}}
+{{football box collapsible
+|round=33
+|date=22 April 2009
+|time=20:00
+|team1= [[Chelsea F.C.|Chelsea]]
+|score=0–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/8000558.stm (Report)]
+|team2= [[Everton F.C.|Everton]]
+|goals1=
+|goals2=[[Phil Neville|Neville]] {{yel|14}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance=41,556
+|referee=[[Mark Halsey]]
+|result=D
+}}
+{{football box collapsible
+|round=34
+|date=25 April 2009
+|time=15:00
+|team1= [[West Ham United F.C.|West Ham United]]
+|score=0–1
+|report=[https://news.bbc.co.uk/sport1/hi/football/eng_prem/8000577.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Junior Stanislas|Stanislas]] {{yel|72}}
+|goals2=[[Salomon Kalou|Kalou]] {{goal|55}}
+|stadium= [[Boleyn Ground|Upton Park]], London
+|attendance=34,749
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=W
+}}
+{{football box collapsible
+|round=35
+|date=2 May 2009
+|time=15:00
+|team1= [[Chelsea F.C.|Chelsea]]
+|score=3–1
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/8014825.stm (Report)]
+|team2= [[Fulham F.C.|Fulham]]
+|goals1=[[Nicolas Anelka|Anelka]] {{goal|1}}<br />[[Florent Malouda|Malouda]] {{goal|10}}<br />[[Didier Drogba|Drogba]] {{goal|53}}
+|goals2=[[Erik Nevland|Nevland]] {{goal|4}} <br />[[Danny Murphy (footballer, born 1977)|Murphy]] {{yel|90+1}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance=41,801
+|referee=[[Alan Wiley]]
+|result=W
+}}
+{{football box collapsible
+|round=36
+|date=10 May 2009
+|time=16:00
+|team1= [[Arsenal F.C.|Arsenal]]
+|score=1–4
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/8023065.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Cesc Fàbregas|Fàbregas]] {{yel|27}}<br />[[Nicklas Bendtner|Bendtner]] {{goal|70}}
+|goals2=[[Alex (footballer, born June 1982)|Alex]] {{goal|28}}<br />[[Nicolas Anelka|Anelka]] {{goal|39}}<br />[[Kolo Touré|Touré]] {{goal|49|o.g.}}<br />[[Florent Malouda|Malouda]] {{goal|86}}
+|stadium= [[Emirates Stadium]], London
+|attendance=60,075
+|referee=[[Phil Dowd]]
+|result=W
+}}
+{{football box collapsible
+|round=37
+|date=17 May 2009
+|time=16:00
+|team1= [[Chelsea F.C.|Chelsea]]
+|score=2–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/8038298.stm (Report)]
+|team2= [[Blackburn Rovers F.C.|Blackburn Rovers]]
+|goals1= [[Florent Malouda|Malouda]] {{goal|4}}<br />[[José Bosingwa|Bosingwa]] {{yel|27}}<br /> [[Nicolas Anelka|Anelka]] {{goal|59}}
+|goals2= [[Aaron Doran|Doran]] {{yel|64}} <br /> [[Zurab Khizanishvili|Khizanishvili]] {{yel|84}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance=40,804 (245 away)
+|referee= [[Rob Styles]]
+|result=W
+}}
+{{football box collapsible
+|round=38
+|date=24 May 2009
+|time=16:00
+|team1= [[Sunderland A.F.C.|Sunderland]]
+|score=2–3
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/8048317.stm (Report)] <br /> [https://www.youtube.com/watch?v=x9DRl67UgFY (Highlight)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Phil Bardsley|Bardsley]] {{yel|39}}<br />[[Kieran Richardson|Richardson]] {{goal|53}}<br />[[Kenwyne Jones|Jones]] {{goal|90}}
+|goals2=[[Ashley Cole|A. Cole]] {{yel|34}}, {{goal|86}}<br />[[Nicolas Anelka|Anelka]] {{goal|47}}<br />[[Salomon Kalou|Kalou]] {{goal|74}}
+|stadium= [[Stadium of Light]], [[Sunderland, Tyne and Wear|Sunderland]]
+|attendance=42,468
+|referee=[[Mark Halsey]]
+|result=W
+}}
+
+===UEFA Champions League===
+{{main|2008–09 UEFA Champions League}}
+
+====Group stage====
+{{main|2008–09 UEFA Champions League group stage#Group A}}
+{{:2008–09 UEFA Champions League group stage|transcludesection=Group A|showteam=CHE}}
+{{football box collapsible
+|round=[[2008–09 UEFA Champions League group stage#Chelsea v Bordeaux|1]]
+|date=16 September 2008
+|time=19:45
+|team1= [[Chelsea F.C.|Chelsea]] {{fbaicon|ENG}}
+|score= 4–0
+|report= [https://www.uefa.com/uefachampionsleague/news/01d1-0e6fdc78c7be-f5c9d284584a-1000--bordeaux-founder-against-chelsea-class/ Report]
+|team2= {{Fbaicon|FRA}} [[FC Girondins de Bordeaux|Bordeaux]]
+|goals1= [[Frank Lampard|Lampard]] {{goal|14}}<br />[[Joe Cole|J. Cole]] {{goal|30}}<br />[[Deco]] {{yel|58}}<br />[[Florent Malouda|Malouda]] {{goal|82}}<br />[[Nicolas Anelka|Anelka]] {{goal|90+2}}
+|goals2=
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London, England
+|attendance= 39,635
+|referee= [[Pieter Vink]] ([[Royal Dutch Football Association|Netherlands]])
+|result=W
+}}
+{{football box collapsible
+|round=[[2008–09 UEFA Champions League group stage#CFR Cluj v Chelsea|2]]
+|date=1 October 2008
+|time=19:45
+|team1= [[CFR Cluj]] {{Fbaicon|ROM}}
+|score= 0–0
+|report= [https://www.uefa.com/uefachampionsleague/news/01d2-0e7002cd4839-3a049cec2391-1000--cfr-hold-chelsea-to-make-their-point/ Report]
+|team2= {{Fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1= [[Álvaro Pereira|Pereira]] {{yel|71}}<br />[[Dani (footballer, born 1982)|Dani]] {{yel|90}}
+|goals2= [[Alex (footballer, born June 1982)|Alex]] {{yel|40}}<br />[[Nicolas Anelka|Anelka]] {{yel|78}}
+|stadium=[[Stadionul Dr. Constantin Rădulescu]]
+|location=[[Cluj-Napoca]], [[Romania]]
+|attendance= 20,320
+|referee= [[Florian Meyer (referee)|Florian Meyer]] ([[German Football Association|Germany]])
+|result=D
+}}
+{{football box collapsible
+|round=[[2008–09 UEFA Champions League group stage#Chelsea v Roma|3]]
+|date=22 October 2008
+|time=19:45
+|team1= [[Chelsea F.C.|Chelsea]] {{Fbaicon|ENG}}
+|score=1–0
+|report= [https://www.uefa.com/uefachampionsleague/news/01d2-0e7026ee20bd-654ad52343a5-1000--terry-header-ends-roma-resistance/ Report]
+|team2= {{Fbaicon|ITA}} [[A.S. Roma|Roma]]
+|goals1=[[Florent Malouda|Malouda]] {{yel|30}} <br/>[[John Terry|Terry]] {{yel|72}}, {{goal|77}}
+|goals2= [[Philippe Mexès|Mexès]] {{yel|22}} <br/> [[Christian Panucci|Panucci]] {{yel|85}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London, England
+|attendance=41,002
+|referee=[[Kyros Vassaras]] ([[Hellenic Football Federation|Greece]])
+|result=W
+}}
+{{football box collapsible
+|round=[[2008–09 UEFA Champions League group stage#Roma v Chelsea|4]]
+|date=4 November 2008
+|time=19:45
+|team1= [[A.S. Roma|Roma]] {{Fbaicon|ITA}}
+|score= 3–1
+|report= [https://www.uefa.com/uefachampionsleague/news/01d3-0e70447c2ab7-385701a289e7-1000--vucinic-reigns-as-roma-reel-in-chelsea/ Report]
+|team2= {{Fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=[[Christian Panucci|Panucci]] {{goal|34}} <br /> [[Mirko Vučinić|Vučinić]] {{goal|48||58}} <br /> [[Simone Perrotta|Perrotta]] {{yel|67}}
+|goals2=[[John Terry|Terry]] {{goal|75}} <br /> [[Deco]] {{sent off|2|33|81}}
+|stadium=[[Stadio Olimpico]]
+|location=Rome, Italy
+|attendance=35,038
+|referee= [[Luis Medina Cantalejo]] ([[Royal Spanish Football Association|Spain]])
+|result=L
+}}
+{{football box collapsible
+|round=[[2008–09 UEFA Champions League group stage#Bordeaux v Chelsea|5]]
+|date=26 November 2008
+|time=19:45
+|team1= [[FC Girondins de Bordeaux|Bordeaux]] {{Fbaicon|FRA}}
+|score= 1–1
+|report= [https://www.uefa.com/uefachampionsleague/news/01d3-0e70722ae372-8bce2e721439-1000--diarra-keeps-bordeaux-in-contention/ Report]
+|team2= {{Fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=[[Yoann Gourcuff|Gourcuff]] {{yel|22}} <br /> [[Franck Jurietti|Jurietti]] {{yel|55}} <br /> [[Alou Diarra|Diarra]] {{goal|83}} <br /> [[Marouane Chamakh|Chamakh]] {{yel|84}}
+|goals2= [[John Terry|Terry]] {{yel|22}} <br /> [[Ashley Cole|A. Cole]] {{yel|30}} <br /> [[Nicolas Anelka|Anelka]] {{goal|60}} <br /> [[Joe Cole|J. Cole]] {{yel|68}} <br /> [[Frank Lampard|Lampard]] {{sent off|2|27|86}}
+|stadium=[[Stade Chaban-Delmas]]
+|location=[[Bordeaux]], France
+|attendance=32,486
+|referee= [[Frank De Bleeckere]] ([[Royal Belgian Football Association|Belgium]])
+|result=D
+}}
+{{football box collapsible
+|round=[[2008–09 UEFA Champions League group stage#Chelsea v CFR Cluj|6]]
+|date=9 December 2008
+|time=19:45
+|team1= [[Chelsea F.C.|Chelsea]] {{Fbaicon|ENG}}
+|score= 2–1
+|report= [https://www.uefa.com/uefachampionsleague/news/01d4-0e70916ba66e-f8c968b012c1-1000--drogba-returns-to-seal-chelsea-passage/ Report]
+|team2= {{Fbaicon|ROM}} [[CFR Cluj]]
+|goals1=[[Salomon Kalou|Kalou]] {{goal|40}} <br /> [[Didier Drogba|Drogba]] {{goal|71}} <br /> [[Juliano Belletti|Belletti]] {{yel|76}} <br /> [[Mikel John Obi|Mikel]] {{yel|81}}
+|goals2= [[Eugen Trică|Trică]] {{yel|40}} <br /> [[Yssouf Koné|Koné]] {{goal|55}} <br /> [[Emmanuel Culio|Culio]] {{yel|90+1}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London, England
+|attendance=41,060
+|referee= [[Peter Fröjdfeldt]] ([[Swedish Football Association|Sweden]])
+|result=W
+}}
+
+====Knockout phase====
+{{main|2008–09 UEFA Champions League knockout stage}}
+
+=====Round of 16=====
+{{football box collapsible
+|round=[[2008–09 UEFA Champions League knockout stage#Chelsea v Juventus|First leg]]
+|date=25 February 2009
+|time=19:45
+|team1=[[Chelsea F.C.|Chelsea]] {{Fbaicon|ENG}}
+|score=1–0
+|report=[https://www.uefa.com/uefachampionsleague/news/0254-0d7c86206c01-f35d92bdb2be-1000--drogba-puts-chelsea-in-pole-position/ Report]
+|team2= {{Fbaicon|ITA}} [[Juventus FC|Juventus]]
+|goals1=[[Didier Drogba|Drogba]] {{goal|12}} <br /> [[Michael Ballack|Ballack]] {{yel|58}}
+|goals2=[[Cristian Molinaro|Molinaro]] {{yel|52}} <br /> [[Mohamed Sissoko|Sissoko]] {{yel|82}} <br /> [[Claudio Marchisio|Marchisio]] {{yel|90}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London, England
+|attendance=38,079
+|referee=[[Olegário Benquerença]] ([[Portuguese Football Federation|Portugal]])
+|result=W
+}}
+{{football box collapsible
+|round=[[2008–09 UEFA Champions League knockout stage#Juventus v Chelsea|Second leg]]
+|date=10 March 2009
+|time=19:45
+|team1=[[Juventus FC|Juventus]] {{Fbaicon|ITA}}
+|score=2–2 
+|aggregatescore=2–3
+|report=[https://www.uefa.com/uefachampionsleague/news/01d7-0e71070574ed-e5c2ea22134e-1000--chelsea-edge-out-juve-to-reach-last-eight/ Report]
+|team2={{Fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=[[Vincenzo Iaquinta|Iaquinta]] {{goal|19}} <br />[[Hasan Salihamidžić|Salihamidžić]] {{yel|45+2}} <br /> [[Giorgio Chiellini|Chiellini]] {{sent off|2|54|70}} <br /> [[Alessandro Del Piero|Del Piero]] {{goal|74|pen.}} {{yel|90+2}}
+|goals2=[[Michael Essien|Essien]] {{goal|45+1}} <br /> [[Petr Čech|Čech]] {{yel|63}} <br /> [[Didier Drogba|Drogba]] {{yel|69}}, {{goal|83}} <br /> [[Ashley Cole|A. Cole]] {{yel|88}} <br /> [[Nicolas Anelka|Anelka]] {{yel|90+1}}
+|stadium=[[Stadio Olimpico di Torino]]
+|location=[[Turin]], Italy
+|attendance=27,319
+|referee= [[Alberto Undiano Mallenco]] ([[Royal Spanish Football Federation|Spain]])
+|result=D
+}}
+
+=====Quarter-finals=====
+{{football box collapsible
+|round=[[2008–09 UEFA Champions League knockout stage#Liverpool v Chelsea|First leg]]
+|date=8 April 2009
+|time=19:45
+|team1=[[Liverpool F.C.|Liverpool]] {{Fbaicon|ENG}}
+|score=1–3
+|report=[https://www.uefa.com/uefachampionsleague/news/01d8-0e7132f4c1a3-d6b14968c76d-1000--unlikely-hero-ivanovic-heads-chelsea-charge/ Report]
+|team2={{Fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=[[Fernando Torres|Torres]] {{goal|6}}<br />[[Fábio Aurélio|Aurélio]] {{yel|74}}
+|goals2=[[Salomon Kalou|Kalou]] {{yel|31}} <br />[[Branislav Ivanović|Ivanović]] {{goal|39||62}}, {{yel|60}}<br /> [[Didier Drogba|Drogba]] {{goal|67}}
+|stadium=[[Anfield]]
+|location=[[Liverpool]], England
+|attendance=42,543
+|referee=[[Claus Bo Larsen]] ([[Danish Football Association|Denmark]])
+|result=W
+}}
+
+{{football box collapsible
+|round=[[2008–09 UEFA Champions League knockout stage#Chelsea v Liverpool|Second leg]]
+|date=14 April 2009
+|time=19:45
+|team1=[[Chelsea F.C.|Chelsea]] {{Fbaicon|ENG}}
+|score= 4–4 
+|aggregatescore= 7–5
+|report=[https://www.uefa.com/uefachampionsleague/news/01ff-0e7e5be36722-f52dfb1d4b65-1000--2008-09-chelsea-fc-4-4-liverpool-fc-report/ Report]
+|team2={{Fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1= [[Branislav Ivanović|Ivanović]] {{yel|28}}<br />[[Didier Drogba|Drogba]] {{goal|51}}<br />[[Alex (footballer, born June 1982)|Alex]] {{goal|57}}<br />[[Ricardo Carvalho|Carvalho]] {{yel|58}}<br />[[Ashley Cole|A. Cole]] {{yel|65}}<br />[[Frank Lampard|Lampard]] {{goal|76||89}}
+|goals2= [[Fábio Aurélio|Aurélio]] {{goal|19}}<br />[[Xabi Alonso|Alonso]] {{goal|28|pen.}}<br />[[Yossi Benayoun|Benayoun]] {{yel|41}}<br />[[Álvaro Arbeloa|Arbeloa]] {{yel|74}}<br />[[Lucas Leiva|Lucas]] {{goal|81}}<br />[[Dirk Kuyt|Kuyt]] {{goal|83}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London, England
+|attendance=38,286
+|referee= [[Luis Medina Cantalejo]] ([[Royal Spanish Football Federation|Spain]])
+|result=D
+}}
+
+=====Semi-finals=====
+{{football box collapsible
+|round=[[2008–09 UEFA Champions League knockout stage#Barcelona v Chelsea|First leg]]
+|date=28 April 2009
+|time=19:45
+|team1=[[FC Barcelona|Barcelona]] {{Fbaicon|ESP}}
+|score= 0–0
+|report=[https://www.uefa.com/uefachampionsleague/news/01d8-0e72189540f5-fc2ae59e490c-1000--resolute-chelsea-hold-barca-at-bay/ Report]
+|team2={{Fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=[[Yaya Touré|Y. Touré]] {{yel|37}}<br />[[Carles Puyol|Puyol]] {{yel|74}}
+|goals2=[[Alex (footballer, born June 1982)|Alex]] {{yel|25}}<br />[[Michael Ballack|Ballack]] {{yel|29}}
+|stadium=[[Camp Nou]]
+|location=[[Barcelona]], Spain
+|attendance=95,000
+|referee=[[Wolfgang Stark]] ([[German Football Association|Germany]])
+|result=D
+}}
+
+{{football box collapsible
+|round=[[2008–09 UEFA Champions League knockout stage#Chelsea v Barcelona|Second leg]]
+|date=6 May 2009
+|time=20:45
+|team1=[[Chelsea F.C.|Chelsea]] {{Fbaicon|ENG}}
+|score=1–1 
+|aggregatescore = 1–1[[Away goals rule|a]]
+|report=[https://www.uefa.com/uefachampionsleague/news/01d9-0e72254a5b3a-23a74c5aeec1-1000--iniesta-late-show-shatters-chelsea/ Report]
+|team2={{Fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1=[[Michael Essien|Essien]] {{goal|9}}<br />[[Alex (footballer, born June 1982)|Alex]] {{yel|77}}<br />[[Michael Ballack|Ballack]] {{yel|90+6}}<br />[[Didier Drogba|Drogba]] {{yel|90+8}}
+|goals2=[[Dani Alves|Alves]] {{yel|30}}<br />[[Eric Abidal|Abidal]] {{sent off|0|66}}<br />[[Samuel Eto'o|Éto'o]] {{yel|90}}<br />[[Andrés Iniesta|Iniesta]] {{goal|90+3}}, {{yel|90+4}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London, England
+|attendance=37,857
+|referee=[[Tom Henning Øvrebø]] ([[Football Association of Norway|Norway]])
+|result=D
+}}
+
+===Football League Cup===
+{{main|2008–09 Football League Cup}}
+{{football box collapsible
+|round=Third round
+|date=24 September 2008
+|time=19:45
+|team1= [[Portsmouth F.C.|Portsmouth]]
+|score= 0–4
+|report= [https://news.bbc.co.uk/sport2/hi/football/league_cup/7626830.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1= [[Hermann Hreiðarsson|Hreiðarsson]] {{yel|35}}<br /> [[Richard Hughes (footballer)|Hughes]] {{yel|52}}
+|goals2= [[Michael Ballack|Ballack]] {{yel|5}}<br /> [[Frank Lampard|Lampard]] {{goal|36|pen.|49}} <br />[[Florent Malouda|Malouda]] {{goal|45}}<br />[[Salomon Kalou|Kalou]] {{goal|64}}
+|stadium=[[Fratton Park]], [[Portsmouth]]
+|attendance= 15,339
+|referee= [[Steve Bennett (referee)|Steve Bennett]]
+|result=W
+}}
+
+{{football box collapsible
+|round=Fourth round
+|date=12 November 2008
+|time=19:45
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 1–1 |aet=y
+|report= [https://news.bbc.co.uk/sport2/hi/football/league_cup/7708814.stm (Report)]
+|team2= [[Burnley F.C.|Burnley]]
+|goals1=[[Didier Drogba|Drogba]] {{goal|27}} {{yel|27}}
+|goals2=[[Ade Akinbiyi|Akinbiyi]] {{goal|69}}, {{yel|70}} <br /> [[Chris Eagles|Eagles]] {{yel|73}} <br />[[Steven Caldwell|Caldwell]] {{sent off|2|58|116}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance=41,369
+|referee=[[Keith Stroud]]
+|penaltyscore= 4–5
+|penalties1=[[Frank Lampard|Lampard]] {{pengoal}} <br /> [[Wayne Bridge|Bridge]] {{penmiss}} <br /> [[Salomon Kalou|Kalou]] {{pengoal}} <br /> [[Paulo Ferreira|Ferreira]] {{pengoal}} <br /> [[Florent Malouda|Malouda]] {{pengoal}} <br /> [[Mikel John Obi|Mikel]] {{penmiss}}
+|penalties2={{pengoal}} [[Graham Alexander|Alexander]] <br />{{pengoal}} [[Alan Mahon|Mahon]] <br />{{pengoal}} [[Chris Eagles|Eagles]]<br />{{pengoal}} [[Kevin McDonald (footballer, born 1988)|McDonald]] <br />{{penmiss}} [[Wade Elliott|Elliott]]<br />{{pengoal}} [[Michael Duff (footballer)|Duff]] 
+|result=D
+}}
+
+===FA Cup===
+{{main|2008–09 FA Cup}}
+{{football box collapsible
+|round=Third round
+|date=3 January 2009
+|time=15:00
+|team1= [[Chelsea F.C.|Chelsea]]
+|score=1–1
+|report= [https://news.bbc.co.uk/sport2/hi/football/fa_cup/7803244.stm (Report)]
+|team2= [[Southend United F.C.|Southend United]]
+|goals1= [[Salomon Kalou|Kalou]] {{goal|31}} <br /> [[Mikel John Obi|Mikel]] {{yel|56}} <br /> [[Ricardo Carvalho|Carvalho]] {{yel|90+4}}
+|goals2= [[Alan McCormack|McCormack]] {{yel|51}} <br /> [[Anthony Grant (English footballer)|Grant]] {{yel|89}} <br /> [[Peter Clarke (footballer)|Clarke]] {{goal|90}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance=41,090
+|referee=[[Stuart Attwell]]
+|result=D
+}}
+{{football box collapsible
+|round=Replay
+|date=14 January 2009
+|time=20:10
+|team1= [[Southend United F.C.|Southend United]]
+|score=1–4
+|report=[https://news.bbc.co.uk/sport2/hi/football/fa_cup/7815530.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Adam Barrett|Barrett]] {{goal|16}}
+|goals2=[[Mikel John Obi|Mikel]] {{yel|39}} <br /> [[Michael Ballack|Ballack]] {{goal|45}} <br /> [[Salomon Kalou|Kalou]] {{goal|60}} <br /> [[Nicolas Anelka|Anelka]] {{goal|78}} <br /> [[Frank Lampard|Lampard]] {{goal|90}}
+|stadium=[[Roots Hall]], [[Southend-on-Sea]]
+|attendance=11,314
+|referee=[[Chris Foy (referee)|Chris Foy]]
+|result=W
+}}
+{{football box collapsible
+|round=Fourth round
+|date=24 January 2009
+|time=15:00
+|team1= [[Chelsea F.C.|Chelsea]]
+|score=3–1
+|report=[https://news.bbc.co.uk/sport2/hi/football/fa_cup/7842611.stm (Report)]
+|team2= [[Ipswich Town F.C.|Ipswich Town]]
+|goals1=[[Michael Ballack|Ballack]] {{goal|16||59}} <br /> [[Frank Lampard|Lampard]] {{goal|85}}
+|goals2=[[Alex Bruce (footballer, born 1984)|Bruce]] {{yel|18}}, {{goal|34}} <br /> [[Owen Garvan|Garvan]] {{yel|59}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], London
+|attendance=41,137
+|referee=[[Alan Wiley]]
+|result=W
+}}
+{{football box collapsible
+|round=Fifth round
+|date=14 February 2009
+|time=17:30
+|team1=[[Watford F.C.|Watford]]
+|score=1–3
+|report=[https://news.bbc.co.uk/sport1/hi/football/fa_cup/7872201.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Tamás Priskin|Priskin]] {{goal|69}}
+|goals2=[[Ashley Cole|A. Cole]] {{yel|18}} <br /> [[Nicolas Anelka|Anelka]] {{goal|75||77||90}}
+|stadium= [[Vicarage Road]], [[Watford]]
+|attendance=16,851
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=W
+}}
+{{football box collapsible
+|round=Quarter-final
+|date=7 March 2009
+|time=12:30
+|team1=[[Coventry City F.C.|Coventry City]]
+|score=0–2
+|report=[https://news.bbc.co.uk/sport2/hi/football/fa_cup/7910378.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Guillaume Beuzelin|Beuzelin]] {{yel|78}}
+|goals2=[[Didier Drogba|Drogba]] {{goal|15}}<br />[[Alex (footballer, born June 1982)|Alex]] {{goal|72}}
+|stadium=[[Ricoh Arena]], [[Coventry]]
+|attendance=31,407
+|referee=[[Steve Bennett (referee)|Steve Bennett]]
+|result=W
+}}
+{{football box collapsible
+|round=Semi-final
+|date=18 April 2009
+|time=17:15
+|team1=[[Arsenal F.C.|Arsenal]]
+|score= 1–2
+|report=[https://news.bbc.co.uk/sport2/hi/football/fa_cup/7990220.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Theo Walcott|Walcott]] {{goal|17}}<br />[[Denílson Pereira Neves|Denílson]] {{yel|73}}<br />[[Kolo Touré|Touré]] {{yel|88}}
+|goals2=[[Florent Malouda|Malouda]] {{goal|33}}<br />[[Branislav Ivanović|Ivanović]] {{yel|38}}<br />[[Michael Ballack|Ballack]] {{yel|44}}<br />[[Didier Drogba|Drogba]] {{goal|84}}, {{yel|85}}
+|stadium=[[Wembley Stadium]], London
+|attendance=88,103
+|referee=[[Martin Atkinson]]
+|result=W
+}}
+{{football box collapsible
+|round=[[2009 FA Cup Final|Final]]
+|date=30 May 2009
+|time=15:00
+|team1=[[Chelsea F.C.|Chelsea]]
+|score=2–1
+|report=[https://news.bbc.co.uk/sport1/hi/football/fa_cup/8060989.stm (Report)]
+|team2=[[Everton F.C.|Everton]]
+|goals1=[[Didier Drogba|Drogba]] {{goal|21}}<br />[[Mikel John Obi|Mikel]] {{yel|63}}<br />[[Frank Lampard|Lampard]] {{goal|72}} {{yel|83}}
+|goals2=[[Louis Saha|Saha]] {{goal|1}}<br />[[Tony Hibbert|Hibbert]] {{yel|8}}<br />[[Phil Neville|Neville]] {{yel|48}}<br />[[Leighton Baines|Baines]] {{yel|90+2}}
+|stadium=[[Wembley Stadium]], London
+|attendance= 89,391
+|referee=[[Howard Webb]]
+|result=W
+}}
+
+==Statistics==
+
+===Appearances and goals===
+{{Extended football squad start|[[2008–09 FA Premier League|Premier League]]|[[2008–09 UEFA Champions League|Champions League]]|[[2008–09 FA Cup|FA Cup]]|[[2008–09 Football League Cup|League Cup]]}}
+{{Extended football squad player|no=1|name=[[Petr Čech]]|pos=GK|nat=CZE|36|-25|12|-13|6|-6|1|0}}
+{{Extended football squad player|no=2|name=[[Branislav Ivanović]]|pos=DF|nat=SER|12+5|0|4|2|3+1|0|2|0}}
+{{Extended football squad player|no=3|name=[[Ashley Cole]]|pos=DF|nat=ENG|33+1|1|9|0|7|0|0|0}}
+{{Extended football squad player|no=5|name=[[Michael Essien]]|pos=MF|nat=GHA|11+1|1|5|2|2+1|0|0|0}}
+{{Extended football squad player|no=6|name=[[Ricardo Carvalho]]|pos=DF|nat=POR|11+1|1|3+1|0|2|0|0|0}}
+{{Extended football squad player|no=8|name=[[Frank Lampard]]|pos=MF|nat=ENG|37|12|11|3|7|3|1+1|2}}
+{{Extended football squad player|no=9|name=[[Franco Di Santo]]|pos=FW|nat=ARG|0+8|0|0+3|0|0+3|0|0+2|0}}
+{{Extended football squad player|no=10|name=[[Joe Cole]]|pos=MF|nat=ENG|14|2|4|1|2|0|0+0|0}}
+{{Extended football squad player|no=11|name=[[Didier Drogba]]|pos=FW|nat=CIV|15+9|5|7+3|5|5+1|3|2|1}}
+{{Extended football squad player|no=12|name=[[Mikel John Obi]]|pos=MF|nat=NGA|34+1|0|9|0|5|0|0+1|0}}
+{{Extended football squad player|no=13|name=[[Michael Ballack]]|pos=MF|nat=GER|22+7|1|9+1|0|5+1|3|1|0}}
+{{Extended football squad player|no=15|name=[[Florent Malouda]]|pos=MF|nat=FRA|25+7|6|9+1|1|4|1|2|1}}
+{{Extended football squad player|no=16|name=[[Scott Sinclair]]|pos=FW|nat=ENG|0+2|0|0|0|0+1|0|0+1|0}}
+{{Extended football squad player|no=17|name=[[José Bosingwa]]|pos=DF|nat=POR|34|2|10|0|4|0|0|0}}
+{{Extended football squad player|no=18|name=[[Wayne Bridge]]|pos=DF|nat=ENG|3+3|0|3+1|0|0|0|2|0}}
+{{Extended football squad player|no=18|name=[[Ricardo Quaresma]]|pos=MF|nat=POR|1+3|0|0|0|0+1|0|0|0}}
+{{Extended football squad player|no=19|name=[[Paulo Ferreira]]|pos=DF|nat=POR|1+6|0|0+2|0|1|0|1+1|0}}
+{{Extended football squad player|no=20|name=[[Deco]]|pos=MF|nat=POR|17+7|3|4|0|0+1|0|1|0}}
+{{Extended football squad player|no=21|name=[[Salomon Kalou]]|pos=FW|nat=CIV|17+10|6|6+2|1|5+1|2|2|1}}
+{{Extended football squad player|no=23|name=[[Carlo Cudicini]]|pos=GK|nat=ITA|2|0|0|0|1|-1|1|-1}}
+{{Extended football squad player|no=24|name=[[Shaun Wright-Phillips]]|pos=MF|nat=ENG|0+1|0|0|0|0|0|0|0}}
+{{Extended football squad player|no=26|name=[[John Terry]]|pos=DF|nat=ENG|35|1|11|2|4|0|1|0}}
+{{Extended football squad player|no=27|name=[[Mineiro (footballer, born 1975)|Mineiro]]|pos=MF|nat=BRA|0+1|0|0|0|0|0|1|0}}
+{{Extended football squad player|no=33|name=[[Alex (footballer, born June 1982)|Alex]]|pos=DF|nat=BRA|22+1|2|9|1|6|1|2|0|}}
+{{Extended football squad player|no=35|name=[[Juliano Belletti]]|pos=DF|nat=BRA|5+14|3|0+8|0|2+2|0|2|0}}
+{{Extended football squad player|no=39|name=[[Nicolas Anelka]]|pos=FW|nat=FRA|33+4|19|8+4|2|5|4|0|0}}
+{{Extended football squad player|no=40|name=[[Hilário (footballer, born 1975)|Hilário]]|pos=GK|nat=POR|1|0|0|0|0|0|0|0}}
+{{Extended football squad player|no=42|name=[[Michael Mancienne]]|pos=DF|nat=ENG|2+2|0|0+1|0|1|0|0|0}}
+{{Extended football squad player|no=43|name=[[Miroslav Stoch]]|pos=FW|nat=Slovakia|0+4|0|0|0|0+1|0|0|0}}
+|}
+
+===Start formations===
+{{fb sf header}}
+{{fb sf formation |q=27 |f=4–1–4–1 |m= 1–18 and 21 [[Premier League]], 1–6 [[UEFA Champions League]] & 1–2 [[Football League Cup|League Cup]] }}
+{{fb sf formation |q=25  |f=4–3–3   |m= 19–20, 22–32, 34–35 and 38 [[Premier League]], 7–10 [[UEFA Champions League]] & 1–5 [[FA Cup]] }}
+{{fb sf formation |q=7  |f=4–2–3–1  |m= 33 and 36–37 [[Premier League]], 6–7 [[FA Cup]] and 11–12 [[UEFA Champions League]] }}
+{{Fb sf footer|s=Match reports in [[#Competitive|Competitive matches]]|date=April 2013}}
+
+===Top scorers===
+Includes all competitive matches. The list is sorted by shirt number when total goals are equal.
+{| class="wikitable" style="font-size: 95%; text-align: center;"
+|-
+!width=60|Position
+!width=60|Nation
+!width=60|Number
+!width=150|Name
+!width=80|Premier League
+!width=80|Champions League
+!width=80|League Cup
+!width=80|FA Cup
+!width=80|Total
+|-
+|1
+|{{Flagicon|FRA}}
+|39
+|[[Nicolas Anelka]]
+|19
+|2
+|0
+|4
+|'''25'''
+|-
+|2
+|{{Flagicon|ENG}}
+|8
+|[[Frank Lampard]]
+|12
+|3
+|2
+|3
+|'''20'''
+|-
+|3
+|{{Flagicon|CIV}}
+|11
+|[[Didier Drogba]]
+|5
+|5
+|1
+|3
+|'''14'''
+|-
+|4
+|{{Flagicon|CIV}}
+|21
+|[[Salomon Kalou]]
+|6
+|1
+|1
+|2
+|'''10'''
+|-
+|5
+|{{Flagicon|FRA}}
+|15
+|[[Florent Malouda]]
+|6
+|1
+|1
+|1
+|'''9'''
+|-
+|6
+|{{Flagicon|GER}}
+|13
+|[[Michael Ballack]]
+|1
+|0
+|0
+|3
+|'''4'''
+|-
+|=
+|{{Flagicon|BRA}}
+|33
+|[[Alex (footballer, born June 1982)|Alex]]
+|2
+|1
+|0
+|1
+|'''4'''
+|-
+|8
+|{{Flagicon|POR}}
+|20
+|[[Deco]]
+|3
+|0
+|0
+|0
+|'''3'''
+|-
+|=
+|{{Flagicon|GHA}}
+|5
+|[[Michael Essien]]
+|1
+|2
+|0
+|0
+|'''3'''
+|-
+|=
+|{{Flagicon|ENG}}
+|10
+|[[Joe Cole]]
+|2
+|1
+|0
+|0
+|'''3'''
+|-
+|=
+|{{Flagicon|ENG}}
+|26
+|[[John Terry]]
+|1
+|2
+|0
+|0
+|'''3'''
+|-
+|=
+|{{Flagicon|BRA}}
+|35
+|[[Juliano Belletti]]
+|3
+|0
+|0
+|0
+|'''3'''
+|-
+|13
+|{{Flagicon|SER}}
+|2
+|[[Branislav Ivanović]]
+|0
+|2
+|0
+|0
+|'''2'''
+|-
+|=
+|{{Flagicon|POR}}
+|17
+|[[José Bosingwa]]
+|2
+|0
+|0
+|0
+|'''2'''
+|-
+|15
+|{{Flagicon|ENG}}
+|3
+|[[Ashley Cole]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|=
+|{{Flagicon|POR}}
+|6
+|[[Ricardo Carvalho]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|/
+|/
+|/
+|'''Own Goals'''
+|3
+|0
+|0
+|0
+|'''3'''
+|-
+|
+|
+|
+|'''TOTALS'''
+|68
+|20
+|5
+|17
+|'''110'''
+|}
+
+===Disciplinary record===
+Includes all competitive matches. Players with 1 card or more included only.
+{| class="wikitable" style="font-size: 95%; text-align: center;"
+|-
+| rowspan="2" width="5%" align="center"|'''Position'''
+| rowspan="2" width="5%" align="center"|'''Nation'''
+| rowspan="2" width="5%" align="center"|'''Number'''
+| rowspan="2" width="15%" align="center"|'''Name'''
+|colspan="2" align="center"|'''Premier League'''
+|colspan="2" align="center"|'''Champions League'''
+|colspan="2" align="center"|'''League Cup'''
+|colspan="2" align="center"|'''FA Cup'''
+|colspan="2" align="center"|'''Total (FA Total)'''
+|-
+!width=60 style="background: #FFEE99"| {{yel}}
+!width=60 style="background: #FF8888"|{{sent off}}
+!width=60 style="background: #FFEE99"|{{yel}}
+!width=60 style="background: #FF8888"|{{sent off}}
+!width=60 style="background: #FFEE99"|{{yel}}
+!width=60 style="background: #FF8888"|{{sent off}}
+!width=60 style="background: #FFEE99"|{{yel}}
+!width=60 style="background: #FF8888"|{{sent off}}
+!width=60 style="background: #FFEE99"|{{yel}}
+!width=60 style="background: #FF8888"|{{sent off}}
+|-
+|GK
+|{{Flagicon|CZE}}
+|1
+|[[Petr Čech]]
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|'''1 (0)'''
+|'''0'''
+|-
+|DF
+|{{Flagicon|SER}}
+|2
+|[[Branislav Ivanović]]
+|2
+|0
+|1
+|0
+|0
+|0
+|1
+|0
+|'''4 (3)'''
+|'''0'''
+|-
+|DF
+|{{Flagicon|ENG}}
+|3
+|[[Ashley Cole]]
+|5
+|0
+|3
+|0
+|0
+|0
+|1
+|0
+|'''9 (6)'''
+|'''0'''
+|-
+|MF
+|{{Flagicon|Ghana}}
+|5
+|[[Michael Essien]]
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|'''1 (0)'''
+|'''0'''
+|-
+|DF
+|{{Flagicon|POR}}
+|6
+|[[Ricardo Carvalho]]
+|2
+|0
+|1
+|0
+|0
+|0
+|1
+|0
+|'''4 (3)'''
+|'''0'''
+|-
+|MF
+|{{Flagicon|ENG}}
+|8
+|[[Frank Lampard]]
+|3
+|1*
+|2
+|1
+|0
+|0
+|1
+|0
+|'''6 (4)'''
+|'''2* (1*)'''
+|-
+|MF
+|{{Flagicon|ENG}}
+|10
+|[[Joe Cole]]
+|2
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|'''3 (2)'''
+|'''0'''
+|-
+|FW
+|{{Flagicon|CIV}}
+|11
+|[[Didier Drogba]]
+|1
+|0
+|2
+|0
+|1
+|0
+|1
+|0
+|'''5 (3)'''
+|'''0'''
+|-
+|MF
+|{{Flagicon|NGA}}
+|12
+|[[Mikel John Obi]]
+|6
+|0
+|1
+|0
+|0
+|0
+|4
+|0
+|'''11 (10)'''
+|'''0'''
+|-
+|MF
+|{{Flagicon|GER}}
+|13
+|[[Michael Ballack]]
+|6
+|0
+|3
+|0
+|1
+|0
+|1
+|0
+|'''11 (8)'''
+|'''0'''
+|-
+|FW
+|{{Flagicon|FRA}}
+|15
+|[[Florent Malouda]]
+|3
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|'''4 (3)'''
+|'''0'''
+|-
+|DF
+|{{Flagicon|POR}}
+|17
+|[[José Bosingwa]]
+|6
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|'''6 (6)'''
+|'''0'''
+|-
+|MF
+|{{Flagicon|POR}}
+|20
+|[[Deco]]
+|3
+|0
+|3
+|1
+|0
+|0
+|0
+|0
+|'''6 (3)'''
+|'''1 (0)'''
+|-
+|MF
+|{{Flagicon|CIV}}
+|21
+|[[Salomon Kalou]]
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|'''1 (0)'''
+|'''0 (0)'''
+|-
+|DF
+|{{Flagicon|ENG}}
+|26
+|[[John Terry]]
+|7
+|2*
+|3
+|0
+|0
+|0
+|0
+|0
+|'''10 (7)'''
+|'''2* (2*)'''
+|-
+|DF
+|{{Flagicon|BRA}}
+|33
+|[[Alex (footballer, born June 1982)|Alex]]
+|1
+|0
+|3
+|0
+|0
+|0
+|0
+|0
+|'''4 (1)'''
+|'''0'''
+|-
+|DF
+|{{Flagicon|BRA}}
+|35
+|[[Juliano Belletti]]
+|2
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|'''3 (2)'''
+|'''0'''
+|-
+|FW
+|{{Flagicon|FRA}}
+|39
+|[[Nicolas Anelka]]
+|0
+|0
+|2
+|0
+|0
+|0
+|0
+|0
+|'''2 (0)'''
+|'''0'''
+|-
+|DF
+|{{Flagicon|ENG}}
+|42
+|[[Michael Mancienne]]
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|'''1 (1)'''
+|'''0'''
+|-
+|
+|
+|
+| '''TOTALS'''
+|'''50'''
+|'''3**'''
+|'''30'''
+|'''2'''
+|'''2'''
+|'''0'''
+|'''9'''
+|'''0'''
+|'''91 (61)'''
+|'''5** (3**)'''
+|-
+|}
+'''*'''  = 1 suspension withdrawn <br />'''**''' = 2 suspensions withdrawn
+
+===Overall===
+{|class="wikitable"
+|-
+|Games played || 59 (38 [[Premier League]], 12 [[UEFA Champions League]], 7 [[FA Cup]] and 2 [[Football League Cup|League Cup]])
+|-
+|Games won || 37 (25 [[Premier League]], 5 [[UEFA Champions League]], 6 [[FA Cup]] and 1 [[Football League Cup|League Cup]])
+|-
+|Games drawn ||  15 (8 [[Premier League]], 6 [[UEFA Champions League]] and 1 [[FA Cup]])
+|-
+|Games lost ||  7 (5 [[Premier League]], 1 [[UEFA Champions League]] and 1 [[Football League Cup|League Cup]])
+|-
+|Goals scored || 110
+|-
+|Goals conceded || 44
+|-
+|Goal difference || +66
+|-
+|Yellow cards || 91
+|-
+|Red cards || 5 (2 withdrawn)
+|-
+|Worst discipline || {{Flagicon|ENG}} [[John Terry]] (10 {{yel|}}, 2 {{Fb red card|}}<small>(1 withdrawn)</small>)
+|-
+|rowspan="2"|Best result || 5–0 (A) v [[Middlesbrough F.C.|Middlesbrough]] – [[Premier League]] – 2008.10.18
+|-
+|5–0 (H) v [[Sunderland A.F.C.|Sunderland]] – [[Premier League]] – 2008.11.01
+|-
+|Worst result || 0–3 (A) v [[Manchester United F.C.|Manchester United]] – [[Premier League]] – 2009.01.11
+|-
+|Most appearances || {{Flagicon|ENG}} [[Frank Lampard]] (57 appearances)
+|-
+|Top scorer || {{Flagicon|FRA}} [[Nicolas Anelka]] (25 goals)
+|-
+|Points || 126/177 (71.2%)
+|-
+{{Fb cs footer|s=[http://www.chelseafc.com/page/TheManagementIndex/0,,10268,00.html Chelsea FC]|date=April 2013}}
+
+==Honours==
+
+===Individuals===
+{| class="wikitable" border="1"
+|-
+! Name
+! Number
+! Country
+! Award
+|-
+| [[Petr Čech]]
+| 1
+| {{Flagicon|CZE}} [[Czech Republic national football team|Czech Republic]]
+| [[UEFA Club Football Awards#Best Goalkeeper|UEFA European Club Goalkeeper of the Year (2008)]], [[Golden Ball (Czech Republic)|Czech Golden Ball (2008)]]
+|-
+| [[Ashley Cole]]
+| 3
+| {{Flagicon|ENG}} [[English national football team|England]]
+| [[Chelsea F.C. Player of the Season#Players' Player of the Season|Samsung Players' Player of the Year (2008–09)]]
+|-
+| [[Michael Essien]]
+| 5
+| {{Flagicon|GHA}} [[Ghana national football team|Ghana]]
+| [[Chelsea F.C. Player of the Season#Goal of the Season|Goal of the Season (2008–09)]] v [[FC Barcelona|Barcelona]] ([[UEFA Champions League]] Semi finals) 6 May 2009
+|-
+| [[Frank Lampard]]
+| 8
+| {{Flagicon|ENG}} [[England national football team|England]]
+| [[UEFA Club Football Awards#Best Forward|UEFA European Club Midfielder of the Year (2008)]], [[Premier League Player of the Month#2008–09|October Premier League Player of the Month (2008)]], [[Chelsea F.C. Player of the Season#Chelsea Player of the Season|Chelsea Player of the Year (2008–09)]]
+|-
+| [[Deco]]
+| 20
+| {{Flagicon|POR}} [[Portugal national football team|Portugal]]
+| [[Premier League Player of the Month#2008–09|August Premier League Player of the Month (2008)]]
+|-
+| [[Salomon Kalou]]
+| 21
+| {{Flagicon|CIV}} [[Ivory Coast national football team|Ivory Coast]]
+| [[CAF Awards#CAF Most Promising Talent of the Year|CAF Young Player of the Year (2008)]]
+|-
+| [[John Terry]]
+| 26
+| {{Flagicon|ENG}} [[England national football team|England]]
+| [[UEFA Club Football Awards#Best Defender|UEFA European Club Defender of the Year (2008)]], [[FIFPRO World 11#FIFPRO Men's World 11|FIFPro World XI (2007–08)]], [[UEFA Team of the Year#Team of the Year 2008|UEFA Team of the Year (2008)]], Special Commitment Award (2008–09) for his 10 years of first team service.
+|-
+| [[Nicolas Anelka]]
+| 39
+| {{Flagicon|FRA}} [[France national football team|France]]
+| [[Premier League Player of the Month#2008–09|November Premier League Player of the Month (2008)]], [[Premier League Golden Boot#Winners|Barclays Golden Boot (2008–09)]], [[PFA Team of the Year (2000s)#Premier League 2|PFA Team of the Year (2009)]]
+|-
+| [[Michael Mancienne]]
+| 42
+| {{Flagicon|ENG}} [[English national football team|England]]
+| [[Chelsea F.C. Player of the Season#Young Player of the Year|Chelsea Young Player of the Year (2008–09)]]
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.chelseafc.com Chelsea FC official website]
+*[https://www.soccerbase.com/teams/team.sd?team_id=536 Chelsea FC on Soccerbase] {{webarchive |url=https://web.archive.org/web/20070627030941/http://www.soccerbase.com/teams2.sd?teamid=536 |date=2007-06-27}}
+
+{{Chelsea F.C. seasons}}
+{{2008–09 in English football}}
+
+{{DEFAULTSORT:Chelsea F.C. season}}
+[[Category:Chelsea F.C. seasons|2008–09]]
+[[Category:2008–09 Premier League by team]]
+[[Category:2008–09 UEFA Champions League participants seasons]]

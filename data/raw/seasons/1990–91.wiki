@@ -1,0 +1,325 @@
+{{Short description|English football club season}}
+{{more citations needed|date=January 2017}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox football club season
+|club=[[Chelsea F.C.|Chelsea]]
+|season=1990–91
+|manager=[[Bobby Campbell (English footballer)|Bobby Campbell]]
+|chairman=[[Ken Bates]]
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|league=[[Football League First Division|First Division]]
+|league result=[[1990–91 Football League#First Division|11th]]
+|cup1=[[FA Cup]]
+|cup1 result=[[1990–91 FA Cup#Third round proper|Third round]]
+|cup2=[[Football League Cup|League Cup]]
+|cup2 result=[[1990–91 Football League Cup|Semi-finals]]
+|cup3=[[Full Members Cup]]
+|cup3 result=[[1990–91 Full Members Cup|Quarter-finals]] <br /> (Southern Area)
+|cup4=Player of the Year
+|cup4 result=[[Andy Townsend]]
+|league topscorer=<br />[[Gordon Durie]]<br />(12 goals)
+|season topscorer=<br />[[Kerry Dixon]]<br />Durie<br />(15 each)
+|highest attendance=<span class="nowrap">34,178 vs [[Tottenham Hotspur F.C.|Tottenham Hotspur]]</span> <br /> (16 Jan 1991, [[Football League Cup|League Cup]])
+|lowest attendance=<span class="nowrap">3,849 vs [[Luton Town F.C.|Luton Town]]</span> <br /> (18 Feb 1991, [[Full Members Cup]])
+|average attendance=20,738
+| pattern_b1  = _chelsea1989h
+| pattern_la1 = _chelsea1989h
+| pattern_ra1 = _chelsea1989h
+| pattern_sh1 = 
+| leftarm1    = 0000FF
+| body1       = 0000FF
+| rightarm1   = 0000FF
+| shorts1     = 0000FF
+| socks1      = FFFFFF
+| pattern_b2  = _chelsea1990a
+| pattern_ra2 = _redborder
+| pattern_la2 = _redborder
+| pattern_so2 = 
+| leftarm2    = FFFFFF
+| body2       = FFFFFF
+| rightarm2   = FFFFFF
+| shorts2     = FFFFFF
+| socks2      = FFFFFF
+| pattern_b3  =  _chelsea1990t
+| pattern_ra3  = _chelsea1990t
+| pattern_la3  = _chelsea1990t
+| pattern_so3  = 
+| leftarm3     = FFFF00
+| body3        = FFFF00
+| rightarm3    = FFFF00
+| shorts3      = FFFFFF
+| socks3       = FF0000
+|prevseason=[[1989–90 Chelsea F.C. season|1989–90]]
+|nextseason=[[1991–92 Chelsea F.C. season|1991–92]]
+}}
+During the 1990–91 English football season, [[Chelsea F.C.]] competed in the [[Football League First Division]].
+
+==Season summary==
+In the 1990–91 season, the league campaign was proven to be a disappointment despite recruiting the club's first million pound players, [[Dennis Wise]] and [[Andy Townsend]], as Chelsea finished 11th in the First Division and were knocked out of both cups by lower league opposition. As a result, Campbell was relieved of his duties at the end of the season and was appointed personal assistant to chairman [[Ken Bates]].
+
+==Final league table==
+{{main|1990–91 Football League First Division}}
+{{:1990–91 Football League First Division|only_totals=y|showteam=CHE}}
+;Results summary
+{{Fb_rs|hw=10|hd=6|hl=3|hgf=33|hga=25|aw=3|ad=4|al=12|agf=25|aga=44}}
+{{Fb_rs_footer|s=[http://www.statto.com/football/teams/chelsea/1990-1991/table Statto]|date=October 2015}}
+
+;Results by round
+{{#invoke:sports rbr table|table|legendpos=b
+|header=Round
+|label1= Ground
+| res1=H/A/A/H/A/H/H/A/H/A/H/H/A/A/H/H/A/H/A/A/H/H/A/H/A/H/A/H/A/H/H/A/H/A/A/A/H/A
+|label2= Result
+| res2=W/L/L/W/L/D/D/D/D/L/W/D/L/W/W/W/W/W/L/L/L/W/L/W/L/D/D/W/L/L/L/L/D/D/W/L/W/D
+|label3= Position
+| res3=7/8/13/9/13/12/13/13/14/15/11/11/14/11/9/9/7/6/7/8/8/7/9/9/9/9/9/8/8/9/9/10/10/11/9/10/10/10
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_1=1st|color_2=2nd|color_3=3rd|color_19-=red1
+
+|source=[http://www.statto.com/football/teams/chelsea/1990-1991/results Statto.com]
+|date=October 2015
+}}
+
+==Results==
+''Chelsea's score comes first''<ref>{{Cite web |url=http://www.statto.com/football/teams/chelsea/1990-1991/results |title=Chelsea results for the 1990-1991 season - Statto.com |access-date=2015-10-16 |archive-url=https://web.archive.org/web/20160304092204/http://www.statto.com/football/teams/chelsea/1990-1991/results |archive-date=2016-03-04 |url-status=live }}</ref>
+
+===Legend===
+{| class="wikitable"
+|style="background-color: #d0ffe3;"|<small>Win</small>
+|style="background-color: #ffffdd;"|<small>Draw</small>
+|style="background-color: #ffd0e3;"|<small>Loss</small>
+|}
+
+===Football League First Division===
+{| class="wikitable sortable" style="font-size:100%; text-align:center"
+!Date!!Opponent!!Venue!!Result!!Attendance!!Scorers
+|-style="background-color: #d0ffe3;"
+| 25 August 1990 ||[[Derby County F.C.|Derby County]]||H||2–1||25,835||[[David Lee (footballer, born 1969)|Lee]], [[Peter Nicholas (footballer)|Nicholas]]
+|-style="background-color: #ffd0e3;"
+| 28 August 1990 ||[[Crystal Palace F.C.|Crystal Palace]]||A||1–2||27,101||[[Tony Dorigo|Dorigo]]
+|-style="background-color: #ffd0e3;"
+| 1 September 1990 ||[[Queens Park Rangers F.C.|Queens Park Rangers]]||A||0–1||19,813||
+|-style="background-color: #d0ffe3;"
+| 8 September 1990 ||[[Sunderland A.F.C.|Sunderland]]||H||3–2||19,424||[[Dennis Wise|Wise]] (pen), [[Kerry Dixon|Dixon]], [[Kevin Wilson (footballer, born 1961)|Wilson]]
+|-style="background-color: #ffd0e3;"
+| 15 September 1990 ||[[Arsenal F.C.|Arsenal]]||A||1–4||41,516||[[Kevin Wilson (footballer, born 1961)|Wilson]]
+|-style="background-color: #ffffdd;"
+| 22 September 1990 ||[[Manchester City F.C.|Manchester City]]||H||1–1||20,924||[[Kevin Wilson (footballer, born 1961)|Wilson]]
+|-style="background-color: #ffffdd;"
+| 29 September 1990 ||[[Sheffield United F.C.|Sheffield United]]||H||2–2||19,873||[[Kevin Wilson (footballer, born 1961)|Wilson]] (2)
+|-style="background-color: #ffffdd;"
+| 6 October 1990 ||[[Southampton F.C.|Southampton]]||A||3–3||16,911||[[Steve Clarke|Clarke]], [[Dennis Wise|Wise]] (pen), [[Kevin Wilson (footballer, born 1961)|Wilson]]
+|-style="background-color: #ffffdd;"
+| 20 October 1990 ||[[Nottingham Forest F.C.|Nottingham Forest]]||H||0–0||22,403||
+|-style="background-color: #ffd0e3;"
+| 27 October 1990 ||[[Liverpool F.C.|Liverpool]]||A||0–2||38,463||
+|-style="background-color: #d0ffe3;"
+| 3 November 1990 ||[[Aston Villa F.C.|Aston Villa]]||H||1–0||23,555||[[Graeme Le Saux|Le Saux]]
+|-style="background-color: #ffffdd;"
+| 10 November 1990 ||[[Norwich City F.C.|Norwich City]]||H||1–1||16,925||[[Dennis Wise|Wise]] (pen)
+|-style="background-color: #ffd0e3;"
+| 17 November 1990 ||[[Wimbledon F.C.|Wimbledon]]||A||1–2||10,773||[[Gordon Durie|Durie]]
+|-style="background-color: #d0ffe3;"
+| 25 November 1990 ||[[Manchester United F.C.|Manchester United]]||A||3–2||37,836||[[Gary Pallister|Pallister]] (own goal), [[Andy Townsend|Townsend]], [[Dennis Wise|Wise]] (pen)
+|-style="background-color: #d0ffe3;"
+| 1 December 1990 ||[[Tottenham Hotspur F.C.|Tottenham Hotspur]]||H||3–2||33,478||[[John Bumstead|Bumstead]], [[Kerry Dixon|Dixon]], [[Gordon Durie|Durie]]
+|-style="background-color: #d0ffe3;"
+| 8 December 1990 ||[[Crystal Palace F.C.|Crystal Palace]]||H||2–1||21,558||[[Graham Stuart (footballer)|Stuart]], [[Gordon Durie|Durie]]
+|-style="background-color: #d0ffe3;"
+| 15 December 1990 ||[[Derby County F.C.|Derby County]]||A||6–4||15,057||[[Graeme Le Saux|Le Saux]], [[Kerry Dixon|Dixon]] (2), [[Gordon Durie|Durie]] (2), [[Dennis Wise|Wise]]
+|-style="background-color: #d0ffe3;"
+| 22 December 1990 ||[[Coventry City F.C.|Coventry City]]||H||2–1||16,317||[[Andy Townsend|Townsend]], [[Dennis Wise|Wise]]
+|-style="background-color: #ffd0e3;"
+| 26 December 1990 ||[[Leeds United A.F.C.|Leeds United]]||A||1–4||30,893||[[Kerry Dixon|Dixon]]
+|-style="background-color: #ffd0e3;"
+| 29 December 1990 ||[[Luton Town F.C.|Luton Town]]||A||0–2||11,050||
+|-style="background-color: #ffd0e3;"
+| 1 January 1991 ||[[Everton F.C.|Everton]]||H||1–2||18,351||[[Kevin Wilson (footballer, born 1961)|Wilson]]
+|-style="background-color: #d0ffe3;"
+| 12 January 1991 ||[[Queens Park Rangers F.C.|Queens Park Rangers]]||H||2–0||19,255||[[Gordon Durie|Durie]] (2)
+|-style="background-color: #ffd0e3;"
+| 19 January 1991 ||[[Sunderland A.F.C.|Sunderland]]||A||0–1||20,038||
+|-style="background-color: #d0ffe3;"
+| 2 February 1991 ||[[Arsenal F.C.|Arsenal]]||H||2–1||29,094||[[Graham Stuart (footballer)|Stuart]], [[Kerry Dixon|Dixon]]
+|-style="background-color: #ffd0e3;"
+| 9 February 1991 ||[[Manchester City F.C.|Manchester City]]||A||1–2||25,116||[[Dennis Wise|Wise]]
+|-style="background-color: #ffffdd;"
+| 16 February 1991 ||[[Wimbledon F.C.|Wimbledon]]||H||0–0||13,378||
+|-style="background-color: #ffffdd;"
+| 2 March 1991 ||[[Tottenham Hotspur F.C.|Tottenham Hotspur]]||A||1–1||26,168||[[Gordon Durie|Durie]]
+|-style="background-color: #d0ffe3;"
+| 9 March 1991 ||[[Manchester United F.C.|Manchester United]]||H||3–2||22,818||[[Tony Dorigo|Dorigo]], [[Ken Monkou|Monkou]], [[Gordon Durie|Durie]]
+|-style="background-color: #ffd0e3;"
+| 16 March 1991 ||[[Sheffield United F.C.|Sheffield United]]||A||0–1||20,581||
+|-style="background-color: #ffd0e3;"
+| 23 March 1991 ||[[Southampton F.C.|Southampton]]||H||0–2||13,391||
+|-style="background-color: #ffd0e3;"
+| 30 March 1991 ||[[Leeds United A.F.C.|Leeds United]]||H||1–2||17,585||[[Graeme Le Saux|Le Saux]]
+|-style="background-color: #ffd0e3;"
+| 1 April 1991 ||[[Coventry City F.C.|Coventry City]]||A||0–1||14,272||
+|-style="background-color: #ffffdd;"
+| 6 April 1991 ||[[Luton Town F.C.|Luton Town]]||H||3–3||12,603||[[Graeme Le Saux|Le Saux]], [[Graham Stuart (footballer)|Stuart]], [[Dennis Wise|Wise]]
+|-style="background-color: #ffffdd;"
+| 13 April 1991 ||[[Everton F.C.|Everton]]||A||2–2||19,526||[[Kerry Dixon|Dixon]] (2)
+|-style="background-color: #d0ffe3;"
+| 17 April 1991 ||[[Norwich City F.C.|Norwich City]]||A||3–1||12,301||[[Gordon Durie|Durie]] (2), [[Dennis Wise|Wise]]
+|-style="background-color: #ffd0e3;"
+| 20 April 1991 ||[[Nottingham Forest F.C.|Nottingham Forest]]||A||0–7||20,305||
+|-style="background-color: #d0ffe3;"
+| 4 May 1991 ||[[Liverpool F.C.|Liverpool]]||H||4–2||32,266||[[Kerry Dixon|Dixon]] (2), [[Dennis Wise|Wise]] (pen), [[Gordon Durie|Durie]]
+|-style="background-color: #ffffdd;"
+| 11 May 1991 ||[[Aston Villa F.C.|Aston Villa]]||A||2–2||27,866||[[Jason Cundy|Cundy]], [[Graham Stuart (footballer)|Stuart]]
+|}
+
+===FA Cup===
+{{Main|1990–91 FA Cup}}
+
+{| class="wikitable"
+|+
+!Round!!Date!!Opponent!!Venue!!Result!!Attendance!!Goalscorers
+|-style="background-color: #ffd0e3;"
+||R3||5 January 1991 ||[[Oxford United F.C.|Oxford United]]||H||1–3||14,586||[[Kerry Dixon|Dixon]]
+|}
+
+===League Cup===
+{{Main|1990–91 Football League Cup}}
+
+{| class="wikitable"
+|+
+!Round!!Date!!Opponent!!Venue!!Result!!Attendance!!Goalscorers
+|-style="background-color: #d0ffe3;"
+||R2 1st Leg ||26 September 1990 ||[[Walsall F.C.|Walsall]]||A||5–0||5,666||[[Andy Townsend|Townsend]] (2), [[Kevin McAllister|McAllister]], [[Kerry Dixon|Dixon]], [[Kevin Wilson (footballer, born 1961)|Wilson]]
+|-style="background-color: #d0ffe3;"
+||R2 2nd Leg ||10 October 1990 ||[[Walsall F.C.|Walsall]]||H||4–1 (won 9–1 on agg)||10,037||[[Kerry Dixon|Dixon]] (2), [[Gordon Durie|Durie]], [[Graeme Le Saux|Le Saux]]
+|-style="background-color: #ffffdd;"
+||R3||31 October 1990 ||[[Portsmouth F.C.|Portsmouth]]||H||0–0||16,699||
+|-style="background-color: #d0ffe3;"
+||R3R||6 November 1990 ||[[Portsmouth F.C.|Portsmouth]]||A||3–2||16,085||[[David Lee (footballer, born 1969)|Lee]], [[Dennis Wise|Wise]] (pen), [[Kevin Wilson (footballer, born 1961)|Wilson]]
+|-style="background-color: #d0ffe3;"
+||R4||28 November 1990 ||[[Oxford United F.C.|Oxford United]]||A||2–1||9,789||[[Gordon Durie|Durie]] (2)
+|-style="background-color: #ffffdd;"
+||QF||16 January 1991 ||[[Tottenham Hotspur F.C.|Tottenham Hotspur]]||H||0–0||34,178||
+|-style="background-color: #d0ffe3;"
+||QFR||23 January 1991 ||[[Tottenham Hotspur F.C.|Tottenham Hotspur]]||A||3–0||33,861||[[Andy Townsend|Townsend]], [[Kerry Dixon|Dixon]], [[Dennis Wise|Wise]] (pen)
+|-style="background-color: #ffd0e3;"
+||SF 1st Leg ||24 February 1991 ||[[Sheffield Wednesday F.C.|Sheffield Wednesday]]||H||0–2||34,074||
+|-style="background-color: #ffd0e3;"
+||SF 2nd Leg ||27 February 1991 ||[[Sheffield Wednesday F.C.|Sheffield Wednesday]]||A||1–3 (lost 1–5 on agg)||34,669||[[Graham Stuart (footballer)|Stuart]]
+|}
+
+===Full Members Cup===
+{{Main|1990–91 Full Members Cup}}
+
+{| class="wikitable"
+|+
+!Round!!Date!!Opponent!!Venue!!Result!!Attendance!!Goalscorers
+|-style="background-color: #d0ffe3;"
+||SR2||12 December 1990 ||[[Swindon Town F.C.|Swindon Town]]||H||1–0||5,888||[[Dennis Wise|Wise]] (pen)
+|-style="background-color: #ffd0e3;"
+||SQF||18 February 1991 ||[[Luton Town F.C.|Luton Town]]||H||1–1 (lost 1–4 on pens)||3,849||[[Graham Stuart (footballer)|Stuart]]
+|}
+
+==Squad==
+<ref>{{Cite web|url=http://www.11v11.com/teams/chelsea/tab/players/season/1991|title = All Chelsea players: 1991}}</ref>
+{{fs start|nonumber=yes}}
+{{fs player|nonumber=yes|nat=ENG|pos=GK|name=[[Dave Beasant]]}}
+{{fs player|nonumber=yes|nat=WAL|pos=GK|name=[[Roger Freestone]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=GK|name=[[Kevin Hitchcock]]}}
+{{fs player|nonumber=yes|nat=WAL|pos=DF|name=[[Darren Barnard]]}}
+{{fs player|nonumber=yes|nat=SCO|pos=DF|name=[[Steve Clarke]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=DF|name=[[Jason Cundy]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=DF|name=[[Tony Dorigo]]}}
+{{fs player|nonumber=yes|nat=WAL|pos=DF|name=[[Gareth Hall]]}}
+{{fs player|nonumber=yes|nat=NOR|pos=DF|name=[[Erland Johnsen]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=DF|name=[[David Lee (footballer, born 1969)|David Lee]]}}
+{{fs player|nonumber=yes|nat=NED|pos=DF|name=[[Ken Monkou]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=DF|name=[[Andy Myers]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=DF|name=[[Ian Pearce (footballer)|Ian Pearce]]}}
+{{fs player|nonumber=yes|nat=JAM|pos=DF|name=[[Frank Sinclair]]}}
+{{fs mid|nonumber=yes}}
+{{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[Graeme Le Saux]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[John Bumstead]]}}
+{{fs player|nonumber=yes|nat=SCO|pos=MF|name=[[Craig Burley]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[Alan Dickens (footballer)|Alan Dickens]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[Damian Matthew]]}}
+{{fs player|nonumber=yes|nat=SCO|pos=MF|name=[[Kevin McAllister]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[Eddie Newton]]}}
+{{fs player|nonumber=yes|nat=WAL|pos=MF|name=[[Peter Nicholas (footballer)|Peter Nicholas]]|other=captain}}
+{{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[Graham Stuart (footballer)|Graham Stuart]]}}
+{{fs player|nonumber=yes|nat=IRL|pos=MF|name=[[Andy Townsend]]|other=vice-captain}}
+{{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[Dennis Wise]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=FW|name=[[Kerry Dixon]]}}
+{{fs player|nonumber=yes|nat=SCO|pos=FW|name=[[Gordon Durie]]}}
+{{fs player|nonumber=yes|nat=AUS|pos=FW|name=[[Dave Mitchell (footballer)|Dave Mitchell]]}}
+{{fs player|nonumber=yes|nat=NIR|pos=FW|name=[[Kevin Wilson (footballer, born 1961)|Kevin Wilson]]}}
+{{fs end}}
+
+==Transfers==
+
+===In===
+{| class="wikitable"
+|-
+!Date
+!Pos
+!Name
+!from
+!Fee
+|-
+|3 July 1990
+|MF
+|[[Dennis Wise]]
+|[[Wimbledon F.C.|Wimbledon]]
+|£1,600,000
+|-
+|5 July 1990
+|MF
+|[[Andy Townsend]]
+|[[Norwich City F.C.|Norwich City]]
+|£1,200,000
+|-
+|25 July 1990
+|MF
+|[[Darren Barnard]]
+|[[Wokingham Town F.C.|Wokingham Town]]
+|£100,000
+|}
+
+===Out===
+{| class="wikitable"
+|-
+!Date
+!Pos
+!Name
+!To
+!Fee
+|-
+|4 July 1990
+|MF
+|[[Clive Wilson]]
+|[[Queens Park Rangers F.C.|Queens Park Rangers]]
+|£450,000
+|-
+|20 August 1990
+|FW
+|[[Nathan Blake]]
+|[[Cardiff City F.C.|Cardiff City]]
+|Free transfer
+|}
+
+:Transfers in: {{loss}} £2,900,000
+:Transfers out: {{gain}} £450,000
+:Total spending: {{loss}} £2,450,000
+
+==References==
+{{Reflist}}
+
+{{Chelsea F.C. seasons}}
+{{1990–91 in English football}}
+
+{{DEFAULTSORT:1990-91 Chelsea F.C. season}}
+[[Category:Chelsea F.C. seasons]]
+[[Category:1990–91 Football League First Division by team|Chelsea]]

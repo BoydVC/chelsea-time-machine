@@ -1,0 +1,1747 @@
+{{Short description|English football club season}}
+{{Use British English|date=February 2015}}
+{{Use dmy dates|date=November 2020}}
+{{Infobox football club season
+| club               = [[Chelsea F.C.|Chelsea]]
+| season             = 2007–08
+| image              = File:Chelsea vs Liverpool 2008-04-30.jpg
+| image_size         = 300px
+| alt                =
+| caption            = Chelsea and Liverpool players before the [[2007–08 UEFA Champions League|UEFA Champions League]] semi-final 2nd leg at [[Stamford Bridge (stadium)|Stamford Bridge]]
+| manager            = [[José Mourinho]]<br />(until 20 September)<ref>{{cite news| url=https://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7003912.stm | work=BBC News | title=Mourinho makes shock Chelsea exit | date=20 September 2007}}</ref><br />[[Avram Grant]]<br />(from 20 September)
+| owner              = [[Roman Abramovich]]
+| chairman           = [[Bruce Buck]]
+| stadium            = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| league             = [[Premier League]]
+| league result      = [[2007–08 Premier League|2nd]]
+| cup1               = [[FA Cup]]
+| cup1 result        = [[2007–08 FA Cup#Sixth Round Proper|Sixth round]]
+| cup2               = [[Football League Cup|League Cup]]
+| cup2 result        = [[2008 Football League Cup Final|Runners-up]]
+| cup3               = [[FA Community Shield]]
+| cup3 result        = [[2007 FA Community Shield|Runners-up]]
+| cup4               = [[UEFA Champions League]]
+| cup4 result        = [[2008 UEFA Champions League Final|Runners-up]]
+| league topscorer   = [[Frank Lampard]] (10)
+| season topscorer   = Frank Lampard (20)
+| highest attendance = 41,837 (vs. [[Fulham F.C.|Fulham]], 29 September)
+| lowest attendance  = 24,973 (vs. [[Rosenborg BK|Rosenborg]], 18 September)
+| prevseason         = [[2006–07 Chelsea F.C. season|2006–07]]
+| nextseason         = [[2008–09 Chelsea F.C. season|2008–09]]
+| pattern_la1 = _chelsea0608h
+| pattern_b1  = _chelsea0608h
+| pattern_ra1 = _chelsea0608h
+| pattern_sh1 = _chelsea0608h
+| pattern_so1 = _3_stripes_blue
+| leftarm1    = 0000FF
+| body1       = 0000FF
+| rightarm1   = 0000FF
+| shorts1     = 0000FF
+| socks1      = FFFFFF
+| pattern_la2 = _chelsea0708a
+| pattern_b2  = _chelsea0708a
+| pattern_ra2 = _chelsea0708a
+| pattern_sh2 = _chelsea0708a
+| pattern_so2 = _chelsea0708a
+| leftarm2    = D4FF00
+| body2       = D4FF00
+| rightarm2   = D4FF00
+| shorts2     = 000000
+| socks2      = 000000
+| pattern_la3 = _chelsea0708t
+| pattern_b3  = _chelsea0708t
+| pattern_ra3 = _chelsea0708t
+| pattern_sh3 = _chelsea0708t
+| pattern_so3 = _blacktop
+| leftarm3    = FFFFFF
+| body3       = FFFFFF
+| rightarm3   = FFFFFF
+| shorts3     = FFFFFF
+| socks3      = FFFFFF
+}}
+
+The '''2007–08 season''' was '''[[Chelsea F.C.|Chelsea Football Club]]'s''' 94th competitive season, 16th consecutive season in the [[Premier League]], and 102nd year as a club. Manager [[José Mourinho]] left the club by mutual consent on 20 September 2007<ref>{{Cite news|url=http://www.chelseafc.com/page/NewsHomePage/0,,10268~1116424,00.html |title=Chelsea Statement |access-date=2007-12-27 |date=20 September 2007 |publisher=Chelsea F.C. |archive-url=https://web.archive.org/web/20071229044827/http://www.chelseafc.com/page/NewsHomePage/0%2C%2C10268~1116424%2C00.html |archive-date=29 December 2007 |url-status=live }}</ref> following a disappointing 1–1 draw with [[Rosenborg BK|Rosenborg]] and was replaced by [[Avram Grant]].<ref>{{Cite news|url=https://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7004083.stm|title=Chelsea name Grant as new manager|access-date=2007-12-27|date=20 September 2007|work=BBC Sport| archive-url= https://web.archive.org/web/20071214133651/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7004083.stm| archive-date= 14 December 2007 | url-status= live}}</ref>
+
+The 2007–08 Premier League season was decided on the last day of the season, when Chelsea needed to win against [[Bolton Wanderers F.C.|Bolton Wanderers]] and [[Manchester United F.C.|Manchester United]] to either draw or lose against [[Wigan Athletic F.C.|Wigan Athletic]]. Chelsea drew 1–1 and Manchester United won 2–0, thus making Chelsea runners-up to United for the second consecutive season.
+
+Chelsea played in their first UEFA Champions League Final, against Manchester United, making it the first all-English final in the competition's history. After extra time the score was 1–1, and the game went to a penalty shootout. Captain [[John Terry]] had the opportunity to win the title for Chelsea, however, he slipped as he took his shot and missed. Manchester United ultimately won the penalty shootout 6–5 after [[Edwin van der Sar]] saved [[Nicolas Anelka]]'s penalty.
+
+Chelsea went the entire 2007–08 campaign without suffering a single defeat at home. In spite of this, this was the first season in four years that Chelsea had finished the season without a trophy; the lack of silverware led to Avram Grant being sacked three days after the Champions League final.<ref>{{Cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/7418774.stm|title=Grant sacked as Chelsea manager|access-date=2008-05-29|date=24 May 2008|work=BBC Sport| archive-url= https://web.archive.org/web/20080526223852/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7418774.stm| archive-date= 26 May 2008 | url-status= live}}</ref> Five days later, Chelsea's assistant first-team coach, [[Henk ten Cate]], had his contract terminated as well.<ref>{{Cite news|url=https://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7426225.stm|title=Ten Cate sacked as Chelsea coach|access-date=2008-05-29|date=29 May 2008|work=BBC Sport}}</ref>
+
+==Kits==
+'''Supplier:''' [[Adidas]] / '''Sponsor:''' [[Samsung Mobile]]
+
+{|border="0" style="margin:1em auto;"
+|{{Football kit
+ | pattern_la = _chelsea0608h
+ | pattern_b  = _chelsea0608h
+ | pattern_ra = _chelsea0608h
+ | pattern_sh = _chelsea0608h
+ | pattern_so = _3_stripes_blue
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | socks      = FFFFFF
+ | title      = Home
+}}
+|{{Football kit
+ | pattern_la = _chelsea0608h
+ | pattern_b  = _chelsea0608h
+ | pattern_ra = _chelsea0608h
+ | pattern_sh = _chelsea0608h
+ | pattern_so = _3_stripes_white
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | socks      = 0000FF
+ | title      = Home <small>alt.</small>
+}}
+|{{Football kit
+ | pattern_la = _chelsea0809h
+ | pattern_b  = _chelsea0809h
+ | pattern_ra = _chelsea0809h
+ | pattern_sh = _adidaswhite
+ | pattern_so = _3_stripes_blue
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | socks      = FFFFFF
+ | title      = [[2008–09 Chelsea F.C. season|2008–09]]
+}}
+|{{Football kit
+ | pattern_la = _chelsea0809h
+ | pattern_b  = _chelsea0809h
+ | pattern_ra = _chelsea0809h
+ | pattern_sh = _adidaswhite
+ | pattern_so = _3_stripes_white
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | socks      = 0000FF
+ | title      = [[2008 UEFA Champions League Final|UEFA Champions League Final]]
+}}
+|{{Football kit
+ | pattern_la = _chelsea0708a
+ | pattern_b  = _chelsea0708a
+ | pattern_ra = _chelsea0708a
+ | pattern_sh = _chelsea0708a
+ | pattern_so = _chelsea0708a
+ | leftarm    = D4FF00
+ | body       = D4FF00
+ | rightarm   = D4FF00
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Away
+}}
+|{{Football kit
+ | pattern_la = _chelsea0708a
+ | pattern_b  = _chelsea0708a
+ | pattern_ra = _chelsea0708a
+ | pattern_sh = _chelsea0708a
+ | pattern_so = _blacktop
+ | leftarm    = D4FF00
+ | body       = D4FF00
+ | rightarm   = D4FF00
+ | shorts     = 000000
+ | socks      = DFFF00
+ | title      = Away <small>alt. 1</small>
+}}
+|{{Football kit
+ | pattern_la = _chelsea0708a
+ | pattern_b  = _chelsea0708a
+ | pattern_ra = _chelsea0708a
+ | pattern_sh = _chelsea0708A
+ | pattern_so = _blacktop
+ | leftarm    = D4FF00
+ | body       = D4FF00
+ | rightarm   = D4FF00
+ | shorts     = D4FF00
+ | socks      = D4FF00
+ | title      = Away <small>alt. 2</small>
+}}
+|{{Football kit
+ | pattern_la = _chelsea0708t
+ | pattern_b  = _chelsea0708t
+ | pattern_ra = _chelsea0708t
+ | pattern_sh = _chelsea0708t
+ | pattern_so = _blacktop
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Third
+}}
+|{{Football kit
+ | pattern_la = _chelsea0708t
+ | pattern_b  = _chelsea0708t
+ | pattern_ra = _chelsea0708t
+ | pattern_sh = _chelsea0608h
+ | pattern_so = _3_stripes_white
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 0000FF
+ | socks      = 0000FF
+ | title      = Third <small>alt.</small>
+}}
+|}
+{| style="margin:1em auto;"
+|{{Football kit
+|pattern_la = _tomsk06a
+|pattern_b  = _chelsea0607gk
+|pattern_ra = _tomsk06a
+|pattern_sh = _chelsea0607gk
+|pattern_so = _3_stripes_white
+|leftarm    = 191970
+|body       = 191970
+|rightarm   = 191970
+|shorts     = 191970
+|socks      = 191970
+|title      = Goalkeeper <small>1</small>
+}}
+|{{Football kit
+ | pattern_la = _adidas10orange
+ | pattern_b  = _chelsea0910g2
+ | pattern_ra = _adidas10orange
+ | pattern_sh = _chelsea0910g2
+ | pattern_so = _3_stripes_on_black
+ | leftarm    = FF8000
+ | body       = FF8000
+ | rightarm   = FF8000
+ | shorts     = FF8000
+ | socks      = FF8000
+ | title      = [[2008 UEFA Champions League Final|UEFA Champions League Final]] & [[2008–09 Chelsea F.C. season|2008–09]]
+}}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_white_stripes_half
+ | pattern_b  = _shoulder_stripes_white_stripes
+ | pattern_ra = _shoulder_stripes_white_stripes_half
+ | pattern_sh = _adidaswhite
+ | pattern_so = _3_stripes_white
+ | leftarm    = 000000
+ | body       = 000000
+ | rightarm   = 000000
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Goalkeeper <small>2</small>
+}}
+|
+|{{Football kit
+ | pattern_la = _shoulder_stripes_black_stripes_half
+ | pattern_b  = _shoulder_stripes_black_stripes
+ | pattern_ra = _shoulder_stripes_black_stripes_half
+ | pattern_sh = _adidasonblack2011
+ | pattern_so = _3_stripes_black
+ | leftarm    = AAAAAA
+ | body       = AAAAAA
+ | rightarm   = AAAAAA
+ | shorts     = AAAAAA
+ | socks      = AAAAAA
+ | title      = Goalkeeper <small>3</small>
+}}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_black_stripes_half
+ | pattern_b  = _shoulder_stripes_black_stripes
+ | pattern_ra = _shoulder_stripes_black_stripes_half
+ | pattern_sh = _black_stripes_adidas
+ | pattern_so = _3_stripes_black
+ | leftarm    = AAAAAA
+ | body       = AAAAAA
+ | rightarm   = AAAAAA
+ | shorts     = AAAAAA
+ | socks      = AAAAAA
+ | title      = Goalkeeper <small>alt.</small>
+}}
+|{{Football kit
+|pattern_la = _jap0607gk
+|pattern_b  = _jap0607gk
+|pattern_ra = _jap0607gk
+|pattern_sh = _jap0607gk
+|pattern_so = _3_stripes_navy
+|leftarm    = FFFFFF
+|body       = FFFFFF
+|rightarm   = FFFFFF
+|shorts     = FFFFFF
+|socks      = BBBBBB
+|title= Goalkeeper 4
+}}
+|
+|}
+
+==Squad==
+{{Fs start}}
+{{Fs player|no=1|nat=Czech Republic|pos=GK|name=[[Petr Čech]]}}
+{{Fs player|no=2|nat=Serbia|pos=DF|name=[[Branislav Ivanović]]}}
+{{Fs player|no=3|nat=England|pos=DF|name=[[Ashley Cole]]}}
+{{Fs player|no=4|nat=France|pos=MF|name=[[Claude Makélélé]]}}
+{{Fs player|no=5|nat=Ghana|pos=MF|name=[[Michael Essien]]}}
+{{Fs player|no=6|nat=Portugal|pos=DF|name=[[Ricardo Carvalho]]}}
+{{Fs player|no=7|nat=Ukraine|pos=FW|name=[[Andriy Shevchenko]]}}
+{{Fs player|no=8|nat=ENG|pos=MF|name=[[Frank Lampard]]|other=[[captain (association football)|vice-captain]]}}
+{{Fs player|no=9|nat=England|pos=MF|name=[[Steve Sidwell]]}}
+{{Fs player|no=10|nat=England|pos=MF|name=[[Joe Cole]]}}
+{{Fs player|no=11|nat=Ivory Coast|pos=FW|name=[[Didier Drogba]]}}
+{{Fs player|no=12|nat=Nigeria|pos=MF|name=[[Mikel John Obi]]}}
+{{Fs player|no=13|nat=Germany|pos=MF|name=[[Michael Ballack]]}}
+{{Fs player|no=14|nat=Peru|pos=FW|name=[[Claudio Pizarro]]}}
+{{Fs player|no=15|nat=France|pos=MF|name=[[Florent Malouda]]}}
+{{Fs player|no=17|nat=England|pos=MF|name=[[Scott Sinclair]]}}
+{{football squad mid}}
+{{Fs player|no=18|nat=England|pos=DF|name=[[Wayne Bridge]]}}
+{{Fs player|no=20|nat=Portugal|pos=DF|name=[[Paulo Ferreira]]}}
+{{Fs player|no=21|nat=Ivory Coast|pos=FW|name=[[Salomon Kalou]]}}
+{{Fs player|no=22|nat=Israel|pos=DF|name=[[Tal Ben Haim]]}}
+{{Fs player|no=23|nat=Italy|pos=GK|name=[[Carlo Cudicini]]}}
+{{Fs player|no=24|nat=England|pos=MF|name=[[Shaun Wright-Phillips]]}}
+{{Fs player|no=26|nat=England|pos=DF|name=[[John Terry]]|other=[[captain (association football)|captain]]}}
+{{Fs player|no=27|nat=ISR|pos=FW|name=[[Ben Sahar]]}}
+{{Fs player|no=28|nat=ENG|pos=MF|name=[[Michael Woods (footballer, born 1990)|Michael Woods]]}}
+{{Fs player|no=30|nat=WAL|pos=GK|name=[[Rhys Taylor]]}}
+{{Fs player|no=33|nat=Brazil|pos=DF|name=[[Alex (footballer, born June 1982)|Alex]]}}
+{{Fs player|no=35|nat=Brazil|pos=DF|name=[[Juliano Belletti]]}}
+{{Fs player|no=39|nat=France|pos=FW|name=[[Nicolas Anelka]]}}
+{{Fs player|no=40|nat=Portugal|pos=GK|name=[[Henrique Hilário]]}}
+{{Fs player|no=41|nat=ENG|pos=DF|name=[[Sam Hutchinson]]}}
+{{Fs player|no=42|nat=ENG|pos=MF|name=[[Lee Sawyer]]}}
+{{Fs end}}
+
+===Left club during season===
+{{Fs start}}
+{{Fs player|no=2|nat=ENG|pos=DF|name=[[Glen Johnson (English footballer)|Glen Johnson]]|other=to [[Portsmouth F.C.|Portsmouth]]}}
+{{Fs player|no=16|nat=NED|pos=MF|name=[[Arjen Robben]]|other=to [[Real Madrid C.F.|Real Madrid]]}}
+{{Fs mid}}
+{{Fs player|no=19|nat=FRA|pos=MF|name=[[Lassana Diarra]]|other=to [[Arsenal F.C.|Arsenal]]}}
+{{Fs player|no=39|nat=ENG|pos=DF|name=[[Harry Worley]]|other=to [[Leicester City F.C.|Leicester City]]}}
+{{Fs end}}
+
+==Reserve squad==
+{{Fs start}}
+{{Fs player|no=31|nat=ENG|pos=MF|name=[[Anthony Grant (English footballer)|Anthony Grant]]}}
+{{Fs player|no=32|nat=ENG|pos=DF|name=[[Carl Magnay]]<ref>Magnay was born in [[Gateshead]], [[England]], but also qualified to represent [[Northern Ireland]] internationally through his grandparents and would be capped for [[Northern Ireland national football team|Northern Ireland]] at [[:Category:Under-21 association football|U-21]] level.</ref>}}
+{{Fs player|no=34|nat=ENG|pos=MF|name=[[Liam Bridcutt]]<ref>Bridcutt was born in [[Reading, Berkshire|Reading]], [[England]], but also qualified to represent [[Scotland]] internationally through his grandfather and would make his full international debut for [[Scotland national football team|Scotland]] in March 2013.</ref>}}
+{{Fs player|no=37|nat=ENG|pos=MF|name=[[Jack Cork]]}}
+{{Fs mid}}
+{{Fs player|no=43|nat=ENG|pos=DF|name=[[Ryan Bertrand]]}}
+{{Fs player|no=44|nat=ENG|pos=DF|name=[[Michael Mancienne]]}}
+{{Fs player|no=46|nat=ENG|pos=MF|name=[[Jimmy Smith (footballer, born 1987)|Jimmy Smith]]}}
+
+{{Fs end}}
+
+==Transfers==
+
+===In===
+{| class="wikitable" style="width:70%; text-align:center; font-size:95%; text-align:left;"
+|-
+!#
+!Pos
+!Player
+!From
+!Fee
+!Date
+|-
+|Res|| MF||{{Flagicon|ENG}} [[Jacob Mellis]] || {{Flagicon|ENG}} [[Sheffield United F.C.|Sheffield United]] || Undisclosed || June 2007
+|-
+|Res|| FW||{{Flagicon|ENG}} [[Danny Philliskirk]] || {{Flagicon|ENG}} [[Oldham Athletic A.F.C.|Oldham Athletic]] || Undisclosed<ref name="Philliskirk">{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/6711703.stm|title=Chelsea capture Latics youngster|work=BBC Sport|access-date=2007-06-01 | date=1 June 2007| archive-url= https://web.archive.org/web/20070607152230/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/6711703.stm| archive-date= 7 June 2007 | url-status= live}}</ref> || 1 June 2007
+|-
+|14|| FW||{{Flagicon|PER}} [[Claudio Pizarro]] || {{Flagicon|GER}} [[FC Bayern Munich|Bayern Munich]] || Free<ref name="Pizarro">{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/6713699.stm|title=Chelsea complete Pizarro signing|work=BBC Sport|access-date=2007-06-01 | date=1 June 2007| archive-url= https://web.archive.org/web/20070703003139/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/6713699.stm| archive-date= 3 July 2007 | url-status= live}}</ref> || 1 June 2007
+|-
+|22|| DF||{{Flagicon|ISR}} [[Tal Ben Haim]] || {{Flagicon|ENG}} [[Bolton Wanderers F.C.|Bolton Wanderers]] || Free<ref name="Ben Haim">{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/6752693.stm|title=Chelsea secure deal for Ben Haim|work=BBC Sport|access-date=2007-06-14 | date=14 June 2007| archive-url= https://web.archive.org/web/20070707152937/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/6752693.stm| archive-date= 7 July 2007 | url-status= live}}</ref> || 14 June 2007
+|-
+|9|| MF||{{Flagicon|ENG}} [[Steve Sidwell]] || {{Flagicon|ENG}} [[Reading F.C.|Reading]] || Free<ref name="Sidwell">{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/6681893.stm|title=Sidwell agrees switch to Chelsea|work=BBC Sport|access-date=2007-05-22 | date=22 May 2007| archive-url= https://web.archive.org/web/20070602144128/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/6681893.stm| archive-date= 2 June 2007 | url-status= live}}</ref> || 1 July 2007
+|-
+|15|| MF||{{Flagicon|FRA}} [[Florent Malouda]] || {{Flagicon|FRA}} [[Olympique Lyonnais|Lyon]] || £13,500,000<ref name="Malouda">{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/6282732.stm|title=Chelsea complete Malouda signing |work=BBC Sport|access-date=2007-07-10 | date=10 July 2007| archive-url= https://web.archive.org/web/20070710204652/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/6282732.stm| archive-date= 10 July 2007 | url-status= live}}</ref> || 10 July 2007
+|-
+|Res|| FW||{{Flagicon|ITA}} [[Fabio Borini]] || {{Flagicon|ITA}} [[Bologna F.C. 1909|Bologna]] || Free<ref name="Borini">{{cite web
+ |url=http://www.chelseafc.com/page/TheReservesProfiles/0,,10268~1233186,00.html 
+ |title=Fabio Borini 
+ |publisher=Chelsea F.C. 
+ |access-date=2009-09-20 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20090106055144/http://www.chelseafc.com/page/TheReservesProfiles/0%2C%2C10268~1233186%2C00.html 
+ |archive-date=6 January 2009
+}}</ref> || 31 July 2007
+|-
+|33|| DF||{{Flagicon|BRA}} [[Alex (footballer, born June 1982)|Alex]] || {{Flagicon|NED}} [[PSV Eindhoven|PSV]] || Loan return || 10 August 2007
+|-
+|35|| DF||{{Flagicon|BRA}} [[Juliano Belletti]] || {{Flagicon|ESP}} [[FC Barcelona|Barcelona]] || €5,500,000<ref name="Belletti">{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/6960495.stm|title=Chelsea complete Belletti signing |work=BBC Sport|access-date=2007-08-23 | date=23 August 2007}}</ref> || 23 August 2007
+|-
+|39|| FW||{{Flagicon|FRA}} [[Nicolas Anelka]] || {{Flagicon|ENG}} [[Bolton Wanderers F.C.|Bolton Wanderers]] || £15,000,000<ref name="Anelka">{{cite news|url=https://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7175749.stm|title=Chelsea complete £15m Anelka deal |work=BBC Sport|access-date=2008-01-11 | date=11 January 2008| archive-url= https://web.archive.org/web/20080110220233/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7175749.stm| archive-date= 10 January 2008 | url-status= live}}</ref> || 11 January 2008
+|-
+|2|| DF||{{Flagicon|SER}} [[Branislav Ivanović]] || {{Flagicon|RUS}} [[FC Lokomotiv Moscow|Lokomotiv Moscow]] || £9,700,000<ref name="Ivanovic">{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/7190302.stm|title=Chelsea clinch Ivanovic signing |work=BBC Sport|access-date=2008-01-16 | date=16 January 2008| archive-url= https://web.archive.org/web/20080116205253/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7190302.stm| archive-date= 16 January 2008 | url-status= live}}</ref> || 16 January 2008
+|-
+|N/A|| FW||{{Flagicon|ARG}} [[Franco Di Santo]] || {{Flagicon|CHI}} [[Audax Club Sportivo Italiano|Audax Italiano]] || Undisclosed<ref name="di Santo">{{cite news|url=https://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7209426.stm|title=Chelsea snap up Argentine striker |work=BBC Sport|access-date=2008-01-25 | date=25 January 2008| archive-url= https://web.archive.org/web/20080128173857/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7209426.stm| archive-date= 28 January 2008 | url-status= live}}</ref> || 25 January 2008
+|}
+
+===Out===
+{| class="wikitable" style="width:70%; text-align:center; font-size:95%; text-align:left;"
+|-
+!#
+!Pos
+!Player
+!To
+!Fee
+!Date
+|-
+|33|| DF||{{Flagicon|POR}} [[Nuno Morais]] || {{Flagicon|Cyprus}} [[APOEL FC|APOEL]] || Free<ref name="Morais">{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/6649387.stm|title=Chelsea's Morais moves to Cyprus|work=BBC Sport|access-date=2007-05-12 | date=12 May 2007| archive-url= https://web.archive.org/web/20070517153017/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/6649387.stm| archive-date= 17 May 2007 | url-status= live}}</ref> || 12 May 2007
+|-
+|N/A|| DF||{{Flagicon|SUI}} [[Jonas Elmer]] || {{Flagicon|SUI}} [[FC Aarau|Aarau]] || Undisclosed || 25 June 2007
+|-
+|41|| GK||{{Flagicon|BEL}} [[Yves Ma-Kalambay]] || {{Flagicon|SCO}} [[Hibernian F.C.|Hibernian]] || Free<ref name="Makabu-Makalambay">{{cite news|url=https://news.bbc.co.uk/sport1/hi/football/teams/h/hibernian/6244440.stm|title=Hibs sign keeper Makaba-Makalamby |work=BBC Sport|access-date=2007-06-27 | date=27 June 2007| archive-url= https://web.archive.org/web/20070702190724/http://news.bbc.co.uk/sport1/hi/football/teams/h/hibernian/6244440.stm| archive-date= 2 July 2007 | url-status= live}}</ref> || 27 June 2007
+|-
+|14|| MF||{{Flagicon|CMR}} [[Geremi Njitap|Geremi]] || {{Flagicon|ENG}} [[Newcastle United F.C.|Newcastle United]] || Free<ref name="Geremi">{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/n/newcastle_united/6244976.stm|title=Geremi completes Newcastle move |work=BBC Sport|access-date=2007-07-06 | date=6 July 2007}}</ref> || 6 July 2007
+|-
+|N/A|| GK||{{Flagicon|IRL}} James Russell || {{Flagicon|ENG}} [[Stevenage F.C.|Stevenage Borough]] || Free || 8 August 2007
+|-
+|16|| MF||{{Flagicon|NED}} [[Arjen Robben]] || {{Flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]] || £21,000,000<ref name="Robben">{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/6959579.stm|title=Robben set to complete Real move |work=BBC Sport|access-date=2007-08-22 | date=22 August 2007}}</ref> || 22 August 2007
+|-
+|2|| DF||{{Flagicon|ENG}} [[Glen Johnson (English footballer)|Glen Johnson]] || {{Flagicon|ENG}} [[Portsmouth F.C.|Portsmouth]] || £4,000,000<ref name="Johnson">{{cite news|url=https://news.bbc.co.uk/sport1/hi/football/teams/p/portsmouth/6972186.stm|title=Portsmouth sign full-back Johnson |work=BBC Sport|access-date=2007-08-31 | date=31 August 2007}}</ref> || 31 August 2007
+|-
+|19|| MF||{{Flagicon|FRA}} [[Lassana Diarra]] || {{Flagicon|ENG}} [[Arsenal F.C.|Arsenal]]  || Undisclosed<ref name="Diarra">{{cite news|url=https://news.bbc.co.uk/sport1/hi/football/teams/a/arsenal/6973572.stm|title=Arsenal take Diarra from Chelsea |work=BBC Sport|access-date=2007-08-31 | date=31 August 2007}}</ref> || 31 August 2007
+|-
+|N/A|| MF||{{Flagicon|ARG}} [[Juan Sebastián Verón]] || {{Flagicon|ARG}} [[Estudiantes de La Plata|Estudiantes La Plata]]  || Free || 2007
+|}
+
+===Overall transfer activity===
+{{col-begin}}
+{{col-3}}
+
+====Total Spending====
+Summer: {{loss}} [[Pound sterling|£]]19,000,000
+
+Winter: {{steady}} [[Pound sterling|£]]24,700,000
+
+Total: {{loss}} [[Pound sterling|£]]43,700,000
+
+{{col-3}}
+
+====Income====
+Summer: {{gain}} [[Pound sterling|£]]25,000,000
+
+Winter: {{steady}} [[Pound sterling|£]]0,000,000
+
+Total: {{gain}} [[Pound sterling|£]]25,000,000
+
+{{col-3}}
+
+====Expenditure====
+Summer: {{gain}} [[Pound sterling|£]]6,000,000
+
+Winter: {{steady}} [[Pound sterling|£]]24,700,000
+
+Total: {{loss}} [[Pound sterling|£]]18,700,000
+{{col-end}}
+
+==Club==
+{{col-float|width=48%}}
+
+===Management===
+<!--
+     Instructions how to use these templates are in the bottom
+-->
+
+{|class="wikitable"
+|-
+!Position
+!Staff
+|-
+|rowspan="2"|Managers||{{Flagicon|POR}} [[José Mourinho]] <br /><small>(until 20 September)</small>
+|-
+|{{Flagicon|Israel}} [[Avram Grant]] <br /><small>(20 September–24 May)</small>
+|-
+|rowspan="3"|Assistant managers||{{Flagicon|SCO}} [[Steve Clarke]]
+|-
+|{{Flagicon|Israel}} [[Avram Grant]] <br /><small>(until 20 September)</small>
+|-
+|{{Flagicon|NED}} [[Henk ten Cate]] <br /><small>(20 September–29 May)</small>
+|-
+||Goalkeeping coach||{{Flagicon|FRA}} Christophe Lollichon
+|-
+|Head scout||{{Flagicon|NGA}} [[Michael Emenalo]]
+|-
+|Club doctor||{{Flagicon|ENG}} Dr. Bryan English
+|-
+|Chief scout and director of youth development||{{Flagicon|DEN}} [[Frank Arnesen]]
+|-
+|Reserve team manager||{{Flagicon|NIR}} [[Brendan Rodgers]]
+|-
+|Youth team manager||{{Flagicon|ENG}} [[Paul Clement (football coach)|Paul Clement]]
+|-
+|Academy manager||{{Flagicon|ENG}} Neil Bath
+
+{{Fb cs footer|u=13 April 2009 |s=[http://www.chelseafc.com/page/TheManagementIndex/0,,10268,00.html Chelsea FC]|date=September 2010}}
+
+{{col-float-break|width=48%}}
+
+===Other information===
+<!--
+     Instructions how to use these templates are in the bottom
+-->
+{{fb oi header}}
+
+{{Fb oi information |bg=  |id=Owner |i={{Flagicon|Russia}} [[Roman Abramovich]]  }}
+{{Fb oi information |bg=  |id=Chairman |i={{Flagicon|USA}} [[Bruce Buck]]  }}
+{{Fb oi information |bg=  |id=Chief Executive |i={{Flagicon|England}} [[Peter Kenyon]]  }}
+{{Fb oi information |bg=  |id=Director of Communications |i={{Flagicon|England}} [[Simon Greenberg]]  }}
+
+{{fb oi information |bg=y |id={{Fb oi ground}} |i={{Fb oi ground|g=[[Stamford Bridge (stadium)|Stamford Bridge]]|c=42,055|d=110x75 yards}} }}
+
+{{Fb oi footer|s=|date=July 2016}}
+<!--
+
+Template:Fb oi information (Football - other information - information)
+
+Parameters
+bg : background color. y = yes; blank = no
+id : information description
+i  : information
+
+Template:Fb oi ground (Football - other information - ground)
+
+Parameters
+g : ground name and link to ground article (if empty, shows description Ground (Capacity / Dimensions))
+c : capacity
+d : dimensions
+
+Template:Fb oi footer (Football - other information - footer)
+
+Parameters
+s : source
+
+-->
+{{col-float-end}}
+
+==Pre-season==
+{{football box collapsible
+|date=14 July 2007
+|time=02:00 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]] {{Flagicon|ENG}}
+|score=2–1
+|report=[http://www.chelseafc.com/page/NewsHomePage/0,,10268~1073234,00.html Report]
+|team2={{Flagicon|MEX}} [[Club América|América]]
+|goals1= [[Florent Malouda|Malouda]] {{goal|74}}<br />[[John Terry|Terry]] {{goal|83}}
+|goals2= [[Juan Carlos Mosqueda|Mosqueda]] {{goal|2}}
+|stadium=[[Stanford Stadium]], [[California]]
+|attendance=47,329
+|referee=Kevin Scott
+|result=W
+}}
+{{football box collapsible
+|date=17 July 2007
+|time=04:00 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]] {{Flagicon|ENG}}
+|score=1–0
+|report=[http://www.chelseafc.com/page/NewsHomePage/0,,10268~1074652,00.html Report]
+|team2={{Flagicon|KOR}} [[Suwon Samsung Bluewings|Suwon Bluewings]]
+|goals1= [[Didier Drogba|Drogba]] {{goal|83}}
+|goals2=
+|stadium=[[The Home Depot Center|Home Depot Center]], [[California]]
+|attendance=15,349
+|referee=Ricardo Salazar
+|result=W
+}}
+{{football box collapsible
+|date=22 July 2007
+|time=02:00 [[British Summer Time|BST]]
+|team1=[[LA Galaxy]] {{Flagicon|USA}}
+|score=0–1
+|report=[http://www.chelseafc.com/page/NewsHomePage/0,,10268~1076747,00.html Report]
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2= [[John Terry|Terry]] {{goal|48}}
+|stadium=[[The Home Depot Center|Home Depot Center]], [[California]]
+|attendance=27,000
+|referee=[[Brian Hall (referee)|Brian Hall]]
+|result=W
+}}
+{{football box collapsible
+|date=25 July 2007
+|time=18:00 [[British Summer Time|BST]]
+|team1=[[Feyenoord]] {{Flagicon|NED}}
+|score=1–1
+|report=[http://www.chelseafc.com/page/NewsHomePage/0,,10268~1079012,00.html Report]
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1= [[Kevin Hofland|Hofland]] {{goal|45}}
+|goals2= [[Frank Lampard|Lampard]] {{goal|79}}
+|stadium=[[Feijenoord Stadion]], [[Rotterdam]]
+|attendance=44,000
+|referee=Ruud Bossen
+|result=D
+}}
+{{football box collapsible
+|date=28 July 2007
+|time=15:00 [[British Summer Time|BST]]
+|team1=[[Rangers F.C.|Rangers]] {{Flagicon|SCO}}
+|score=  2–0
+|report=[http://www.chelseafc.com/page/NewsHomePage/0,,10268~1080470,00.html Report]
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1= [[Nacho Novo|Novo]] {{goal|84}}<br />[[Filip Šebo|Šebo]] {{goal|86}}
+|goals2=
+|stadium=[[Ibrox Stadium]], [[Glasgow]]
+|attendance=50,380
+|referee=[[Stuart Dougal]]
+|result=L
+}}
+{{football box collapsible
+|date=31 July 2007
+|time=19:10 [[British Summer Time|BST]]
+|team1=[[Brøndby IF]] {{Flagicon|DEN}}
+|score=0–2
+|report=[http://www.chelseafc.com/page/NewsHomePage/0,,10268~1082376,00.html Report]
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=[[Didier Drogba|Drogba]] {{goal|61||84}}
+|stadium=[[Brøndby Stadium]], [[Copenhagen]]
+|attendance=22,800
+|referee=
+|result=W
+}}
+
+==Competitions==
+
+===FA Community Shield===
+
+{{main|2007 FA Community Shield}}
+
+{{football box collapsible
+|round=Final
+|date=5 August 2007
+|time=15:00 [[Western European Summer Time|BST]]
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 1–1 
+|aet=yes
+|report= [http://news.bbc.co.uk/sport1/hi/football/6929113.stm Report]
+|team2= [[Manchester United F.C.|Manchester United]]
+|goals1= [[Tal Ben Haim]] {{yel|33}}<br>[[Florent Malouda|Malouda]] {{goal|45}}<br>[[Ricardo Carvalho|Carvalho]] {{yel|63}}<br>[[Mikel John Obi|Mikel]] {{yel|90+1}}
+|goals2= [[Ryan Giggs|Giggs]] {{goal|35}}<br>[[Wayne Rooney|Rooney]] {{yel|45+3}} 
+|stadium=[[Wembley Stadium]]
+|location=[[London]], England
+|attendance=80,731
+|referee=[[Mark Halsey]] ([[Lancashire County Football Association|Lancashire]])
+|penaltyscore=0–3
+|penalties1=[[Claudio Pizzaro|Pizzaro]] {{penmiss}}<br>[[Frank Lampard|Lampard]] {{penmiss}}<br>[[Shaun Wright-Phillips|Wright-Phillips]] {{penmiss}}
+|penalties2 = {{pengoal}} [[Rio Ferdinand|Ferdinand]]<br>{{pengoal}} [[Michael Carrick|Carrick]]<br>{{pengoal}} [[Wayne Rooney|Rooney]]
+|result=D
+}}
+
+===Premier League===
+
+====Classification====
+{{:2007–08 Premier League|showteam=CHE}}
+
+====Results summary====
+<!-- Instructions are inside each template -->
+{{Fb_rs |hw=12 |hd=7 |hl=0 |hgf=36 |hga=13 |aw=13 |ad=3 |al=3 |agf=29 |aga=13 }}
+{{Fb rs footer|u=5 May 2008 |s=[http://www.premierleague.com/barclays-premiership-football-league-table.html Barclays Premier League] |date=September 2010}}
+
+====Results by round====
+{{#invoke:sports rbr table|table|legendpos=b
+|header=Round
+|label1= Ground
+| res1=H/A/A/H/A/H/A/H/A/A/H/A/H/A/H/H/A/A/H/H/A/H/A/H/A/H/A/H/A/A/H/H/A/H/A/H/A/H
+|label2= Result
+| res2=W/W/D/W/L/D/L/D/W/W/W/W/D/W/W/W/L/W/D/W/W/W/W/W/D/D/W/W/W/D/W/W/W/D/W/W/W/D
+|label3= Points
+|
+res3=3/6/7/10/10/11/11/12/15/18/21/24/25/28/31/34/34/37/38/41/44/47/50/53/54/55/58/61/64/65/68/71/74/75/78/81/84/85
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+
+|updated=5 May 2008 
+|source=[[#Competitive|Competitive Matches]] 
+|date=September 2010
+}}
+
+====Matches====
+{{football box collapsible
+|round=1
+|date=12 August 2007
+|time=13:30 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 3–2
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/6931067.stm (Report)]
+|team2=[[Birmingham City F.C.|Birmingham City]]
+|goals1= [[Claudio Pizarro|Pizarro]] {{goal|17}}<br>[[Florent Malouda|Malouda]] {{goal|30}}<br>[[Michael Essien|Essien]] {{goal|49}}, {{yel|52}}<br>[[Ricardo Carvalho|Carvalho]] {{yel|79}}
+|goals2= [[Mikael Forssell|Forssell]] {{goal|14}}<br>[[Olivier Kapo|Kapo]] {{goal|34}}<br>[[Sebastian Larsson|Larsson]] {{yel|77}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,590
+|referee=[[Steve Bennett (referee)|Steve Bennett]]
+|result=W
+}}
+{{football box collapsible
+|round=2
+|date=15 August 2007
+|time=20:00 [[British Summer Time|BST]]
+|team1=[[Reading F.C.|Reading]]
+|score= 1–2
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/6941811.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Shane Long|Long]] {{yel|13}}<br>[[Khalifa Cissé|Cissé]] {{sent off|2|15|72}}<br>[[André Bikey|Bikey]] {{goal|30}}<br>[[Stephen Hunt (footballer, born 1981)|Hunt]] {{yel|37}}<br>[[Ívar Ingimarsson|Ingimarsson]] {{yel|52}}
+|goals2= [[Ricardo Carvalho|Carvalho]] {{yel|26}}<br>[[Steve Sidwell|Sidwell]] {{yel|31}}<br>[[Frank Lampard|Lampard]] {{goal|47}}<br>[[Didier Drogba|Drogba]] {{goal|50}}<br>[[Shaun Wright-Phillips|Wright-Phillips]] {{yel|76}}<br>[[Ashley Cole|A. Cole]] {{yel|89}}<br>[[Mikel John Obi|Mikel]] {{yel|90}}
+|stadium=[[Madejski Stadium]], [[Reading, Berkshire|Reading]]
+|attendance=24,031
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=W
+}}
+{{football box collapsible
+|round=3
+|date=19 August 2007
+|time=16:00 [[British Summer Time|BST]]
+|team1=[[Liverpool F.C.|Liverpool]]
+|score= 1–1
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/6941876.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Fernando Torres|Torres]] {{goal|15}}<br>[[Dirk Kuyt|Kuyt]] {{yel|30}}<br>[[Jermaine Pennant|Pennant]] {{yel|40}}<br>[[Steven Gerrard|Gerrard]] {{yel|43}}<br>[[Jamie Carragher|Carragher]] {{yel|61}}
+|goals2=[[Michael Essien|Essien]] {{yel|12}}<br>[[Ashley Cole|A. Cole]] {{yel|59}}<br>[[Tal Ben Haim|Ben Haim]] {{yel|63}}<br>[[Frank Lampard|Lampard]] {{goal|62|pen.}}, {{yel|70}}<br>[[John Terry|Terry]] {{yel|74}}
+|stadium=[[Anfield]], [[Liverpool]]
+|attendance=43,924
+|referee=[[Robert Styles]]
+|result=D
+}}
+{{football box collapsible
+|round=4
+|date=25 August 2007
+|time=15:00 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 1–0
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/6952879.stm (Report)]
+|team2=[[Portsmouth F.C.|Portsmouth]]
+|goals1= [[Frank Lampard|Lampard]] {{goal|30}}
+|goals2= [[Sean Davis (footballer, born 1979)|Davis]] {{yel|52}}<br>[[Sulley Muntari|Muntari]] {{yel|77}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,501
+|referee=[[Alan Wiley]]
+|result=W
+}}
+{{football box collapsible
+|round=5
+|date=2 September 2007
+|time=16:00 [[British Summer Time|BST]]
+|team1=[[Aston Villa F.C.|Aston Villa]]
+|score= 2–0
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/6963719.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Zat Knight|Knight]] {{goal|47}}<br>[[Nigel Reo-Coker|Reo-Coker]] {{yel|56}}<br>[[Gareth Barry|Barry]] {{yel|66}}<br>[[Gabriel Agbonlahor|Agbonlahor]] {{yel|71}}, {{goal|88}}<br>[[John Carew|Carew]] {{yel|71}}
+|goals2= [[Didier Drogba|Drogba]] {{yel|70}}
+|stadium=[[Villa Park]], [[Birmingham]]
+|attendance=31,714
+|referee=[[Mark Clattenburg]]
+|result=L
+}}
+{{football box collapsible
+|round=6
+|date=15 September 2007
+|time=17:15 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 0–0
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/6984879.stm (Report)]
+|team2=[[Blackburn Rovers F.C.|Blackburn Rovers]]
+|goals1= [[Joe Cole|J. Cole]] {{yel|74}}<br>[[Juliano Belletti|Belletti]] {{yel|75}}
+|goals2= [[Stephen Warnock|Warnock]] {{yel|82}}<br>[[Robbie Savage|Savage]] {{yel|84}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,062
+|referee=[[Howard Webb]]
+|result=D
+}}
+{{football box collapsible
+|round=7
+|date=23 September 2007
+|time=16:00 [[British Summer Time|BST]]
+|team1=[[Manchester United F.C.|Manchester United]]
+|score= 2–0
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/6996759.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Carlos Tevez|Tevez]] {{goal|45+2}}<br>[[Wayne Rooney|Rooney]] {{yel|61}}<br>[[Wes Brown|Brown]] {{yel|80}}<br>[[Louis Saha|Saha]] {{goal|88|pen.}}
+|goals2=[[Mikel John Obi|Mikel]] {{sent off|0|32}}<br>[[Joe Cole|J. Cole]] {{yel|73}}<br>[[John Terry|Terry]] {{yel|83}}
+|stadium=[[Old Trafford]], [[Manchester]]
+|attendance=75,663
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=L
+}}
+{{football box collapsible
+|round=8
+|date=29 September 2007
+|time=15:00 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 0–0
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7008196.stm (Report)]
+|team2=[[Fulham F.C.|Fulham]]
+|goals1=[[Didier Drogba|Drogba]] {{sent off|2|34|73}}
+|goals2= [[Steven Davis|Davis]] {{yel|82}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,837
+|referee=[[Martin Atkinson]]
+|result=D
+}}
+{{football box collapsible
+|round=9
+|date=7 October 2007
+|time=15:00 [[British Summer Time|BST]]
+|team1=[[Bolton Wanderers F.C.|Bolton Wanderers]]
+|score= 0–1
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7019625.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Iván Campo|Campo]] {{yel|18}}<br>[[El Hadji Diouf|Diouf]] {{yel|24}}<br>[[Gavin McCann|McCann]] {{yel|54}}<br>[[Kevin Davies|Davies]] {{yel|72}}<br>[[Jussi Jääskeläinen|Jääskeläinen]] {{yel|90}}
+|goals2=[[Salomon Kalou|Kalou]] {{goal|40}}<br>[[Ricardo Carvalho|Carvalho]] {{yel|69}}
+|stadium=[[Reebok Stadium]], [[Middlebrook, Greater Manchester|Middlebrook]]
+|attendance=20,059
+|referee=[[Alan Wiley]]
+|result=W
+}}
+{{football box collapsible
+|round=10
+|date=20 October 2007
+|time=15:00 [[British Summer Time|BST]]
+|team1=[[Middlesbrough F.C.|Middlesbrough]]
+|score= 0–2
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7043006.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[George Boateng|Boateng]] {{yel|48}}
+|goals2=[[Didier Drogba|Drogba]] {{goal|8}}<br>[[Alex (footballer, born June 1982)|Alex]] {{goal|52}}<br>[[Florent Malouda|Malouda]] {{yel|72}}
+|stadium=[[Riverside Stadium]], [[Middlesbrough]]
+|attendance=27,669
+|referee=[[Mark Halsey]]
+|result=W
+}}
+{{football box collapsible
+|round=11
+|date=27 October 2007
+|time=15:00 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 6–0
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7054064.stm (Report)]
+|team2=[[Manchester City F.C.|Manchester City]]
+|goals1=[[Michael Essien|Essien]] {{goal|17}}, {{yel|26}}<br>[[Frank Lampard|Lampard]] {{yel|29}}<br>[[Didier Drogba|Drogba]] {{goal|30||55}}<br>[[Joe Cole|J. Cole]] {{goal|60}}<br>[[Salomon Kalou|Kalou]] {{goal|75}}<br>[[Andriy Shevchenko|Shevchenko]] {{goal|90}}
+|goals2=[[Micah Richards|Richards]] {{yel|28}}<br>[[Michael Johnson (footballer, born 1988)|Johnson]] {{yel|44}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,832
+|referee=[[Mike Riley (referee)|Mike Riley]]
+|result=W
+}}
+{{football box collapsible
+|round=12
+|date=3 November 2007
+|time=15:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Wigan Athletic F.C.|Wigan Athletic]]
+|score= 0–2
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7065167.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Denny Landzaat|Landzaat]] {{yel|58}}<br>[[Titus Bramble|Bramble]] {{yel|88}}
+|goals2=[[Frank Lampard|Lampard]] {{goal|10}}<br>[[Juliano Belletti|Belletti]] {{goal|17}}<br>[[Didier Drogba|Drogba]] {{yel|65}}
+|stadium=[[JJB Stadium]], [[Wigan]]
+|attendance=19,011
+|referee=[[Steve Bennett (referee)|Steve Bennett]]
+|result=W
+}}
+{{football box collapsible
+|round=13
+|date=11 November 2007
+|time=14:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 1–1
+|report=[https://newsimg.bbc.co.uk/sport1/hi/football/eng_prem/7076647.stm (Report)]
+|team2=[[Everton F.C.|Everton]]
+|goals1=[[Juliano Belletti|Belletti]] {{yel|51}}<br>[[Michael Essien|Essien]] {{yel|66}}<br>[[Didier Drogba|Drogba]] {{goal|70}}
+|goals2=[[Phil Neville|Neville]] {{yel|39}}<br>[[Tim Cahill|Cahill]] {{goal|88}}<br>[[Steven Pienaar|Pienaar]] {{yel|90+2}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,683
+|referee=[[Alan Wiley]]
+|result=D
+}}
+{{football box collapsible
+|round=14
+|date=24 November 2007
+|time=17:15 [[Greenwich Mean Time|GMT]]
+|team1=[[Derby County F.C.|Derby County]]
+|score= 0–2
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7099690.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=[[Salomon Kalou|Kalou]] {{goal|16}}<br>[[Shaun Wright-Phillips|Wright-Phillips]] {{goal|72}}<br>[[Ashley Cole|A. Cole]] {{yel|76}}<br>[[Michael Essien|Essien]] {{sent off|0|90+2}}
+|stadium=[[Pride Park Stadium]], [[Derby]]
+|attendance=32,789
+|referee=[[Andre Marriner]]
+|result=W
+}}
+{{football box collapsible
+|round=15
+|date=1 December 2007
+|time=12:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 1–0
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7110960.stm (Report)]
+|team2=[[West Ham United F.C.|West Ham United]]
+|goals1=[[Mikel John Obi|Mikel]] {{yel|37}}<br>[[Salomon Kalou|Kalou]] {{yel|41}}<br>[[Juliano Belletti|Belletti]] {{yel|55}}<br>[[Frank Lampard|Lampard]] {{yel|71}}<br>[[Joe Cole|J. Cole]] {{goal|76}}<br>[[John Terry|Terry]] {{yel|85}}
+|goals2=[[Matthew Etherington|Etherington]] {{yel|23}}<br>[[Nolberto Solano|Solano]] {{yel|34}}<br>[[Luís Boa Morte|Boa Morte]] {{yel|45}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,830
+|referee=[[Howard Webb]]
+|result=W
+}}
+{{football box collapsible
+|round=16
+|date=8 December 2007
+|time=15:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 2–0
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7122773.stm (Report)]
+|team2=[[Sunderland A.F.C.|Sunderland]]
+|goals1=[[Andriy Shevchenko|Shevchenko]] {{goal|22}}<br>[[Frank Lampard|Lampard]] {{goal|74|pen.}}
+|goals2=[[Ross Wallace|Wallace]] {{yel|40}}<br>[[Liam Miller|Miller]] {{sent off|0|88}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,707
+|referee=[[Peter Walton (referee)|Peter Walton]]
+|result=W
+}}
+{{football box collapsible
+|round=17
+|date=16 December 2007
+|time=16:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Arsenal F.C.|Arsenal]]
+|score= 1–0
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7134171.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Emmanuel Adebayor|Adebayor]] {{yel|22}}<br>[[Emmanuel Eboué|Eboué]] {{yel|35}}<br>[[William Gallas|Gallas]] {{goal|45+2}}<br>[[Mathieu Flamini|Flamini]] {{yel|63}}<br>[[Cesc Fàbregas|Fàbregas]] {{yel|90+7}}
+|goals2=[[John Terry|Terry]] {{yel|30}}<br>[[Frank Lampard|Lampard]] {{yel|30}}<br>[[Joe Cole|J. Cole]] {{yel|67}}<br>[[Tal Ben Haim|Ben Haim]] {{yel|74}}<br>[[Mikel John Obi|Mikel]] {{yel|84}}
+|stadium=[[Emirates Stadium]], [[London]]
+|attendance=60,139
+|referee=[[Alan Wiley]]
+|result=L
+}}
+{{football box collapsible
+|round=18
+|date=23 December 2007
+|time=16:10 [[Greenwich Mean Time|GMT]]
+|team1=[[Blackburn Rovers F.C.|Blackburn Rovers]]
+|score= 0–1
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7145750.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[David Dunn|Dunn]] {{yel|37}}
+|goals2=[[Alex (footballer, born June 1982)|Alex]] {{yel|10}}<br>[[Joe Cole|J. Cole]] {{goal|21}}<br>[[Ricardo Carvalho|Carvalho]] {{yel|79}}
+|stadium=[[Ewood Park]], [[Blackburn]]
+|attendance=23,966
+|referee=[[Steve Bennett (referee)|Steve Bennett]]
+|result=W
+}}
+{{football box collapsible
+|round=19
+|date=26 December 2007
+|time=13:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 4–4
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7157291.stm (Report)]
+|team2=[[Aston Villa F.C.|Aston Villa]]
+|goals1=[[Michael Essien|Essien]] {{yel|19}}<br>[[Andriy Shevchenko|Shevchenko]] {{goal|45+4|pen.|49}}<br>[[Alex (footballer, born June 1982)|Alex]] {{goal|65}}, {{yel|90+2}}<br>[[Ricardo Carvalho|Carvalho]] {{sent off|0|78}}<br>[[Michael Ballack|Ballack]] {{goal|87}}, {{yel|90+2}}<br>[[Ashley Cole|A. Cole]] {{sent off|0|90+1}}
+|goals2=[[Shaun Maloney|Maloney]] {{goal|13||43}}<br>[[Zat Knight|Knight]] {{sent off|0|45+2}}<br>[[Nigel Reo-Coker|Reo-Coker]] {{yel|55}}<br>[[Martin Laursen|Laursen]] {{goal|71}}<br>[[Gareth Barry|Barry]] {{goal|90+2|pen.}}<br>[[Marlon Harewood|Harewood]] {{yel|90+2}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,686
+|referee=[[Phil Dowd]]
+|result=D
+}}
+{{football box collapsible
+|round=20
+|date=29 December 2007
+|time=15:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 2–1
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7157401.stm (Report)]
+|team2=[[Newcastle United F.C.|Newcastle United]]
+|goals1=[[Alex (footballer, born June 1982)|Alex]] {{yel|5}}<br>[[Michael Essien|Essien]] {{goal|28}}<br>[[Salomon Kalou|Kalou]] {{goal|87}}
+|goals2=[[Abdoulaye Faye|Faye]] {{yel|12}}<br>[[Nicky Butt|Butt]] {{goal|56}}<br>[[Shay Given|Given]] {{yel|88}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,751
+|referee=[[Mike Riley (referee)|Mike Riley]]
+|result=W
+}}
+{{football box collapsible
+|round=21
+|date=1 January 2008
+|time=12:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Fulham F.C.|Fulham]]
+|score= 1–2
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7163891.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Danny Murphy (footballer, born 1977)|Murphy]] {{goal|9|pen.}}<br>[[Dejan Stefanović|Stefanović]] {{yel|67}}
+|goals2=[[Salomon Kalou|Kalou]] {{goal|53}}<br>[[Michael Ballack|Ballack]] {{goal|61|pen.}}
+|stadium=[[Craven Cottage]], [[London Borough of Hammersmith and Fulham|Hammersmith and Fulham]]
+|attendance=25,357
+|referee=[[Mark Halsey]]
+|result=W
+}}
+{{football box collapsible
+|round=22
+|date=12 January 2008
+|time=15:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 2–0
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7182755.stm (Report)]
+|team2=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1=[[Juliano Belletti|Belletti]] {{goal|18}}<br>[[Claude Makélélé|Makélélé]] {{yel|58}}<br>[[Michael Ballack|Ballack]] {{yel|68}}<br>[[Shaun Wright-Phillips|Wright-Phillips]] {{goal|80}}
+|goals2=[[Kevin-Prince Boateng|Boateng]] {{yel|23}}<br>[[Steed Malbranque|Malbranque]] {{yel|53}}<br>[[Jamie O'Hara (footballer)|O'Hara]] {{yel|75}}<br>[[Aaron Lennon|Lennon]] {{yel|78}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,777
+|referee=[[Alan Wiley]]
+|result=W
+}}
+{{football box collapsible
+|round=23
+|date=19 January 2008
+|time=15:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Birmingham City F.C.|Birmingham City]]
+|score= 0–1
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7184811.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Fabrice Muamba|Muamba]] {{yel|11}}
+|goals2=[[Claudio Pizarro|Pizarro]] {{yel|77}}, {{goal|78}}
+|stadium=[[St Andrew's (stadium)|St. Andrew's]], [[Birmingham]]
+|attendance=26,567
+|referee=[[Robert Styles]]
+|result=W
+}}
+{{football box collapsible
+|round=24
+|date=30 January 2008
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 1–0
+|report=[https://newsimg.bbc.co.uk/sport1/hi/football/eng_prem/7210586.stm (Report)]
+|team2=[[Reading F.C.|Reading]]
+|goals1=[[Michael Ballack|Ballack]] {{goal|31}}
+|goals2=
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,171
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=W
+}}
+{{football box collapsible
+|round=25
+|date=2 February 2008
+|time=15:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Portsmouth F.C.|Portsmouth]]
+|score= 1–1
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7210607.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Sean Davis (footballer, born 1979)|Davis]] {{yel|22}}<br>[[Noé Pamarot|Pamarot]] {{yel|33}}<br>[[Jermain Defoe|Defoe]] {{goal|62}}
+|goals2=[[Nicolas Anelka|Anelka]] {{goal|54}}
+|stadium=[[Fratton Park]], [[Hampshire]]
+|attendance=20,488
+|referee=[[Howard Webb]]
+|result=D
+}}
+{{football box collapsible
+|round=26
+|date=10 February 2008
+|time=16:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 0–0
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7223970.stm (Report)]
+|team2=[[Liverpool F.C.|Liverpool]]
+|goals1=[[Juliano Belletti|Belletti]] {{yel|3}}<br>[[Ricardo Carvalho|Carvalho]] {{yel|74}}<br>[[Alex (footballer, born June 1982)|Alex]] {{yel|78}}
+|goals2=[[Ryan Babel|Babel]] {{yel|41}}<br>[[John Arne Riise|Riise]] {{yel|63}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,788
+|referee=[[Mike Riley (referee)|Mike Riley]]
+|result=D
+}}
+{{football box collapsible
+|round=27
+|date=1 March 2008
+|time=15:00 [[Greenwich Mean Time|GMT]]
+|team1=[[West Ham United F.C.|West Ham United]]
+|score= 0–4
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7260400.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=[[Frank Lampard|Lampard]] {{goal|16|pen.}}, {{sent off|0|34}}<br>[[Joe Cole|J. Cole]] {{goal|19}}<br>[[Michael Ballack|Ballack]] {{goal|21}}, {{yel|36}}<br>[[John Terry|Terry]] {{yel|45+2}}<br>[[Ashley Cole|A. Cole]] {{goal|63}}
+|stadium=[[Boleyn Ground|Upton Park]], [[London]]
+|attendance=34,969
+|referee=[[Peter Walton (referee)|Peter Walton]]
+|result=W
+}}
+{{football box collapsible
+|round=28
+|date=12 March 2008
+|time=20:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 6–1
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7284938.stm (Report)]
+|team2=[[Derby County F.C.|Derby County]]
+|goals1=[[Frank Lampard|Lampard]] {{goal|27|pen.|56||65||71}}<br>[[Salomon Kalou|Kalou]] {{goal|42}}<br>[[Joe Cole|J. Cole]] {{goal|63}}
+|goals2=[[David Jones (footballer, born 1984)|Jones]] {{goal|72}}<br>[[Jay McEveley|McEveley]] {{yel|85}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=39,447
+|referee=[[Chris Foy (referee)|Chris Foy]]
+|result=W
+}}
+{{football box collapsible
+|round=29
+|date=15 March 2008
+|time=15:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Sunderland A.F.C.|Sunderland]]
+|score= 0–1
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7284965.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Dean Whitehead|Whitehead]] {{yel|51}}<br>[[Grant Leadbitter|Leadbitter]] {{yel|58}}
+|goals2=[[John Terry|Terry]] {{goal|9}}<br>[[Mikel John Obi|Mikel]] {{yel|60}}
+|stadium=[[Stadium of Light]], [[Sunderland, Tyne and Wear|Sunderland]]
+|attendance=44,679
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=W
+}}
+{{football box collapsible
+|round=30
+|date=18 March 2008
+|time=20:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|score= 4–4
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7298146.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Jonathan Woodgate|Woodgate]] {{goal|12}}<br>[[Dimitar Berbatov|Berbatov]] {{goal|60}}<br>[[Tom Huddlestone|Huddlestone]] {{yel|72}}, {{goal|74}}<br>[[Robbie Keane|Keane]] {{yel|45+2}}, {{goal|87}}
+|goals2=[[Didier Drogba|Drogba]] {{goal|2}}<br>[[Michael Essien|Essien]] {{goal|19}}<br>[[Joe Cole|J. Cole]] {{yel|36}}, {{goal|51||79}}<br>[[Ashley Cole|A. Cole]] {{yel|45+1}}
+|stadium=[[White Hart Lane]], [[London]]
+|attendance=36,178
+|referee=[[Mike Riley (referee)|Mike Riley]]
+|result=D
+}}
+{{football box collapsible
+|round=31
+|date=23 March 2008
+|time=16:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 2–1
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7298246.stm (Report)]
+|team2=[[Arsenal F.C.|Arsenal]]
+|goals1=[[Joe Cole|J. Cole]] {{yel|32}}<br>[[Michael Ballack|Ballack]] {{yel|34}}<br>[[Didier Drogba|Drogba]] {{goal|73||81}}, {{yel|74}}
+|goals2=[[Emmanuel Eboué|Eboué]] {{yel|5}}<br>[[Bacary Sagna|Sagna]] {{goal|59}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,824
+|referee=[[Mark Clattenburg]]
+|result=W
+}}
+{{football box collapsible
+|round=32
+|date=30 March 2008
+|time=16:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 1–0
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7316235.stm (Report)]
+|team2=[[Middlesbrough F.C.|Middlesbrough]]
+|goals1=[[Ricardo Carvalho|Carvalho]] {{goal|6}}<br>[[Juliano Belletti|Belletti]] {{yel|90+4}}
+|goals2=[[Lee Cattermole|Cattermole]] {{yel|45+1}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=39,993
+|referee=[[Phil Dowd]]
+|result=W
+}}
+{{football box collapsible
+|round=33
+|date=5 April 2008
+|time=15:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Manchester City F.C.|Manchester City]]
+|score= 0–2
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7320185.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Gelson Fernandes|Fernandes]] {{yel|45}}
+|goals2=[[Richard Dunne|Dunne]] {{goal|5|o.g.}}<br>[[Salomon Kalou|Kalou]] {{goal|54}}
+|stadium=[[City of Manchester Stadium]], [[Manchester]]
+|attendance=42,594
+|referee=[[Chris Foy (referee)|Chris Foy]]
+|result=W
+}}
+{{football box collapsible
+|round=34
+|date=14 April 2008
+|time=20:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 1–1
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7332046.stm (Report)]
+|team2=[[Wigan Athletic F.C.|Wigan Athletic]]
+|goals1=[[Michael Essien|Essien]] {{goal|54}}
+|goals2=[[Jason Koumas|Koumas]] {{yel|68}}<br>[[Antonio Valencia|Valencia]] {{yel|89}}<br>[[Emile Heskey|Heskey]] {{goal|90+2}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=40,487
+|referee=[[Andre Marriner]]
+|result=D
+}}
+{{football box collapsible
+|round=35
+|date=17 April 2008
+|time=20:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Everton F.C.|Everton]]
+|score= 0–1
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7344057.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=[[Ricardo Carvalho|Carvalho]] {{yel|23}}<br>[[Michael Essien|Essien]] {{goal|40}}<br>[[Paulo Ferreira|Ferreira]] {{yel|57}}
+|stadium=[[Goodison Park]], [[Liverpool]]
+|attendance=37,411
+|referee=[[Martin Atkinson]]
+|result=W
+}}
+{{football box collapsible
+|round=36
+|date=26 April 2008
+|time=12:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 2–1
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7356021.stm (Report)]
+|team2=[[Manchester United F.C.|Manchester United]]
+|goals1=[[Michael Ballack|Ballack]] {{goal|45||86|pen.}} {{yel|45}}<br>[[Mikel John Obi|Mikel]] {{yel|77}}<br>[[Didier Drogba|Drogba]] {{yel|88}}
+|goals2=[[Wes Brown|Brown]] {{yel|52}}<br>[[Wayne Rooney|Rooney]] {{goal|57}}<br>[[Edwin van der Sar|Van der Sar]] {{yel|86}}<br>[[Rio Ferdinand|Ferdinand]] {{yel|90+2}}<br>[[Owen Hargreaves|Hargreaves]] {{yel|90+2}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,828
+|referee=[[Alan Wiley]]
+|result=W
+}}
+{{football box collapsible
+|round=37
+|date=5 May 2008
+|time=16:00 [[British Summer Time|BST]]
+|team1=[[Newcastle United F.C.|Newcastle United]]
+|score= 0–2
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7368688.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Abdoulaye Faye|Faye]] {{yel|60}}<br>[[José Enrique (footballer, born 1986)|José Enrique]] {{yel|76}}
+|goals2=[[John Terry|Terry]] {{yel|34}}<br>[[Michael Ballack|Ballack]] {{goal|61}}<br>[[Florent Malouda|Malouda]] {{yel|69}} {{goal|82}}
+|stadium=[[St James' Park]], [[Newcastle upon Tyne]]
+|attendance=52,305
+|referee=[[Steve Bennett (referee)|Steve Bennett]]
+|result=W
+}}
+{{football box collapsible
+|round=38
+|date=11 May 2008
+|time=15:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 1–1
+|report=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/7381780.stm (Report)]
+|team2=[[Bolton Wanderers F.C.|Bolton Wanderers]]
+|goals1=[[Andriy Shevchenko|Shevchenko]] {{goal|61}}<br>[[Didier Drogba|Drogba]] {{yel|81}}
+|goals2=[[Joey O'Brien|O'Brien]] {{yel|17}}<br>[[Gavin McCann|McCann]] {{yel|39}}<br>[[Kevin Davies|Davies]] {{yel|45}}<br>[[Matthew Taylor (footballer, born 1981)|Taylor]] {{goal|90+2}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,755
+|referee=[[Chris Foy (referee)|Chris Foy]]
+|result=D
+}}
+
+===UEFA Champions League===
+
+====Group stage====
+{{main|2007–08 UEFA Champions League group stage#Group B}}
+{{:2007–08 UEFA Champions League group stage|transcludesection=Group B|showteam=CHE}}
+{{football box collapsible
+|round=[[2007–08 UEFA Champions League group stage#Chelsea v Rosenborg|1]]
+|date=18 September 2007
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]] {{Flagicon|ENG}}
+|score=  1–1
+|report=[https://web.archive.org/web/20070922130111/http://www.uefa.com/competitions/ucl/fixturesresults/round=15105/match=301169/report=rp.html Report]
+|team2={{Flagicon|NOR}} [[Rosenborg BK|Rosenborg]]
+|goals1= [[Andriy Shevchenko|Shevchenko]] {{goal|53}}
+|goals2= [[Miika Koppinen|Koppinen]] {{goal|24}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=[[London]], England
+|attendance=24,973
+|referee=[[Laurent Duhamel]] ([[French Football Federation|France]])
+|result=D
+}}
+{{football box collapsible
+|round=[[2007–08 UEFA Champions League group stage#Valencia v Chelsea|2]]
+|date=3 October 2007
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Valencia CF|Valencia]] {{Flagicon|ESP}}
+|score=  1–2
+|report=[https://web.archive.org/web/20071011001751/http://www.uefa.com/competitions/ucl/fixturesresults/round=15105/match=301177/report=rp.html Report]
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1= [[David Villa|Villa]] {{goal|9}}
+|goals2= [[Joe Cole|J. Cole]] {{goal|21}}<br>[[Didier Drogba|Drogba]] {{goal|71}}
+|stadium=[[Mestalla Stadium]]
+|location=[[Valencia]], [[Spain]]
+|attendance=52,000
+|referee=[[Roberto Rosetti]] ([[Italian Football Federation|Italy]])
+|result=W
+}}
+{{football box collapsible
+|round=[[2007–08 UEFA Champions League group stage#Chelsea v Schalke 04|3]]
+|date=24 October 2007
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]] {{Flagicon|ENG}}
+|score=  2–0
+|report=[https://web.archive.org/web/20071025093559/http://www.uefa.com/competitions/ucl/fixturesresults/round=15105/match=301194/report=rp.html Report]
+|team2={{Flagicon|GER}} [[FC Schalke 04|Schalke 04]]
+|goals1= [[Florent Malouda|Malouda]] {{goal|4}}<br>[[Didier Drogba|Drogba]] {{goal|47}}
+|goals2=
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=[[London]], England
+|attendance=40,910
+|referee=[[Peter Fröjdfeldt]] ([[Swedish Football Association|Sweden]])
+|result=W
+}}
+{{football box collapsible
+|round=[[2007–08 UEFA Champions League group stage#Schalke 04 v Chelsea|4]]
+|date=6 November 2007
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[FC Schalke 04|Schalke 04]] {{Flagicon|GER}}
+|score=  0–0
+|report=[https://web.archive.org/web/20071107132919/http://www.uefa.com/competitions/ucl/fixturesresults/round=15105/match=301218/report=rp.html Report]
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=
+|stadium=[[Veltins-Arena|Arena AufSchalke]]
+|location=[[Gelsenkirchen]], [[Germany]]
+|attendance=53,951
+|referee=[[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])
+|result=D
+}}
+{{football box collapsible
+|round=[[2007–08 UEFA Champions League group stage#Rosenborg v Chelsea|5]]
+|date=28 November 2007
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Rosenborg BK|Rosenborg]] {{Flagicon|NOR}}
+|score=0–4
+|report={{Deprecated archive|url=https://archive.today/20071130073921/http://www.uefa.com/competitions/ucl/fixturesresults/round=15105/match=301225/report=rp.html|title=Report}}
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=[[Didier Drogba|Drogba]] {{goal|8||20}}<br>[[Alex (footballer, born June 1982)|Alex]] {{goal|40}}<br>[[Joe Cole|J. Cole]] {{goal|73}}
+|stadium=[[Lerkendal stadion]]
+|location=[[Trondheim]], [[Norway]]
+|attendance=21,582
+|referee=[[Olegário Benquerença]] ([[Portuguese Football Federation|Portugal]])
+|result=W
+}}
+{{football box collapsible
+|round=[[2007–08 UEFA Champions League group stage#Chelsea v Valencia|6]]
+|date=11 December 2007
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]] {{Flagicon|ENG}}
+|score=0–0
+|report=[https://web.archive.org/web/20071212202207/http://www.uefa.com/competitions/ucl/fixturesresults/round=15105/match=301249/report=rp.html Report]
+|team2={{Flagicon|ESP}} [[Valencia CF|Valencia]]
+|goals1=
+|goals2=
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=[[London]], England
+|attendance=41,439
+|referee=[[Grzegorz Gilewski]] ([[Polish Football Association|Poland]])
+|result=D
+}}
+
+====Knockout phase====
+{{main|2007–08 UEFA Champions League knockout stage}}
+
+=====Round of 16=====
+{{football box collapsible
+|round=[[2007–08 UEFA Champions League knockout stage#Olympiacos v Chelsea|First leg]]
+|date=19 February 2008
+|time=20:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Olympiacos F.C.|Olympiacos]] {{Flagicon|GRE}}
+|score=0–0
+|report=[https://web.archive.org/web/20080220214742/http://www.uefa.com/competitions/ucl/fixturesresults/round=15106/match=301893/report=rp.html Report]
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=
+|stadium=[[Karaiskákis Stadium|Geórgios Karaïskákis Stadium]]
+|location=[[Piraeus]], [[Greece]]
+|attendance=31,302
+|referee=[[Konrad Plautz]] ([[Austrian Football Association|Austria]])
+|result=D
+}}
+{{football box collapsible
+|round=[[2007–08 UEFA Champions League knockout stage#Chelsea v Olympiacos|Second leg]]
+|date=5 March 2008
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]] {{Flagicon|ENG}}
+|score=3–0
+|aggregatescore = 3–0
+|report=[https://web.archive.org/web/20080306221329/http://www.uefa.com/competitions/ucl/fixturesresults/round=15106/match=301897/report=rp.html Report]
+|team2={{Flagicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|goals1=[[Michael Ballack|Ballack]] {{goal|5}}<br>[[Frank Lampard|Lampard]] {{goal|25}}<br>[[Salomon Kalou|Kalou]] {{goal|48}}
+|goals2=
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=[[London]], England
+|attendance=37,721
+|referee=[[Manuel Mejuto González]] ([[Royal Spanish Football Association|Spain]])
+|result=W
+}}
+
+=====Quarter-finals=====
+{{football box collapsible
+|round=[[2007–08 UEFA Champions League knockout stage#Fenerbahçe v Chelsea|First leg]]
+|date=2 April 2008
+|time=20:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Fenerbahçe S.K. (football)|Fenerbahçe]] {{Flagicon|TUR}}
+|score=2–1
+|report=[https://web.archive.org/web/20080405230625/http://www.uefa.com/competitions/ucl/fixturesresults/round=15107/match=301906/report=rp.html Report]
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=[[Colin Kazim-Richards|Kazim-Richards]] {{goal|65}}<br>[[Deivid de Souza|Deivid]] {{goal|81}}
+|goals2=[[Deivid de Souza|Deivid]] {{goal|13|o.g.}}
+|stadium=[[Şükrü Saracoğlu Stadium]]
+|location=[[Istanbul]], [[Turkey]]
+|attendance=49,055
+|referee=[[Claus Bo Larsen]] ([[Danish Football Association|Denmark]])
+|result=L
+}}
+{{football box collapsible
+|round=[[2007–08 UEFA Champions League knockout stage#Chelsea v Fenerbahçe|Second leg]]
+|date=8 April 2008
+|time=20:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]] {{Flagicon|ENG}}
+|score=2–0
+|aggregatescore = 3–2
+|report=[https://web.archive.org/web/20080409230902/http://www.uefa.com/competitions/ucl/fixturesresults/round=15107/match=301907/report=rp.html Report]
+|team2={{Flagicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|goals1=[[Michael Ballack|Ballack]] {{goal|4}}<br>[[Frank Lampard|Lampard]] {{goal|87}}
+|goals2=
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=[[London]], England
+|attendance=38,369
+|referee=[[Herbert Fandel]] ([[German Football Association|Germany]])
+|result=W
+}}
+
+=====Semi-finals=====
+{{football box collapsible
+|round=[[2007–08 UEFA Champions League knockout stage#Liverpool v Chelsea|First leg]]
+|date=22 April 2008
+|time=20:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Liverpool F.C.|Liverpool]] {{Flagicon|ENG}}
+|score=1–1
+|report=[https://web.archive.org/web/20080426001438/http://www.uefa.com/competitions/ucl/fixturesresults/round=15108/match=301912/report=rp.html Report]
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=[[Dirk Kuyt|Kuyt]] {{goal|43}}
+|goals2=[[John Arne Riise|Riise]] {{goal|90+5|o.g.}}
+|stadium=[[Anfield]]
+|location=[[Liverpool]], [[England]]
+|attendance=42,180
+|referee=[[Konrad Plautz]] ([[Austrian Football Association|Austria]])
+|result=D
+}}
+{{football box collapsible
+|round=[[2007–08 UEFA Champions League knockout stage#Chelsea v Liverpool|Second leg]]
+|date=30 April 2008
+|time=20:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]] {{Flagicon|ENG}}
+|score=3–2 
+|aggregatescore = 4–3
+|aet=yes
+|report=[https://web.archive.org/web/20080501150234/http://www.uefa.com/competitions/ucl/fixturesresults/round=15108/match=301913/report=rp.html Report]
+|team2={{Flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1=[[Didier Drogba|Drogba]] {{goal|33||105}}<br>[[Frank Lampard|Lampard]] {{goal|98|pen.}}
+|goals2=[[Fernando Torres|Torres]] {{goal|64}}<br>[[Ryan Babel|Babel]] {{goal|117}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=[[London]], England
+|attendance=38,900
+|referee=[[Roberto Rosetti]] ([[Italian Football Federation|Italy]])
+|result=W
+}}
+
+=====Final=====
+{{Main|2008 UEFA Champions League Final}}
+{{football box collapsible
+|round=Final
+|date=21 May 2008
+|time=20:45 [[Central European Summer Time|CEST]]
+|team1= [[Manchester United F.C.|Manchester United]] {{Flagicon|ENG}}
+|score= 1–1 
+|aet=yes
+|report= [https://web.archive.org/web/20080525074015/http://www.uefa.com/competitions/ucl/fixturesresults/round=15109/match=301604/report=rp.html Report]
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1= [[Paul Scholes|Scholes]] {{yel|21}}<br>[[Cristiano Ronaldo|Ronaldo]] {{goal|26}}<br>[[Rio Ferdinand|Ferdinand]] {{yel|43}}<br>[[Nemanja Vidić|Vidić]] {{yel|111}}<br>[[Carlos Tevez|Tevez]] {{yel|116}}
+|goals2= [[Claude Makélélé|Makélélé]] {{yel|21}}<br>[[Frank Lampard|Lampard]] {{goal|45}}<br>[[Ricardo Carvalho|Carvalho]] {{yel|45+2}}<br>[[Michael Ballack|Ballack]] {{yel|116}}<br>[[Didier Drogba|Drogba]] {{sent off|0|116}}<br>[[Michael Essien|Essien]] {{yel|118}}
+|stadium=[[Luzhniki Stadium]]
+|location=[[Moscow]], [[Russia]]
+|attendance=67,310
+|referee=[[Ľuboš Micheľ]] ([[Slovak Football Association|Slovakia]])<ref>{{Cite news|title=Referee appointed for UEFA Champions League final |url=https://www.uefa.com/multimediafiles/download/pressrelease/uefa/uefamedia/69/77/15/697715_download.pdf|publisher=UEFA |date=19 May 2008 |access-date=2008-05-19 | archive-url= https://web.archive.org/web/20080527194403/http://www.uefa.com/multimediafiles/download/pressrelease/uefa/uefamedia/69/77/15/697715_download.pdf| archive-date= 27 May 2008 | url-status= live}}</ref>
+|penalties1=[[Carlos Tevez|Tevez]] {{pengoal}}<br>[[Michael Carrick|Carrick]] {{pengoal}}<br>[[Cristiano Ronaldo|Ronaldo]] {{penmiss}}<br>[[Owen Hargreaves|Hargreaves]] {{pengoal}}<br>[[Nani (footballer)|Nani]] {{pengoal}}<br>[[Anderson (footballer, born 1988)|Anderson]] {{pengoal}}<br>[[Ryan Giggs|Giggs]] {{pengoal}}
+|penaltyscore = 6–5
+|penalties2 = {{pengoal}} [[Michael Ballack|Ballack]]<br>{{pengoal}} [[Juliano Belletti|Belletti]]<br>{{pengoal}} [[Frank Lampard|Lampard]]<br>{{pengoal}} [[Ashley Cole|A. Cole]] <br>{{penmiss}} [[John Terry|Terry]]<br>{{pengoal}} [[Salomon Kalou|Kalou]] <br>{{penmiss}} [[Nicolas Anelka|Anelka]]
+|result=D
+}}
+
+==Disciplinary record==
+{| class="wikitable sortable" style="text-align:center; font-size:95%;"
+|-
+! class="unsortable" style="width:20px;"|No.
+! class="unsortable" style="width:24px;"|Nat.
+! style="width:170px;"|Player
+! style="width:110px; background:#fe9;"|[[File:Yellow card.svg|10px]] Yellow cards
+! style="width:110px; background:#ff8888;"|[[File:Red card.svg|10px]] Red cards
+|-
+|3  ||{{Flagicon|ENG}} ||align="left"|{{sortname|Ashley|Cole}}                                  ||4||1
+|-
+|4  ||{{Flagicon|FRA}} ||align="left"|{{sortname|Claude|Makélélé}}                              ||1||0
+|-
+|5  ||{{Flagicon|GHA}} ||align="left"|{{sortname|Michael|Essien}}                               ||5||1
+|-
+|6  ||{{Flagicon|POR}} ||align="left"|{{sortname|Ricardo|Carvalho}}                             ||6||1
+|-
+|8  ||{{Flagicon|ENG}} ||align="left"|{{sortname|Frank|Lampard}}                                ||4||1
+|-
+|13 ||{{Flagicon|GER}} ||align="left"|{{sortname|Michael|Ballack}}                             ||1||0
+|-
+|20  ||{{Flagicon|POR}} ||align="left"|{{sortname|Paulo|Ferreira}}                               ||1||0
+|-
+|26 ||{{Flagicon|ENG}} ||align="left"|{{sortname|John|Terry}}                                   ||6||0
+|-
+|33 ||{{Flagicon|BRA}} ||align="left"|{{sortname|Alex||Alex (footballer, born June 1982)}}     ||4||0
+|-
+|35 ||{{Flagicon|BRA}} ||align="left"|{{sortname|Juliano|Belletti}}                             ||5||0
+|-
+|11 ||{{Flagicon|CIV}} ||align="left"|{{sortname|Didier|Drogba}}                             ||6||1
+|}
+
+==Football League Cup==
+{{main|2007–08 Football League Cup}}
+{{football box collapsible
+|round=Third round
+|date=26 September 2007
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Hull City A.F.C.|Hull City]]
+|score= 0–4
+|report=[http://news.bbc.co.uk/sport1/hi/football/league_cup/7008019.stm Report]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=[[Scott Sinclair|Sinclair]] {{goal|36}}<br />[[Salomon Kalou|Kalou]] {{goal|47||80}}<br />[[Steve Sidwell|Sidwell]] {{goal|51}}
+|stadium=[[KC Stadium]], [[Kingston upon Hull]]
+|attendance=23,543
+|referee=[[Chris Foy (referee)|Chris Foy]]
+|result=W
+}}
+{{football box collapsible
+|round=Fourth round
+|date=31 October 2007
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 4–3
+|report=[http://news.bbc.co.uk/sport1/hi/football/league_cup/7065182.stm Report]
+|team2=[[Leicester City F.C.|Leicester City]]
+|goals1=[[Frank Lampard|Lampard]] {{goal|20||28}}<br />[[Andriy Shevchenko|Shevchenko]] {{goal|85||90+4}}
+|goals2=[[Gareth McAuley|McAuley]] {{goal|6}}<br />[[DJ Campbell|Campbell]] {{goal|67}}<br />[[Carl Cort|Cort]] {{goal|73}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=40,037
+|referee=[[Phil Dowd]]
+|result=W
+}}
+{{football box collapsible
+|round=Quarter-final
+|date=19 December 2007
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 2–0
+|report=[http://news.bbc.co.uk/sport1/hi/football/league_cup/7145789.stm Report]
+|team2=[[Liverpool F.C.|Liverpool]]
+|goals1=[[Frank Lampard|Lampard]] {{goal|58}}<br />[[Andriy Shevchenko|Shevchenko]] {{goal|89}}
+|goals2=[[Peter Crouch|Crouch]] {{sent off|0|59}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,366
+|referee=[[Martin Atkinson]]
+|result=W
+}}
+{{football box collapsible
+|round=Semi-final 1st leg
+|date=8 January 2008
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 2–1
+|report=[http://news.bbc.co.uk/sport1/hi/football/league_cup/7172852.stm Report]
+|team2=[[Everton F.C.|Everton]]
+|goals1=[[Shaun Wright-Phillips|Wright-Phillips]] {{goal|25}}<br />[[Mikel John Obi|Mikel]] {{sent off|0|54}}<br />[[Joleon Lescott|Lescott]] {{goal|90+2|o.g.}}
+|goals2=[[Yakubu (footballer)|Yakubu]] {{goal|63}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,178
+|referee=[[Peter Walton (referee)|Peter Walton]]
+|result=W
+}}
+{{football box collapsible
+|round=Semi-final 2nd leg
+|date=23 January 2008
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Everton F.C.|Everton]]
+|score= 0–1
+|report=[http://news.bbc.co.uk/sport1/hi/football/league_cup/7197922.stm Report]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=[[Joe Cole|J. Cole]] {{goal|69}}
+|stadium=[[Goodison Park]], [[Liverpool]]
+|attendance=37,086
+|referee=[[Steve Bennett (referee)|Steve Bennett]]
+|result=W
+}}
+{{football box collapsible
+|round=[[2008 Football League Cup Final|Final]]
+|date=24 February 2008
+|time=15:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|score= 2–1 {{aet}}
+|report=[http://news.bbc.co.uk/sport1/hi/football/7256729.stm Report]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Dimitar Berbatov|Berbatov]] {{goal|69|pen.}}<br />[[Jonathan Woodgate|Woodgate]] {{goal|93}}
+|goals2=[[Didier Drogba|Drogba]] {{goal|39}}
+|stadium=[[Wembley Stadium]], [[London]]
+|attendance=87,660
+|referee=[[Mark Halsey]]
+|result=L
+}}
+
+===Disciplinary record===
+{| class="wikitable sortable" style="text-align:center; font-size:95%;"
+|-
+! class="unsortable" style="width:20px;"|No.
+! class="unsortable" style="width:24px;"|Nat.
+! style="width:170px;"|Player
+!  style="width:110px; background:#fe9;"|[[File:Yellow card.svg|10px]] Yellow cards
+!  style="width:110px; background:#ff8888;"|[[File:Red card.svg|10px]] Red cards
+|-
+|4  ||{{Flagicon|FRA}} ||align="left"|{{sortname|Claude|Makélélé}}                              ||1||0
+|-
+|6  ||{{Flagicon|POR}} ||align="left"|{{sortname|Ricardo|Carvalho}}                             ||1||0
+|-
+|9  ||{{Flagicon|ENG}} ||align="left"|{{sortname|Steve|Sidwell}}                                ||1||0
+|-
+|10 ||{{Flagicon|ENG}} ||align="left"|{{sortname|Joe|Cole}}                                     ||1||0
+|-
+|12 ||{{Flagicon|NGA}} ||align="left"|[[Mikel John Obi]]                 ||1||1
+|-
+|22 ||{{Flagicon|ISR}} ||align="left"|{{sortname|Tal|Ben Haim}}                    ||1||0
+|-
+|35 ||{{Flagicon|BRA}} ||align="left"|{{sortname|Juliano|Belletti}}                             ||2||0
+|}
+
+==FA Cup==
+{{main|2007–08 FA Cup}}
+{{football box collapsible
+|round=Third Round
+|date=5 January 2008
+|time=15:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 1–0
+|report=[http://news.bbc.co.uk/sport1/hi/football/fa_cup/7163956.stm Report]
+|team2=[[Queens Park Rangers F.C.|Queens Park Rangers]]
+|goals1= [[Lee Camp (footballer)|Camp]] {{goal|28|o.g.}}
+|goals2=
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,289
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=W
+}}
+{{football box collapsible
+|round=Fourth Round
+|date=26 January 2008
+|time=17:15 [[Greenwich Mean Time|GMT]]
+|team1=[[Wigan Athletic F.C.|Wigan Athletic]]
+|score= 1–2
+|report=[http://news.bbc.co.uk/sport1/hi/football/fa_cup/7197726.stm Report]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Antoine Sibierski|Sibierski]] {{goal|87}}
+|goals2=[[Nicolas Anelka|Anelka]] {{goal|53}}<br />[[Shaun Wright-Phillips|Wright-Phillips]] {{goal|82}}
+|stadium=[[JJB Stadium]], [[Wigan]]
+|attendance=14,116
+|referee=[[Uriah Rennie]]
+|result=W
+}}
+{{football box collapsible
+|round=Fifth Round
+|date=16 February 2008
+|time=15:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 3–1
+|report=[http://news.bbc.co.uk/sport1/hi/football/fa_cup/7224061.stm Report]
+|team2=[[Huddersfield Town A.F.C.|Huddersfield Town]]
+|goals1=[[Frank Lampard|Lampard]] {{goal|17||60}}<br />[[Salomon Kalou|Kalou]] {{goal|71}}
+|goals2=[[Michael Collins (footballer born 1986)|Collins]] {{goal|45+1}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,324
+|referee=[[Mark Clattenburg]]
+|result=W
+}}
+{{football box collapsible
+|round=Quarter-finals
+|date=8 March 2008
+|time=17:30 [[Greenwich Mean Time|GMT]]
+|team1=[[Barnsley F.C.|Barnsley]]
+|score= 1–0
+|report=[http://news.bbc.co.uk/sport1/hi/football/fa_cup/7272810.stm Report]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Kayode Odejayi|Odejayi]] {{goal|66}}
+|stadium=[[Oakwell]], [[Yorkshire]]
+|attendance=22,410
+|referee=[[Steve Bennett (referee)|Steve Bennett]]
+|result=L
+}}
+
+===Disciplinary record===
+{| class="wikitable sortable" style="text-align:center; font-size:95%;"
+|-
+! class="unsortable" style="width:20px;"|No.
+! class="unsortable" style="width:24px;"|Nat.
+! style="width:170px;"|Player
+!  style="width:110px; background:#fe9;"|[[File:Yellow card.svg|10px]] Yellow cards
+!  style="width:110px; background:#ff8888;"|[[File:Red card.svg|10px]] Red cards
+|-
+|6  ||{{Flagicon|POR}} ||align="left"|{{sortname|Ricardo|Carvalho}}                             ||1||0
+|}
+
+==Statistics==
+
+===Appearances and goals===
+{{Efs start|Premier League|FA Cup|League Cup|Champions League|Community Shield}}
+|-
+! colspan=16 style=background:#dcdcdc; text-align:center| Goalkeepers
+{{Efs player|no=1 |name=[[Petr Čech]]|pos=GK|nat=CZE                          |26|0|1|0|3|0|9|0|1|0}}
+{{Efs player|no=23 |name=[[Carlo Cudicini]]|pos=GK|nat=ITA                    |10|0|2|0|2|0|4+1|0|0|0}}
+{{Efs player|no=40 |name=[[Henrique Hilário]]|pos=GK|nat=POR                  |2+1|0|1|0|1|0|0+1|0|0|0}}
+|-
+! colspan=16 style=background:#dcdcdc; text-align:center| Defenders
+{{Efs player|no=3 |name=[[Ashley Cole]]|pos=DF|nat=ENG                        |27|1|1|0|1+1|0|10|0|1|0}}
+{{Efs player|no=6 |name=[[Ricardo Carvalho]]|pos=DF|nat=POR                   |21|1|2|0|4|0|10|0|1|0}}
+{{Efs player|no=18 |name=[[Wayne Bridge]]|pos=DF|nat=ENG                      |9+2|0|3|0|4+1|0|3|0|0|0}}
+{{Efs player|no=20 |name=[[Paulo Ferreira]]|pos=DF|nat=POR                    |15+3|0|2+1|0|1+1|0|5|0|0|0}}
+{{Efs player|no=22 |name=[[Tal Ben Haim]]|pos=DF|nat=ISR                      |10+3|0|2|0|3+2|0|1+1|0|1|0}}
+{{Efs player|no=26 |name=[[John Terry]]|pos=DF|nat=ENG                        |23|1|2|0|2|0|10|0|0|0}}
+{{Efs player|no=33 |name=[[Alex (footballer, born June 1982)|Alex]]|pos=DF|nat=BRA |22+6|2|2|0|3|0|5+1|1|0|0}}
+{{Efs player|no=35 |name=[[Juliano Belletti]]|pos=DF|nat=BRA                  |20+3|2|2|0|6|0|4+3|0|0|0}}
+|-
+! colspan=16 style=background:#dcdcdc; text-align:center| Midfielders
+{{Efs player|no=4 |name=[[Claude Makélélé]]|pos=MF|nat=FRA                    |15+3|0|1|0|1+1|0|12+1|0|0|0}}
+{{Efs player|no=5 |name=[[Michael Essien]]|pos=MF|nat=GHA                     |23+4|6|1+1|0|3+1|0|11+1|0|1|0}}
+{{Efs player|no=8 |name=[[Frank Lampard]]|pos=MF|nat=ENG                      |23+1|10|1|2|3|4|10+4|4|1|0}}
+{{Efs player|no=9 |name=[[Steve Sidwell]]|pos=MF|nat=ENG                      |7+8|0|3|0|3+2|1|0+1|0|0+1|0}}
+{{Efs player|no=10 |name=[[Joe Cole]]|pos=MF|nat=ENG                          |28+5|7|2+1|0|2+3|1|12+1|2|1|0}}
+{{Efs player|no=12 |name=[[Mikel John Obi]]|pos=MF|nat=NGA                    |21+8|0|2|0|3|0|1+3|0|1|0}}
+{{Efs player|no=13 |name=[[Michael Ballack]]|pos=MF|nat=GER                   |16+2|7|1+1|0|1+2|0|7|2|0|0}}
+{{Efs player|no=15 |name=[[Florent Malouda]]|pos=MF|nat=FRA                   |16+5|2|2|0|2+1|0|8+3|1|1|1}}
+{{Efs player|no=17 |name=[[Scott Sinclair]]|pos=MF|nat=ENG                    |0+1|0|2|0|3|1|0|0|0+1|0}}
+{{Efs player|no=24 |name=[[Shaun Wright-Phillips]]|pos=MF|nat=ENG             |20+7|2|3|1|5|1|2+3|0|1|0}}
+|-
+! colspan=16 style=background:#dcdcdc; text-align:center| Forwards
+{{Efs player|no=7 |name=[[Andriy Shevchenko]]|pos=FW|nat=UKR                  |8+9|5|0+1|0|2|2|2+3|1|0|0}}
+{{Efs player|no=11 |name=[[Didier Drogba]]|pos=FW|nat=CIV                     |17+2|8|0+1|0|1|1|11|6|0|0}}
+{{Efs player|no=14 |name=[[Claudio Pizarro]]|pos=FW|nat=PER                   |4+17|2|2+2|0|3+1|0|1+1|0|0+1|0}}
+{{Efs player|no=21 |name=[[Salomon Kalou]]|pos=FW|nat=CIV                     |24+6|7|2+1|1|2+2|2|5+6|1|0|0}}
+{{Efs player|no=39 |name=[[Nicolas Anelka]]|pos=FW|nat=FRA                    |10+4|1|2+1|1|2|0|0+5|0|0|0}}
+|-
+! colspan=16 style=background:#dcdcdc; text-align:center| Players transferred out during the season
+{{Efs player|no=2 |name=[[Glen Johnson]]|pos=DF|nat=ENG                       |1+1|0|0|0|0|0|0|0|1|0}}
+{{Efs player|no=19 |name=[[Lassana Diarra]]|pos=MF|nat=FRA                    |0|0|0|0|0|0|0|0|0+1|0}}
+{{Fb cs footer|s=[[#Competitions|Competitions]]|date=June 2017}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.chelseafc.com Chelsea FC official website]
+* [https://www.soccerbase.com/teams/team.sd?team_id=536 Chelsea FC on Soccerbase] {{webarchive |url=https://web.archive.org/web/20070627030941/http://www.soccerbase.com/teams2.sd?teamid=536 |date=2007-06-27}}
+* [https://web.archive.org/web/20011018222648/http://www.uefa.com/Competitions/UCL/FixturesResults/index.html UEFA Champions League]
+
+{{Chelsea F.C. seasons}}
+{{2007–08 in English football}}
+
+{{DEFAULTSORT:2007-08 Chelsea F.C. Season}}
+[[Category:Chelsea F.C. seasons]]
+[[Category:2007–08 Premier League by team|Chelsea]]

@@ -1,0 +1,2349 @@
+{
+ "generatedAt": "2026-10-07 17:27 ET",
+ "sourcesFetched": "2026-10-07",
+ "seasons": [
+  {
+   "season": "1990–91",
+   "start": 1990,
+   "division": "Div 1",
+   "pld": 38,
+   "w": 13,
+   "d": 10,
+   "l": 15,
+   "gf": 58,
+   "ga": 69,
+   "pts": 49,
+   "pos": 11,
+   "posText": "11th",
+   "faCup": "R3",
+   "leagueCup": "SF",
+   "other": {
+    "FM": "R3"
+   },
+   "topScorer": "Kerry DixonGordon Durie",
+   "topGoals": 15,
+   "src": "seasons",
+   "trophies": []
+  },
+  {
+   "season": "1991–92",
+   "start": 1991,
+   "division": "Div 1",
+   "pld": 42,
+   "w": 13,
+   "d": 14,
+   "l": 15,
+   "gf": 50,
+   "ga": 60,
+   "pts": 53,
+   "pos": 14,
+   "posText": "14th",
+   "faCup": "R6",
+   "leagueCup": "R2",
+   "other": {
+    "FM": "SF"
+   },
+   "topScorer": "Dennis Wise",
+   "topGoals": 14,
+   "src": "seasons",
+   "trophies": []
+  },
+  {
+   "season": "1992–93",
+   "start": 1992,
+   "division": "Prem",
+   "pld": 42,
+   "w": 14,
+   "d": 14,
+   "l": 14,
+   "gf": 51,
+   "ga": 54,
+   "pts": 56,
+   "pos": 11,
+   "posText": "11th",
+   "faCup": "R3",
+   "leagueCup": "R5",
+   "other": {},
+   "topScorer": "Mick Harford",
+   "topGoals": 11,
+   "src": "seasons",
+   "trophies": []
+  },
+  {
+   "season": "1993–94",
+   "start": 1993,
+   "division": "Prem",
+   "pld": 42,
+   "w": 13,
+   "d": 12,
+   "l": 17,
+   "gf": 49,
+   "ga": 53,
+   "pts": 51,
+   "pos": 14,
+   "posText": "14th",
+   "faCup": "RU",
+   "leagueCup": "R3",
+   "other": {},
+   "topScorer": "Gavin PeacockMark Stein",
+   "topGoals": 14,
+   "src": "seasons",
+   "trophies": []
+  },
+  {
+   "season": "1994–95",
+   "start": 1994,
+   "division": "Prem",
+   "pld": 42,
+   "w": 13,
+   "d": 15,
+   "l": 14,
+   "gf": 50,
+   "ga": 55,
+   "pts": 54,
+   "pos": 11,
+   "posText": "11th",
+   "faCup": "R4",
+   "leagueCup": "R3",
+   "other": {
+    "CWC": "SF"
+   },
+   "topScorer": "Paul FurlongJohn Spencer",
+   "topGoals": 13,
+   "src": "seasons",
+   "trophies": []
+  },
+  {
+   "season": "1995–96",
+   "start": 1995,
+   "division": "Prem",
+   "pld": 38,
+   "w": 12,
+   "d": 14,
+   "l": 12,
+   "gf": 46,
+   "ga": 44,
+   "pts": 50,
+   "pos": 11,
+   "posText": "11th",
+   "faCup": "SF",
+   "leagueCup": "R2",
+   "other": {},
+   "topScorer": "John Spencer",
+   "topGoals": 14,
+   "src": "seasons",
+   "trophies": []
+  },
+  {
+   "season": "1996–97",
+   "start": 1996,
+   "division": "Prem",
+   "pld": 38,
+   "w": 16,
+   "d": 11,
+   "l": 11,
+   "gf": 58,
+   "ga": 55,
+   "pts": 59,
+   "pos": 6,
+   "posText": "6th",
+   "faCup": "W",
+   "leagueCup": "R3",
+   "other": {},
+   "topScorer": "Mark Hughes",
+   "topGoals": 14,
+   "src": "seasons",
+   "trophies": [
+    "FA Cup"
+   ]
+  },
+  {
+   "season": "1997–98",
+   "start": 1997,
+   "division": "Prem",
+   "pld": 38,
+   "w": 20,
+   "d": 3,
+   "l": 15,
+   "gf": 71,
+   "ga": 43,
+   "pts": 63,
+   "pos": 4,
+   "posText": "4th",
+   "faCup": "R3",
+   "leagueCup": "W",
+   "other": {
+    "CS": "RU",
+    "CWC": "W"
+   },
+   "topScorer": "Gianluca Vialli",
+   "topGoals": 19,
+   "src": "seasons",
+   "trophies": [
+    "League Cup",
+    "Cup Winners' Cup"
+   ]
+  },
+  {
+   "season": "1998–99",
+   "start": 1998,
+   "division": "Prem",
+   "pld": 38,
+   "w": 20,
+   "d": 15,
+   "l": 3,
+   "gf": 57,
+   "ga": 30,
+   "pts": 75,
+   "pos": 3,
+   "posText": "3rd",
+   "faCup": "R6",
+   "leagueCup": "R5",
+   "other": {
+    "CWC": "SF",
+    "USC": "W"
+   },
+   "topScorer": "Gianfranco Zola",
+   "topGoals": 15,
+   "src": "seasons",
+   "trophies": [
+    "UEFA Super Cup"
+   ]
+  },
+  {
+   "season": "1999–2000",
+   "start": 1999,
+   "division": "Prem",
+   "pld": 38,
+   "w": 18,
+   "d": 11,
+   "l": 9,
+   "gf": 53,
+   "ga": 34,
+   "pts": 65,
+   "pos": 5,
+   "posText": "5th",
+   "faCup": "W",
+   "leagueCup": "R3",
+   "other": {
+    "UCL": "QF"
+   },
+   "topScorer": "Tore André Flo",
+   "topGoals": 19,
+   "src": "seasons",
+   "trophies": [
+    "FA Cup"
+   ]
+  },
+  {
+   "season": "2000–01",
+   "start": 2000,
+   "division": "Prem",
+   "pld": 38,
+   "w": 17,
+   "d": 10,
+   "l": 11,
+   "gf": 68,
+   "ga": 45,
+   "pts": 61,
+   "pos": 6,
+   "posText": "6th",
+   "faCup": "R5",
+   "leagueCup": "R3",
+   "other": {
+    "CS": "W",
+    "UEL": "R1"
+   },
+   "topScorer": "Jimmy Floyd Hasselbaink",
+   "topGoals": 26,
+   "src": "seasons",
+   "trophies": [
+    "Charity/Community Shield"
+   ]
+  },
+  {
+   "season": "2001–02",
+   "start": 2001,
+   "division": "Prem",
+   "pld": 38,
+   "w": 17,
+   "d": 13,
+   "l": 8,
+   "gf": 66,
+   "ga": 38,
+   "pts": 64,
+   "pos": 6,
+   "posText": "6th",
+   "faCup": "RU",
+   "leagueCup": "SF",
+   "other": {
+    "UEL": "R2"
+   },
+   "topScorer": "Jimmy Floyd Hasselbaink",
+   "topGoals": 29,
+   "src": "seasons",
+   "trophies": []
+  },
+  {
+   "season": "2002–03",
+   "start": 2002,
+   "division": "Prem",
+   "pld": 38,
+   "w": 19,
+   "d": 10,
+   "l": 9,
+   "gf": 68,
+   "ga": 38,
+   "pts": 67,
+   "pos": 4,
+   "posText": "4th",
+   "faCup": "R6",
+   "leagueCup": "R5",
+   "other": {
+    "UEL": "R1"
+   },
+   "topScorer": "Gianfranco Zola",
+   "topGoals": 16,
+   "src": "seasons",
+   "trophies": []
+  },
+  {
+   "season": "2003–04",
+   "start": 2003,
+   "division": "Prem",
+   "pld": 38,
+   "w": 24,
+   "d": 7,
+   "l": 7,
+   "gf": 67,
+   "ga": 30,
+   "pts": 79,
+   "pos": 2,
+   "posText": "2nd",
+   "faCup": "R5",
+   "leagueCup": "R5",
+   "other": {
+    "UCL": "SF"
+   },
+   "topScorer": "Jimmy Floyd Hasselbaink",
+   "topGoals": 17,
+   "src": "seasons",
+   "trophies": []
+  },
+  {
+   "season": "2004–05",
+   "start": 2004,
+   "division": "Prem",
+   "pld": 38,
+   "w": 29,
+   "d": 8,
+   "l": 1,
+   "gf": 72,
+   "ga": 15,
+   "pts": 95,
+   "pos": 1,
+   "posText": "1st",
+   "faCup": "R5",
+   "leagueCup": "W",
+   "other": {
+    "UCL": "SF"
+   },
+   "topScorer": "Frank Lampard",
+   "topGoals": 19,
+   "src": "seasons",
+   "trophies": [
+    "League title",
+    "League Cup"
+   ]
+  },
+  {
+   "season": "2005–06",
+   "start": 2005,
+   "division": "Prem",
+   "pld": 38,
+   "w": 29,
+   "d": 4,
+   "l": 5,
+   "gf": 72,
+   "ga": 22,
+   "pts": 91,
+   "pos": 1,
+   "posText": "1st",
+   "faCup": "SF",
+   "leagueCup": "R3",
+   "other": {
+    "CS": "W",
+    "UCL": "R16"
+   },
+   "topScorer": "Frank Lampard",
+   "topGoals": 20,
+   "src": "seasons",
+   "trophies": [
+    "League title",
+    "Charity/Community Shield"
+   ]
+  },
+  {
+   "season": "2006–07",
+   "start": 2006,
+   "division": "Prem",
+   "pld": 38,
+   "w": 24,
+   "d": 11,
+   "l": 3,
+   "gf": 64,
+   "ga": 24,
+   "pts": 83,
+   "pos": 2,
+   "posText": "2nd",
+   "faCup": "W",
+   "leagueCup": "W",
+   "other": {
+    "CS": "RU",
+    "UCL": "SF"
+   },
+   "topScorer": "Didier Drogba",
+   "topGoals": 33,
+   "src": "seasons",
+   "trophies": [
+    "FA Cup",
+    "League Cup"
+   ]
+  },
+  {
+   "season": "2007–08",
+   "start": 2007,
+   "division": "Prem",
+   "pld": 38,
+   "w": 25,
+   "d": 10,
+   "l": 3,
+   "gf": 65,
+   "ga": 26,
+   "pts": 85,
+   "pos": 2,
+   "posText": "2nd",
+   "faCup": "R6",
+   "leagueCup": "RU",
+   "other": {
+    "CS": "RU",
+    "UCL": "RU"
+   },
+   "topScorer": "Frank Lampard",
+   "topGoals": 20,
+   "src": "seasons",
+   "trophies": []
+  },
+  {
+   "season": "2008–09",
+   "start": 2008,
+   "division": "Prem",
+   "pld": 38,
+   "w": 25,
+   "d": 8,
+   "l": 5,
+   "gf": 68,
+   "ga": 24,
+   "pts": 83,
+   "pos": 3,
+   "posText": "3rd",
+   "faCup": "W",
+   "leagueCup": "R4",
+   "other": {
+    "UCL": "SF"
+   },
+   "topScorer": "Nicolas Anelka",
+   "topGoals": 25,
+   "src": "seasons",
+   "trophies": [
+    "FA Cup"
+   ]
+  },
+  {
+   "season": "2009–10",
+   "start": 2009,
+   "division": "Prem",
+   "pld": 38,
+   "w": 27,
+   "d": 5,
+   "l": 6,
+   "gf": 103,
+   "ga": 32,
+   "pts": 86,
+   "pos": 1,
+   "posText": "1st",
+   "faCup": "W",
+   "leagueCup": "R5",
+   "other": {
+    "CS": "W",
+    "UCL": "R16"
+   },
+   "topScorer": "Didier Drogba",
+   "topGoals": 37,
+   "src": "seasons",
+   "trophies": [
+    "League title",
+    "FA Cup",
+    "Charity/Community Shield"
+   ]
+  },
+  {
+   "season": "2010–11",
+   "start": 2010,
+   "division": "Prem",
+   "pld": 38,
+   "w": 21,
+   "d": 8,
+   "l": 9,
+   "gf": 69,
+   "ga": 33,
+   "pts": 71,
+   "pos": 2,
+   "posText": "2nd",
+   "faCup": "R4",
+   "leagueCup": "R3",
+   "other": {
+    "CS": "RU",
+    "UCL": "QF"
+   },
+   "topScorer": "Nicolas Anelka",
+   "topGoals": 16,
+   "src": "seasons",
+   "trophies": []
+  },
+  {
+   "season": "2011–12",
+   "start": 2011,
+   "division": "Prem",
+   "pld": 38,
+   "w": 18,
+   "d": 10,
+   "l": 10,
+   "gf": 65,
+   "ga": 46,
+   "pts": 64,
+   "pos": 6,
+   "posText": "6th",
+   "faCup": "W",
+   "leagueCup": "R5",
+   "other": {
+    "UCL": "W"
+   },
+   "topScorer": "Frank Lampard",
+   "topGoals": 16,
+   "src": "seasons",
+   "trophies": [
+    "FA Cup",
+    "Champions League"
+   ]
+  },
+  {
+   "season": "2012–13",
+   "start": 2012,
+   "division": "Prem",
+   "pld": 38,
+   "w": 22,
+   "d": 9,
+   "l": 7,
+   "gf": 75,
+   "ga": 39,
+   "pts": 75,
+   "pos": 3,
+   "posText": "3rd",
+   "faCup": "SF",
+   "leagueCup": "SF",
+   "other": {
+    "CS": "RU",
+    "UCL": "GS",
+    "UEL": "W",
+    "USC": "RU",
+    "FWC": "RU"
+   },
+   "topScorer": "Fernando Torres",
+   "topGoals": 22,
+   "src": "seasons",
+   "trophies": [
+    "UEFA Cup/Europa League"
+   ]
+  },
+  {
+   "season": "2013–14",
+   "start": 2013,
+   "division": "Prem",
+   "pld": 38,
+   "w": 25,
+   "d": 7,
+   "l": 6,
+   "gf": 71,
+   "ga": 27,
+   "pts": 82,
+   "pos": 3,
+   "posText": "3rd",
+   "faCup": "R5",
+   "leagueCup": "R5",
+   "other": {
+    "UCL": "SF",
+    "USC": "RU"
+   },
+   "topScorer": "Eden Hazard",
+   "topGoals": 17,
+   "src": "seasons",
+   "trophies": []
+  },
+  {
+   "season": "2014–15",
+   "start": 2014,
+   "division": "Prem",
+   "pld": 38,
+   "w": 26,
+   "d": 9,
+   "l": 3,
+   "gf": 73,
+   "ga": 32,
+   "pts": 87,
+   "pos": 1,
+   "posText": "1st",
+   "faCup": "R4",
+   "leagueCup": "W",
+   "other": {
+    "UCL": "R16"
+   },
+   "topScorer": "Diego Costa",
+   "topGoals": 21,
+   "src": "seasons",
+   "trophies": [
+    "League title",
+    "League Cup"
+   ]
+  },
+  {
+   "season": "2015–16",
+   "start": 2015,
+   "division": "Prem",
+   "pld": 38,
+   "w": 12,
+   "d": 14,
+   "l": 12,
+   "gf": 59,
+   "ga": 53,
+   "pts": 50,
+   "pos": 10,
+   "posText": "10th",
+   "faCup": "R6",
+   "leagueCup": "R4",
+   "other": {
+    "CS": "RU",
+    "UCL": "R16"
+   },
+   "topScorer": "Diego Costa",
+   "topGoals": 16,
+   "src": "seasons",
+   "trophies": []
+  },
+  {
+   "season": "2016–17",
+   "start": 2016,
+   "division": "Prem",
+   "pld": 38,
+   "w": 30,
+   "d": 3,
+   "l": 5,
+   "gf": 85,
+   "ga": 33,
+   "pts": 93,
+   "pos": 1,
+   "posText": "1st",
+   "faCup": "RU",
+   "leagueCup": "R4",
+   "other": {},
+   "topScorer": "Diego Costa",
+   "topGoals": 22,
+   "src": "seasons",
+   "trophies": [
+    "League title"
+   ]
+  },
+  {
+   "season": "2017–18",
+   "start": 2017,
+   "division": "Prem",
+   "pld": 38,
+   "w": 21,
+   "d": 7,
+   "l": 10,
+   "gf": 62,
+   "ga": 38,
+   "pts": 70,
+   "pos": 5,
+   "posText": "5th",
+   "faCup": "W",
+   "leagueCup": "SF",
+   "other": {
+    "CS": "RU",
+    "UCL": "R16"
+   },
+   "topScorer": "Eden Hazard",
+   "topGoals": 17,
+   "src": "seasons",
+   "trophies": [
+    "FA Cup"
+   ]
+  },
+  {
+   "season": "2018–19",
+   "start": 2018,
+   "division": "Prem",
+   "pld": 38,
+   "w": 21,
+   "d": 9,
+   "l": 8,
+   "gf": 63,
+   "ga": 39,
+   "pts": 72,
+   "pos": 3,
+   "posText": "3rd",
+   "faCup": "R5",
+   "leagueCup": "RU",
+   "other": {
+    "CS": "RU",
+    "UEL": "W"
+   },
+   "topScorer": "Eden Hazard",
+   "topGoals": 21,
+   "src": "seasons",
+   "trophies": [
+    "UEFA Cup/Europa League"
+   ]
+  },
+  {
+   "season": "2019–20",
+   "start": 2019,
+   "division": "Prem",
+   "pld": 38,
+   "w": 20,
+   "d": 6,
+   "l": 12,
+   "gf": 69,
+   "ga": 54,
+   "pts": 66,
+   "pos": 4,
+   "posText": "4th",
+   "faCup": "RU",
+   "leagueCup": "R4",
+   "other": {
+    "UCL": "R16",
+    "USC": "RU"
+   },
+   "topScorer": "Tammy Abraham",
+   "topGoals": 18,
+   "src": "seasons",
+   "trophies": []
+  },
+  {
+   "season": "2020–21",
+   "start": 2020,
+   "division": "Prem",
+   "pld": 38,
+   "w": 19,
+   "d": 10,
+   "l": 9,
+   "gf": 58,
+   "ga": 36,
+   "pts": 67,
+   "pos": 4,
+   "posText": "4th",
+   "faCup": "RU",
+   "leagueCup": "R4",
+   "other": {
+    "UCL": "W"
+   },
+   "topScorer": "Tammy AbrahamTimo Werner",
+   "topGoals": 12,
+   "src": "seasons",
+   "trophies": [
+    "Champions League"
+   ]
+  },
+  {
+   "season": "2021–22",
+   "start": 2021,
+   "division": "Prem",
+   "pld": 38,
+   "w": 21,
+   "d": 11,
+   "l": 6,
+   "gf": 76,
+   "ga": 33,
+   "pts": 74,
+   "pos": 3,
+   "posText": "3rd",
+   "faCup": "RU",
+   "leagueCup": "RU",
+   "other": {
+    "UCL": "QF",
+    "USC": "W",
+    "FWC": "W"
+   },
+   "topScorer": "Romelu Lukaku",
+   "topGoals": 15,
+   "src": "seasons",
+   "trophies": [
+    "UEFA Super Cup",
+    "FIFA Club World Cup"
+   ]
+  },
+  {
+   "season": "2022–23",
+   "start": 2022,
+   "division": "Prem",
+   "pld": 38,
+   "w": 11,
+   "d": 11,
+   "l": 16,
+   "gf": 38,
+   "ga": 47,
+   "pts": 44,
+   "pos": 12,
+   "posText": "12th",
+   "faCup": "R3",
+   "leagueCup": "R3",
+   "other": {
+    "UCL": "QF"
+   },
+   "topScorer": "Kai HavertzRaheem Sterling",
+   "topGoals": 9,
+   "src": "seasons",
+   "trophies": []
+  },
+  {
+   "season": "2023–24",
+   "start": 2023,
+   "division": "Prem",
+   "pld": 38,
+   "w": 18,
+   "d": 9,
+   "l": 11,
+   "gf": 77,
+   "ga": 63,
+   "pts": 63,
+   "pos": 6,
+   "posText": "6th",
+   "faCup": "SF",
+   "leagueCup": "RU",
+   "other": {},
+   "topScorer": "Cole Palmer",
+   "topGoals": 25,
+   "src": "seasons",
+   "trophies": []
+  },
+  {
+   "season": "2024–25",
+   "start": 2024,
+   "division": "Prem",
+   "pld": 38,
+   "w": 20,
+   "d": 9,
+   "l": 9,
+   "gf": 64,
+   "ga": 43,
+   "pts": 69,
+   "pos": 4,
+   "posText": "4th",
+   "faCup": "R4",
+   "leagueCup": "R4",
+   "other": {
+    "UEC": "W",
+    "FWC": "W"
+   },
+   "topScorer": "Cole Palmer",
+   "topGoals": 18,
+   "src": "seasons",
+   "trophies": [
+    "Conference League",
+    "FIFA Club World Cup"
+   ]
+  },
+  {
+   "season": "2025–26",
+   "start": 2025,
+   "division": "Prem",
+   "pld": 38,
+   "w": 14,
+   "d": 10,
+   "l": 14,
+   "gf": 58,
+   "ga": 52,
+   "pts": 52,
+   "pos": 10,
+   "posText": "10th",
+   "faCup": "RU",
+   "leagueCup": "SF",
+   "other": {
+    "UCL": "R16"
+   },
+   "topScorer": "João Pedro",
+   "topGoals": 20,
+   "src": "seasons",
+   "trophies": []
+  }
+ ],
+ "managers": [
+  {
+   "name": "Bobby Campbell",
+   "nationality": "England",
+   "from": "6 March 1988",
+   "to": "12 May 1991",
+   "games": 165,
+   "winPct": 46.67,
+   "honours": [
+    "1988–89 Second Division 1990 Full Members' Cup"
+   ],
+   "src": "managers"
+  },
+  {
+   "name": "Ian Porterfield",
+   "nationality": "Scotland",
+   "from": "11 June 1991",
+   "to": "15 February 1993",
+   "games": 90,
+   "winPct": 34.44,
+   "honours": [],
+   "src": "managers"
+  },
+  {
+   "name": "David Webb",
+   "nationality": "England",
+   "from": "15 February 1993",
+   "to": "11 May 1993",
+   "games": 13,
+   "winPct": 38.46,
+   "honours": [],
+   "src": "managers"
+  },
+  {
+   "name": "Glenn Hoddle",
+   "nationality": "England",
+   "from": "4 June 1993",
+   "to": "10 May 1996",
+   "games": 157,
+   "winPct": 33.76,
+   "honours": [],
+   "src": "managers"
+  },
+  {
+   "name": "Ruud Gullit",
+   "nationality": "Netherlands",
+   "from": "10 May 1996",
+   "to": "12 February 1998",
+   "games": 83,
+   "winPct": 49.4,
+   "honours": [
+    "1997 FA Cup"
+   ],
+   "src": "managers"
+  },
+  {
+   "name": "Gianluca Vialli",
+   "nationality": "Italy",
+   "from": "12 February 1998",
+   "to": "12 September 2000",
+   "games": 143,
+   "winPct": 53.15,
+   "honours": [
+    "1998 Football League Cup 1998 UEFA Cup Winners' Cup 1998 UEFA Super Cup 2000 FA Cup 2000 FA Charity Shield"
+   ],
+   "src": "managers"
+  },
+  {
+   "name": "Graham Rix",
+   "nationality": "England",
+   "from": "13 September 2000",
+   "to": "17 September 2000",
+   "games": 2,
+   "winPct": 50.0,
+   "honours": [],
+   "src": "managers"
+  },
+  {
+   "name": "Claudio Ranieri",
+   "nationality": "Italy",
+   "from": "18 September 2000",
+   "to": "31 May 2004",
+   "games": 199,
+   "winPct": 53.77,
+   "honours": [],
+   "src": "managers"
+  },
+  {
+   "name": "José Mourinho",
+   "nationality": "Portugal",
+   "from": "2 June 2004",
+   "to": "20 September 2007",
+   "games": 185,
+   "winPct": 67.03,
+   "honours": [
+    "2005 Football League Cup 2004–05 Premier League 2005 FA Community Shield 2005–06 Premier League 2007 Football League Cup 2007 FA Cup"
+   ],
+   "src": "managers"
+  },
+  {
+   "name": "Avram Grant",
+   "nationality": "Israel",
+   "from": "20 September 2007",
+   "to": "24 May 2008",
+   "games": 54,
+   "winPct": 66.67,
+   "honours": [],
+   "src": "managers"
+  },
+  {
+   "name": "Luiz Felipe Scolari",
+   "nationality": "Brazil",
+   "from": "1 July 2008",
+   "to": "9 February 2009",
+   "games": 36,
+   "winPct": 55.56,
+   "honours": [],
+   "src": "managers"
+  },
+  {
+   "name": "Ray Wilkins",
+   "nationality": "England",
+   "from": "9 February 2009",
+   "to": "16 February 2009",
+   "games": 1,
+   "winPct": 100.0,
+   "honours": [],
+   "src": "managers"
+  },
+  {
+   "name": "Guus Hiddink",
+   "nationality": "Netherlands",
+   "from": "16 February 2009",
+   "to": "31 May 2009",
+   "games": 22,
+   "winPct": 72.73,
+   "honours": [
+    "2009 FA Cup"
+   ],
+   "src": "managers"
+  },
+  {
+   "name": "Carlo Ancelotti",
+   "nationality": "Italy",
+   "from": "1 July 2009",
+   "to": "22 May 2011",
+   "games": 109,
+   "winPct": 61.47,
+   "honours": [
+    "2009 FA Community Shield 2009–10 Premier League 2010 FA Cup"
+   ],
+   "src": "managers"
+  },
+  {
+   "name": "André Villas-Boas",
+   "nationality": "Portugal",
+   "from": "22 June 2011",
+   "to": "4 March 2012",
+   "games": 40,
+   "winPct": 47.5,
+   "honours": [],
+   "src": "managers"
+  },
+  {
+   "name": "Roberto Di Matteo",
+   "nationality": "Italy",
+   "from": "4 March 2012",
+   "to": "21 November 2012",
+   "games": 42,
+   "winPct": 57.14,
+   "honours": [
+    "2012 FA Cup 2012 UEFA Champions League"
+   ],
+   "src": "managers"
+  },
+  {
+   "name": "Rafael Benítez",
+   "nationality": "Spain",
+   "from": "21 November 2012",
+   "to": "29 May 2013",
+   "games": 48,
+   "winPct": 58.33,
+   "honours": [
+    "2013 UEFA Europa League"
+   ],
+   "src": "managers"
+  },
+  {
+   "name": "José Mourinho (2)",
+   "nationality": "Portugal",
+   "from": "3 June 2013",
+   "to": "17 December 2015",
+   "games": 136,
+   "winPct": 58.82,
+   "honours": [
+    "2015 Football League Cup 2014–15 Premier League"
+   ],
+   "src": "managers"
+  },
+  {
+   "name": "Steve Holland",
+   "nationality": "England",
+   "from": "18 December 2015",
+   "to": "20 December 2015",
+   "games": 1,
+   "winPct": 100.0,
+   "honours": [],
+   "src": "managers"
+  },
+  {
+   "name": "Guus Hiddink (2)",
+   "nationality": "Netherlands",
+   "from": "20 December 2015",
+   "to": "3 July 2016",
+   "games": 27,
+   "winPct": 37.04,
+   "honours": [],
+   "src": "managers"
+  },
+  {
+   "name": "Antonio Conte",
+   "nationality": "Italy",
+   "from": "3 July 2016",
+   "to": "13 July 2018",
+   "games": 106,
+   "winPct": 65.09,
+   "honours": [
+    "2016–17 Premier League 2018 FA Cup"
+   ],
+   "src": "managers"
+  },
+  {
+   "name": "Maurizio Sarri",
+   "nationality": "Italy",
+   "from": "14 July 2018",
+   "to": "16 June 2019",
+   "games": 63,
+   "winPct": 61.9,
+   "honours": [
+    "2019 UEFA Europa League"
+   ],
+   "src": "managers"
+  },
+  {
+   "name": "Frank Lampard",
+   "nationality": "England",
+   "from": "4 July 2019",
+   "to": "25 January 2021",
+   "games": 84,
+   "winPct": 52.38,
+   "honours": [],
+   "src": "managers"
+  },
+  {
+   "name": "Thomas Tuchel",
+   "nationality": "Germany",
+   "from": "26 January 2021",
+   "to": "7 September 2022",
+   "games": 100,
+   "winPct": 60.0,
+   "honours": [
+    "2021 UEFA Champions League 2021 UEFA Super Cup 2021 FIFA Club World Cup"
+   ],
+   "src": "managers"
+  },
+  {
+   "name": "Graham Potter",
+   "nationality": "England",
+   "from": "8 September 2022",
+   "to": "2 April 2023",
+   "games": 31,
+   "winPct": 38.71,
+   "honours": [],
+   "src": "managers"
+  },
+  {
+   "name": "Bruno Saltor",
+   "nationality": "Spain",
+   "from": "2 April 2023",
+   "to": "6 April 2023",
+   "games": 1,
+   "winPct": 0.0,
+   "honours": [],
+   "src": "managers"
+  },
+  {
+   "name": "Frank Lampard (2)",
+   "nationality": "England",
+   "from": "6 April 2023",
+   "to": "30 June 2023",
+   "games": 11,
+   "winPct": 9.09,
+   "honours": [],
+   "src": "managers"
+  },
+  {
+   "name": "Mauricio Pochettino",
+   "nationality": "Argentina",
+   "from": "1 July 2023",
+   "to": "21 May 2024",
+   "games": 51,
+   "winPct": 50.98,
+   "honours": [],
+   "src": "managers"
+  },
+  {
+   "name": "Enzo Maresca",
+   "nationality": "Italy",
+   "from": "1 July 2024",
+   "to": "1 January 2026",
+   "games": 92,
+   "winPct": 59.78,
+   "honours": [
+    "2025 UEFA Conference League 2025 FIFA Club World Cup"
+   ],
+   "src": "managers"
+  },
+  {
+   "name": "Calum McFarlane",
+   "nationality": "England",
+   "from": "1 January 2026",
+   "to": "8 January 2026",
+   "games": 2,
+   "winPct": 0.0,
+   "honours": [],
+   "src": "managers"
+  },
+  {
+   "name": "Liam Rosenior",
+   "nationality": "England",
+   "from": "8 January 2026",
+   "to": "22 April 2026",
+   "games": 23,
+   "winPct": 47.83,
+   "honours": [],
+   "src": "managers"
+  },
+  {
+   "name": "Calum McFarlane (2)",
+   "nationality": "England",
+   "from": "22 April 2026",
+   "to": "1 June 2026",
+   "games": 6,
+   "winPct": 33.33,
+   "honours": [],
+   "src": "managers"
+  },
+  {
+   "name": "Xabi Alonso",
+   "nationality": "Spain",
+   "from": "1 July 2026",
+   "to": "Present",
+   "games": 7,
+   "winPct": 57.14,
+   "honours": [],
+   "src": "managers"
+  }
+ ],
+ "playerOfSeason": [
+  {
+   "year": 1991,
+   "player": "Andy Townsend",
+   "nationality": "Ireland",
+   "position": "Midfielder",
+   "src": "pots"
+  },
+  {
+   "year": 1992,
+   "player": "Paul Elliott",
+   "nationality": "England",
+   "position": "Defender",
+   "src": "pots"
+  },
+  {
+   "year": 1993,
+   "player": "Frank Sinclair",
+   "nationality": "Jamaica",
+   "position": "Defender",
+   "src": "pots"
+  },
+  {
+   "year": 1994,
+   "player": "Steve Clarke",
+   "nationality": "Scotland",
+   "position": "Defender",
+   "src": "pots"
+  },
+  {
+   "year": 1995,
+   "player": "Erland Johnsen",
+   "nationality": "Norway",
+   "position": "Defender",
+   "src": "pots"
+  },
+  {
+   "year": 1996,
+   "player": "Ruud Gullit",
+   "nationality": "Netherlands",
+   "position": "Midfielder",
+   "src": "pots"
+  },
+  {
+   "year": 1997,
+   "player": "Mark Hughes",
+   "nationality": "Wales",
+   "position": "Forward",
+   "src": "pots"
+  },
+  {
+   "year": 1998,
+   "player": "Dennis Wise",
+   "nationality": "England",
+   "position": "Midfielder",
+   "src": "pots"
+  },
+  {
+   "year": 1999,
+   "player": "Gianfranco Zola",
+   "nationality": "Italy",
+   "position": "Forward",
+   "src": "pots"
+  },
+  {
+   "year": 2000,
+   "player": "Dennis Wise",
+   "nationality": "England",
+   "position": "Midfielder",
+   "src": "pots"
+  },
+  {
+   "year": 2001,
+   "player": "John Terry",
+   "nationality": "England",
+   "position": "Defender",
+   "src": "pots"
+  },
+  {
+   "year": 2002,
+   "player": "Carlo Cudicini",
+   "nationality": "Italy",
+   "position": "Goalkeeper",
+   "src": "pots"
+  },
+  {
+   "year": 2003,
+   "player": "Gianfranco Zola",
+   "nationality": "Italy",
+   "position": "Forward",
+   "src": "pots"
+  },
+  {
+   "year": 2004,
+   "player": "Frank Lampard",
+   "nationality": "England",
+   "position": "Midfielder",
+   "src": "pots"
+  },
+  {
+   "year": 2005,
+   "player": "Frank Lampard",
+   "nationality": "England",
+   "position": "Midfielder",
+   "src": "pots"
+  },
+  {
+   "year": 2006,
+   "player": "John Terry",
+   "nationality": "England",
+   "position": "Defender",
+   "src": "pots"
+  },
+  {
+   "year": 2007,
+   "player": "Michael Essien",
+   "nationality": "Ghana",
+   "position": "Midfielder",
+   "src": "pots"
+  },
+  {
+   "year": 2008,
+   "player": "Joe Cole",
+   "nationality": "England",
+   "position": "Midfielder",
+   "src": "pots"
+  },
+  {
+   "year": 2009,
+   "player": "Frank Lampard",
+   "nationality": "England",
+   "position": "Midfielder",
+   "src": "pots"
+  },
+  {
+   "year": 2010,
+   "player": "Didier Drogba",
+   "nationality": "Ivory Coast",
+   "position": "Forward",
+   "src": "pots"
+  },
+  {
+   "year": 2011,
+   "player": "Petr Čech",
+   "nationality": "Czech Republic",
+   "position": "Goalkeeper",
+   "src": "pots"
+  },
+  {
+   "year": 2012,
+   "player": "Juan Mata",
+   "nationality": "Spain",
+   "position": "Midfielder",
+   "src": "pots"
+  },
+  {
+   "year": 2013,
+   "player": "Juan Mata",
+   "nationality": "Spain",
+   "position": "Midfielder",
+   "src": "pots"
+  },
+  {
+   "year": 2014,
+   "player": "Eden Hazard",
+   "nationality": "Belgium",
+   "position": "Forward",
+   "src": "pots"
+  },
+  {
+   "year": 2015,
+   "player": "Eden Hazard",
+   "nationality": "Belgium",
+   "position": "Forward",
+   "src": "pots"
+  },
+  {
+   "year": 2016,
+   "player": "Willian",
+   "nationality": "Brazil",
+   "position": "Forward",
+   "src": "pots"
+  },
+  {
+   "year": 2017,
+   "player": "Eden Hazard",
+   "nationality": "Belgium",
+   "position": "Forward",
+   "src": "pots"
+  },
+  {
+   "year": 2018,
+   "player": "N'Golo Kanté",
+   "nationality": "France",
+   "position": "Midfielder",
+   "src": "pots"
+  },
+  {
+   "year": 2019,
+   "player": "Eden Hazard",
+   "nationality": "Belgium",
+   "position": "Forward",
+   "src": "pots"
+  },
+  {
+   "year": 2020,
+   "player": "Mateo Kovačić",
+   "nationality": "Croatia",
+   "position": "Midfielder",
+   "src": "pots"
+  },
+  {
+   "year": 2021,
+   "player": "Mason Mount",
+   "nationality": "England",
+   "position": "Midfielder",
+   "src": "pots"
+  },
+  {
+   "year": 2022,
+   "player": "Mason Mount",
+   "nationality": "England",
+   "position": "Midfielder",
+   "src": "pots"
+  },
+  {
+   "year": 2023,
+   "player": "Thiago Silva",
+   "nationality": "Brazil",
+   "position": "Defender",
+   "src": "pots"
+  },
+  {
+   "year": 2024,
+   "player": "Cole Palmer",
+   "nationality": "England",
+   "position": "Midfielder",
+   "src": "pots"
+  },
+  {
+   "year": 2025,
+   "player": "Moisés Caicedo",
+   "nationality": "Ecuador",
+   "position": "Midfielder",
+   "src": "pots"
+  },
+  {
+   "year": 2026,
+   "player": "João Pedro",
+   "nationality": "Brazil",
+   "position": "Forward",
+   "src": "pots"
+  }
+ ],
+ "honours": [
+  {
+   "honour": "Football League First Division / Premier League",
+   "count": 6,
+   "years": "1954–55, 2004–05, 2005–06, 2009–10, 2014–15, 2016–17",
+   "src": "records"
+  },
+  {
+   "honour": "Football League Second Division",
+   "count": 2,
+   "years": "1983–84, 1988–89",
+   "src": "records"
+  },
+  {
+   "honour": "FA Cup",
+   "count": 8,
+   "years": "1970, 1997, 2000, 2007, 2009, 2010, 2012, 2018",
+   "src": "records"
+  },
+  {
+   "honour": "League Cup",
+   "count": 5,
+   "years": "1965, 1998, 2005, 2007, 2015",
+   "src": "records"
+  },
+  {
+   "honour": "FA Charity Shield / FA Community Shield",
+   "count": 4,
+   "years": "1955, 2000, 2005, 2009",
+   "src": "records"
+  },
+  {
+   "honour": "Full Members' Cup",
+   "count": 2,
+   "years": "1986, 1990",
+   "src": "records"
+  },
+  {
+   "honour": "UEFA Champions League",
+   "count": 2,
+   "years": "2012, 2021",
+   "src": "records"
+  },
+  {
+   "honour": "UEFA Europa League",
+   "count": 2,
+   "years": "2013, 2019",
+   "src": "records"
+  },
+  {
+   "honour": "UEFA Conference League",
+   "count": 1,
+   "years": "2025",
+   "src": "records"
+  },
+  {
+   "honour": "European Cup Winners' Cup / UEFA Cup Winners' Cup",
+   "count": 2,
+   "years": "1971, 1998",
+   "src": "records"
+  },
+  {
+   "honour": "UEFA Super Cup",
+   "count": 2,
+   "years": "1998, 2021",
+   "src": "records"
+  },
+  {
+   "honour": "FIFA Club World Cup",
+   "count": 2,
+   "years": "2021, 2025",
+   "src": "records"
+  }
+ ],
+ "legends": [
+  {
+   "name": "John Terry",
+   "years": "1998–2017",
+   "apps": 717,
+   "appsRank": 3,
+   "goals": null,
+   "goalsRank": null,
+   "src": "records"
+  },
+  {
+   "name": "Frank Lampard",
+   "years": "2001–2014",
+   "apps": 648,
+   "appsRank": 4,
+   "goals": 211,
+   "goalsRank": 1,
+   "src": "records"
+  },
+  {
+   "name": "César Azpilicueta",
+   "years": "2012–2023",
+   "apps": 508,
+   "appsRank": 6,
+   "goals": null,
+   "goalsRank": null,
+   "src": "records"
+  },
+  {
+   "name": "Petr Čech",
+   "years": "2004–2015",
+   "apps": 494,
+   "appsRank": 7,
+   "goals": null,
+   "goalsRank": null,
+   "src": "records"
+  },
+  {
+   "name": "Dennis Wise",
+   "years": "1990–2001",
+   "apps": 445,
+   "appsRank": 8,
+   "goals": null,
+   "goalsRank": null,
+   "src": "records"
+  },
+  {
+   "name": "Steve Clarke",
+   "years": "1987–1998",
+   "apps": 421,
+   "appsRank": 9,
+   "goals": null,
+   "goalsRank": null,
+   "src": "records"
+  },
+  {
+   "name": "Kerry Dixon",
+   "years": "1983–1992",
+   "apps": 420,
+   "appsRank": 10,
+   "goals": 193,
+   "goalsRank": 3,
+   "src": "records"
+  },
+  {
+   "name": "Didier Drogba",
+   "years": "2004–2012 2014–2015",
+   "apps": 381,
+   "appsRank": null,
+   "goals": 164,
+   "goalsRank": 4,
+   "src": "records"
+  },
+  {
+   "name": "Eden Hazard",
+   "years": "2012–2019",
+   "apps": 352,
+   "appsRank": null,
+   "goals": 110,
+   "goalsRank": 9,
+   "src": "records"
+  }
+ ],
+ "matches": [
+  {
+   "id": "1997_FA_Cup_final",
+   "date": "1997-05-17",
+   "competition": "FA Cup final",
+   "manager": "Gullit era",
+   "team1": "Chelsea",
+   "team2": "Middlesbrough",
+   "score": "2–0",
+   "aet": false,
+   "penalties": null,
+   "chelseaScorers": [
+    "Di Matteo 1'",
+    "Newton 83'"
+   ],
+   "opponentScorers": [],
+   "opponent": "Middlesbrough",
+   "result": "W",
+   "stadium": "Wembley Stadium, London",
+   "src": "final:1997_FA_Cup_final"
+  },
+  {
+   "id": "1998_UEFA_Cup_Winners'_Cup_final",
+   "date": "1998-05-13",
+   "competition": "Cup Winners' Cup final",
+   "manager": "Vialli era",
+   "team1": "Chelsea",
+   "team2": "VfB Stuttgart",
+   "score": "1–0",
+   "aet": false,
+   "penalties": null,
+   "chelseaScorers": [
+    "Zola 71'"
+   ],
+   "opponentScorers": [],
+   "opponent": "VfB Stuttgart",
+   "result": "W",
+   "stadium": "Råsunda Stadium, Stockholm",
+   "src": "final:1998_UEFA_Cup_Winners'_Cup_final"
+  },
+  {
+   "id": "2000_FA_Cup_final",
+   "date": "2000-05-20",
+   "competition": "FA Cup final",
+   "manager": "Vialli era",
+   "team1": "Chelsea",
+   "team2": "Aston Villa",
+   "score": "1–0",
+   "aet": false,
+   "penalties": null,
+   "chelseaScorers": [
+    "Di Matteo 73'"
+   ],
+   "opponentScorers": [],
+   "opponent": "Aston Villa",
+   "result": "W",
+   "stadium": "Wembley Stadium, London",
+   "src": "final:2000_FA_Cup_final"
+  },
+  {
+   "id": "2005_Football_League_Cup_final",
+   "date": "2005-02-27",
+   "competition": "League Cup final",
+   "manager": "Mourinho era",
+   "team1": "Liverpool",
+   "team2": "Chelsea",
+   "score": "2–3",
+   "aet": true,
+   "penalties": null,
+   "chelseaScorers": [
+    "Gerrard 79' (o.g.)",
+    "Drogba 107'",
+    "Kežman 112'"
+   ],
+   "opponentScorers": [
+    "Riise 1'",
+    "Núñez 113'"
+   ],
+   "opponent": "Liverpool",
+   "result": "W",
+   "stadium": "Millennium Stadium, Cardiff",
+   "src": "final:2005_Football_League_Cup_final"
+  },
+  {
+   "id": "2008_UEFA_Champions_League_final",
+   "date": "2008-05-21",
+   "competition": "Champions League final",
+   "manager": "Grant",
+   "team1": "Manchester United",
+   "team2": "Chelsea",
+   "score": "1–1",
+   "aet": true,
+   "penalties": "6–5",
+   "chelseaScorers": [
+    "Lampard 45'"
+   ],
+   "opponentScorers": [
+    "Ronaldo 26'"
+   ],
+   "opponent": "Manchester United",
+   "result": "L",
+   "stadium": "Luzhniki Stadium, Moscow",
+   "src": "final:2008_UEFA_Champions_League_final"
+  },
+  {
+   "id": "2010_FA_Cup_final",
+   "date": "2010-05-15",
+   "competition": "FA Cup final (completing the Double)",
+   "manager": "Ancelotti era",
+   "team1": "Chelsea",
+   "team2": "Portsmouth",
+   "score": "1–0",
+   "aet": false,
+   "penalties": null,
+   "chelseaScorers": [
+    "Drogba 59'"
+   ],
+   "opponentScorers": [],
+   "opponent": "Portsmouth",
+   "result": "W",
+   "stadium": "Wembley Stadium, London",
+   "src": "final:2010_FA_Cup_final"
+  },
+  {
+   "id": "2012_UEFA_Champions_League_final",
+   "date": "2012-05-19",
+   "competition": "Champions League final",
+   "manager": "Di Matteo",
+   "team1": "Bayern Munich",
+   "team2": "Chelsea",
+   "score": "1–1",
+   "aet": true,
+   "penalties": "3–4",
+   "chelseaScorers": [
+    "Drogba 88'"
+   ],
+   "opponentScorers": [
+    "Müller 83'"
+   ],
+   "opponent": "Bayern Munich",
+   "result": "W",
+   "stadium": "Allianz Arena, Munich",
+   "src": "final:2012_UEFA_Champions_League_final"
+  },
+  {
+   "id": "2013_UEFA_Europa_League_final",
+   "date": "2013-05-15",
+   "competition": "Europa League final",
+   "manager": "Benítez",
+   "team1": "Benfica",
+   "team2": "Chelsea",
+   "score": "1–2",
+   "aet": false,
+   "penalties": null,
+   "chelseaScorers": [
+    "Torres 60'",
+    "Ivanović 90+3'"
+   ],
+   "opponentScorers": [
+    "Cardozo 68'"
+   ],
+   "opponent": "Benfica",
+   "result": "W",
+   "stadium": "Amsterdam Arena, Amsterdam",
+   "src": "final:2013_UEFA_Europa_League_final"
+  },
+  {
+   "id": "2019_UEFA_Europa_League_final",
+   "date": "2019-05-29",
+   "competition": "Europa League final",
+   "manager": "Sarri",
+   "team1": "Chelsea",
+   "team2": "Arsenal",
+   "score": "4–1",
+   "aet": false,
+   "penalties": null,
+   "chelseaScorers": [
+    "Giroud 49'",
+    "Pedro 60'",
+    "Hazard 65', 72'"
+   ],
+   "opponentScorers": [
+    "Iwobi 69'"
+   ],
+   "opponent": "Arsenal",
+   "result": "W",
+   "stadium": "Olympic Stadium, Baku",
+   "src": "final:2019_UEFA_Europa_League_final"
+  },
+  {
+   "id": "2021_UEFA_Champions_League_final",
+   "date": "2021-05-29",
+   "competition": "Champions League final",
+   "manager": "Tuchel",
+   "team1": "Manchester City",
+   "team2": "Chelsea",
+   "score": "0–1",
+   "aet": false,
+   "penalties": null,
+   "chelseaScorers": [
+    "Havertz 42'"
+   ],
+   "opponentScorers": [],
+   "opponent": "Manchester City",
+   "result": "W",
+   "stadium": "Estádio do Dragão, Porto",
+   "src": "final:2021_UEFA_Champions_League_final"
+  },
+  {
+   "id": "2025_UEFA_Conference_League_final",
+   "date": "2025-05-28",
+   "competition": "Conference League final",
+   "manager": "Maresca",
+   "team1": "Real Betis",
+   "team2": "Chelsea",
+   "score": "1–4",
+   "aet": false,
+   "penalties": null,
+   "chelseaScorers": [
+    "Fernández 65'",
+    "Jackson 70'",
+    "Sancho 83'",
+    "Caicedo 90+1'"
+   ],
+   "opponentScorers": [
+    "Ezzalzouli 9'"
+   ],
+   "opponent": "Real Betis",
+   "result": "W",
+   "stadium": "Wrocław Stadium, Wrocław",
+   "src": "final:2025_UEFA_Conference_League_final"
+  },
+  {
+   "id": "2025_FIFA_Club_World_Cup_final",
+   "date": "2025-07-13",
+   "competition": "FIFA Club World Cup final",
+   "manager": "Maresca",
+   "team1": "Chelsea",
+   "team2": "Paris Saint-Germain",
+   "score": "3–0",
+   "aet": false,
+   "penalties": null,
+   "chelseaScorers": [
+    "Palmer 22', 30'",
+    "João Pedro 43'"
+   ],
+   "opponentScorers": [],
+   "opponent": "Paris Saint-Germain",
+   "result": "W",
+   "stadium": "MetLife Stadium, East Rutherford",
+   "src": "final:2025_FIFA_Club_World_Cup_final"
+  }
+ ],
+ "thisDay": {
+  "month": 10,
+  "day": 7,
+  "items": [
+   {
+    "date": "1992-10-07",
+    "season": "1992–93",
+    "competition": "League Cup",
+    "round": "R2 Second Leg",
+    "team1": "Chelsea",
+    "team2": "Walsall",
+    "score": "1–0 (won 4–0 on agg)",
+    "chelseaScorers": [
+     "Fleck (pen) 73'"
+    ],
+    "stadium": "",
+    "attendance": "7,646",
+    "src": "season:1992–93"
+   },
+   {
+    "date": "2007-10-07",
+    "season": "2007–08",
+    "competition": "Matches",
+    "round": "9",
+    "team1": "Bolton Wanderers",
+    "team2": "Chelsea",
+    "score": "0–1",
+    "chelseaScorers": [
+     "Kalou 40'"
+    ],
+    "stadium": "Reebok Stadium, Middlebrook",
+    "attendance": "20,059",
+    "src": "season:2007–08"
+   },
+   {
+    "date": "2018-10-07",
+    "season": "2018–19",
+    "competition": "Matches",
+    "round": "8",
+    "team1": "Southampton",
+    "team2": "Chelsea",
+    "score": "0–3",
+    "chelseaScorers": [
+     "Hazard 30'",
+     "Barkley 57'",
+     "Morata 90+3'"
+    ],
+    "stadium": "St Mary's Stadium",
+    "attendance": "27,077",
+    "src": "season:2018–19"
+   },
+   {
+    "date": "2023-10-07",
+    "season": "2023–24",
+    "competition": "Matches",
+    "round": "8",
+    "team1": "Burnley",
+    "team2": "Chelsea",
+    "score": "1–4",
+    "chelseaScorers": [
+     "Al-Dakhil 42' (o.g.)",
+     "Palmer 50'",
+     "Sterling 65'",
+     "Jackson 74'"
+    ],
+    "stadium": "Turf Moor",
+    "attendance": "21,654",
+    "src": "season:2023–24"
+   }
+  ]
+ },
+ "eras": [
+  {
+   "id": "bates",
+   "title": "Survival to silverware",
+   "years": "1990–2003",
+   "range": [
+    1990,
+    2003
+   ],
+   "summary": "The Bates years: Stamford Bridge saved, the Premier League arrives, and the Gullit–Vialli cup teams end a long wait for honours.",
+   "evidence": [
+    "Bates reunited the stadium freehold with the club in 1992",
+    "The appointment of Ruud Gullit as player-manager in 1996 began an upturn in the team's fortunes",
+    "led the club to their first major honour since 1971, the FA Cup",
+    "whose reign saw Chelsea win the League Cup, the UEFA Cup Winners' Cup and the UEFA Super Cup in 1998, and the FA Cup in 2000"
+   ],
+   "src": "club",
+   "evidenceFound": [
+    true,
+    true,
+    true,
+    true
+   ]
+  },
+  {
+   "id": "abramovich",
+   "title": "The Abramovich era",
+   "years": "2003–2022",
+   "range": [
+    2003,
+    2021
+   ],
+   "summary": "A takeover in June 2003, then league titles, Doubles, and Chelsea's first European Cup in Munich.",
+   "evidence": [
+    "Bates unexpectedly sold Chelsea F.C. in June 2003 for £60 million",
+    "Under Mourinho, Chelsea became the fifth English team to win back-to-back league championships since the Second World War (2004–05 and 2005–06)",
+    "Carlo Ancelotti led them to their first Premier League and FA Cup Double, becoming the first English top-flight club to score 100 league goals in a season since 1963",
+    "their first UEFA Champions League title, beating Bayern Munich 4–3 on penalties, the first London club to win the trophy",
+    "making them the first club to hold two major European titles simultaneously",
+    "won their second UEFA Champions League title with a 1–0 win over Manchester City in Porto"
+   ],
+   "src": "club",
+   "evidenceFound": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+   ]
+  },
+  {
+   "id": "blueco",
+   "title": "BlueCo and the rebuild",
+   "years": "2022–now",
+   "range": [
+    2022,
+    2026
+   ],
+   "summary": "New owners, a record-low season, then a Conference League and the expanded Club World Cup; Xabi Alonso takes over in 2026.",
+   "evidence": [
+    "The UK government approved the £4.25bn takeover, ending Abramovich's 19-year ownership of the club",
+    "Chelsea scored a record-low 38 goals across the entire season and finished in the bottom half of the table for the first time since 1995–96",
+    "After winning the UEFA Conference League in 2025, Chelsea became the first club to win all four main UEFA competitions",
+    "Chelsea secured the trophy with a 3–0 win over Champions League winners Paris Saint-Germain in the final",
+    "On 17 May 2026, Xabi Alonso was appointed as the new Chelsea manager on a four-year contract, starting from 1 July 2026"
+   ],
+   "src": "club",
+   "evidenceFound": [
+    true,
+    true,
+    true,
+    true,
+    true
+   ]
+  }
+ ],
+ "sources": {
+  "seasons": {
+   "title": "List of Chelsea F.C. seasons",
+   "url": "https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._seasons",
+   "fetched": "2026-10-07"
+  },
+  "managers": {
+   "title": "List of Chelsea F.C. managers",
+   "url": "https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._managers",
+   "fetched": "2026-10-07"
+  },
+  "club": {
+   "title": "Chelsea F.C.",
+   "url": "https://en.wikipedia.org/wiki/Chelsea_F.C.",
+   "fetched": "2026-10-07"
+  },
+  "records": {
+   "title": "List of Chelsea F.C. records and statistics",
+   "url": "https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._records_and_statistics",
+   "fetched": "2026-10-07"
+  },
+  "pots": {
+   "title": "Chelsea F.C. Player of the Season",
+   "url": "https://en.wikipedia.org/wiki/Chelsea_F.C._Player_of_the_Season",
+   "fetched": "2026-10-07"
+  },
+  "final:1997_FA_Cup_final": {
+   "title": "1997 FA Cup final",
+   "url": "https://en.wikipedia.org/wiki/1997_FA_Cup_final",
+   "fetched": "2026-10-07"
+  },
+  "final:1998_UEFA_Cup_Winners'_Cup_final": {
+   "title": "1998 UEFA Cup Winners' Cup final",
+   "url": "https://en.wikipedia.org/wiki/1998_UEFA_Cup_Winners'_Cup_final",
+   "fetched": "2026-10-07"
+  },
+  "final:2000_FA_Cup_final": {
+   "title": "2000 FA Cup final",
+   "url": "https://en.wikipedia.org/wiki/2000_FA_Cup_final",
+   "fetched": "2026-10-07"
+  },
+  "final:2005_Football_League_Cup_final": {
+   "title": "2005 Football League Cup final",
+   "url": "https://en.wikipedia.org/wiki/2005_Football_League_Cup_final",
+   "fetched": "2026-10-07"
+  },
+  "final:2008_UEFA_Champions_League_final": {
+   "title": "2008 UEFA Champions League final",
+   "url": "https://en.wikipedia.org/wiki/2008_UEFA_Champions_League_final",
+   "fetched": "2026-10-07"
+  },
+  "final:2010_FA_Cup_final": {
+   "title": "2010 FA Cup final",
+   "url": "https://en.wikipedia.org/wiki/2010_FA_Cup_final",
+   "fetched": "2026-10-07"
+  },
+  "final:2012_UEFA_Champions_League_final": {
+   "title": "2012 UEFA Champions League final",
+   "url": "https://en.wikipedia.org/wiki/2012_UEFA_Champions_League_final",
+   "fetched": "2026-10-07"
+  },
+  "final:2013_UEFA_Europa_League_final": {
+   "title": "2013 UEFA Europa League final",
+   "url": "https://en.wikipedia.org/wiki/2013_UEFA_Europa_League_final",
+   "fetched": "2026-10-07"
+  },
+  "final:2019_UEFA_Europa_League_final": {
+   "title": "2019 UEFA Europa League final",
+   "url": "https://en.wikipedia.org/wiki/2019_UEFA_Europa_League_final",
+   "fetched": "2026-10-07"
+  },
+  "final:2021_UEFA_Champions_League_final": {
+   "title": "2021 UEFA Champions League final",
+   "url": "https://en.wikipedia.org/wiki/2021_UEFA_Champions_League_final",
+   "fetched": "2026-10-07"
+  },
+  "final:2025_UEFA_Conference_League_final": {
+   "title": "2025 UEFA Conference League final",
+   "url": "https://en.wikipedia.org/wiki/2025_UEFA_Conference_League_final",
+   "fetched": "2026-10-07"
+  },
+  "final:2025_FIFA_Club_World_Cup_final": {
+   "title": "2025 FIFA Club World Cup final",
+   "url": "https://en.wikipedia.org/wiki/2025_FIFA_Club_World_Cup_final",
+   "fetched": "2026-10-07"
+  },
+  "season:1992–93": {
+   "title": "1992–93 Chelsea F.C. season",
+   "url": "https://en.wikipedia.org/wiki/1992–93_Chelsea_F.C._season",
+   "fetched": "2026-10-07"
+  },
+  "season:2007–08": {
+   "title": "2007–08 Chelsea F.C. season",
+   "url": "https://en.wikipedia.org/wiki/2007–08_Chelsea_F.C._season",
+   "fetched": "2026-10-07"
+  },
+  "season:2018–19": {
+   "title": "2018–19 Chelsea F.C. season",
+   "url": "https://en.wikipedia.org/wiki/2018–19_Chelsea_F.C._season",
+   "fetched": "2026-10-07"
+  },
+  "season:2023–24": {
+   "title": "2023–24 Chelsea F.C. season",
+   "url": "https://en.wikipedia.org/wiki/2023–24_Chelsea_F.C._season",
+   "fetched": "2026-10-07"
+  }
+ },
+ "quiz": [
+  {
+   "q": "Which manager led Chelsea to their first UEFA Champions League title in 2012?",
+   "options": [
+    "Rafael Benítez",
+    "André Villas-Boas",
+    "Roberto Di Matteo",
+    "Carlo Ancelotti"
+   ],
+   "answer": 2,
+   "src": "managers",
+   "why": "Di Matteo's honours: 2012 FA Cup, 2012 UEFA Champions League."
+  },
+  {
+   "q": "Who scored Chelsea's 88th-minute equaliser in the 2012 Champions League final?",
+   "options": [
+    "Lampard",
+    "Mata",
+    "Torres",
+    "Drogba"
+   ],
+   "answer": 3,
+   "src": "final:2012_UEFA_Champions_League_final",
+   "why": "Bayern 1–1 Chelsea (Chelsea won 4–3 on penalties): Drogba 88'"
+  },
+  {
+   "q": "How many points did Chelsea finish with in 2004–05, Mourinho's first title season?",
+   "options": [
+    "91",
+    "95",
+    "87",
+    "93"
+   ],
+   "answer": 1,
+   "src": "seasons",
+   "why": "2004–05: 29W 8D 1L, 95 pts, 1st."
+  },
+  {
+   "q": "How many league goals did Chelsea score in the 2009–10 Double season?",
+   "options": [
+    "110",
+    "86",
+    "103",
+    "95"
+   ],
+   "answer": 2,
+   "src": "seasons",
+   "why": "2009–10: 103 scored, 32 conceded."
+  },
+  {
+   "q": "Who scored the only goal of the 2021 Champions League final in Porto?",
+   "options": [
+    "Mount",
+    "Havertz",
+    "Werner",
+    "Pulisic"
+   ],
+   "answer": 1,
+   "src": "final:2021_UEFA_Champions_League_final",
+   "why": "Manchester City 0–1 Chelsea: Havertz 42'"
+  },
+  {
+   "q": "Which club did Chelsea beat 2–0 in the 1997 FA Cup final?",
+   "options": [
+    "Manchester United",
+    "Portsmouth",
+    "Middlesbrough",
+    "Aston Villa"
+   ],
+   "answer": 2,
+   "src": "final:1997_FA_Cup_final",
+   "why": "Chelsea 2–0 Middlesbrough; scorers Di Matteo 1', Newton 83'"
+  },
+  {
+   "q": "Who scored the winner in the 1998 Cup Winners' Cup final against VfB Stuttgart?",
+   "options": [
+    "Vialli",
+    "Wise",
+    "Di Matteo",
+    "Zola"
+   ],
+   "answer": 3,
+   "src": "final:1998_UEFA_Cup_Winners'_Cup_final",
+   "why": "Chelsea 1–0 VfB Stuttgart, Råsunda Stadium, Stockholm."
+  },
+  {
+   "q": "Who is Chelsea's all-time leading goalscorer?",
+   "options": [
+    "Bobby Tambling",
+    "Frank Lampard",
+    "Kerry Dixon",
+    "Didier Drogba"
+   ],
+   "answer": 1,
+   "src": "records",
+   "why": "Lampard: 211 goals in 648 games."
+  },
+  {
+   "q": "How many games did John Terry play for Chelsea?",
+   "options": [
+    "648",
+    "795",
+    "717",
+    "508"
+   ],
+   "answer": 2,
+   "src": "records",
+   "why": "Terry: 717 appearances (1998–2017), 3rd on the all-time list."
+  },
+  {
+   "q": "How many English top-flight league titles have Chelsea won (records page, fetched Oct 7, 2026)?",
+   "options": [
+    "5",
+    "4",
+    "7",
+    "6"
+   ],
+   "answer": 3,
+   "src": "records",
+   "why": "Titles: 1954–55, 2004–05, 2005–06, 2009–10, 2014–15, 2016–17"
+  },
+  {
+   "q": "Who scored twice for Chelsea in the 2025 FIFA Club World Cup final against PSG?",
+   "options": [
+    "Nicolas Jackson",
+    "Cole Palmer",
+    "João Pedro",
+    "Enzo Fernández"
+   ],
+   "answer": 1,
+   "src": "final:2025_FIFA_Club_World_Cup_final",
+   "why": "Chelsea 3–0 Paris Saint-Germain: Palmer 22', 30', João Pedro 43'"
+  },
+  {
+   "q": "Where was the 2025 Conference League final, which Chelsea won 4–1 against Real Betis?",
+   "options": [
+    "Tirana",
+    "Prague",
+    "Baku",
+    "Wrocław"
+   ],
+   "answer": 3,
+   "src": "final:2025_UEFA_Conference_League_final",
+   "why": "Venue: Wrocław Stadium, Wrocław"
+  },
+  {
+   "q": "Where did Chelsea finish in the 2022–23 Premier League?",
+   "options": [
+    "15th",
+    "8th",
+    "12th",
+    "10th"
+   ],
+   "answer": 2,
+   "src": "seasons",
+   "why": "2022–23: 12th, 44 pts, 38 goals scored."
+  },
+  {
+   "q": "Who was Chelsea's top goalscorer in 2016–17, Antonio Conte's title season?",
+   "options": [
+    "Eden Hazard",
+    "Michy Batshuayi",
+    "Diego Costa",
+    "Pedro"
+   ],
+   "answer": 2,
+   "src": "seasons",
+   "why": "2016–17 top scorer: Diego Costa (22)."
+  },
+  {
+   "q": "Which team beat Chelsea on penalties in the 2008 Champions League final in Moscow?",
+   "options": [
+    "Barcelona",
+    "Bayern Munich",
+    "Liverpool",
+    "Manchester United"
+   ],
+   "answer": 3,
+   "src": "final:2008_UEFA_Champions_League_final",
+   "why": "1–1 after extra time; Manchester United won 6–5 on penalties."
+  }
+ ]
+}

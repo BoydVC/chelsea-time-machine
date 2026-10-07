@@ -1,0 +1,91 @@
+:root{--blue:#034694;--blue2:#0a5bc4;--deep:#021a3a;--ink:#e8eefb;--mut:#9fb3d6;--gold:#dba111;--line:rgba(255,255,255,.12);--card:rgba(255,255,255,.05);--red:#e05a5a;--green:#3fbf7f}
+*{box-sizing:border-box}
+html,body{margin:0;background:radial-gradient(1200px 600px at 20% -10%,#0b3a80 0,var(--deep) 55%) fixed;color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:#8fc1ff}
+.top{position:sticky;top:0;z-index:5;background:rgba(2,26,58,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--line);padding:14px 28px 0}
+.brand{display:flex;gap:14px;align-items:center}
+.crest{width:52px;height:52px;border-radius:50%;background:var(--blue);border:3px solid var(--gold);display:grid;place-items:center;font-weight:800;letter-spacing:1px;color:#fff;flex:none}
+h1{margin:0;font-size:26px;letter-spacing:.3px}
+.sub{margin:2px 0 0;color:var(--mut);font-size:13.5px}
+nav{display:flex;gap:4px;margin-top:10px;overflow-x:auto;scrollbar-width:none}
+nav button{background:none;border:0;color:var(--mut);font:inherit;font-weight:600;padding:9px 14px;border-bottom:3px solid transparent;cursor:pointer;white-space:nowrap}
+nav button.on{color:#fff;border-color:var(--gold)}
+main{max-width:1200px;margin:0 auto;padding:24px 28px 40px}
+h2{font-size:21px;margin:0 0 4px}
+h3{font-size:16px;margin:0 0 6px}
+.lede{color:var(--mut);margin:0 0 18px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;min-width:0}
+.grid{display:grid;gap:14px}
+.g2{grid-template-columns:1fr 1fr}.g3{grid-template-columns:repeat(3,1fr)}
+.cite{font-size:11px;vertical-align:super;text-decoration:none;color:#8fc1ff;margin-left:2px}
+.tiny{font-size:12px;color:var(--mut)}
+.pill{display:inline-block;font-size:11.5px;padding:2px 8px;border-radius:999px;background:rgba(255,255,255,.08);margin:2px 4px 2px 0}
+.pill.gold{background:rgba(219,161,17,.18);color:#ffd866}
+.pill.w{background:rgba(63,191,127,.18);color:#8ef0bd}.pill.l{background:rgba(224,90,90,.18);color:#ffb0b0}
+/* timeline */
+.era{display:grid;grid-template-columns:150px 1fr;gap:22px;margin-bottom:34px}
+.era-rail{position:sticky;top:120px;align-self:start}
+.era-years{font-size:30px;font-weight:800;color:var(--gold);line-height:1.1}
+.era-title{font-weight:700;margin-top:4px}
+.era-body{border-left:3px solid var(--blue2);padding-left:22px}
+.era-sum{font-size:16px;margin:0 0 10px}
+.ev{margin:0 0 12px;padding:0;list-style:none}
+.ev li{margin:4px 0;color:#cfdcf5}
+.ev li:before{content:"“";color:var(--gold);font-weight:800;margin-right:4px}
+.row{display:flex;flex-wrap:wrap;gap:10px;margin:10px 0}
+.mgr{flex:1 1 200px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;min-width:0}
+.mgr b{display:block}
+.trophy-strip{display:flex;flex-wrap:wrap;gap:8px}
+.tro{background:rgba(219,161,17,.12);border:1px solid rgba(219,161,17,.35);border-radius:10px;padding:6px 10px;font-size:13px}
+.match{background:linear-gradient(135deg,rgba(3,70,148,.55),rgba(3,70,148,.2));border:1px solid var(--line);border-radius:12px;padding:12px 14px;flex:1 1 260px;min-width:0}
+.score{font-size:22px;font-weight:800;letter-spacing:.5px}
+.legend{flex:1 1 180px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px}
+.legend .big{font-size:22px;font-weight:800;color:#fff}
+/* chart */
+.chart-wrap{overflow-x:auto}
+svg.chart{display:block;width:100%;min-width:760px;height:auto}
+svg.chart text{fill:var(--mut);font-size:11px}
+svg.chart .pt{cursor:pointer}
+.keyrow{display:flex;flex-wrap:wrap;gap:14px;font-size:12.5px;color:var(--mut);margin:8px 0}
+.detail{margin-top:12px}
+table{width:100%;border-collapse:collapse;font-size:13.5px}
+th,td{padding:6px 8px;border-bottom:1px solid var(--line);text-align:left}
+th{color:var(--mut);font-weight:600}
+td.n,th.n{text-align:right}
+tr.sel td{background:rgba(219,161,17,.12)}
+.table-wrap{overflow-x:auto}
+/* this day */
+.today{background:linear-gradient(135deg,var(--blue) 0,#06306b 100%);border:2px solid var(--gold);border-radius:18px;padding:22px 24px}
+.today .date{font-size:13px;letter-spacing:2px;color:#ffd866;font-weight:700}
+.today h2{font-size:26px;margin:4px 0 12px}
+.tday{display:grid;grid-template-columns:90px 1fr;gap:14px;padding:12px 0;border-top:1px solid rgba(255,255,255,.18)}
+.tday .yr{font-size:28px;font-weight:800;color:#fff}
+/* quiz */
+.quiz{max-width:760px;margin:0 auto}
+.qhead{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
+.bar{height:6px;background:rgba(255,255,255,.1);border-radius:6px;overflow:hidden;margin:10px 0 18px}
+.bar i{display:block;height:100%;background:var(--gold)}
+.qtext{font-size:20px;font-weight:700;margin:0 0 14px}
+.opt{display:block;width:100%;text-align:left;background:var(--card);border:1px solid var(--line);color:var(--ink);font:inherit;padding:12px 14px;border-radius:10px;margin:8px 0;cursor:pointer}
+.opt:hover:not([disabled]){border-color:var(--blue2)}
+.opt.right{background:rgba(63,191,127,.2);border-color:var(--green)}
+.opt.wrong{background:rgba(224,90,90,.2);border-color:var(--red)}
+.why{margin-top:10px;padding:10px 12px;border-left:3px solid var(--gold);background:rgba(255,255,255,.04)}
+.btn{background:var(--gold);color:#1b1300;border:0;font:inherit;font-weight:700;padding:10px 18px;border-radius:10px;cursor:pointer}
+.btn.ghost{background:none;color:var(--ink);border:1px solid var(--line)}
+footer{max-width:1200px;margin:0 auto;padding:10px 28px 30px;color:var(--mut);font-size:12.5px}
+.tip{position:fixed;z-index:20;background:#061f45;border:1px solid var(--gold);border-radius:10px;padding:8px 10px;font-size:12.5px;pointer-events:none;max-width:260px}
+.swipe{display:none}
+.srcs li{margin:6px 0;overflow-wrap:anywhere}
+@media (max-width:760px){
+  .top{padding:10px 14px 0}h1{font-size:21px}.sub{font-size:12.5px}.crest{width:42px;height:42px;font-size:12px}
+  main{padding:16px 14px 30px}
+  .g2,.g3{grid-template-columns:1fr}
+  .era{grid-template-columns:1fr;gap:8px}.era-rail{position:static}.era-years{font-size:24px}
+  .era-body{padding-left:14px}
+  .tday{grid-template-columns:1fr;gap:4px}.tday .yr{font-size:22px}
+  .today{padding:16px}.today h2{font-size:21px}
+  .qtext{font-size:17px}
+  footer{padding:10px 14px 24px}
+  .sub{display:none}.top{position:static}.swipe{display:block;margin:4px 0 0}
+}

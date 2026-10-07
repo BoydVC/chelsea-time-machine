@@ -1,0 +1,208 @@
+{{Short description|English football club season}}
+{{Use dmy dates|date=February 2015}}
+{{Use British English|date=February 2015}}
+{{Infobox football club season
+ | club               = [[Chelsea F.C.|Chelsea]]
+ | season             = 1995–96
+ | manager            = [[Glenn Hoddle]]
+ | chairman           = [[Ken Bates]]
+ | league             = [[Premier League|FA Premier League]]
+ | league result      = [[1995–96 FA Premier League|11th]]
+ | cup1               = [[FA Cup]]
+ | cup1 result        = [[1995–96 FA Cup#Semi finals|Semi-finals]]
+ | cup2               = [[Football League Cup|League Cup]]
+ | cup2 result        = [[1995–96 Football League Cup#Second round|Second round]]
+ | league topscorer   = <br>[[John Spencer (Scottish footballer)|John Spencer]] (13)
+ | season topscorer   = <br>[[John Spencer (Scottish footballer)|John Spencer]] (14)
+ | highest attendance = 31,137 (vs. [[Liverpool F.C|Liverpool]], 30 December)
+ | lowest attendance  = 16,272 (vs. [[Stoke City F.C|Stoke City]], 4 October)
+ | average attendance = 25,466
+ | pattern_b1  = _chelsea9697h
+ | pattern_la1 = 
+ | pattern_ra1 = 
+ | pattern_sh1 = _chelsea9697h
+ | leftarm1    = 1C2E84
+ | body1       = 1C2E84
+ | rightarm1   = 1C2E84
+ | shorts1     = 1C2E84
+ | socks1      = FFFFFF
+ | pattern_b2  = _chelsea9495a
+ | pattern_ra2 = _chelsea9495a
+ | pattern_la2 = _chelsea9495a
+ | pattern_sh2 = _chelsea9495a
+ | pattern_so2 = _2stripesblue
+ | leftarm2    = CCCCCC
+ | body2       = CCCCCC
+ | rightarm2   = CCCCCC
+ | shorts2     = CCCCCC
+ | socks2      = FF8000
+ | prevseason         = [[1994–95 Chelsea F.C. season|1994–95]]
+ | nextseason         = [[1996–97 Chelsea F.C. season|1996–97]]
+}}
+During the 1995–96 English football season, Chelsea competed in the Premier League.
+
+==Season summary==
+The big news at Chelsea at the start of the 1995–96 season was the arrival of Manchester United striker [[Mark Hughes]], one of the most accomplished strikers of the last decade in the English leagues, and the arrival of [[Netherlands|Dutch]] superstar [[Ruud Gullit]].
+
+Chelsea had a mid-table Premiership campaign in [[1995–96 in English football|1995–96]], finishing 11th for the third time in four seasons, but once again they enjoyed a good cup run. This time they reached the [[FA Cup]] semi-finals, taking on [[Manchester United F.C.|Manchester United]], who had beaten them in the final two years earlier. Chelsea took an early lead, but lost 2–1 and with it went their hopes of a [[European Cup Winners' Cup|foray into Europe]]. A few weeks later, Chelsea manager [[Glenn Hoddle]]'s decision to quit for the [[England national football team|England]] manager's job was understandable as it was a job he could not turn down. They responded by appointing [[Ruud Gullit]] as player-manager. Gullit wasted no time in preparing Chelsea for the following season, breaking the club record in a £4.9 million move for [[Italy|Italian]] midfielder [[Roberto Di Matteo]] from [[Lazio]].
+
+==Statistics==
+{{Efs start|[[Premier League]]|[[FA Cup]]|[[Football League Cup]]}}
+{{Efs player|no=1|name=[[Dmitri Kharin]]|pos=GK|nat=RUS|26|0|1|0|2|0}}
+{{Efs player|no=24|name=[[Dan Petrescu]]|pos=DF|nat=ROM|22+2|2|7|1|0|0}}
+{{Efs player|no=20|name=[[David Lee (footballer born 1969)|David Lee]]|pos=DF|nat=ENG|29+2|1|7|0|0+1|0}}
+{{Efs player|no=26|name=[[Michael Duberry]]|pos=DF|nat=ENG|22|0|8|2|0|0}}
+{{Efs player|no=2|name=[[Steve Clarke]]|pos=DF|nat=SCO|21+1|0|6+2|0|1|0}}
+{{Efs player|no=15|name=[[Andy Myers]]|pos=DF|nat=ENG|20|0|3|0|0|0}}
+{{Efs player|no=4|name=[[Ruud Gullit]]|pos=MF|nat=NED|31|3|7|3|2|0}}
+{{Efs player|no=11|name=[[Dennis Wise]]|pos=MF|nat=ENG|34+1|7|7|1|2|0}}
+{{Efs player|no=18|name=[[Eddie Newton]]|pos=MF|nat=ENG|21+3|1|3|0|1|0}}
+{{Efs player|no=7|name=[[John Spencer (Scottish footballer)|John Spencer]]|pos=FW|nat=SCO|23+5|13|8|1|1|0}}
+{{Efs player|no=8|name=[[Mark Hughes]]|pos=FW|nat=WAL|31|8|6|4|2|0}}
+{{Efs player|no=13|name=[[Kevin Hitchcock]]|pos=GK|nat=ENG|12|0|7|0|0|0}}
+{{Efs player|no=5|name=[[Erland Johnsen]]|pos=DF|nat=NOR|18+4|0|1+1|0|2|0}}
+{{Efs player|no=10|name=[[Gavin Peacock]]|pos=FW|nat=ENG|17+11|5|3+4|2|1|0}}
+{{Efs player|no=12|name=[[Craig Burley]]|pos=MF|nat=SCO|16+6|0|2|0|2|0}}
+{{Efs player|no=14|name=[[Paul Furlong]]|pos=FW|nat=ENG|14+14|3|4+4|1|1+1|0}}
+{{Efs player|no=17|name=[[Nigel Spackman]]|pos=MF|nat=ENG|13+3|0|0+3|0|1|0}}
+{{Efs player|no=6|name=[[Frank Sinclair]]<ref>Sinclair was born in [[London Borough of Lambeth|Lambeth]], [[England]], but also qualified to represent [[Jamaica]] internationally.</ref>|pos=DF|nat=ENG|12+1|1|0|0|2|0}}
+{{Efs player|no=25|name=[[Terry Phelan]]<ref>Phelan was born in [[Manchester]], [[England]].</ref>|pos=DF|nat=IRL|12|0|8|0|0|0}}
+{{Efs player|no=3|name=[[Scott Minto]]|pos=DF|nat=ENG|10|0|5|0|1|0}}
+{{Efs player|no=9|name=[[Mark Stein (footballer)|Mark Stein]]|pos=FW|nat=RSA|7+1|0|0|0|0+1|0}}
+{{Efs player|no=27|name=[[Gareth Hall]]|pos=DF|nat=WAL|5|1|0|0|0|0}}
+{{Efs player|no=16|name=[[David Rocastle]]|pos=MF|nat=ENG|1|0|0|0|0|0}}
+{{Efs player|no=28|name=[[Andy Dow]]|pos=DF|nat=SCO|1|0|0|0|0|0}}
+{{Efs player|no=23|name=[[Jody Morris]]|pos=MF|nat=ENG|0+1|0|0|0|0|0}}
+{{Efs end|date=20 May 2009|s=https://web.archive.org/web/20090520151010/http://www.soccerbase.com/squad_season.sd?teamid=536}}
+Squad details and shirt numbers from [http://www.footballsquads.co.uk/eng/1995-1996/faprem/chelsea.htm].
+
+==Results==
+
+===Premier League===
+{{main|1995–96 FA Premier League}}
+{| class="wikitable" style="text-align:center"
+|-
+!Date!!Opponent!!Venue!!Result!!Attendance!!Scorers
+|- style="background:#ffffcc"
+| 19 August 1995 ||[[Everton F.C.|Everton]]||H||0–0||30,189||
+|- style="background:#ffffcc"
+| 23 August 1995 ||[[Nottingham Forest F.C|Nottingham Forest]]||A||0–0||27,007||
+|- style="background:#ffcccc"
+| 26 August 1995 ||[[Middlesbrough F.C|Middlesbrough]]||A||0–2||28,286||
+|- style="background:#ffffcc"
+| 30 August 1995 ||[[Coventry City F.C.|Coventry City]]||H||2–2||24,398||[[Dennis Wise|Wise]]([[Penalty kick (association football)|pen.]]), [[Mark Hughes|M. Hughes]]
+|- style="background:#ccffcc"
+| 11 September 1995 ||[[West Ham United F.C.|West Ham United]]||A||3–1||19,228||[[John Spencer (Scottish footballer)|Spencer]] (2), [[Dennis Wise|Wise]]
+|- style="background:#ccffcc"
+| 16 September 1995 ||[[Southampton F.C.|Southampton]]||H||3–0||26,237||[[Frank Sinclair|Sinclair]], [[Ruud Gullit|Gullit]], [[Mark Hughes|M. Hughes]]
+|- style="background:#ffcccc"
+| 24 September 1995 ||[[Newcastle United F.C.|Newcastle United]]||A||0–2||36,225||
+|- style="background:#ccffcc"
+| 30 September 1995 ||[[Arsenal F.C.|Arsenal]]||H||1–0||31,048||[[Mark Hughes|M. Hughes]]
+|- style="background:#ccffcc"
+| 14 October 1995 ||[[Aston Villa F.C.|Aston Villa]]||A||1–0||34,922||[[Dennis Wise|Wise]]
+|- style="background:#ffcccc"
+| 21 October 1995 ||[[Manchester United F.C.|Manchester United]]||H||1–4||31,019||[[Mark Hughes|M. Hughes]]
+|- style="background:#ffcccc"
+| 28 October 1995 ||[[Blackburn Rovers F.C.|Blackburn Rovers]]||A||0–3||27,733||
+|- style="background:#ffffcc"
+| 4 November 1995 ||[[Sheffield Wednesday F.C.|Sheffield Wednesday]]||H||0–0||23,216||
+|- style="background:#ffcccc"
+| 18 November 1995 ||[[Leeds United A.F.C.|Leeds United]]||A||0–1||36,209||
+|- style="background:#ccffcc"
+| 22 November 1995 ||[[Bolton Wanderers F.C.|Bolton Wanderers]]||H||3–2||17,495||[[David Lee (footballer born 1969)|David Lee]], [[Gareth Hall|Hall]], [[Eddie Newton|Newton]]
+|- style="background:#ffffcc"
+| 25 November 1995 ||[[Tottenham Hotspur F.C.|Tottenham Hotspur]]||H||0–0||31,059||
+|- style="background:#ffffcc"
+| 2 December 1995 ||[[Manchester United F.C.|Manchester United]]||A||1–1||42,019||[[Dennis Wise|Wise]]
+|- style="background:#ccffcc"
+| 9 December 1995 ||[[Newcastle United F.C.|Newcastle United]]||H||1–0||31,098||[[Dan Petrescu|Petrescu]]
+|- style="background:#ffffcc"
+| 16 December 1995 ||[[Arsenal F.C.|Arsenal]]||A||1–1||38,295||[[John Spencer (Scottish footballer)|Spencer]]
+|- style="background:#ccffcc"
+| 23 December 1995 ||[[Manchester City F.C.|Manchester City]]||A||1–0||28,668||[[Gavin Peacock|Peacock]]
+|- style="background:#ffcccc"
+| 26 December 1995 ||[[Wimbledon F.C.|Wimbledon]]||H||1–2||21,906||[[Dan Petrescu|Petrescu]]
+|- style="background:#ffffcc"
+| 30 December 1995 ||[[Liverpool F.C.|Liverpool]]||H||2–2||31,137||[[John Spencer (Scottish footballer)|Spencer]] (2)
+|- style="background:#ccffcc"
+| 2 January 1996 ||[[Queens Park Rangers F.C.|Queens Park Rangers]]||A||2–1||14,904||[[Matt Brazier|Brazier]] (O.G), [[Paul Furlong|Furlong]]
+|- style="background:#ffffcc"
+| 13 January 1996 ||[[Everton F.C.|Everton]]||A||1–1||34,968||[[John Spencer (Scottish footballer)|Spencer]]
+|- style="background:#ccffcc"
+| 20 January 1996 ||[[Nottingham Forest F.C|Nottingham Forest]]||H||1–0||24,482||[[John Spencer (Scottish footballer)|Spencer]]
+|- style="background:#ccffcc"
+| 4 February 1996 ||[[Middlesbrough F.C|Middlesbrough]]||H||5–0||21,060||[[Gavin Peacock|Peacock]] (3), [[Paul Furlong|Furlong]], [[John Spencer (Scottish footballer)|Spencer]]
+|- style="background:#ffcccc"
+| 10 February 1996 ||[[Coventry City F.C.|Coventry City]]||A||0–1||20,639||
+|- style="background:#ffcccc"
+| 17 February 1996 ||[[West Ham United F.C.|West Ham United]]||H||1–2||25,252||[[Gavin Peacock|Peacock]]
+|- style="background:#ccffcc"
+| 24 February 1996 ||[[Southampton F.C.|Southampton]]||A||3–2||15,226||[[Dennis Wise|Wise]] (2), [[Ruud Gullit|Gullit]]
+|- style="background:#ffffcc"
+| 2 March 1996 ||[[Wimbledon F.C.|Wimbledon]]||A||1–1||17,048||[[Paul Furlong|Furlong]]
+|- style="background:#ffffcc"
+| 12 March 1996 ||[[Manchester City F.C.|Manchester City]]||H||1–1||17,078||[[Ruud Gullit|Gullit]]
+|- style="background:#ffcccc"
+| 16 March 1996 ||[[Liverpool F.C.|Liverpool]]||A||0–2||40,820||
+|- style="background:#ffffcc"
+| 23 March 1996 ||[[Queens Park Rangers F.C.|Queens Park Rangers]]||H||1–1||25,590||[[John Spencer (Scottish footballer)|Spencer]]
+|- style="background:#ffcccc"
+| 6 April 1996 ||[[Aston Villa F.C.|Aston Villa]]||H||1–2||23,530||[[John Spencer (Scottish footballer)|Spencer]]
+|- style="background:#ffcccc"
+| 8 April 1996 ||[[Bolton Wanderers F.C.|Bolton Wanderers]]||A||1–2||18,021||[[John Spencer (Scottish footballer)|Spencer]]
+|- style="background:#ccffcc"
+| 13 April 1996 ||[[Leeds United A.F.C.|Leeds United]]||H||4–1||22,131||[[Mark Hughes|M. Hughes]] (3), [[John Spencer (Scottish footballer)|Spencer]]
+|- style="background:#ffffcc"
+| 17 April 1996 ||[[Sheffield Wednesday F.C.|Sheffield Wednesday]]||A||0–0||25,094||
+|- style="background:#ffffcc"
+| 27 April 1996 ||[[Tottenham Hotspur F.C.|Tottenham Hotspur]]||A||1–1||32,918||[[Mark Hughes|M. Hughes]]
+|- style="background:#ffcccc"
+| 5 May 1996 ||[[Blackburn Rovers F.C.|Blackburn Rovers]]||H||2–3||28,436||[[Dennis Wise|Wise]], [[John Spencer (Scottish footballer)|Spencer]]
+|}
+{{:1995–96 FA Premier League|showteam=CHE}}
+
+===League Cup===
+{| class="wikitable" style="text-align:center"
+|-
+!Date!!Round!!Opponent!!Venue!!Result!!Attendance!!Scorers
+|- style="background:#ffffcc"
+| 20 September 1995 ||R2||[[Stoke City F.C.|Stoke City]]||A||0–0||15,574||
+|- style="background:#ffcccc"
+| 4 October 1995 ||R2||[[Stoke City F.C.|Stoke City]]||H||0–1||16,272||
+|}
+
+===FA Cup===
+{| class="wikitable" style="text-align:center"
+|-
+!Date!!Round!!Opponent!!Venue!!Result!!Attendance!!Scorers
+|- style="background:#ffffcc"
+| 7 January 1996 ||R3||[[Newcastle United F.C.|Newcastle United]]||H||1–1||25,151||[[Mark Hughes|M. Hughes]]
+|- style="background:#ccffcc"
+| 17 January 1996 ||R3||[[Newcastle United F.C.|Newcastle United]]||A||2–2||36,535||[[Ruud Gullit|Gullit]], [[Dennis Wise|Wise]]
+|-
+!colspan=5|Chelsea won 4–2 on penalties
+|- style="background:#ccffcc"
+| 29 January 1996 ||R4||[[Queens Park Rangers F.C.|Queens Park Rangers]]||A||2–1||18,542||[[Paul Furlong|Furlong]], [[Gavin Peacock|Peacock]]
+|- style="background:#ffffcc"
+| 21 February 1996 ||R5||[[Grimsby Town F.C.|Grimsby Town]]||A||0–0||9,648||
+|- style="background:#ccffcc"
+| 28 February 1996 ||R5||[[Grimsby Town F.C.|Grimsby Town]]||H||4–1||28,545||[[Michael Duberry|Duberry]], [[Mark Hughes|M. Hughes]], [[Gavin Peacock|Peacock]], [[John Spencer (Scottish footballer)|Spencer]]
+|- style="background:#ffffcc"
+| 9 March 1996 ||R6||[[Wimbledon F.C.|Wimbledon]]||H||2–2||30,805||[[Ruud Gullit|Gullit]], [[Mark Hughes|M. Hughes]]
+|- style="background:#ccffcc"
+| 20 March 1996 ||R6||[[Wimbledon F.C.|Wimbledon]]||A||3–1||21,380||[[Michael Duberry|Duberry]], [[Mark Hughes|M. Hughes]], [[Dan Petrescu|Petrescu]]
+|- style="background:#ffcccc"
+| 31 March 1996 ||SF||[[Manchester United F.C.|Manchester United]]||N||1–2||38,421||[[Ruud Gullit|Gullit]]
+|}
+
+==References==
+{{Reflist}}
+*[http://www.soccerbase.com/results2.sd?teamid=536&seasonid=125 Chelsea 1995/1996 results and fixtures] {{Webarchive|url=https://web.archive.org/web/20050826164402/http://www.soccerbase.com/results2.sd?teamid=536&seasonid=125 |date=26 August 2005 }} at Soccerbase.com
+
+{{Chelsea F.C. seasons}}
+{{1995–96 in English football}}
+
+{{DEFAULTSORT:1995-96 Chelsea F.C. season}}
+[[Category:Chelsea F.C. seasons]]
+[[Category:1995–96 FA Premier League by team|Chelsea]]

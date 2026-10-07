@@ -1,0 +1,979 @@
+{{Short description|English football club season}}
+{{Use dmy dates|date=December 2020}}
+{{Use British English|date=February 2015}}
+{{Infobox football club season
+| club             = [[Chelsea F.C.|Chelsea]]
+| season           = 2000–01
+| manager          = [[Gianluca Vialli]] (until 12 September 2000)<br />[[Claudio Ranieri]] (from 18 September 2000)
+| chairman         = [[Ken Bates]]
+| league           = [[Premier League|FA Premier League]]
+| league result    = [[2000–01 FA Premier League|6th]]
+| cup1             = [[FA Cup]]
+| cup1 result      = [[2000–01 FA Cup#Fifth round|Fifth round]]
+| cup2             = [[Football League Cup|League Cup]]
+| cup2 result      = [[2000–01 Football League Cup#Third round|Third round]]
+| cup3             = [[2000 FA Charity Shield|FA Charity Shield]]
+| cup3 result      = '''[[2000 FA Charity Shield|Winners]]'''
+| cup4             = [[UEFA Europa League|UEFA Cup]]
+| cup4 result      = [[2000–01 UEFA Cup#First round|First round]]
+| league topscorer = <br />[[Jimmy Floyd Hasselbaink]] (23)
+| season topscorer = <br />[[Jimmy Floyd Hasselbaink]] (26)
+| average attendance = 34,700<ref>{{Cite web|url=https://www.european-football-statistics.co.uk/attn/archive/eng/aveeng2001.htm|title=Historical attendances|website=European-football-statistics.co.uk|access-date=10 August 2026}}</ref>
+| pattern_b1  = _chelsea9900h
+| pattern_la1 = _chelsea9900h
+| pattern_ra1 = _chelsea9900h
+| pattern_sh1 = 
+| leftarm1    = 0000FF
+| body1       = 0000FF
+| rightarm1   = 0000FF
+| shorts1     = 0000FF
+| socks1      = FFFFFF
+| pattern_b2  = _chelsea2000a
+| pattern_ra2 = _chelsea2000a
+| pattern_la2 = _chelsea2000a
+| pattern_so2 = 
+| leftarm2    = FFFFFF
+| body2       = FFFFFF
+| rightarm2   = FFFFFF
+| shorts2     = FFD000
+| socks2      = FFD000
+| prevseason       = [[1999–2000 Chelsea F.C. season|1999–2000]]
+| nextseason       = [[2001–02 Chelsea F.C. season|2001–02]]
+}}
+The 2000–01 season was Chelsea F.C.'s 87th competitive season, ninth consecutive season in the [[Premier League|FA Premier League]] and 95th year as a club.
+
+==Season summary==
+A slow start to the season cost manager [[Gianluca Vialli]] his job, despite having won five trophies since his appointment in February 1998.<ref>{{cite web|title=Vialli sacked as Chelsea boss|url=http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/922110.stm|publisher=BBC Sport|date=12 September 2000|access-date=3 August 2015}}</ref> The last of these trophies came at the start of the season when they defeated [[Manchester United F.C.|Manchester United]] 2–0 in the [[FA Community Shield|Charity Shield]] to win the last-ever club game at the pre-redevelopment Wembley.<ref>{{cite web|title=Keane sees red as Chelsea triumph|url=http://news.bbc.co.uk/sport1/hi/football/879061.stm|publisher=BBC Sport|date=13 August 2000|access-date=3 August 2015}}</ref> Vialli's successor was [[Claudio Ranieri]],<ref>{{cite web|title=Ranieri's Chelsea deal|url=http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/925944.stm|publisher=BBC Sport|date=15 September 2000|access-date=3 August 2015}}</ref> who guided the club to sixth place in the final table and attained automatic qualification for the [[UEFA Cup]].
+
+The biggest success of the season was the effectiveness of club record signing [[Jimmy Floyd Hasselbaink]], who found the net 23 times in 35 Premiership games in a partnership with Chelsea's 34-year-old Italian superstar, [[Gianfranco Zola]], who found the net on 9 occasions.
+
+==Team kit==
+The team kit was produced by [[Umbro]] and the shirt sponsor was Autoglass. Chelsea's home kit was all blue with a white trimmed collar. The club's third kit for this season was orange with blue shorts and accents.
+
+==Final league table==
+{{main|2000–01 FA Premier League}}
+{{:2000–01 FA Premier League|showteam=CHE}}
+
+;Results summary
+{{Fb_rs|hw=13|hd=3|hl=3|hgf=44|hga=20|aw=4|ad=7|al=8|agf=24|aga=25}}
+{{Fb_rs_footer|s=[https://www.soccerbase.com/tournaments/tournament.sd?tourn_id=113 2000–01 FA Premier League table]|date=August 2015}}
+
+;Results by round
+{{#invoke:sports rbr table|table|legendpos=b
+|header=Round
+|label1= Ground
+| res1=H/A/A/H/A/H/A/H/A/H/H/A/H/A/A/H/H/A/H/A/H/A/H/H/A/H/A/A/H/H/A/H/A/H/A/H/A/A
+|label2= Result
+| res2=W/L/D/D/D/L/D/W/L/W/W/L/D/L/L/W/W/L/W/D/W/D/W/W/L/D/D/W/L/W/W/W/W/L/L/W/D/W
+|label3= Position
+| res3=2/9/10/11/10/17/16/12/15/10/6/10/10/13/14/14/11/12/9/10/9/9/8/6/8/8/10/8/9/7/6/5/5/5/6/6/6/6
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_1=1st|color_2=2nd|color_3=3rd|color_18-=red1
+
+|source=[http://www.11v11.com/teams/chelsea/tab/matches/season/2001 11v11.com: 2000-01 Chelsea results]
+|date=August 2015
+}}
+
+==Results==
+
+===Charity Shield===
+{{Football box collapsible
+|round      = [[2000 FA Charity Shield|Final]]
+|date       = 13 August 2000
+|time       = 15:00 [[UTC+1]]
+|team1      = [[Chelsea FC|Chelsea]]
+|score      = 2–0
+|report     = [http://news.bbc.co.uk/sport2/hi/football/879061.stm Report]
+|team2      = [[Manchester United F.C.|Manchester United]]
+|goals1     = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|22}}<br />[[Mario Melchiot|Melchiot]] {{goal|73}}
+|goals2     = 
+|location   = [[London Borough of Brent|Brent]], [[London]]
+|stadium    = [[Wembley Stadium (1923)|Wembley Stadium]]
+|attendance = 65,148
+|referee    = [[Mike Riley (referee)|Mike Riley]]
+|result     = W
+}}
+
+===Premier League===
+{{Football box collapsible
+|round      = 1
+|date       = 19 August 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 4–2
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/887429.stm Report]
+|team2      = [[West Ham United F.C.|West Ham United]]
+|goals1     = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|30|pen.}}<br />[[Gianfranco Zola|Zola]] {{goal|59}}<br />[[Mario Stanić|Stanić]] {{goal|78||90}}
+|goals2     = [[Paolo Di Canio|Di Canio]] {{goal|48}}<br />[[Frédéric Kanouté|Kanouté]] {{goal|85}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Graham Barber]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 2
+|date       = 22 August 2000
+|time       = 
+|team1      = [[Bradford City A.F.C.|Bradford City]]
+|score      = 2–0
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/890821.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Dean Windass|Windass]] {{goal|24}}<br />[[Benito Carbone|Carbone]] {{goal|74}}
+|goals2     = 
+|location   = [[Bradford]], [[West Yorkshire]]
+|stadium    = [[Valley Parade]]
+|attendance = 
+|referee    = [[Mark Halsey]]
+|result     = L
+}}
+{{Football box collapsible
+|round      = 3
+|date       = 27 August 2000
+|time       = 
+|team1      = [[Aston Villa F.C.|Aston Villa]]
+|score      = 1–1
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/898747.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Luc Nilis|Nilis]] {{goal|10}}
+|goals2     = [[Marcel Desailly|Desailly]] {{goal|31}}
+|location   = [[Birmingham]], [[West Midlands (region)|West Midlands]]
+|stadium    = [[Villa Park]]
+|attendance = 
+|referee    = [[Paul Durkin]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 4
+|date       = 6 September 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 2–2
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/911712.stm Report]
+|team2      = [[Arsenal F.C.|Arsenal]]
+|goals1     = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|31}}<br />[[Gianfranco Zola|Zola]] {{goal|58}}
+|goals2     = [[Thierry Henry|Henry]] {{goal|76}}<br />[[Sylvinho]] {{goal|86}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Mike Riley (referee)|Mike Riley]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 5
+|date       = 9 September 2000
+|time       = 
+|team1      = [[Newcastle United F.C.|Newcastle United]]
+|score      = 0–0
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/917802.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = 
+|location   = [[Newcastle upon Tyne]], [[Tyneside]]
+|stadium    = [[St. James' Park]]
+|attendance = 
+|referee    = [[Graham Poll]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 6
+|date       = 17 September 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 0–2
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/927444.stm Report]
+|team2      = [[Leicester City]]
+|goals1     = 
+|goals2     = [[Muzzy Izzet|Izzet]] {{goal|8}}<br />[[Stan Collymore|Collymore]] {{goal|82}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Graham Barber]]
+|result     = L
+}}
+{{Football box collapsible
+|round      = 7
+|date       = 23 September 2000
+|time       = 
+|team1      = [[Manchester United F.C.|Manchester United]]
+|score      = 3–3
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/937847.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Paul Scholes|Scholes]] {{goal|17}}<br />[[Teddy Sheringham|Sheringham]] {{goal|37}}<br />[[David Beckham|Beckham]] {{goal|39}}
+|goals2     = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|8}}<br />[[Tore André Flo|Flo]] {{goal|45||70}}
+|location   = [[Trafford]], [[Greater Manchester]]
+|stadium    = [[Old Trafford]]
+|attendance = 
+|referee    = [[Peter Jones (referee)|Peter Jones]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 8
+|date       = 1 October 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 3–0
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/949953.stm Report]
+|team2      = [[Liverpool F.C.|Liverpool]]
+|goals1     = [[Sander Westerveld|Westerveld]] {{goal|10|o.g.}}<br />[[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|11}}<br />[[Eiður Guðjohnsen|Guðjohnsen]] {{goal|71}}
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Dermot Gallagher]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 9
+|date       = 14 October 2000
+|time       = 
+|team1      = [[Sunderland A.F.C.|Sunderland]]
+|score      = 1–0
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/970803.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Kevin Phillips (footballer)|Phillips]] {{goal|63}}
+|goals2     = 
+|location   = [[Sunderland, Tyne and Wear|Sunderland]]
+|stadium    = [[Stadium of Light]]
+|attendance = 
+|referee    = [[Jeff Winter]]
+|result     = L
+}}
+{{Football box collapsible
+|round      = 10
+|date       = 21 October 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 6–1
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/982177.stm Report]
+|team2      = [[Coventry City]]
+|goals1     = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|24|pen.|42||52||58}}<br />[[Gianfranco Zola|Zola]] {{goal|48}}<br />[[Tore André Flo|Flo]] {{goal|68}}
+|goals2     = [[Cédric Roussel|Roussel]] {{goal|89}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Stephen Lodge (referee)|Stephen Lodge]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 11
+|date       = 28 October 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 3–0
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/994823.stm Report]
+|team2      = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1     = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|13|pen.|87}}<br />[[Gianfranco Zola|Zola]] {{goal|39}}
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Steve Dunn (referee)|Steve Dunn]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 12
+|date       = 4 November 2000
+|time       = 
+|team1      = [[Southampton F.C.|Southampton]]
+|score      = 3–2
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1006974.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[James Beattie (footballer)|Beattie]] {{goal|3||90}}<br />[[Jo Tessem|Tessem]] {{goal|37}}
+|goals2     = [[Dennis Wise|Wise]] {{goal|69}}<br />[[Gus Poyet|Poyet]] {{goal|78}}
+|location   = [[Southampton]], [[Hampshire]]
+|stadium    = [[The Dell (Southampton)|The Dell]]
+|attendance = 
+|referee    = [[Jeff Winter]]
+|result     = L
+}}
+{{Football box collapsible
+|round      = 13
+|date       = 12 November 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 1–1
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1018226.stm Report]
+|team2      = [[Leeds United A.F.C.|Leeds United]]
+|goals1     = [[Gus Poyet|Poyet]] {{goal|78}}
+|goals2     = [[Mark Viduka|Viduka]] {{goal|62}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Graham Poll]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 14
+|date       = 18 November 2000
+|time       = 
+|team1      = [[Charlton Athletic F.C.|Charlton Athletic]]
+|score      = 2–0
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1028652.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Jonatan Johansson (footballer)|Johansson]] {{goal|35}}<br />[[Martin Pringle|Pringle]] {{goal|90}}
+|goals2     = 
+|location   = [[Royal Borough of Greenwich|Greenwich]], [[London]]
+|stadium    = [[The Valley (London)|The Valley]]
+|attendance = 
+|referee    = [[Paul Durkin]]
+|result     = L
+}}
+{{Football box collapsible
+|round      = 15
+|date       = 25 November 2000
+|time       = 
+|team1      = [[Everton F.C.|Everton]]
+|score      = 2–1
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1039403.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Danny Cadamarteri|Cadamarteri]] {{goal|47}}<br />[[Kevin Campbell (footballer)|K. Campbell]] {{goal|74}}
+|goals2     = [[Samuele Dalla Bona|Dalla Bona]] {{goal|45}}
+|location   = [[Liverpool]], [[Merseyside]]
+|stadium    = [[Goodison Park]]
+|attendance = 
+|referee    = [[Rob Styles]]
+|result     = L
+}}
+{{Football box collapsible
+|round      = 16
+|date       = 3 December 2000
+|time       = 
+|team1      = Chelsea
+|score      = 2–1
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1051167.stm Report]
+|team2      = [[Manchester City F.C.|Manchester City]]
+|goals1     = [[Gianfranco Zola|Zola]] {{goal|28}}<br />[[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|45}}
+|goals2     = [[Paul Dickov|Dickov]] {{goal|82}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Dermot Gallagher]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 17
+|date       = 9 December 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 4–1
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1061723.stm Report]
+|team2      = [[Derby County]]
+|goals1     = [[Eiður Guðjohnsen|Guðjohnsen]] {{goal|10||16}}<br />[[Gus Poyet|Poyet]] {{goal|37}}<br />[[Gianfranco Zola|Zola]] {{goal|54}}
+|goals2     = [[Chris Riggott|Riggott]] {{goal|56}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Paul Taylor (referee)|Paul Taylor]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 18
+|date       = 16 December 2000
+|time       = 
+|team1      = [[Middlesbrough F.C.|Middlesbrough]]
+|score      = 1–0
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1072604.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Dean Gordon|Gordon]] {{goal|71}}
+|goals2     = 
+|location   = [[Middlesbrough]], [[North Yorkshire]]
+|stadium    = [[Riverside Stadium]]
+|attendance = 
+|referee    = [[Peter Jones (referee)|Peter Jones]]
+|result     = L
+}}
+{{Football box collapsible
+|round      = 19
+|date       = 23 December 2000
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 3–0
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1083520.stm Report]
+|team2      = [[Bradford City A.F.C.|Bradford City]]
+|goals1     = [[Gus Poyet|Poyet]] {{goal|22}}<br />[[Samuele Dalla Bona|Dalla Bona]] {{goal|68}}<br />[[Eiður Guðjohnsen|Guðjohnsen]] {{goal|90}}
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Barry Knight (referee)|Barry Knight]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 20
+|date       = 26 December 2000
+|time       = 
+|team1      = [[Ipswich Town]]
+|score      = 2–2
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1086279.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[James Scowcroft|Scowcroft]] {{goal|43}}<br />[[Marcus Stewart|Stewart]] {{goal|82}}
+|goals2     = [[Eiður Guðjohnsen|Guðjohnsen]] {{goal|8||17}}
+|location   = [[Ipswich]], [[Suffolk]]
+|stadium    = [[Portman Road]]
+|attendance = 
+|referee    = [[Jeff Winter]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 21
+|date       = 1 January 2001
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 1–0
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1095181.stm Report]
+|team2      = [[Aston Villa F.C.|Aston Villa]]
+|goals1     = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|45}}
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Paul Durkin]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 22
+|date       = 13 January 2001
+|time       = 
+|team1      = [[Arsenal F.C.|Arsenal]]
+|score      = 1–1
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1114336.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Robert Pires|Pires]] {{goal|3}}
+|goals2     = [[John Terry|Terry]] {{goal|62}}
+|location   = [[Islington]], [[London]]
+|stadium    = [[Arsenal Stadium|Highbury]]
+|attendance = 
+|referee    = [[David Elleray]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 23
+|date       = 20 January 2001
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 4–1
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1126452.stm Report]
+|team2      = [[Ipswich Town F.C.|Ipswich Town]]
+|goals1     = [[Gus Poyet|Poyet]] {{goal|45||65}}<br />[[Dennis Wise|Wise]] {{goal|58}}<br />[[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|75|pen.}} 
+|goals2     = [[Marcus Stewart|Stewart]] {{goal|23}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Andy D'Urso]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 24
+|date       = 31 January 2001
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 3–1
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1144919.stm Report]
+|team2      = [[Newcastle United]]
+|goals1     = [[Gianfranco Zola|Zola]] {{goal|37}}<br />[[Gus Poyet|Poyet]] {{goal|62}}<br />[[Jesper Grønkjær|Grønkjær]] {{goal|79}}
+|goals2     = [[Christian Bassedas|Bassedas]] {{goal|23}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Mark Halsey]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 25
+|date       = 3 February 2001
+|time       = 
+|team1      = [[Leicester City]]
+|score      = 2–1
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1150343.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Muzzy Izzet|Izzet]] {{goal|24}}<br />[[Gary Rowett|Rowett]] {{goal|76}}
+|goals2     = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|75}}
+|location   = [[Leicester]], [[Leicestershire]]
+|stadium    = [[Filbert Street]]
+|attendance = 
+|referee    = [[Steve Dunn (referee)|Steve Dunn]]
+|result     = L
+}}
+{{Football box collapsible
+|round      = 26
+|date       = 10 February 2001
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 1–1
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1162803.stm Report]
+|team2      = [[Manchester United F.C.|Manchester United]]
+|goals1     = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|24}}
+|goals2     = [[Andrew Cole|A. Cole]] {{goal|69}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[David Elleray]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 27
+|date       = 3 March 2001
+|time       = 
+|team1      = [[Coventry City]]
+|score      = 0–0
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1198854.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = 
+|location   = [[Coventry]], [[West Midlands (region)|West Midlands]]
+|stadium    = [[Highfield Road]]
+|attendance = 
+|referee    = [[Steve Bennett (referee)|Steve Bennett]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 28
+|date       = 7 March 2001
+|time       = 
+|team1      = [[West Ham United]]
+|score      = 0–2
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1205796.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = [[Eiður Guðjohnsen|Guðjohnsen]] {{goal|32}}<br />[[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|38}}
+|location   = [[London Borough of Newham|Newham]], [[London]]
+|stadium    = [[Boleyn Ground]]
+|attendance = 
+|referee    = [[Alan Wiley]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 29
+|date       = 17 March 2001
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 2–4
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1225488.stm Report]
+|team2      = [[Sunderland A.F.C.|Sunderland]]
+|goals1     = [[Marcel Desailly|Desailly]] {{goal|15}}<br />[[Eiður Guðjohnsen|Guðjohnsen]] {{goal|38}}
+|goals2     = [[Don Hutchison|Hutchison]] {{goal|28||52}}<br />[[Gavin McCann|McCann]] {{goal|61}}<br />[[Kevin Phillips (footballer)|Phillips]] {{goal|79}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Paul Durkin]]
+|result     = L
+}}
+{{Football box collapsible
+|round      = 30
+|date       = 31 March 2001
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 2–1
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1249429.stm Report]
+|team2      = [[Middlesbrough F.C.|Middlesbrough]]
+|goals1     = [[Gianfranco Zola|Zola]] {{goal|35}}<br />[[Eiður Guðjohnsen|Guðjohnsen]] {{goal|63}}
+|goals2     = [[Dean Windass|Windass]] {{goal|54}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Peter Jones (referee)|Peter Jones]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 31
+|date       = 7 April 2001
+|time       = 
+|team1      = [[Derby County]]
+|score      = 0–4
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1264524.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = [[Gianfranco Zola|Zola]] {{goal|64}}<br />[[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|85}}<br />[[Gus Poyet|Poyet]] {{goal|89||90}}
+|location   = [[Derby]], [[Derbyshire]]
+|stadium    = [[Pride Park Stadium]]
+|attendance = 
+|referee    = [[Stephen Lodge (referee)|Steve Lodge]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 32
+|date       = 14 April 2001
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 1–0
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1274586.stm Report]
+|team2      = [[Southampton F.C.|Southampton]]
+|goals1     = [[Gus Poyet|Poyet]] {{goal|43}}
+|goals2     = 
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Chris Wilkes (referee)|Chris Wilkes]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 33
+|date       = 17 April 2001
+|time       = 
+|team1      = [[Tottenham Hotspur]]
+|score      = 0–3
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1280459.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|29}}<br />[[Gus Poyet|Poyet]] {{goal|60}}<br />[[Eiður Guðjohnsen|Guðjohnsen]] {{goal|90}}
+|location   = [[London Borough of Haringey|Haringey]], [[London]]
+|stadium    = [[White Hart Lane]]
+|attendance = 
+|referee    = [[Graham Barber]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 34
+|date       = 21 April 2001
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 0–1
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1285894.stm Report]
+|team2      = [[Charlton Athletic]]
+|goals1     = 
+|goals2     = [[Shaun Bartlett|Bartlett]] {{goal|35}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Mike Dean (referee)|Mike Dean]]
+|result     = L
+}}
+{{Football box collapsible
+|round      = 35
+|date       = 28 April 2001
+|time       = 
+|team1      = [[Leeds United A.F.C.|Leeds United]]
+|score      = 2–0
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1300930.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Robbie Keane|Keane]] {{goal|85}}<br />[[Mark Viduka|Viduka]] {{goal|88}}
+|goals2     = 
+|location   = [[Leeds]], [[West Yorkshire]]
+|stadium    = [[Elland Road]]
+|attendance = 
+|referee    = [[Steve Dunn (referee)|Steve Dunn]]
+|result     = L
+}}
+{{Football box collapsible
+|round      = 36
+|date       = 5 May 2001
+|time       = 
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 2–1
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1310323.stm Report]
+|team2      = [[Everton F.C.|Everton]]
+|goals1     = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|32||35}}
+|goals2     = [[Kevin Campbell (footballer)|K. Campbell]] {{goal|3}}
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 
+|referee    = [[Rob Styles]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = 37
+|date       = 8 May 2001
+|time       = 
+|team1      = [[Liverpool F.C.|Liverpool]]
+|score      = 2–2
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1317886.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Michael Owen|Owen]] {{goal|8||60}}
+|goals2     = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|13||67}}
+|location   = [[Liverpool]], [[Merseyside]]
+|stadium    = [[Anfield]]
+|attendance = 
+|referee    = [[Mike Riley (referee)|Mike Riley]]
+|result     = D
+}}
+{{Football box collapsible
+|round      = 38
+|date       = 19 May 2001
+|time       = 
+|team1      = [[Manchester City F.C.|Manchester City]]
+|score      = 1–2
+|report     = [http://news.bbc.co.uk/sport2/hi/football/eng_prem/1338414.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Steve Howey (footballer)|Howey]] {{goal|39}}
+|goals2     = [[Dennis Wise|Wise]] {{goal|19}}<br />[[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|62}}
+|location   = [[Manchester]], [[Greater Manchester]]
+|stadium    = [[Maine Road]]
+|attendance = 
+|referee    = [[Mike Riley (referee)|Mike Riley]]
+|result     = W
+}}
+
+===UEFA Cup===
+{{main|2000–01 UEFA Cup}}
+
+====First round====
+{{Football box collapsible
+|round      = 1st leg
+|date       = 14 September 2000
+|time       = 
+|team1      = [[Chelsea FC|Chelsea]] {{flagicon|ENG}}
+|score      = 1–0
+|report     = [http://news.bbc.co.uk/sport2/hi/football/uefa_cup/924039.stm Report]
+|team2      = {{flagicon|SUI}} [[FC St. Gallen|St. Gallen]]
+|goals1     = [[Christian Panucci|Panucci]] {{goal|22}}
+|goals2     = 
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location   = [[London]], England
+|attendance = 18,196
+|referee    = {{flagicon|ESP}} Victor José Esquinas Torres
+|result     = W
+}}
+{{Football box collapsible
+|round      = 2nd leg
+|date       = 28 September 2000
+|time       = 
+|team1      = [[FC St. Gallen|St. Gallen]] {{flagicon|SUI}}
+|score      = 2–0
+|report     = [http://news.bbc.co.uk/sport2/hi/football/uefa_cup/945010.stm Report]
+|team2      = {{flagicon|ENG}} [[Chelsea FC|Chelsea]]
+|goals1     = [[Sascha Müller (footballer)|Müller]] {{goal|19}}<br />[[Charles Amoah|Amoah]] {{goal|37}}
+|goals2     = 
+|stadium    = [[Hardturm]]
+|location   = [[St. Gallen]], [[Switzerland]]
+|attendance = 15,500
+|referee    = {{flagicon|FRA}} Pascal Garibian
+|result     = L
+}}
+
+===FA Cup===
+{{main|2000–01 FA Cup}}
+{{Football box collapsible
+|round      = Third round
+|date       = 6 January 2001
+|time       = 
+|team1      = [[Chelsea FC|Chelsea]]
+|score      = 5–0
+|report     = [http://news.bbc.co.uk/sport2/hi/football/fa_cup/1102020.stm Report]
+|team2      = [[Peterborough United]]
+|goals1     = [[Gianfranco Zola|Zola]] {{goal|37||84}}<br />[[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|45}}<br />[[Eiður Guðjohnsen|Guðjohnsen]] {{goal|72}}<br />[[Gus Poyet|Poyet]] {{goal|74}}
+|goals2     = 
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location   = [[London Borough of Hammersmith and Fulham|Fulham]], [[London]]
+|attendance = 31,912
+|referee    = Clive Wilkes
+|result     = W
+}}
+{{Football box collapsible
+|round      = Fourth round
+|date       = 28 January 2001
+|time       = 
+|team1      = [[Gillingham F.C.|Gillingham]]
+|score      = 2–4
+|report     = [http://news.bbc.co.uk/sport2/hi/football/fa_cup/1139916.stm Report]
+|team2      = [[Chelsea FC|Chelsea]]
+|goals1     = [[Paul Shaw (footballer)|Shaw]] {{goal|51}}<br />[[Iffy Onuora|Onuora]] {{goal|65}}
+|goals2     = [[Eiður Guðjohnsen|Guðjohnsen]] {{goal|3||90}}<br />[[Jesper Gronkjaer|Gronkjaer]] {{goal|13||24}}
+|stadium    = [[Priestfield Stadium]]
+|location   = [[Gillingham, Kent|Gillingham]], [[Kent]]
+|attendance = 10,419
+|referee    = [[Dermot Gallagher]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = Fifth round
+|date       = 18 February 2001
+|time       = 
+|team1      = [[Arsenal F.C.|Arsenal]]
+|score      = 3–1
+|report     = [http://news.bbc.co.uk/sport2/hi/football/fa_cup/1177270.stm Report]
+|team2      = [[Chelsea FC|Chelsea]]
+|goals1     = [[Thierry Henry|Henry]] {{goal|52}}<br />[[Sylvain Wiltord|Wiltord]] {{goal|75||83}}
+|goals2     = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|61}}
+|stadium    = [[Arsenal Stadium|Highbury]]
+|location   = [[Islington]], [[London]]
+|attendance = 38,096
+|referee    = [[Graham Barber]]
+|result     = L
+}}
+
+===Worthington Cup===
+{{main|2000–01 Football League Cup}}
+{{Football box collapsible
+|round      = Third round
+|date       = 1 November 2000
+|time       = 
+|team1      = [[Liverpool F.C.|Liverpool]]
+|score      = 2–1 |aet=y
+|report     = [http://news.bbc.co.uk/sport2/hi/football/worthington_cup/1002718.stm Report]
+|team2      = [[Chelsea FC|Chelsea]]
+|goals1     = [[Danny Murphy (footballer born 1977)|Murphy]] {{goal|11}}<br />[[Robbie Fowler|Fowler]] {{goal|104}}
+|goals2     = [[Gianfranco Zola|Zola]] {{goal|29}}
+|stadium    = [[Anfield]]
+|location   = [[Liverpool]], Merseyside
+|attendance = 29,370
+|referee    = [[Rob Harris (referee)|Rob Harris]]
+|result     = L
+}}
+
+==First team squad==
+:''Squad at end of season''<ref>{{Cite web|url=https://www.footballsquads.co.uk/eng/2000-2001/faprem/chelsea.htm|title =Chelsea – 2000/01|website=Footballsquads.co.uk}}</ref>
+{{fs start}}
+{{Fs player|no=1|nat=NED|pos=GK|name=[[Ed de Goey]]}}
+{{Fs player|no=3|nat=NGA|pos=DF|name=[[Celestine Babayaro]]}}
+{{Fs player|no=5|nat=FRA|pos=DF|name=[[Frank Leboeuf]]}}
+{{Fs player|no=6|nat=FRA|pos=DF|name=[[Marcel Desailly]]|other=[[Captain (association football)|captain]]}}
+{{Fs player|no=7|nat=NED|pos=DF|name=[[Winston Bogarde]]}}
+{{Fs player|no=8|nat=URU|pos=MF|name=[[Gus Poyet]]}}
+{{Fs player|no=9|nat=NED|pos=FW|name=[[Jimmy Floyd Hasselbaink]]}}
+{{Fs player|no=10|nat=FRY|pos=MF|name=[[Slaviša Jokanović]]}}
+{{Fs player|no=11|nat=ENG|pos=MF|name=[[Dennis Wise]]|other=[[Captain (association football)#Vice-captain|Vice-captain]]}}
+{{Fs player|no=12|nat=CRO|pos=FW|name=[[Mario Stanić]]}}
+{{Fs player|no=13|nat=ENG|pos=GK|name=[[Kevin Hitchcock]]}}
+{{Fs player|no=14|nat=ENG|pos=DF|name=[[Graeme Le Saux]]}}
+{{Fs player|no=15|nat=NED|pos=DF|name=[[Mario Melchiot]]}}
+{{Fs player|no=16|nat=ITA|pos=MF|name=[[Roberto Di Matteo]]}}
+{{Fs player|no=17|nat=ESP|pos=MF|name=[[Albert Ferrer]]}}
+{{Fs player|no=18|nat=ITA|pos=MF|name=[[Gabriele Ambrosetti]]}}
+{{Fs player|no=19|nat=RSA|pos=DF|name=[[Pierre Issa]]|other=on loan from [[Olympique de Marseille|Marseille]]}}
+{{Fs mid}}
+{{Fs player|no=20|nat=ENG|pos=MF|name=[[Jody Morris]]}}
+{{Fs player|no=21|nat=FRA|pos=DF|name=[[Bernard Lambourde]]}}
+{{Fs player|no=22|nat=ISL|pos=FW|name=[[Eiður Guðjohnsen]]}}
+{{Fs player|no=23|nat=ITA|pos=GK|name=[[Carlo Cudicini]]}}
+{{Fs player|no=24|nat=ITA|pos=MF|name=[[Samuele Dalla Bona]]}}
+{{Fs player|no=25|nat=ITA|pos=FW|name=[[Gianfranco Zola]]}}
+{{Fs player|no=26|nat=ENG|pos=DF|name=[[John Terry]]}}
+{{Fs player|no=27|nat=GEO|natvar=1990|pos=FW|name=[[Rati Aleksidze]]}}
+{{Fs player|no=28|nat=WAL|pos=DF|name=Danny Slatter}}
+{{Fs player|no=30|nat=DEN|pos=FW|name=[[Jesper Grønkjær]]}}
+{{Fs player|no=31|nat=AUS|pos=GK|name=[[Mark Bosnich]]}}
+{{Fs player|no=32|nat=FIN|pos=FW|name=[[Mikael Forssell]]}}
+{{Fs player|no=34|nat=ENG|pos=DF|name=[[Jon Harley]]}}
+{{Fs player|no=36|nat=ENG|pos=FW|name=[[Leon Knight]]}}
+{{Fs player|no=37|nat=ENG|pos=FW|name=[[Mark Nicholls (footballer)|Mark Nicholls]]|other=on loan to [[Colchester United F.C.|Colchester United]]}}
+{{Fs player|no=39|nat=ENG|pos=MF|name=[[Rob Wolleaston]]}}
+{{Fs end}}
+
+===Left club during season===
+{{Fs start}}
+{{Fs player|no=2|nat=ITA|pos=DF|name=[[Christian Panucci]]|other=on loan from [[Inter Milan|Internazionale]]}}
+{{Fs player|no=4|nat=DEN|pos=DF|name=[[Jes Høgh]]|other=retired}}
+{{Fs player|no=19|nat=NOR|pos=FW|name=[[Tore André Flo]]|other=to [[Rangers F.C.|Rangers]]}}
+{{Fs mid}}
+{{Fs player|no=30|nat=BRA|pos=DF|name=[[Emerson Thome]]|other=to [[Sunderland A.F.C.|Sunderland]]}}
+{{Fs player|no=33|nat=ITA|pos=DF|name=[[Luca Percassi]]|other=to [[A.C. Monza Brianza 1912|Monza]]}}
+{{Fs end}}
+
+===Reserve squad===
+{{Fs start}}
+{{Fs player|no=|nat=ENG|pos=GK|name=[[Rhys Evans]]}}
+{{Fs player|no=|nat=ENG|pos=DF|name=[[Stephen Broad]]|other=on loan to [[Southend United F.C.|Southend United]]}}
+{{Fs player|no=|nat=ENG|pos=DF|name=[[Stuart Reddington]]}}
+{{Fs player|no=|nat=ENG|pos=DF|name=Paul Thornton}}
+{{Fs player|no=|nat=SCO|pos=DF|name=[[Warren Cummings]]}}
+{{Fs player|no=|nat=ENG|pos=MF|name=[[Neil Barrett (footballer)|Neil Barrett]]}}
+{{Fs player|no=|nat=ENG|pos=MF|name=Shayne Demitrious}}
+{{Fs mid}}
+{{Fs player|no=|nat=ENG|pos=MF|name=[[Joe Keenan (footballer)|Joe Keenan]]}}
+{{Fs player|no=|nat=ENG|pos=MF|name=[[Courtney Pitt]]}}
+{{Fs player|no=|nat=ENG|pos=MF|name=[[Jay Richardson (footballer)|Jay Richardson]]}}
+{{Fs player|no=|nat=GER|pos=MF|name=[[Sebastian Kneißl]]}}
+{{Fs player|no=|nat=ENG|pos=FW|name=[[Carlton Cole]]}}
+{{Fs player|no=|nat=ENG|pos=FW|name=[[Sam Parkin]]|other=on loan to [[Millwall F.C.|Millwall]] and [[Wycombe Wanderers F.C.|Wycombe Wanderers]]}}
+{{Fs end}}
+
+==Transfers==
+
+===In===
+{|width=75% class="wikitable" style="text-align:center; font-size:95%; text-align:left"
+!#
+!Pos
+!Player
+!From
+!Fee
+!Date
+|----
+|9|| CF||{{flagicon|NED}} [[Jimmy Floyd Hasselbaink]] ||{{flagicon|ESP}} [[Atlético Madrid]] || £15,000,000<ref>{{cite news| url=http://news.bbc.co.uk/2/hi/euro2000/teams/holland/770936.stm | work=BBC News | title=Chelsea seal £15m Hasselbaink deal | date=31 May 2000}}</ref> || 31 May 2000
+|----
+|22|| CF||{{flagicon|ISL}} [[Eiður Guðjohnsen]] ||{{flagicon|ENG}} [[Bolton Wanderers F.C.|Bolton Wanderers]] || £4,000,000<ref>{{cite news| url=http://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/797974.stm | work=BBC News | title=Gudjohnsen signs for Blues | date=19 June 2000}}</ref> || 19 June 2000
+|----
+|12|| MF||{{flagicon|CRO}} [[Mario Stanić]] ||{{flagicon|ITA}} [[Parma F.C.|Parma]] || £5,600,000<ref>{{cite news| url=http://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/809869.stm | work=BBC News | title=Chelsea sign Croatian star | date=28 June 2000}}</ref> || 28 June 2000
+|----
+|23|| GK||{{flagicon|ITA}} [[Carlo Cudicini]] ||{{flagicon|ITA}} [[Castel di Sangro Calcio|Castel di Sangro]] || Free || 3 July 2000
+|----
+|7|| DF||{{flagicon|NED}} [[Winston Bogarde]] ||{{flagicon|ESP}} [[FC Barcelona|Barcelona]] || Free<ref name="Bogarde">{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/europe/904852.stm|title=Chelsea snap up Bogarde|work=BBC Sport| date=31 August 2000}}</ref> || 31 August 2000
+|----
+|10|| MF||{{flagicon|FRY}} [[Slaviša Jokanović]] ||{{flagicon|ESP}} [[Deportivo de La Coruña|Deportivo]] || £1,700,000<ref name="Jokanovic">{{cite news |url=https://www.independent.co.uk/sport/football/premier-league/chelsea-search-ends-in-pound17m-jokanovic-deal-637216.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football/premier-league/chelsea-search-ends-in-pound17m-jokanovic-deal-637216.html |archive-date=1 May 2022 |url-access=subscription |url-status=live|title=Chelsea search ends in £1.7m Jokanovic deal|work=The Independent| location=London | first=Alan | last=Nixon | date=11 October 2000}}{{cbignore}}</ref> || 10 October 2000
+|----
+|30|| MF||{{flagicon|DEN}} [[Jesper Grønkjær]] ||{{flagicon|NED}} [[Ajax Amsterdam|Ajax]] || £7,800,000<ref name="Gronkjaer">{{cite news |url=https://www.theguardian.com/football/2000/oct/31/newsstory.ajax|title=Chelsea sign £7.8 million Gronkjaer|work=The Guardian| location=London | date=31 October 2000}}</ref> || 29 December 2000
+|----
+|31|| GK||{{flagicon|AUS}} [[Mark Bosnich]] ||{{flagicon|ENG}} [[Manchester United F.C.|Manchester United]] || Free<ref name="Bosnich">{{cite news |url=https://www.independent.co.uk/sport/football/premier-league/bosnich-moves-on-free-transfer-to-chelsea-693431.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football/premier-league/bosnich-moves-on-free-transfer-to-chelsea-693431.html |archive-date=1 May 2022 |url-access=subscription |url-status=live|title=Bosnich moves on free transfer to Chelsea|work=The Independent|access-date=2001-01-19 | location=London | first=Alan | last=Nixon | date=19 January 2001}}{{cbignore}}{{dead link|date=August 2021|bot=medic}}{{cbignore|bot=medic}}</ref> || 18 January 2001
+|}
+
+===Out===
+{|width=75% class="wikitable" style="text-align:center; font-size:95%; text-align:left"
+!#
+!Pos
+!Player
+!To
+!Fee
+!Date
+|----
+|9|| FW||{{flagicon|ENG}} [[Chris Sutton]] ||{{flagicon|SCO}} [[Celtic F.C.|Celtic]] || £6,000,000 || 10 July 2000<ref>{{cite news| url=http://news.bbc.co.uk/sport2/hi/football/teams/c/celtic/825260.stm | work=BBC News | title=Celtic land £6m Sutton | date=9 July 2000}}</ref>
+|----
+|7|| MF||{{flagicon|FRA}} [[Didier Deschamps]] ||{{flagicon|ESP}} [[Valencia C.F.|Valencia]] || £2,300,000<ref>{{cite news| url=http://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/855704.stm | work=BBC News | title=Valencia sign £2.3m Deschamps | date=28 July 2000}}</ref> || 28 July 2000
+|----
+|19|| FW||{{flagicon|NOR}} [[Tore Andre Flo]] ||{{flagicon|SCO}} [[Rangers F.C.|Rangers]] || £12,000,000<ref>{{cite news| url=http://news.bbc.co.uk/sport2/hi/football/1033258.stm | work=BBC News | title=Flo goes to Rangers | date=23 November 2000}}</ref> || 23 November 2000
+|----
+
+|}
+* Total spending: {{loss}} £34,100,000
+* Total income: {{gain}} £20,000,000
+* Overall loss/gain: {{loss}} £14,100,000
+
+==Statistics==
+{{Efs start|[[Premier League]]|[[UEFA Europa League|UEFA Cup]]|[[FA Cup]]|[[EFL Cup|League Cup]]}}
+{{Efs player|no=1|name=[[Ed de Goey]]|pos=GK|nat=NED|15|0|0|0|0|0|1|0}}
+{{Efs player|no=2|name=[[Christian Panucci]]|pos=DF|nat=ITA|7+1|0|2|1|0|0|0|0}}
+{{Efs player|no=3|name=[[Celestine Babayaro]]|pos=DF|nat=NGA|19+5|0|0|0|2|0|1|0}}
+{{Efs player|no=5|name=[[Frank Leboeuf]]|pos=DF|nat=FRA|24+2|0|2|0|2|0|0|0}}
+{{Efs player|no=6|name=[[Marcel Desailly]]|pos=DF|nat=FRA|34|2|1|0|2|0|1|0}}
+{{Efs player|no=7|name=[[Winston Bogarde]]|pos=DF|nat=NED|9|0|1|0|0|0|1|0}}
+{{Efs player|no=8|name=[[Gus Poyet]]|pos=MF|nat=URU|22+8|11|0|0|3|1|1|0}}
+{{Efs player|no=9|name=[[Jimmy Floyd Hasselbaink]]|pos=FW|nat=NED|35|23|2|1|2|2|1|0}}
+{{Efs player|no=10|name=[[Slaviša Jokanović]]|pos=MF|nat=FRY|7+12|0|0|0|2|0|1|0}}
+{{Efs player|no=11|name=[[Dennis Wise]]|pos=MF|nat=ENG|35+1|3|1|0|3|0|1|0}}
+{{Efs player|no=12|name=[[Mario Stanić]]|pos=MF|nat=CRO|8+4|2|0|0|2|0|0|0}}
+{{Efs player|no=14|name=[[Graeme Le Saux]]|pos=DF|nat=ENG|17+3|0|2|0|2|0|0|0}}
+{{Efs player|no=15|name=[[Mario Melchiot]]|pos=DF|nat=NED|27+4|0|1|1|1|0|1|0}}
+{{Efs player|no=16|name=[[Roberto Di Matteo]]|pos=MF|nat=ITA|8|0|2|0|0|0|0|0}}
+{{Efs player|no=17|name=[[Albert Ferrer]]|pos=DF|nat=ESP|12+2|0|0|0|3|0|0|0}}
+{{Efs player|no=19|name=[[Tore André Flo]]|pos=FW|nat=NOR|5+9|3|2|0|0|0|1|0}}
+{{Efs player|no=20|name=[[Jody Morris]]|pos=MF|nat=ENG|12+9|0|3|0|1|0|1|0}}
+{{Efs player|no=21|name=[[Bernard Lambourde]]|pos=DF|nat=FRA|0+1|0|0|0|0|0|0|0}}
+{{Efs player|no=22|name=[[Eiður Guðjohnsen]]|pos=FW|nat=ISL|17+13|10|3|0|3|3|1|0}}
+{{Efs player|no=23|name=[[Carlo Cudicini]]|pos=GK|nat=ITA|23+1|0|2|0|3|0|0|0}}
+{{Efs player|no=24|name=[[Samuele Dalla Bona]]|pos=MF|nat=ITA|26+3|2|2|0|1|0|0|0}}
+{{Efs player|no=25|name=[[Gianfranco Zola]]|pos=FW|nat=ITA|31+5|9|2|0|3|2|1|1}}
+{{Efs player|no=26|name=[[John Terry]]|pos=DF|nat=ENG|19+3|1|0|0|3|0|1|0}}
+{{Efs player|no=27|name=[[Rati Aleksidze]]|pos=MF|nat=GEO|natvar=1990|0+2|0|1|0|0|0|0|0}}
+{{Efs player|no=30|name=[[Jesper Grønkjær]]|pos=MF|nat=DEN|6+8|1|0|0|2|2|0|0}}
+{{Efs player|no=34|name=[[Jon Harley]]|pos=DF|nat=ENG|6+4|0|0|0|2|0|0|0}}
+|}
+
+Statistics taken from [http://www.soccerbase.com/squad_season.sd?teamid=536] {{Webarchive|url=https://web.archive.org/web/20090520151010/http://www.soccerbase.com/squad_season.sd?teamid=536 |date=20 May 2009 }}. Squad details and shirt numbers from [http://www.zanziball.it/en/28/32ec.html] {{Webarchive|url=https://web.archive.org/web/20071217062709/http://www.zanziball.it/en/28/32ec.html |date=17 December 2007 }} and [http://www.eufo.de/football/eng/2000/chela_fc.htm].
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.chelseafc.com Chelsea FC Official Website]
+* [https://www.soccerbase.com/teams/team.sd?team_id=536 Chelsea FC on Soccerbase] {{webarchive |url=https://web.archive.org/web/20070627030941/http://www.soccerbase.com/teams2.sd?teamid=536 |date=2007-06-27}}
+* [http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/default.stm Chelsea FC on BBC]
+
+{{Chelsea F.C. seasons}}
+{{2000–01 in English football}}
+
+{{DEFAULTSORT:2000-01 Chelsea F.C. season}}
+[[Category:Chelsea F.C. seasons]]
+[[Category:2000–01 FA Premier League by team|Chelsea]]

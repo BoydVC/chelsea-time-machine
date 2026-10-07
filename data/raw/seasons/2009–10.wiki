@@ -1,0 +1,2310 @@
+{{Short description|English football club season}}
+{{Use British English|date=February 2015}}
+{{Use dmy dates|date=September 2020}}
+{{Infobox football club season
+| club               = Chelsea
+| season             = 2009–10
+| image               = Chelsea double winner 2009-10.JPG
+| imagesize           =
+| caption             = [[Chelsea F.C.|Chelsea]]'s domestic double parade including their 6th FA Cup title
+| manager            = [[Carlo Ancelotti]]
+| owner              = [[Roman Abramovich]]
+| chairman           = [[Bruce Buck]]
+| stadium            = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| league             = [[Premier League]]
+| league result      = [[2009–10 Premier League|'''1st''']]
+| cup1               = [[FA Cup]]
+| cup1 result        = [[2009–10 FA Cup|'''Winners''']]
+| cup2               = [[EFL Cup|League Cup]]
+| cup2 result        = [[2009–10 Football League Cup|Fifth round]]
+| cup3               = [[FA Community Shield]]
+| cup3 result        = [[2009 FA Community Shield|'''Winners''']]
+| cup4               = [[UEFA Champions League]]
+| cup4 result        = [[2009–10 UEFA Champions League|Round of 16]]
+| league topscorer   = <br>[[Didier Drogba]] (29)
+| season topscorer   =<br>Didier Drogba (37)
+| highest attendance = 41,836 (vs. [[Manchester United F.C.|Manchester United]], 8 November 2009)
+| lowest attendance  = 37,781 (vs. [[Queens Park Rangers F.C.|Queens Park Rangers]], 23 September 2009)
+| pattern_la1 = _chelsea0910h
+| pattern_b1  = _chelsea0910h
+| pattern_ra1 = _chelsea0910h
+| pattern_sh1 = _adidaswhite
+| pattern_so1 = _3_stripes_blue
+| leftarm1    = 0000FF
+| body1       = 0000FF
+| rightarm1   = 0000FF
+| shorts1     = 0000FF
+| socks1      = FFFFFF
+| pattern_la2 = _chelsea0910a
+| pattern_b2  = _chelsea0910a
+| pattern_ra2 = _chelsea0910a
+| pattern_sh2 = _chelsea0910a
+| pattern_so2 = _chelsea0910a
+| leftarm2    = 00002E
+| body2       = 00002E
+| rightarm2   = 00002E
+| shorts2     = 00002E
+| socks2      = 00002E
+| pattern_la3 = _chelsea0910t
+| pattern_b3  = _chelsea0910t
+| pattern_ra3 = _chelsea0910t
+| pattern_sh3 = _chelsea0910t
+| pattern_so3 = _3_stripes_black
+| leftarm3    = FFFFFF
+| body3       = FFFFFF
+| rightarm3   = FFFFFF
+| shorts3     = FFFFFF
+| socks3      = FFFFFF
+| prevseason         = [[2008–09 Chelsea F.C. season|2008–09]]
+| nextseason         = [[2010–11 Chelsea F.C. season|2010–11]]
+}}
+[[File:Premiere-2010.jpg|thumb|250px|2009–2010 Premier League Champions]]
+The 2009–10 season was [[Chelsea F.C.|Chelsea Football Club]]'s 96th competitive season, 18th consecutive season in the [[Premier League]], 104th year in existence as a [[football club (association football)|football club]] and their first season coached by [[Carlo Ancelotti]]. Despite disappointment in the Champions League going out to eventual winners Inter Milan in the round of 16, the club had the most successful season in its history, winning the [[2009–10 FA Premier League|Premier League]] for a third time and retaining the [[2009–10 FA Cup|FA Cup]] for the first time, thus becoming the seventh English club to complete [[Double (association football)|the "Double"]].
+
+The season is also notable for the attacking football that was displayed, which resulted in the team breaking several [[Premier League|Premier League records and statistics]] including most goals scored in a season (103), most goals scored at home in a season (68) and best goal difference in a season (+71). Chelsea became the first top-flight team to reach a century of league goals since Tottenham Hotspur in [[1962–63 Football League|1962/63]].<ref>{{cite web |title=2009/10 Season Review |url=https://www.premierleague.com/news/693654 |website=Premier League |access-date=1 December 2020}}</ref> The team only failed to score in two of 53 games, a club record.<ref>{{cite web |title=Wins, defeats and sequences |url=http://www.chelseafc.com/the-club/history/style/statistics/wins--defeats-and-sequences.html |website=ChelseaFC |archive-url=https://web.archive.org/web/20171120001721/http://www.chelseafc.com/the-club/history/style/statistics/wins--defeats-and-sequences.html |archive-date=20 November 2017}}</ref> As of 2026, the team holds the [[Premier League records and statistics|Premier League record]] for most goals scored at home in a season.<ref>{{cite web |title=Premier League Records |url=https://www.premierleague.com/stats/records |website=Premier League |access-date=7 August 2026}}</ref>
+
+==Kits==
+'''Supplier:''' [[Adidas]] / '''Sponsor:''' [[Samsung]]
+
+{|border="0" style="margin:1em auto;"
+|{{Football kit
+ | pattern_la = _chelsea0910h
+ | pattern_b  = _chelsea0910h
+ | pattern_ra = _chelsea0910h
+ | pattern_sh = _adidaswhite
+ | pattern_so = _3_stripes_blue
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | socks      = FFFFFF
+ | title      = Home
+}}
+|
+|{{Football kit
+ | pattern_la = _chelsea0910h
+ | pattern_b  = _chelsea0910h
+ | pattern_ra = _chelsea0910h
+ | pattern_sh = _adidaswhite
+ | pattern_so = _3_stripes_white
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | socks      = 0000FF
+ | title      = Home <small>alt.</small>
+}}
+|
+|{{Football kit
+ | pattern_la = _chelsea1011h
+ | pattern_b  = _chelsea1011h
+ | pattern_ra = _chelsea1011h
+ | pattern_sh = _chelsea1011h
+ | pattern_so = _3_stripes_blue
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | socks      = FFFFFF
+ | title      = [[2010 FA Cup Final|FA Cup Final]]
+}}
+|
+|{{Football kit
+ | pattern_la = _chelsea0910a
+ | pattern_b  = _chelsea0910a
+ | pattern_ra = _chelsea0910a
+ | pattern_sh = _chelsea0910a
+ | pattern_so = _chelsea0910a
+ | leftarm    = 00002E
+ | body       = 00002E
+ | rightarm   = 00002E
+ | shorts     = 00002E
+ | socks      = 00002E
+ | title      = Away
+}}
+|
+|{{Football kit
+ | pattern_la = _chelsea0910t
+ | pattern_b  = _chelsea0910t
+ | pattern_ra = _chelsea0910t
+ | pattern_sh = _chelsea0910t
+ | pattern_so = _chelsea0910t
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000040
+ | socks      = FFFFFF
+ | title      = Third
+}}
+|{{Football kit
+ | pattern_la = _chelsea0910t
+ | pattern_b  = _chelsea0910t
+ | pattern_ra = _chelsea0910t
+ | pattern_sh = _chelsea0910ta
+ | pattern_so = _3_stripes_white
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 121212
+ | socks      = 121212
+ | title      = Third <small>alt. 1</small>
+}}
+|{{Football kit
+ | pattern_la = _chelsea0910t
+ | pattern_b  = _chelsea0910t
+ | pattern_ra = _chelsea0910t
+ | pattern_sh = _chelsea0910ta
+ | pattern_so = _chelsea0910t
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 121212
+ | socks      = FFFFFF
+ | title      = Third <small>alt. 2</small>
+}}
+|}
+{| style="margin:1em auto;"
+|
+|{{Football kit
+ | pattern_la  = _chelsea0910g1
+ | pattern_b   = _chelsea0910g1
+ | pattern_ra  = _chelsea0910g
+ | pattern_sh  = _chelsea0910g1
+ | pattern_so  = _3_stripes_black
+ | leftarm    = 1c2841
+ | body       = 1c2841
+ | rightarm   = 1c2841
+ | shorts     = 1c2841
+ | socks      = 77DD77
+ | title      = Goalkeeper <small>1</small>
+}}
+|
+|{{Football kit
+ |pattern_la  = _chelsea1011g1
+ |pattern_b   = _chelsea1011g1
+ |pattern_ra  = _chelsea1011g1
+ |pattern_sh  = _chelsea1011g1
+ |pattern_so  = _3_stripes_black
+ |leftarm     = FFFFFF
+ |body        = FFFFFF
+ |rightarm    = FFFFFF
+ |shorts      = FFFFFF
+ |socks       = CCFF00
+ | title      = FA Cup Final
+}}
+|
+|{{Football kit
+ | pattern_la = _col11G2
+ | pattern_b  = _chelsea0910g2
+ | pattern_ra = _col11G2
+ | pattern_sh = _chelsea0810gk
+ | pattern_so = _3_stripes_black
+ | leftarm    = FF8000
+ | body       = FF8000
+ | rightarm   = FF8000
+ | shorts     = 000000
+ | socks      = FF8000
+ | title      = Goalkeeper <small>2</small>
+}}
+|
+|{{Football kit
+ | pattern_la = _col11G2
+ | pattern_b  = _chelsea0910g2
+ | pattern_ra = _col11G2
+ | pattern_sh = _black_stripes_adidas
+ | pattern_so = _3_stripes_black
+ | leftarm    = FF8000
+ | body       = FF8000
+ | rightarm   = FF8000
+ | shorts     = FF8000
+ | socks      = FF8000
+ | title      = Goalkeeper <small>alt.</small>
+}}
+|
+|}
+
+==Season summary==
+Chelsea won the FA Cup and the English Premier League to complete the Double for the first time in their history, while breaking numerous [[Premier League records and statistics#Goals|Premier League records]] in the number of goals they managed.
+
+==Key dates==
+* 01.06.09: [[Carlo Ancelotti]] is appointed as the new Chelsea manager following the departure of temporary first team coach [[Guus Hiddink]], with his tenure set to commence on 1 July.
+* 02.07.09: Goalkeeper [[Ross Turnbull]] signs a four-year deal on a free transfer from [[Middlesbrough F.C.|Middlesbrough]], along with news that [[Henrique Hilário]] has renewed his contract for two more years.
+* 03.07.09: Chelsea finalize a four-year deal for striker [[Daniel Sturridge]] after his contract with [[Manchester City F.C.|Manchester City]] expires.
+* 07.07.09: Full Back [[Yuri Zhirkov]] signs for Chelsea from [[PFC CSKA Moscow|CSKA Moscow]] on a four-year deal for a reported £18&nbsp;million.
+* 27.07.09: Chelsea wins the inaugural [[World Football Challenge]] tournament, beating [[F.C. Internazionale Milano|Internazionale]], [[A.C. Milan|Milan]], and [[Club América|América]].
+* 28.07.09: Former Chelsea chairman [[Brian Mears]] passes away at the age of 78.
+* 04.08.09: Striker [[Franco Di Santo]] joins [[Blackburn Rovers F.C.|Blackburn Rovers]] on loan until 1 January.
+* 06.08.09: Winger [[Scott Sinclair]] joins [[Wigan Athletic F.C.|Wigan Athletic]] on a season-long loan deal.
+* 09.08.09: With their first [[Penalty shootout (association football)|penalty shootout]] win in over a decade, Chelsea secure the [[2009 FA Community Shield|2009 Community Shield]] following a 2–2 draw against [[Manchester United F.C.|Manchester United]] in normal time. After United's [[Nani (footballer)|Nani]] opens the scoring, goals by [[Ricardo Carvalho]] and [[Frank Lampard]] look to win the game for Chelsea until an injury-time equalizer by [[Wayne Rooney]] forces the game to penalties. Chelsea win the shootout 4–1.
+* 13.08.09: [[Michael Mancienne]] signs a new four-year deal, keeping him at Chelsea until 2013, then signs on loan with [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] until the end of the season.
+* 15.08.09: Chelsea's Premier League campaign kicks off with a difficult 2–1 home victory over a defensively resolute [[Hull City A.F.C.|Hull City]] side. After ex-[[Reading F.C.|Reading]] player [[Stephen Hunt (footballer, born 1981)|Stephen Hunt]] scores against the run of play, a [[Didier Drogba]] free-kick makes things even. Although Chelsea dominate the second half of the game, Hull's tenacity and a lack of quality finishing make it look like the game will end a damaging draw for Chelsea, until Drogba's chipped cross in stoppage time loops over the head of Hull keeper [[Boaz Myhill]] and serendipitously falls into the corner of the net.
+* 18.08.09: Chelsea sign young [[Serbia national football team|Serbian]] [[midfielder#Centre midfielder|central midfielder]] [[Nemanja Matić]] from [[MFK Košice]] for a fee of £1.5&nbsp;million.
+* 27.08.09: Chelsea are grouped with [[FC Porto|Porto]], [[Atlético Madrid]] and [[APOEL FC|APOEL]] in the [[UEFA Champions League]] group stage draw at the [[Grimaldi Forum]] in [[Monaco]]. During the ceremony, [[John Terry]] is awarded the [[UEFA Club Football Awards#Best Defender|UEFA Club Defender of the Year award]].
+* 29.08.09: Chelsea claim first place in the Premier League for the first time this season with a 3–0 home win over [[Burnley F.C.|Burnley]]. In a game characterised by Chelsea's dominance, after [[Nicolas Anelka]] breaks the deadlock from close range before half-time, a quick-fire double at the start of the second half via a [[Michael Ballack]] header and an [[Ashley Cole]] volley secures a comfortable victory. During the match, Chelsea are paired with fellow Londoners [[Queens Park Rangers F.C.|Queens Park Rangers]] in the [[2009–10 Football League Cup#Third round|League Cup third round draw]].
+* 03.09.09: For inducing reserve player [[Gaël Kakuta]] into breaching his contract with his previous club [[RC Lens|Lens]], FIFA ban Chelsea from signing any new players nationally or internationally until January 2011, and demand the club to pay Lens £113,500 training compensation. Kakuta is fined £680,000 and banned from playing officially for four months.<ref>{{Cite news| work = The Telegraph| url = https://www.telegraph.co.uk/sport/football/leagues/premierleague/chelsea/6132259/Fifa-ban-Chelsea-from-signing-new-players-until-2011.html | archive-url = https://web.archive.org/web/20090906070147/http://www.telegraph.co.uk/sport/football/leagues/premierleague/chelsea/6132259/Fifa-ban-Chelsea-from-signing-new-players-until-2011.html | url-status = dead | archive-date = 6 September 2009 | access-date = 3 September 2009 | title = Fifa ban Chelsea from signing new players until 2011 | location=London | first=Jeremy | last=Wilson | date=3 September 2009}}</ref>
+* 15.09.09: After a hard-fought 2–1 win away against [[Stoke City F.C.|Stoke City]] in the Premier League, a lone Nicolas Anelka goal kicks off Chelsea's Champions League campaign with a tight 1–0 win in Group D over Porto. With mainstays Didier Drogba and [[José Bosingwa]] suspended for their protests in last year's semi-final, along with the difficulty caused by constant rainfall on the pitch, the Chelsea performance is unusually sloppy, but a solid performance by goalkeeper [[Petr Čech]] guides the team to victory. Atlético Madrid draw 0–0 at home with APOEL, leaving Chelsea two points clear at the top of the group after one game played.
+* 20.09.09: With a 3–0 win at home against London rivals [[Tottenham Hotspur F.C.|Tottenham Hotspur]] with goals from Ashley Cole, Michael Ballack and Didier Drogba, Chelsea set a new club record of 11 consecutive Premier League victories, surpassing the record of ten games set during the [[2005–06 Chelsea F.C. season|2005–06 season]].
+* 23.09.09: Chelsea kick off their [[2009–10 Football League Cup|League Cup]] challenge with a low-key 1–0 home victory over Queens Park Rangers in the [[2009–10 Football League Cup#Third round|third round]]. [[Salomon Kalou]] notches the only goal, set up by [[Joe Cole]] in his first game since January. Yuri Zhirkov, [[Sam Hutchinson]] and [[Fabio Borini]] all make their first starts for the club.
+* 26.09.09: Although Didier Drogba scores his 100th Chelsea goal against Wigan Athletic to briefly equalise, Chelsea look strangely uninspired in a 1–3 loss at the [[DW Stadium]], having gone down to ten men after Petr Čech's sending off six minutes after half time following a penalty-worthy challenge on [[Hugo Rodallega]]. Chelsea relinquish their Premier League lead to Manchester United, falling into second place on goals scored.
+* 04.10.09: In their first "Big Four" clash of the season, Chelsea edge a typically tight game at [[Stamford Bridge (stadium)|Stamford Bridge]] with a 2–0 Premier League victory over title rivals [[Liverpool F.C.|Liverpool]]. Didier Drogba sets up both Chelsea goals from wide positions, first from the left for Nicolas Anelka, and then from the right for [[Florent Malouda]] to seal the win in stoppage time. Henrique Hilário proves a solid deputy for the suspended Petr Čech, as the goalkeeper produces excellent saves from [[Albert Riera]] and [[Steven Gerrard]] to keep the clean sheet, assisted by a horrendous miss from [[Yossi Benayoun]] towards the end of the game. Manchester United's fortuitous 2–2 draw with [[Sunderland A.F.C.|Sunderland]] at [[Old Trafford]] the day before means Chelsea return to the top of the league.
+* 17.10.09: Chelsea are beaten by [[Aston Villa F.C.|Aston Villa]] 2–1 away at [[Villa Park]]. Following Didier Drogba's early strike, James Collins and Richard Dunne score the goals which inflict Chelsea's second successive away defeat under Carlo Ancelotti.
+* 24.10.09: Chelsea thrash Blackburn Rovers 5–0 at Stamford Bridge in their most emphatic Premier League victory so far this season, only a few days after humbling Atlético Madrid in the Champions League by one goal less. [[Joe Cole]] enjoys a sparkling performance at the top of the midfield diamond in his first league start since January, with a [[Gaël Givet]] [[own goal]] opening the scoring. A 30-yard [[Michael Essien]] drive sandwiches two goals by Frank Lampard, and Didier Drogba completes the rout with a simple header from a corner. The next day, Liverpool break their four-game losing streak with a 2–0 victory over Manchester United at [[Anfield]]. After losing their lead again the previous week, this result leaves Chelsea two points clear.
+* 4.11.09: [[Chelsea F.C.|Chelsea]] qualify for the [[2009–10 UEFA Champions League knockout stage|Champions League knockout round]] after sharing the points in a 2–2 draw with Atlético Madrid at the [[Vicente Calderón Stadium]] that burst into life into the last ten minutes. After [[Sergio Agüero]] volleyed home midway through the second half, a quickfire double in the last ten minutes by the in-form Didier Drogba gives Chelsea a perhaps undeserved 2–1 lead, canceled out by an Agüero free-kick.
+* 8.11.09: Chelsea beat Manchester United 1–0 at Stamford Bridge in the Premier League in a typically tight contest, decided by John Terry's header from an inswinging Frank Lampard free-kick after [[Darren Fletcher]] was controversially judged to have bundled over Ashley Cole on the left-hand side. Despite arguably controlling the game with their 4–3–3 formation, a late rally by United could not salvage them a point against a resolute Chelsea defence. Chelsea increase their lead at the top of the league by five points while [[Arsenal F.C.|Arsenal]] leapfrog United into second place with a game in hand.
+* 22.11.09: Despite having key players like Frank Lampard, Michael Ballack and Didier Drogba missing through injury, Chelsea romp to a comfortable 4–0 victory at home to Wolves in the Premier League with goals from Florent Malouda, Joe Cole and two from a rampant Michael Essien. While Nemanja Matić makes his Chelsea debut from the bench, Gaël Kakuta also makes a flair-filled first appearance for the club.
+* 29.11.09: Chelsea continue their 100% record in "[[Big Four (English football)#"Big Four" dominance (2000–10)|Big Four]]{{Broken anchor|date=2024-06-03|bot=User:Cewbot/log/20201008/configuration|target_link=Big Four (English football)#"Big Four" dominance (2000–10)|reason= The anchor ("Big Four" dominance (2000–10)) [[Special:Diff/1224883653|has been deleted]].}}" matches this season with an emphatic 3–0 away win against Arsenal at the [[Emirates Stadium]] in the Premier League. Two goals from Didier Drogba and an own goal from [[Thomas Vermaelen]] secure the victory, agreed by many to be the pinnacle of Chelsea's season thus far.
+* 16.12.09: Chelsea end their run of four straight games without a win in all competitions, which began with their [[Penalty shootout (association football)|penalty shootout]] elimination by [[Blackburn Rovers|Blackburn]] away in the [[2009–10 Football League Cup#Fifth round|League Cup fifth round]], with a closely fought 2–1 victory over [[Portsmouth F.C.|Portsmouth]], led by former Chelsea manager [[Avram Grant]], at Stamford Bridge in the Premier League. After Nicolas Anelka scores from close-range in the first half, Portsmouth equalize early in the second when a [[Jamie O'Hara (footballer)|Jamie O'Hara]] free kick ricochets off two players in the Chelsea wall, falling to [[Frédéric Piquionne]] who slots home. This typifies Chelsea's recent problem of conceding from set-pieces. The game is won ten minutes from time when Frank Lampard converts the [[Penalty kick (association football)|penalty kick]] conceded when [[Marc Wilson (Irish footballer)|Marc Wilson]] takes out [[Branislav Ivanović]] in the Portsmouth area.
+* 04.01.10: Having ended December with two away draws against [[West Ham United]] and [[Birmingham City F.C.|Birmingham]] and a tense 2–1 home victory against [[Fulham F.C.|Fulham]] in the [[west London derby]], Chelsea begin the [[New Year]] in style with a 5–0 home demolition of [[Watford F.C.|Watford]] in the [[2009–10 FA Cup#Third round proper|FA Cup third round]], despite losing their African players to the [[2010 African Cup of Nations|African Cup of Nations]]. While Daniel Sturridge scores his first two goals for the club, Chelsea also score via a Florent Malouda deflection, a [[John Eustace]] [[own goal]] and a trademark Frank Lampard piledriver.
+* 28.01.10: Chelsea end January on a high after winning all five matches in the month, demolishing [[Sunderland A.F.C.|Sunderland]] 7–2 at Stamford Bridge in the Premier League. Following that, they continue to score with a 3–0 win at home over Birmingham before a laboured 2–1 win away at [[Burnley F.C.|Burnley]], with John Terry scoring a late header to win the game amidst his affair scandal. They also progress in the FA Cup thanks to a 2–0 win away at [[Preston North End]].
+* 02.02.10: Despite an excellent January, February does not start well with Chelsea succumbing to a 1–1 draw at Hull City. Didier Drogba equalises for Chelsea late in the first-half with a free-kick after Hull's [[Steven Mouyokolo]] gave the home side the lead with a header from a corner. Chelsea go two points clear of Manchester United but missed a chance to go four points clear after failing to win their game in hand.
+* 04.02.10: FIFA's suspended transfer ban on Chelsea regarding the Gaël Kakuta tapping-up case is lifted by the [[Court of Arbitration for Sport]], along with all other sanctions.<ref>{{Cite web|url=http://www.chelseafc.com/news-article/article/1955578 |title=Chelsea official statement on Kakuta transfer ban |access-date=19 April 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140103092129/http://www.chelseafc.com/news-article/article/1955578 |archive-date=3 January 2014 }}</ref>
+* 27.02.10: Chelsea lose at home for the first time in the Premier League under Carlo Ancelotti as Manchester City win 4–2. The game is given extra spice as it is the first time that John Terry and [[Wayne Bridge]] have come together following allegations of Terry's affair with Bridge's girlfriend [[Vanessa Perroncel]], which leads to him rejecting Terry's outstretched hand in the pre-match handshake. Frank Lampard opens and closes the scoring, but braces from [[Carlos Tevez]] and [[Craig Bellamy]] in between are enough to secure a Manchester City victory.
+* 16.03.10: Chelsea are eliminated from the Champions League before the semi-finals for the first time in four years as a 3–1 aggregate loss to Internazionale in the first knockout round sees them crash out of the tournament. A 2–1 defeat at the [[San Siro]] on 24.02.10 is compounded by a 1–0 loss at home in the second leg, with [[Samuel Eto'o]] scoring the only goal. The match marks Mourinho's first return to Stamford Bridge as an opposition manager since his departure from Chelsea in September 2007.
+* 21.03.10: Chelsea complete a disappointing week with a draw to Blackburn at [[Ewood Park]] in the [[Premier League]]. After Didier Drogba opens the scoring early on, the game looks to yield a comfortable victory for Chelsea, but a game-ending injury to Branislav Ivanovic proves costly as [[El Hadji Diouf]] equalises with twenty minutes to play, beating substitute [[right back]] [[Paulo Ferreira]] to a header at the far post. The result sees them slip to third place, four points behind Manchester United with a game in hand.
+* 27.03.10: After bouncing straight back with a 5–0 victory against Portsmouth at [[Fratton Park]] in midweek, Chelsea complete their recovery from the previous week by recording their biggest win of the season with a 7–1 thrashing of Aston Villa at Stamford Bridge. In a game that sees John Terry captain the side for a record 325th time, Frank Lampard scores four times for the second time in his Chelsea career, moving him into third place in the list of Chelsea's all-time highest scorers with 151 goals, above both [[Peter Osgood]] and [[Roy Bentley]]. Florent Malouda also nets a brace and Salomon Kalou scores his first Premier League goal of the season.
+* 03.04.10: Chelsea gain a crucial victory in the Premier League title race by defeating top-of-the-table Manchester United 2–1 at Old Trafford, returning to first place by two points with five games to play. The victory ensures that Chelsea maintain their 100% record in "Big Four" matches this season. After Joe Cole caps off a comfortable Chelsea first half with a clever near-post back-heel from Florent Malouda's cross to open the scoring, United begin to gain a foothold in the game in the second half. Didier Drogba comes off the bench to score the winning goal late on from an offside position, but [[Federico Macheda]]'s disputedly handball goal for United minutes later sets up a nervy finish. In a game marked by a poor performance by referee [[Mike Dean (referee)|Mike Dean]], ignoring plausible penalty shouts by both sides, Chelsea hold on for three emphatic points.
+* 10.04.10: Chelsea defeat Aston Villa at Wembley in the FA Cup semi-final to book a place in their third FA Cup Final in four years. After referee [[Howard Webb]] turns down a strong penalty appeal from [[Gabriel Agbonlahor]] in the first half following a trip from [[Mikel John Obi]], Didier Drogba, Florent Malouda and Frank Lampard score in the second half to secure a 3–0 victory.
+* 17.04.10: A 2–1 loss to Tottenham sees Chelsea's lead in the Premier League cut to one point, with Manchester United securing a late winner against Manchester City. Despite losing, Chelsea become the first English team to qualify for the [[2010–11 UEFA Champions League]].
+* 24.04.10: Chelsea defeat Stoke City 7–0 at Stamford Bridge to record their biggest home win of the season thus far. Salomon Kalou scores his first [[hat-trick]] in English football, and a brace from Frank Lampard, coupled with goals from Florent Malouda and Daniel Sturridge, ensure the Blues cruise comfortable.
+* 02.05.10: Chelsea defeat Liverpool 2–0 at Anfield in the penultimate week of the season. Didier Drogba opens the scoring following a sloppy backpass from Steven Gerrard in the first half, and Frank Lampard doubles the lead after the interval. The win ensures that Chelsea end their season with a 100% record against "Big Four" opponents, and means that victory over Wigan on the final day of the season will guarantee Premier League success.
+* 06.05.10: Chelsea's Player of the Year Award goes to Didier Drogba, who claims the gong for the first time in his Chelsea career. Florent Malouda picks up the Samsung Players' Player Award, while the Young Player of the Year is awarded to the entire Chelsea U18 team after their triumph in the FA Cup Youth Final. Ashley Cole's goal against Sunderland earns him the Goal of the Season Award.
+* 09.05.10: Chelsea trounce Wigan 8–0 in their final game of the season, setting a new club record for their biggest ever League win in the process as well as breaking numerous scoring records. They end the league campaign having scored 103 goals, the most in the club's history, the first Premier League side to score 100 goals in a season and the first team since Tottenham in 1961 to score 100 goals in the top flight. They also become the first team in English football history to score seven goals or more in a game on four occasions in a league season. They also finish with an English record goal difference of +71, beating Liverpool's +69 set in 1979. Didier Drogba's second half hat-trick ensures he finishes the season with the Premier League Golden Boot, having scored 29 goals, three more than the 26 scored by second-placed Wayne Rooney. Nicolas Anelka bags a brace while Frank Lampard, Salomon Kalou and Ashley Cole grab the other goals. Most significantly, the win means that Chelsea finish the season as Premier League champions with a total of 86 points, one point more than Manchester United, who finish runners-up.
+* 15.05.10: In their final game of the season, Chelsea face relegated Portsmouth in an entertaining [[2010 FA Cup Final]] at [[Wembley Stadium]]. Despite their stark difference in position in the end-of-season table and extended Chelsea pressure, with Chelsea hitting the woodwork five times in the first half, the two sides go in level at half-time. Soon after Portsmouth's [[Kevin-Prince Boateng]]'s penalty is saved by Petr Čech early in the second half, Chelsea finally make their pressure count when Didier Drogba fires in a 59th minute free-kick, his 37th goal of the season. Although Frank Lampard uncharacteristically squanders a penalty of his own late on, Chelsea remain superior, the game eventually ending 1–0. Chelsea consequently end their season as only the seventh club to complete [[Double (association football)|the Double]], making it the most successful season in Chelsea history.
+
+==Squad==
+
+===First team squad===
+{{football squad start}}
+{{football squad player|no=1|nat=Czech Republic|pos=GK|name=[[Petr Čech]]}}
+{{football squad player|no=2|nat=Serbia|pos=DF|name=[[Branislav Ivanović]]}}
+{{football squad player|no=3|nat=England|pos=DF|name=[[Ashley Cole]]}}
+{{football squad player|no=5|nat=Ghana|pos=MF|name=[[Michael Essien]]}}
+{{football squad player|no=6|nat=Portugal|pos=DF|name=[[Ricardo Carvalho]]}}
+{{football squad player|no=8|nat=England|pos=MF|name=[[Frank Lampard]]|other=[[Captain (association football)#Vice-captain|vice-captain]]}}
+{{football squad player|no=10|nat=England|pos=MF|name=[[Joe Cole]]}}
+{{football squad player|no=11|nat=Ivory Coast|pos=FW|name=[[Didier Drogba]]}}
+{{football squad player|no=12|nat=Nigeria|pos=MF|name=[[Mikel John Obi]]}}
+{{football squad player|no=13|nat=Germany|pos=MF|name=[[Michael Ballack]]}}
+{{football squad player|no=15|nat=France|pos=MF|name=[[Florent Malouda]]}}
+{{football squad player|no=17|nat=Portugal|pos=DF|name=[[José Bosingwa]]}}
+{{football squad player|no=18|nat=Russia|pos=MF|name=[[Yuri Zhirkov]]}}
+{{football squad player|no=19|nat=Portugal|pos=DF|name=[[Paulo Ferreira]]}}
+{{football squad player|no=20|nat=Portugal|pos=MF|name=[[Deco]]}}
+{{football squad mid}}
+{{football squad player|no=21|nat=Ivory Coast|pos=FW|name=[[Salomon Kalou]]}}
+{{football squad player|no=22|nat=England|pos=GK|name=[[Ross Turnbull]]}}
+{{football squad player|no=23|nat=England|pos=FW|name=[[Daniel Sturridge]]}}
+{{football squad player|no=24|nat=Serbia|pos=MF|name=[[Nemanja Matić]]}}
+{{football squad player|no=26|nat=England|pos=DF|name=[[John Terry]]|other=[[Captain (association football)|captain]]}}
+{{football squad player|no=33|nat=Brazil|pos=DF|name=[[Alex (footballer, born June 1982)|Alex]]}}
+{{football squad player|no=35|nat=Brazil|pos=DF|name=[[Juliano Belletti]]}}
+{{football squad player|no=39|nat=France|pos=FW|name=[[Nicolas Anelka]]}}
+{{football squad player|no=40|nat=Portugal|pos=GK|name=[[Henrique Hilário]]}}
+{{football squad player|no=41|nat=England|pos=DF|name=[[Sam Hutchinson]]}}
+{{football squad player|no=43|nat=Netherlands|pos=DF|name=[[Jeffrey Bruma]]}}
+{{football squad player|no=44|nat=France|pos=FW|name= [[Gaël Kakuta]]}}
+{{football squad player|no=45|nat=Italy|pos=FW|name=[[Fabio Borini]]}}
+{{football squad player|no=46|nat=Italy|pos=MF|name=[[Jacopo Sala]]}}
+{{football squad player|no=50|nat=Czech Republic|pos=GK|name=[[Jan Šebek]]}}
+{{football squad end}}
+
+===Reserve squad===
+{{football squad start}}
+{{football squad player|nat=WAL|pos=GK|name=[[Rhys Taylor]]}}
+{{football squad player|nat=GER|pos=GK|name=[[Niclas Heimann]]}}
+{{football squad player|nat=ENG|pos=DF|name=[[Nana Ofori-Twumasi]]}}
+{{football squad player|nat=ENG|pos=DF|name=[[Carl Magnay]]}}
+{{football squad player|nat=NED|pos=DF|name=[[Jeffrey Bruma]]}}
+{{football squad player|nat=ENG|pos=DF|name=[[Ben Gordon (footballer, born 1991)|Ben Gordon]]}}
+{{football squad player|nat=ENG|pos=DF|name=[[Ryan Bertrand]]|other=on loan at [[Reading F.C.|Reading]]}}
+{{football squad player|nat=NED|pos=DF|name=[[Patrick van Aanholt]]}}
+{{football squad player|nat=ENG|pos=MF|name=[[Jack Cork]]|other=on loan at [[Burnley F.C.|Burnley]]}}
+{{football squad mid}}
+{{football squad player|nat=ENG|pos=MF|name=[[Liam Bridcutt]]}}
+{{football squad player|nat=IRL|pos=MF|name=[[Conor Clifford]]}}
+{{football squad player|nat=ENG|pos=MF|name=[[Jacob Mellis]]}}
+{{football squad player|nat=ENG|pos=MF|name=[[Michael Woods (footballer, born 1990)|Michael Woods]]}}
+{{football squad player|nat=ITA|pos=MF|name=[[Jacopo Sala]]}}
+{{football squad player|nat=ENG|pos=MF|name=[[Danny Philliskirk]]}}
+{{football squad player|nat=FRA|pos=FW|name=[[Gaël Kakuta]]}}
+{{football squad player|nat=SVK|pos=FW|name=[[Miroslav Stoch]]|other=on loan at [[FC Twente|Twente]]}}
+{{football squad player|nat=ITA|pos=FW|name=[[Fabio Borini]]}}
+{{football squad end}}
+<ref>[http://www.chelseafc.com/page/ReservesProfilesIndex/0,,10268,00.html The Reserves] Chelseafc.com</ref>
+
+===Youth squad===
+{{football squad start}}
+{{football squad player|nat=Kosovo|pos=GK|name=Aldi Haxhia}}
+{{football squad player|nat=England|pos=GK|name=[[Sam Walker (footballer)|Sam Walker]]}}
+{{football squad player|nat=Czech Republic|pos=GK|name=[[Jan Šebek]]}}
+{{football squad player|nat=Sri Lanka|pos=DF|name=[[Nikki Ahamed]]}}
+{{football squad player|nat=England|pos=DF|name=Tom Hayden}}
+{{football squad player|nat=England|name=[[Daniel Pappoe]]|pos=DF}}
+{{football squad player|nat=England|name=[[Aziz Deen-Conteh]]|pos=DF}}
+{{football squad player|nat=England|name=[[George Saville (footballer)|George Saville]]|pos=DF}}
+{{football squad player|nat=England|name=[[Nathaniel Chalobah]]|pos=DF}}
+{{football squad player|nat=England|name=[[Ben Sampayo]]|pos=DF}}
+{{football squad player|nat=England|name=Kenny Strickland|pos=DF}}
+{{football squad player|nat=England|pos=DF|name=Billy-Joe King}}
+{{football squad player|nat=Portugal|pos=MF|name=[[Aliu Djaló]]}}
+{{football squad mid}}
+{{football squad player|nat=England|name=[[Billy Clifford (footballer)|Billy Clifford]]|pos=MF}}
+{{football squad player|nat=England|name=James Ashton|pos=MF}}
+{{football squad player|nat=Turkey|pos=MF|name=[[Gökhan Töre]]}}
+{{football squad player|nat=Republic of Ireland|name=[[Anton Rodgers (footballer)|Anton Rodgers]]|pos=MF}}
+{{football squad player|nat=England|name=[[Billy Knott]]|pos=MF}}
+{{football squad player|nat=England|name=[[Josh McEachran]]|pos=MF}}
+{{football squad player|nat=Italy|pos=MF|name=[[Jacopo Sala]]}}
+{{football squad player|nat=England|pos=MF|name=[[Jordan Tabor]]}}
+{{football squad player|nat=Austria|name=[[Philipp Prosenik]]|pos=FW}}
+{{football squad player|nat=Slovakia|name=[[Milan Lalkovič]]|pos=FW}}
+{{football squad player|nat=Sweden|pos=FW|name=[[Marko Mitrović (footballer, born 1992)|Marko Mitrović]]}}
+{{football squad player|nat=Kenya|name=Bobby Devyne|pos=FW}}
+{{football squad player|nat=England|pos=FW|name=[[Adam Phillip]]}}
+{{football squad end}}
+<ref>[http://www.chelseafc.com/page/AcademyProfilesIndex/0,,10268,00.html The Academy] Chelseafc.com</ref>
+
+===UEFA Champions League squad===
+{{football squad start}}
+{{football squad player|no=1|nat=CZE|pos=GK|name=[[Petr Čech]]}}
+{{football squad player|no=2|nat=SER|pos=DF|name=[[Branislav Ivanović]]}}
+{{football squad player|no=3|nat=ENG|pos=DF|name=[[Ashley Cole]]}}
+{{football squad player|no=5|nat=Ghana|pos=MF|name=[[Michael Essien]]}}
+{{football squad player|no=6|nat=POR|pos=DF|name=[[Ricardo Carvalho]]}}
+{{football squad player|no=8|nat=ENG|pos=MF|name=[[Frank Lampard]]|other=[[Captain (association football)#Vice-captain|vice-captain]]}}
+{{football squad player|no=10|nat=ENG|pos=MF|name=[[Joe Cole]]}}
+{{football squad player|no=11|nat=CIV|pos=FW|name=[[Didier Drogba]]}}
+{{football squad player|no=12|nat=Nigeria|pos=MF|name=[[Mikel John Obi]]}}
+{{football squad player|no=13|nat=GER|pos=MF|name=[[Michael Ballack]]}}
+{{football squad player|no=15|nat=FRA|pos=MF|name=[[Florent Malouda]]}}
+{{football squad player|no=17|nat=POR|pos=DF|name=[[José Bosingwa]]}}
+{{football squad player|no=18|nat=RUS|pos=MF|name=[[Yuri Zhirkov]]}}
+{{football squad player|no=20|nat=POR|pos=MF|name=[[Deco]]}}
+{{football squad mid}}
+{{football squad player|no=21|nat=CIV|pos=FW|name=[[Salomon Kalou]]}}
+{{football squad player|no=22|nat=ENG|pos=GK|name=[[Ross Turnbull]]}}
+{{football squad player|no=23|nat=ENG|pos=FW|name=[[Daniel Sturridge]]}}
+{{football squad player|no=26|nat=ENG|pos=DF|name=[[John Terry]]|other=[[Captain (association football)|captain]]}}
+{{football squad player|no=33|nat=BRA|pos=DF|name=[[Alex (footballer, born June 1982)|Alex]]}}
+{{football squad player|no=35|nat=BRA|pos=DF|name=[[Juliano Belletti]]}}
+{{football squad player|no=39|nat=FRA|pos=FW|name=[[Nicolas Anelka]]}}
+{{football squad player|no=40|nat=POR|pos=GK|name=[[Henrique Hilário]]}}
+{{football squad player|no=41|nat=ENG|pos=DF|name=[[Sam Hutchinson]]}}
+{{football squad player|no=43|nat=NED|pos=DF|name=[[Jeffrey Bruma]]|other=from List B}}
+{{football squad player|no=44|nat=FRA|pos=FW|name=[[Gaël Kakuta]]|other=from List B}}
+{{football squad player|no=45|nat=ITA|pos=FW|name=[[Fabio Borini]]|other=from List B}}
+{{football squad player|no=47|nat=Sri Lanka|pos=DF|name=[[Nikki Ahamed]]|other=from List B}}
+{{football squad player|no=48|nat=ENG|pos=MF|name=[[Danny Philliskirk]]|other=from List B}}
+{{football squad end}}
+<ref>[https://web.archive.org/web/20051001014822/http://www.uefa.com/footballEurope/Club=52914/competition=1/index.html The Champions League squad] UEFA.com</ref>
+
+==Club==
+{{col-float|width=47%}}
+
+===Coaching staff===
+{|class="wikitable"
+!Position
+!Staff
+|-
+|Manager||{{Flagicon|ITA}} [[Carlo Ancelotti]]
+|-
+|Assistant manager (Technical)||{{Flagicon|ENG}} [[Ray Wilkins]]
+|-
+|Assistant manager (Scientific)||{{Flagicon|ITA}} Bruno Demichelis
+|-
+|Assistant manager||{{Flagicon|ENG}} [[Paul Clement (football coach)|Paul Clement]]
+|-
+|Goalkeeping coach||{{Flagicon|FRA}} Christophe Lollichon
+|-
+|First-team fitness coach|||{{Flagicon|ENG}} Glen Driscoll
+|-
+|Head scout||{{Flagicon|NGA}} [[Michael Emenalo]]
+|-
+|Match observer scout||{{Flagicon|ENG}} [[Mick McGiven]]
+|-
+|Club doctor||{{Flagicon|ENG}} Dr. Bryan English
+|-
+|Reserve team manager||{{Flagicon|ENG}} [[Steve Holland (footballer)|Steve Holland]]
+|-
+|Youth team manager||{{Flagicon|ENG}} [[Dermot Drummy]]
+|-
+|Academy manager||{{Flagicon|ENG}} Neil Bath
+|-
+{{Fb cs footer|s=[http://www.chelseafc.com/page/TheManagementIndex/0,,10268,00.html Chelsea FC]|date=May 2015}}
+
+{{col-float-break|width=48%}}
+
+===Other information===
+{{fb oi header}}
+{{Fb oi information |bg=  |id=Owner/Chairman         |i={{Flagicon|ISR}} {{Flagicon|RUS}} [[Roman Abramovich]]}}
+{{Fb oi information |bg=  |id=Chairman         |i={{Flagicon|USA}} [[Bruce Buck]]}}
+|-
+|rowspan="1"|Chief Executive||{{Flagicon|ENG}} [[Ron Gourlay]]
+|-
+{{Fb oi information |bg=  |id=Sporting Director and Director of Youth Development         |i={{Flagicon|DEN}} [[Frank Arnesen]]}}
+{{fb oi information |bg=y |id={{Fb oi ground}} |i={{Fb oi ground|g=[[Stamford Bridge (stadium)|Stamford Bridge]]|c=42,055|d=103x67&nbsp;metres}} }}
+{{Fb oi footer|s=[http://www.chelseafc.com/page/ClubInfo/0,,10268,00.html Chelsea FC]|date=May 2015}}
+{{col-float-end}}
+
+==Transfers==
+
+===In===
+
+====Summer====
+{| class="wikitable plainrowheaders sortable" style="font-size:95%"
+|-
+! {{Abbr| No. | Squad Number }}
+! {{Abbr| Pos | Position }}
+! scope="col" style="width:200px;"|Player
+! scope="col" style="width:250px;"|Transferred From
+! scope="col" style="width:100px;"|Fee
+! scope="col" style="width:78px;"|Date
+!Source
+|-
+|22||{{sort|1|GK}}||{{sort|Turnbull, Ross|{{Flagicon|ENG}} [[Ross Turnbull]]}} || [[Middlesbrough F.C.|Middlesbrough]] || {{sort|00|Free}} || {{dts|2 July 2009}}<ref name="Turnbull">{{Cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/8131653.stm|title=Chelsea bring in keeper Turnbull|publisher=BBC Sport|access-date=2 July 2009 | date=2 July 2009| archive-url= https://web.archive.org/web/20090703012147/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/8131653.stm| archive-date= 3 July 2009 | url-status= live}}</ref>
+|-
+|23||{{sort|4|FW}}||{{sort|Sturridge, Daniel|{{Flagicon|ENG}} [[Daniel Sturridge]]}} || [[Manchester City F.C.|Manchester City]] || {{sort|03.5|£3.5–6.5M}}<ref>[http://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/8460232.stm Daniel Sturridge to cost Chelsea an initial £3.5m] BBC Sport. 14 January 2010</ref> || {{dts|3 July 2009}}<ref name="Sturridge">{{Cite news|url=http://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/8067000.stm|title=Striker Sturridge signs|publisher=BBC Sport|access-date=3 July 2009 | date=3 July 2009| archive-url= https://web.archive.org/web/20090704012555/http://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/8067000.stm| archive-date= 4 July 2009 | url-status= live}}</ref>
+|-
+|18||{{sort|3|MF}}||{{sort|Zhirkov, Yuri|{{Flagicon|RUS}} [[Yuri Zhirkov]]}} || [[PFC CSKA Moscow|CSKA Moscow]] || {{sort|18|£18M}} || {{dts|7 July 2009}}<ref name="Zhirkov">{{Cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/8135341.stm|title= Chelsea snap up Russian Zhirkov|publisher=BBC Sport|access-date=6 July 2009 | date=7 July 2009}}</ref>
+|-
+|24||{{sort|3|MF}}||{{sort|Matic, Nemanja|{{Flagicon|SRB}} [[Nemanja Matić]]}} || [[FC Košice|Košice]]|| {{sort|01.5|£1.5M}} || {{dts|18 August 2009}}<ref name="Matić">{{Cite news|url=http://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/8206912.stm|title= Chelsea confirm signing of Matić|publisher=BBC Sport|access-date=18 August 2009 | date=18 August 2009| archive-url= https://web.archive.org/web/20090818101835/http://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/8206912.stm| archive-date= 18 August 2009 | url-status= live}}</ref>
+|}
+
+====Winter====
+No transfers were completed in the winter transfer window.
+
+===Out===
+
+====Summer====
+{| class="wikitable plainrowheaders sortable" style="font-size:95%"
+|-
+! {{Abbr| No. | Squad Number }}
+! {{Abbr| Pos | Position }}
+! scope="col" style="width:200px;"|Player
+! scope="col" style="width:250px;"|Transferred To
+! scope="col" style="width:100px;"|Fee
+! scope="col" style="width:78px;"|Date
+!Source
+|-
+|||{{sort|4|FW}}||{{sort|Sahar, Ben|{{Flagicon|ISR}} [[Ben Sahar]]}} || [[RCD Espanyol|Espanyol]] || £850,000 || {{dts|22 June 2009}}<ref name="Sahar">{{Cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/8113170.stm|title=Sahar leaves Chelsea for Espanyol|publisher=BBC Sport|access-date=22 June 2009 | date=22 June 2009| archive-url= https://web.archive.org/web/20090625052856/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/8113170.stm| archive-date= 25 June 2009 | url-status= live}}</ref>
+|-
+|27||{{sort|3|MF}}||{{Flagicon|BRA}} [[Mineiro (footballer, born 1975)|Mineiro]] || [[FC Schalke 04|Schalke 04]] || Released || {{dts|30 June 2009}}
+|-
+|||{{sort|3|MF}}||{{sort|Smith, Jimmy|{{Flagicon|ENG}} [[Jimmy Smith (footballer, born 1987)|Jimmy Smith]]}} || [[Leyton Orient F.C.|Leyton Orient]] || Free || {{dts|9 July 2009}}<ref name="Smith">{{Cite news|url=https://www1.skysports.com/football/news/11742/5423714|title=Smith seals Orient return|publisher=Sky Sports|access-date=19 April 2014}}</ref>
+|-
+|||{{sort|4|FW}}||{{sort|Nouble, Frank|{{Flagicon|ENG}} [[Frank Nouble]]}} || [[West Ham United F.C.|West Ham United]] || Free || {{dts|22 July 2009}}<ref name="Nouble">{{Cite web|url=http://www.chelseafc.com/news-article/article/1730323|title=Nouble signs for West Ham|work=Chelsea F.C.|access-date=19 April 2014}}</ref>
+|-
+|||{{sort|4|FW}}||{{sort|Nielsen, Morten|{{Flagicon|DEN}} [[Morten Nielsen (footballer, born 1990)|Morten Nielsen]]}} || [[AZ (football club)|AZ]] || Mutual agreement || {{dts|23 July 2009}}<ref name="Smith-Nielsen">{{Cite web| url=http://www.chelseafc.com/news-article/article/1719552 | title=Smith Heads East | work=Chelsea F.C. | access-date=19 April 2014}}</ref>
+|-
+|||{{sort|3|MF}}||{{sort|Tejera, Sergio|{{Flagicon|ESP}} [[Sergio Tejera]]}} || [[RCD Mallorca|Mallorca]] || Free || {{dts|24 July 2009}}<ref name="Tejera">{{Cite news|url=https://www.skysports.com/story/0,19528,11668_5451999,00.html|title=Mallorca sign blues youngster|publisher=Sky Sports |access-date=24 July 2009}}</ref>
+|-
+|14||{{sort|4|FW}}||{{sort|Pizarro, Claudio|{{Flagicon|Peru}} [[Claudio Pizarro]]}} || [[SV Werder Bremen|Werder Bremen]] || 10,000,000 || {{dts|18 August 2009}}<ref name="Pizarro">{{Cite web| url=http://www.chelseafc.com/news-article/article/1759288 | title=Pizarro Joins Werder Bremen | work=Chelsea F.C. | date=18 August 2009 | access-date=19 April 2014}}</ref>
+|-
+|7||{{sort|4|FW}}||{{sort|Shevchenko, Andriy|{{Flagicon|Ukraine}} [[Andriy Shevchenko]]}} || [[FC Dynamo Kyiv|Dynamo Kyiv]] || Free || {{dts|28 August 2009}}<ref name="Shev">{{Cite news| url=https://www.skysports.com/story/0,19528,12874_5523643,00.html | title=Sheva makes Dynamo return | publisher=Sky Sports | date=29 August 2009 | access-date=18 March 2010}}</ref>
+|-
+|||{{sort|2|DF}}||{{sort|Cummings, Shaun|{{Flagicon|ENG}} [[Shaun Cummings]]}} || [[Reading F.C.|Reading]] || Undisclosed || {{dts|2 September 2009}}<ref name="CummingsReading">{{Cite web| url=http://www.chelseafc.com/news-article/article/1784806 | title=Reading Move For Cummings | work=Chelsea F.C. | date=2 September 2009 | access-date=19 April 2014}}</ref>
+|-
+|||{{sort|3|MF}}||{{sort|Sawyer, Lee|{{Flagicon|ENG}} [[Lee Sawyer]]}} || [[Barnet F.C.|Barnet]] || Contract terminated || {{dts|12 November 2009}}<ref name="Sawyer-release">{{Cite news|url=http://www.chelseafc.com/news-article/article/1873340 |archive-url=https://archive.today/20140419211938/http://www.chelseafc.com/news-article/article/1873340 |url-status=dead |archive-date=19 April 2014 |title=The Young Generation |work=Chelsea F.C. |date=12 November 2009 |access-date=19 April 2014 }}</ref>
+|}
+====Winter====
+{| class="wikitable plainrowheaders sortable" style="font-size:95%"
+|-
+! {{Abbr| No. | Squad Number }}
+! {{Abbr| Pos | Position }}
+! scope="col" style="width:200px;"|Player
+! scope="col" style="width:250px;"|Transferred To
+! scope="col" style="width:100px;"|Fee
+! scope="col" style="width:78px;"|Date
+!Source
+|-
+|||MF||{{Flagicon|ENG}} [[Tom Taiwo]] || [[Carlisle United F.C.|Carlisle]] || Undisclosed || 6 January 2010<ref name="Taiwo Permanent">{{Cite web |url=http://www.chelseafc.com/page/LatestNews/0,,10268~1924703,00.html |title=Taiwo Makes Move Permanent |work=Chelsea F.C. |access-date=1 February 2010 |archive-url=https://web.archive.org/web/20100118182852/http://www.chelseafc.com/page/LatestNews/0%2C%2C10268~1924703%2C00.html |archive-date=18 January 2010 |url-status=dead}}</ref>
+|}
+
+===Loaned out===
+{| class="wikitable plainrowheaders sortable" style="font-size:95%"
+|-
+! {{Abbr| No. | Squad Number }}
+! {{Abbr| Pos | Position }}
+! scope="col" style="width:200px;"|Player
+! scope="col" style="width:250px;"|Loaned To
+! scope="col" style="width:100px;"|Start
+! scope="col" style="width:78px;"|End
+!Source
+|-
+|4||{{sort|2|DF}}||{{sort|Rajkovic, Slobodan|{{Flagicon|SRB}} [[Slobodan Rajković]]}} || [[FC Twente|Twente]] || {{dts|1 July 2009}} || {{dts|1 July 2010}}<ref name="Rajkovic">{{Cite web|url=http://uk.eurosport.yahoo.com/18062009/63/rajkovic-set-twente-return.html|title=Rajkovic set for Twente return|work=Eurosport|access-date=18 June 2009}}</ref>
+|-
+|||{{sort|3|MF}}||{{sort|Taiwo, Tom|{{Flagicon|ENG}} [[Tom Taiwo]]}} || [[Carlisle United]] || {{dts|9 July 2009}} || {{dts|1 January 2010}}<ref name="Taiwo">{{Cite news| url=https://www.skysports.com/story/0,19528,12875_5423228,00.html | title=Carlisle capture Taiwo | publisher=Sky Sports | access-date=26 July 2009 | date=9 July 2009}}</ref>
+|-
+|||{{sort|3|MF}}||{{sort|Sawyer, Lee|{{Flagicon|ENG}} [[Lee Sawyer]]}} || [[Southend United F.C.|Southend United]] || {{dts|24 July 2009}} || {{dts|27 October 2009}}<ref name="Sawyer">{{Cite web|url=http://www.chelseafc.com/news-article/article/1732393|title=Southend loan Chelsea midfielder|work=Chelsea website|access-date=19 April 2014}}</ref><ref name="Sawyer loan terminated">{{Cite news| url=http://news.bbc.co.uk/sport1/hi/football/teams/s/southend_utd/8327327.stm | title=Chelsea's Sawyer leaves Southend | publisher=BBC Sport | date=27 October 2009 | access-date=28 March 2010}}</ref>
+|-
+|43||{{sort|3|MF}}||{{sort|Stoch, Miroslav|{{Flagicon|SVK}} [[Miroslav Stoch]]}} || [[FC Twente|Twente]] || {{dts|15 July 2009}} || {{dts|1 July 2010}}<ref name="Stoch">{{Cite web|url=http://www.chelseafc.com/news-article/article/1724103|title=Stoch Dutch loan|work=Chelsea F.C.|access-date=19 April 2014}}</ref>
+|-
+|||{{sort|2|DF}}||{{sort|Bertrand, Ryan|{{Flagicon|ENG}} [[Ryan Bertrand]]}} || [[Reading F.C.|Reading]] || {{dts|17 July 2009}} || {{dts|1 July 2010}}<ref name="Bertrand">{{Cite news| url=http://news.bbc.co.uk/sport1/hi/football/teams/r/reading/8159098.stm | title=Bertrand delight at Reading move  | date=20 July 2009 | access-date=26 July 2009 | work=BBC News}}</ref>
+|-
+|9||{{sort|4|FW}}||{{sort|Di Santo, Franco|{{Flagicon|ARG}} [[Franco Di Santo]]}} || [[Blackburn Rovers F.C.|Blackburn Rovers]] || {{dts|4 August 2009}} || {{dts|1 January 2010}}<ref name="Franco">{{Cite web| url=http://www.chelseafc.com/news-article/article/1742454| title=Franco Rovers Switch  | date=4 August 2009 | access-date=19 April 2014}}</ref>
+|-
+|16||{{sort|4|FW}}||{{sort|Sinclair, Scott|{{Flagicon|ENG}} [[Scott Sinclair]]}} || [[Wigan Athletic F.C.|Wigan Athletic]] || {{dts|6 August 2009}} || {{dts|1 July 2010}}<ref name="Sinclair">{{Cite web| url=http://www.chelseafc.com/news-article/article/1744998| title=Sinclair Wigan loan| date=6 August 2009 | access-date=19 April 2014}}</ref>
+|-
+|||{{sort|2|DF}}||{{sort|Van Aanholt, Patrick|{{Flagicon|NED}} [[Patrick van Aanholt]]}} || [[Coventry City F.C.|Coventry City]] || {{dts|7 August 2009}} || {{dts|1 January 2010}}<ref name="van Aanholt">{{Cite web| url=http://www.chelseafc.com/news-article/article/1746222| title=van Aanholt Sky Blue Switch| date=7 August 2009 | access-date=19 April 2014}}</ref>
+|-
+|42||{{sort|2|DF}}||{{sort|Mancienne, Michael|{{Flagicon|ENG}} [[Michael Mancienne]]}} || [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] || {{dts|13 August 2009}} || {{dts|1 July 2010}}<ref name="Mancienne">{{Cite web|url=http://www.chelseafc.com/news-article/article/1753824 |archive-url=https://archive.today/20130410174904/http://www.chelseafc.com/news-article/article/1753824 |url-status=dead |archive-date=10 April 2013 |title=New deal for Mancienne, then to Wolves |date=13 August 2009 |access-date=19 April 2014 }}</ref>
+|-
+|||{{sort|3|MF}}||{{sort|Bridcutt, Liam|{{Flagicon|ENG}} [[Liam Bridcutt]]}} || [[Stockport County F.C.|Stockport County]] || {{dts|14 August 2009}} || {{dts|1 January 2010}}<ref name="Bridcutt">{{Cite news| url=https://www.skysports.com/story/0,19528,12875_5491257,00.html | title=Hatters capture Bridcutt | publisher=Sky Sports | date=14 August 2009 | access-date=18 March 2010}}</ref>
+|-
+|||{{sort|3|MF}}||{{sort|Mellis, Jacob|{{Flagicon|ENG}} [[Jacob Mellis]]}} || [[Southampton F.C.|Southampton]] || {{dts|14 August 2009}} || {{dts|1 July 2010}}<ref name="Mellis">{{Cite web| url=https://www.thisishampshire.net/sport/4546467.Saints_sign_Chelsea_starlet_on_loan|title=Saints sign Chelsea starlet| date=14 August 2009 |access-date=14 August 2009}}</ref>
+|-
+|||{{sort|2|DF}}||{{sort|Cummings, Shaun|{{Flagicon|ENG}} [[Shaun Cummings]]}} || [[West Bromwich Albion F.C.|West Bromwich Albion]] || {{dts|17 August 2009}} || {{dts|2 September 2009}}<ref name="CummingsReading" /><ref name="Cummings loan">{{Cite news| url=http://news.bbc.co.uk/sport1/hi/football/teams/w/west_bromwich_albion/8205281.stm | title=Albion snap up Chelsea youngster | publisher=BBC Sport | date=17 August 2009 | access-date=22 July 2010}}</ref>
+|-
+|||{{sort|2|DF}}||{{sort|Cork, Jack|{{Flagicon|ENG}} [[Jack Cork]]}} || [[Coventry City F.C.|Coventry City]] || {{dts|21 August 2009}} || {{dts|1 January 2010}}<ref name="Cork">{{Cite web| url=http://www.chelseafc.com/news-article/article/1763515 | title=Coventry Take Cork on Loan | work=Chelsea F.C. | date=21 August 2009 | access-date=19 April 2014}}</ref>
+|-
+|30||{{sort|1|GK}}||{{sort|Taylor, Rhys|{{Flagicon|WAL}} [[Rhys Taylor]]}} || [[Queens Park Rangers F.C.|Queens Park Rangers]] || {{dts|20 November 2009}} || {{dts|4 January 2010}}<ref name="Taylor">{{Cite news| url=https://www1.skysports.com/football/news/11711/5707134 | title=QPR sign Blues keeper | publisher=Sky Sports | date=20 November 2009 | access-date=19 April 2014}}</ref>
+|-
+|52||{{sort|2|DF}}||{{sort|Van Aanholt, Patrick|{{Flagicon|NED}} [[Patrick van Aanholt]]}} || [[Newcastle United F.C.|Newcastle United]] || {{dts|29 January 2010}} || {{dts|28 February 2010}}<ref name="PVA-Newcastle">{{Cite news| url=http://news.bbc.co.uk/sport1/hi/football/teams/n/newcastle_united/8486854.stm | title=Newcastle tie up Hall and van Aanholt loan deals | publisher=BBC Sport | date=29 January 2010 | access-date=18 March 2010| archive-url= https://web.archive.org/web/20100201233643/http://news.bbc.co.uk/sport1/hi/football/teams/n/newcastle_united/8486854.stm| archive-date= 1 February 2010 | url-status= live}}</ref>
+|-
+|||{{sort|3|MF}}||{{sort|Cork, Jack|{{Flagicon|ENG}} [[Jack Cork]]}} || [[Burnley F.C.|Burnley]] || {{dts|1 February 2010}} || {{dts|31 May 2010}}<ref name="CorkBurnley">{{Cite web |url=http://www.chelseafc.com/page/LatestNews/0,,10268~1951893,00.html |title=Cork Loan Move To Burnley |work=Chelsea F.C. |date=1 February 2010 |access-date=18 March 2010 |archive-url=https://web.archive.org/web/20100204074548/http://www.chelseafc.com/page/LatestNews/0%2C%2C10268~1951893%2C00.html |archive-date=4 February 2010 |url-status=dead}}</ref>
+|-
+|||{{sort|2|DF}}||{{sort|Gordon, Ben|{{Flagicon|ENG}} [[Ben Gordon (footballer, born 1991)|Ben Gordon]]}} || [[Tranmere Rovers F.C.|Tranmere Rovers]] || {{dts|25 March 2010}} || {{dts|25 April 2010}}<ref name="Gordon">{{Cite news| url=http://news.bbc.co.uk/sport1/hi/football/teams/t/tranmere_rovers/8587178.stm | title=Tranmere Rovers sign Robinson and Gordon on loan | publisher=BBC Sport | date=25 March 2010 | access-date=25 March 2010| archive-url= https://web.archive.org/web/20100328170631/http://news.bbc.co.uk/sport1/hi/football/teams/t/tranmere_rovers/8587178.stm| archive-date= 28 March 2010 | url-status= live}}</ref>
+|}
+
+===Overall===
+This section displays the club's financial expenditure's in the transfer market. Because all transfer fees are not disclosed to the public, the numbers displayed in this section are only based on figures released by media outlets.
+
+{{col-begin}}
+{{col-3}}
+
+====Spending====
+Summer: {{loss}}  £23&nbsp;million
+
+Winter: {{steady}}  £0
+
+Total: {{loss}}   £23&nbsp;million
+
+{{col-3}}
+
+====Income====
+Summer: {{gain}}  £10.85&nbsp;million
+
+Winter: {{steady}}  £0
+
+Total: {{gain}}  £10.85&nbsp;million
+
+{{col-3}}
+
+====Expenditure====
+Summer: {{loss}} £12.15&nbsp;million
+
+Winter: {{steady}} £0
+
+Total: {{loss}} £12.15&nbsp;million
+{{col-end}}
+
+==Competitions==
+[[File:09commshieldwinners.jpg|thumb|280px|2009 Community Shield Winners]]
+
+===Overall===
+{{fb overall competition header }}
+{{fb overall2 competition|bg=|cl=[[2009 FA Community Shield|FA Community Shield]]|srn=|fp=Winner|fprn=Winner|dm=9 August 2009|dfm=|dlm= }}
+{{fb overall2 competition|bg=y|cl=[[2009–10 Premier League|Premier League]]|srn=|fp=Winner|fprn=Winner|dm=|dfm=15 August 2009|dlm=9 May 2010 }}
+{{fb overall2 competition |bg= |cl = [[2009–10 UEFA Champions League|UEFA Champions League]]|srn = [[2009–10 UEFA Champions League#Group stage|Group stage]]|curr= |fprn=[[2009–10 UEFA Champions League#Round of 16|Round of 16]] |fp= |dfm=15 September 2009 |dlm=16 March 2010 }}
+{{fb overall2 competition|bg=y|cl=[[2009–10 Football League Cup|Football League Cup]]|srn=[[2009–10 Football League Cup#Third round|3rd round]]|fp=|fprn=[[2009–10 Football League Cup#Fifth round|Fifth round]]|dm=|dfm=23 September 2009|dlm=2 December 2009 }}
+{{fb overall2 competition |bg= |curr= |cl = [[2009–10 FA Cup|FA Cup]]|srn = [[2009–10 FA Cup#Third round proper|3rd round]]|cprn= |fprn = [[2009–10 FA Cup#Final|Winner]]|fp=Winner |dfm=3 January 2010 |dlm=15 May 2010 }}
+{{fb overall competition footer }}
+
+===Pre-season===
+{{football box collapsible
+|date=18 July 2009
+|time=20:00 [[British Summer Time|BST]]
+|team1=[[Seattle Sounders FC]] {{Flagicon|USA}}
+|score= 0–2
+|report=[http://www.chelseafc.com/news-article/article/1726726 (Report)]
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2= [[Daniel Sturridge|Sturridge]] {{goal|12}} <br />[[Frank Lampard|Lampard]] {{goal|35}}, {{yel|90+1}}
+|stadium=[[Qwest Field]], [[Seattle]]
+|attendance=65,289
+|referee={{Flagicon|USA}} Alex Prus
+|result=W
+}}
+
+====World Football Challenge====
+{{main|World Football Challenge}}
+{{:2009 World Football Challenge|showteam=CHL}}
+{{football box collapsible
+|date=22 July 2009<!--ATTENTION The date and times on these matches are correct to UK local time zone, even though they are being played the day ahead in the U.S. -->
+|time=04:00 [[British Summer Time|BST]]
+|team1= [[Chelsea F.C.|Chelsea]] {{Flagicon|ENG}}
+|score= 2–0
+|report=[http://www.chelseafc.com/news-article/article/1729573 (Report)]
+|team2={{Flagicon|ITA}} [[Inter Milan|Internazionale]]
+|goals1= [[Didier Drogba|Drogba]] {{goal|11}}<br /> [[Frank Lampard|Lampard]] {{goal|50|pen.}}<br />[[Branislav Ivanović|Ivanović]] {{yel|59}}
+|goals2= [[Nicolás Burdisso|Burdisso]] {{yel|49}}
+|stadium=[[Rose Bowl (stadium)|Rose Bowl]], [[Pasadena, California|Pasadena]]
+|attendance=81,224
+|referee={{Flagicon|USA}} Ricardo Salazar
+|result=W
+}}
+{{football box collapsible
+|date=25 July 2009<!--ATTENTION The date and times on these matches are correct to UK local time zone, even though they are being played the day ahead in the U.S. -->
+|time=01:00 [[British Summer Time|BST]]
+|team1= [[A.C. Milan|Milan]]  {{Flagicon|ITA}}
+|score= 1–2
+|report= [http://www.chelseafc.com/news-article/article/1733018 (Report)]
+|team2={{Flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1= [[Mathieu Flamini|Flamini]] {{yel|34}}<br /> [[Clarence Seedorf|Seedorf]] {{goal|37}}<br /> [[Massimo Oddo|Oddo]] {{yel|75}}
+|goals2= [[Didier Drogba|Drogba]] {{goal|6}}<br /> [[Branislav Ivanović|Ivanović]] {{yel|56}}<br /> [[Yuri Zhirkov|Zhirkov]] {{goal|68|}}
+|stadium=[[M&T Bank Stadium]], [[Baltimore]]
+|attendance=71,203
+|referee={{Flagicon|USA}} Mark Geiger
+|result=W
+}}
+{{football box collapsible
+|date=27 July 2009<!-- ATTENTION The date and times on these matches are correct to UK local time zone, even though they are being played the day ahead in the U.S. -->
+|time=01:00 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]] {{Flagicon|ENG}}
+|score= 2–0
+|report=[http://www.chelseafc.com/news-article/article/1734200 (Report)]
+|team2={{Flagicon|MEX}} [[Club América|América]]
+|goals1= [[Sam Hutchinson|Hutchinson]] {{yel|49}}<br />[[Franco Di Santo|Di Santo]] {{goal|76}}<br />[[Florent Malouda|Malouda]] {{goal|78}}
+|goals2= [[Ricardo Francisco Rojas|Rojas]] {{yel|17}}
+|stadium=[[Cowboys Stadium]], [[Arlington, Texas|Arlington]]
+|attendance=57,229
+|referee={{Flagicon|USA}} Paul Ward
+|result=W
+}}
+
+====Return to England====
+{{football box collapsible
+|date=1 August 2009
+|time=15:00 [[British Summer Time|BST]]
+|team1=[[Reading F.C.|Reading]]
+|score= 2–2
+|report=[http://www.chelseafc.com/news-article/article/1740611 (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1= [[Jimmy Kébé|Kébé]] {{goal|38}}<br />[[Scott Davies (footballer, born 1988)|Davies]] {{goal|45}}
+|goals2= [[Salomon Kalou|Kalou]] {{goal|88}}<br />[[Alex Pearce (footballer, born 1988)|Pearce]] {{goal|90+1|o.g.}}
+|stadium=[[Madejski Stadium]], [[Reading, Berkshire|Reading]]
+|attendance=18,781
+|referee= [[Peter Walton (referee)|Peter Walton]]
+|result=D
+}}
+
+===FA Community Shield===
+{{main|2009 FA Community Shield}}
+{{football box collapsible
+|date=9 August 2009
+|time=15:00 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 2–2
+|report=[http://news.bbc.co.uk/sport2/hi/football/8190061.stm (Report)]
+|team2=[[Manchester United F.C.|Manchester United]]
+|goals1=[[Branislav Ivanović|Ivanović]] {{yel|13}}<br />[[Ricardo Carvalho|Carvalho]] {{goal|52}}<br />[[Frank Lampard|Lampard]] {{goal|71}}
+|goals2=[[Dimitar Berbatov|Berbatov]] {{yel|4}}<br />[[Nani (footballer)|Nani]] {{goal|10}}<br />[[Patrice Evra|Evra]] {{yel|80}}<br />[[Michael Owen|Owen]] {{yel|86}}<br />[[Wayne Rooney|Rooney]] {{goal|90+2}}
+|stadium=[[Wembley Stadium]], London
+|attendance=85,896
+|referee=[[Chris Foy (referee)|Chris Foy]]
+|penalties1=[[Frank Lampard|Lampard]] {{pengoal}}<br />[[Michael Ballack|Ballack]] {{pengoal}}<br />[[Didier Drogba|Drogba]] {{pengoal}}<br />[[Salomon Kalou|Kalou]] {{pengoal}}
+|penaltyscore= 4–1
+|penalties2={{penmiss}} [[Ryan Giggs|Giggs]]<br />{{pengoal}} [[Michael Carrick|Carrick]]<br />{{penmiss}} [[Patrice Evra|Evra]]
+|result=D
+}}
+
+===Premier League===
+{{main|2009–10 Premier League}}
+Chelsea's 18th consecutive season in the Premier League began on 15 August 2009 and ended on 9 May 2010. Chelsea won their fourth national league title on 86 points, one point ahead of [[Manchester United F.C.|Manchester United]].
+
+====League table====
+{{:2009–10 Premier League|showteam=CHE}}
+====Results summary====
+{{Fb_rs |hw=17 |hd=1 |hl=1 |hgf=68 |hga=14 |aw=10 |ad=4 |al=5 |agf=35 |aga=18 }}
+{{Fb rs footer|s=[http://www.premierleague.com/page/LeagueTable Barclays Premier League]|date=May 2015}}
+
+====Results by round====
+{{#invoke:sports rbr table|table|legendpos=b
+|header=Round
+|label1= Ground
+| res1=H/A/A/H/A/H/A/H/A/H/A/H/H/A/A/H/H/A/A/H/H/H/A/A/H/A/A/H/H/A/A/H/A/H/A/H/A/H
+|label2= Result
+| res2=W/W/W/W/W/W/L/W/L/W/W/W/W/W/L/D/W/D/D/W/W/W/W/D/W/L/W/L/W/D/W/W/W/W/L/W/W/W
+|label3= Position
+| res3=6/2/2/1/1/1/2/1/2/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/3/2/2/1/1/1/1/1/1
+|label4= Points
+
+|res4=3/6/9/12/15/18/18/21/21/24/27/30/33/36/36/37/40/41/42/45/48/51/54/55/58/58/61/61/64/65/68/71/74/77/77/80/83/86
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_1=1st|color_2=2nd|color_3=3rd|color_188-=red1
+| color_86=1st
+
+|source=[[#Matches|Matches]]
+|date=May 2015
+}}
+
+====Matches====
+{{football box collapsible
+|round=1
+|date=15 August 2009
+|time=12:45 [[British Summer Time|BST]]
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 2–1
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8199453.stm (Report)]
+|team2= [[Hull City A.F.C.|Hull City]]
+|goals1=[[Didier Drogba|Drogba]] {{goal|37||90+2}}, {{yel|90+3}}
+|goals2=[[Stephen Hunt (footballer, born 1981)|Hunt]] {{goal|28}}<br />[[Bernard Mendy|Mendy]] {{yel|45+2}}<br />[[Nick Barmby|Barmby]] {{yel|70}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=41,597
+|referee=[[Alan Wiley]]
+|result=W
+}}
+{{football box collapsible
+|round=2
+|date=18 August 2009
+|time=19:45 [[British Summer Time|BST]]
+|team1= [[Sunderland A.F.C.|Sunderland]]
+|score= 1–3
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8202329.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Darren Bent|Bent]] {{goal|18}}<br />[[Kieran Richardson|Richardson]] {{yel|29}}<br /> [[Lorik Cana|Cana]] {{yel|68}}
+|goals2=[[Michael Ballack|Ballack]] {{goal|52}}<br />[[Branislav Ivanović|Ivanović]] {{yel|54}}<br />[[Frank Lampard|Lampard]] {{goal|61|pen.}}<br />[[Deco]] {{goal|70}}<br />[[Didier Drogba|Drogba]] {{yel|76}}
+|stadium= [[Stadium of Light]]
+|location= [[Sunderland, Tyne and Wear|Sunderland]]
+|attendance=41,179
+|referee=[[Steve Bennett (referee)|Steve Bennett]]
+|result=W
+}}
+{{football box collapsible
+|round=3
+|date=23 August 2009
+|time=16:00 [[British Summer Time|BST]]
+|team1= [[Fulham F.C.|Fulham]]
+|score= 0–2
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8211861.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=[[Didier Drogba|Drogba]] {{goal|39}}<br />[[Nicolas Anelka|Anelka]] {{goal|76}}
+|stadium= [[Craven Cottage]]
+|location= London
+|attendance=25,404
+|referee=[[Andre Marriner]]
+|result=W
+}}
+{{football box collapsible
+|round=4
+|date=29 August 2009
+|time=12:45 [[British Summer Time|BST]]
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 3–0
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8222096.stm (Report)]
+|team2= [[Burnley F.C.|Burnley]]
+|goals1=[[Nicolas Anelka|Anelka]] {{goal|45+2}}<br />[[Michael Ballack|Ballack]] {{goal|47}}<br />[[Ashley Cole|A. Cole]] {{goal|52}}
+|goals2=[[Tyrone Mears|Mears]] {{yel|49}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=40,906
+|referee=[[Mark Clattenburg]]
+|result=W
+}}
+{{football box collapsible
+|round=5
+|date=12 September 2009
+|time=15:00 [[British Summer Time|BST]]
+|team1= [[Stoke City F.C.|Stoke City]]
+|score= 1–2
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8245879.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Ryan Shawcross|Shawcross]] {{yel|18}}<br />[[Abdoulaye Faye|Faye]] {{goal|32}}<br /> [[Rory Delap|Delap]] {{yel|59}}<br />[[Andy Wilkinson|Wilkinson]] {{yel|77}}
+|goals2=[[Salomon Kalou|Kalou]] {{yel|16}}<br />[[Didier Drogba|Drogba]] {{goal|45+2}}<br />[[John Terry|Terry]] {{yel|45+4}} <br />[[Ashley Cole|A. Cole]] {{yel|52}}<br />[[Florent Malouda|Malouda]] {{goal|90+4}}
+|stadium= [[Britannia Stadium]]
+|location= [[Stoke-on-Trent]]
+|attendance=27,440
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=W
+}}
+{{football box collapsible
+|round=6
+|date=20 September 2009
+|time=16:00 [[British Summer Time|BST]]
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 3–0
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8257330.stm (Report)]
+|team2= [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1=[[Ashley Cole|A. Cole]] {{goal|32}}<br>[[Michael Ballack|Ballack]] {{goal|58}}<br>[[Didier Drogba|Drogba]] {{goal|63}}
+|goals2=[[Sébastien Bassong|Bassong]] {{yel|66}}<br>[[Jermaine Jenas|Jenas]] {{yel|90+4}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=41,623
+|referee=[[Howard Webb]]
+|result=W
+}}
+{{football box collapsible
+|round=7
+|date=26 September 2009
+|time=15:00 [[British Summer Time|BST]]
+|team1= [[Wigan Athletic F.C.|Wigan Athletic]]
+|score= 3–1
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8269672.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Titus Bramble|Bramble]] {{goal|16}}<br />[[Hendry Thomas|Thomas]] {{yel|27}}<br />[[Hugo Rodallega|Rodallega]] {{goal|53|pen.}}<br>[[Paul Scharner|Scharner]] {{goal|90+1}}
+|goals2=[[Didier Drogba|Drogba]] {{goal|47}}<br />[[Petr Čech|Čech]] {{sent off|0|51}}<br>[[Ricardo Carvalho|Carvalho]] {{yel|70}}<br>[[Michael Essien|Essien]] {{yel|86}}
+|stadium= [[DW Stadium]]
+|location= [[Wigan]]
+|attendance=18,542
+|referee=[[Phil Dowd]]
+|result=L
+}}
+{{football box collapsible
+|round=8
+|date=4 October 2009
+|time=16:00 [[British Summer Time|BST]]
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 2–0
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8283710.stm (Report)]
+|team2= [[Liverpool F.C.|Liverpool]]
+|goals1=[[Michael Essien|Essien]] {{yel|44}}<br />[[Nicolas Anelka|Anelka]] {{goal|60}}<br />[[Florent Malouda|Malouda]] {{goal|90+1}}
+|goals2=[[Steven Gerrard|Gerrard]] {{yel|77}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=41,732
+|referee=[[Martin Atkinson]]
+|result=W
+}}
+{{football box collapsible
+|round=9
+|date=17 October 2009
+|time=12:45 [[British Summer Time|BST]]
+|team1= [[Aston Villa F.C.|Aston Villa]]
+|score= 2–1
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8306450.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Richard Dunne|Dunne]] {{goal|32}}<br />[[Gabriel Agbonlahor|Agbonlahor]] {{yel|35}}<br />[[James Collins (footballer, born 1983)|Collins]] {{goal|52}}<br />[[James Milner|Milner]] {{yel|90+3}}
+|goals2=[[Didier Drogba|Drogba]] {{goal|15}}<br />[[Ashley Cole|A. Cole]] {{yel|45+1}}
+|stadium= [[Villa Park]]
+|location= [[Birmingham]]
+|attendance= 39,047
+|referee=[[Steve Bennett (referee)|Steve Bennett]]
+|result=L
+}}
+{{football box collapsible
+|round=10
+|date=24 October 2009
+|time=17:30 [[British Summer Time|BST]]
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 5–0
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8318512.stm (Report)]
+|team2= [[Blackburn Rovers F.C.|Blackburn Rovers]]
+|goals1= [[Gaël Givet|Givet]] {{goal|20|o.g.}}<br /> [[Frank Lampard|Lampard]] {{goal|48||59|pen.}}<br /> [[Michael Essien|Essien]] {{goal|52}}<br /> [[Didier Drogba|Drogba]] {{goal|64}}
+|goals2= [[Morten Gamst Pedersen|Pedersen]] {{yel|45}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance= 40,836
+|referee=[[Alan Wiley]]
+|result=W
+}}
+{{football box collapsible
+|round=11
+|date=31 October 2009
+|time=15:00 [[GMT]]
+|team1= [[Bolton Wanderers F.C.|Bolton Wanderers]]
+|score= 0–4
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8330377.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Jlloyd Samuel|Samuel]] {{sent off|0|45+1}} <br /> [[Paul Robinson (footballer, born December 1978)|Robinson]] {{yel|57}}
+|goals2=[[Frank Lampard|Lampard]] {{goal|45+2|pen.}} <br /> [[Deco]] {{goal|61}} <br /> [[Paulo Ferreira|Ferreira]] {{yel|80}} <br /> [[Branislav Ivanović|Ivanović]] {{goal|83|}} <br /> [[Didier Drogba|Drogba]] {{goal|90}}
+|stadium= [[Reebok Stadium]]
+|location= [[Bolton]]
+|attendance= 22,680
+|referee=[[Peter Walton (referee)|Peter Walton]]
+|result=W
+}}
+{{football box collapsible
+|round=12
+|date=8 November 2009
+|time=16:00 [[GMT]]
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 1–0
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8343319.stm (Report)]
+|team2= [[Manchester United F.C.|Manchester United]]
+|goals1=[[Branislav Ivanović|Ivanović]] {{yel|58}}<br />[[Didier Drogba|Drogba]] {{yel|74}}<br />[[John Terry|Terry]] {{goal|76}}<br /> [[Ricardo Carvalho|Carvalho]] {{yel|82}}
+|goals2=[[Wayne Rooney|Rooney]] {{yel|77}}<br />[[Jonny Evans|Evans]] {{yel|82}}<br />[[Antonio Valencia|Valencia]] {{yel|89}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=41,836
+|referee=[[Martin Atkinson]]
+|result=W
+}}
+{{football box collapsible
+|round=13
+|date=21 November 2009
+|time=15:00 [[GMT]]
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 4–0
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8365169.stm (Report)]
+|team2= [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|goals1=[[Florent Malouda|Malouda]] {{goal|5}}<br />[[Michael Essien|Essien]] {{goal|12||22}}<br />[[Joe Cole|J. Cole]] {{goal|56}}
+|goals2=[[Jody Craddock|Craddock]] {{yel|79}}<br />[[Andy Keogh|Keogh]] {{yel|90}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=41,786
+|referee=[[Lee Mason]]
+|result=W
+}}
+{{football box collapsible
+|round=14
+|date=29 November 2009
+|time=16:00 [[GMT]]
+|team1= [[Arsenal F.C.|Arsenal]]
+|score= 0–3
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8377195.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Armand Traoré|Traoré]] {{yel|25}}<br />[[Cesc Fàbregas|Fàbregas]] {{yel|90+5}}
+|goals2=[[Didier Drogba|Drogba]] {{yel|37}}, {{goal|41||86}}<br />[[Thomas Vermaelen|Vermaelen]] {{goal|45|o.g.}}<br />[[Mikel John Obi|Mikel]] {{yel|70}}
+|stadium= [[Emirates Stadium]]
+|location= London
+|attendance=60,067
+|referee=[[Andre Marriner]]
+|result=W
+}}
+{{football box collapsible
+|round=15
+|date=5 December 2009
+|time=18:30 [[GMT]]
+|team1=[[Manchester City F.C.|Manchester City]]
+|score= 2–1
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8391256.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Emmanuel Adebayor|Adebayor]] {{goal|37}} <br /> [[Carlos Tevez|Tevez]] {{goal|56}} <br />[[Gareth Barry|Barry]] {{yel|63}}
+|goals2=[[Emmanuel Adebayor|Adebayor]] {{goal|8|o.g.}}<br />[[John Terry|Terry]] {{yel|45+1}} <br />[[Ricardo Carvalho|Carvalho]] {{yel|55}}<br />[[Juliano Belletti|Belletti]] {{yel|74}} <br />[[Branislav Ivanović|Ivanović]] {{yel|79}}<br />[[Ashley Cole|A. Cole]] {{yel|85}} <br />[[Deco]] {{yel|86}}
+|stadium=[[City of Manchester Stadium]]
+|location= [[Manchester]]
+|attendance=47,348
+|referee=[[Howard Webb]]
+|result=L
+}}
+{{football box collapsible
+|round=16
+|date=12 December 2009
+|time=15:00 [[GMT]]
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 3–3
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8402643.stm (Report)]
+|team2= [[Everton F.C.|Everton]]
+|goals1=[[Didier Drogba|Drogba]] {{goal|18||59}}<br />[[Nicolas Anelka|Anelka]] {{goal|23}}
+|goals2=[[Petr Čech|Čech]] {{goal|12|o.g.}}<br />[[Johnny Heitinga|Heitinga]] {{yel|37}}<br />[[Yakubu (footballer)|Yakubu]] {{goal|45+5}}<br />[[Louis Saha|Saha]] {{goal|63}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=41,579
+|referee=[[Phil Dowd]]
+|result=D
+}}
+{{football box collapsible
+|round=17
+|date=16 December 2009
+|time=19:45 [[GMT]]
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 2–1
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8412063.stm (Report)]
+|team2= [[Portsmouth F.C.|Portsmouth]]
+|goals1=[[Nicolas Anelka|Anelka]] {{goal|23}}<br>[[Frank Lampard|Lampard]] {{goal|79|pen.}}
+|goals2=[[Frédéric Piquionne|Piquionne]] {{goal|51}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=40,137
+|referee=[[Mark Clattenburg]]
+|result=W
+}}
+{{football box collapsible
+|round=18
+|date=20 December 2009
+|time=16:00 [[GMT]]
+|team1=[[West Ham United F.C.|West Ham United]]
+|score= 1–1
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8417131.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Guillermo Franco|Franco]] {{yel|33}}<br />[[Alessandro Diamanti|Diamanti]] {{goal|45|pen.}}<br />[[Scott Parker (footballer)|Parker]] {{yel|45+3}}<br />[[Matthew Upson|Upson]] {{yel|59}}
+|goals2=[[Ricardo Carvalho|Carvalho]] {{yel|30}}<br />[[Ashley Cole|A. Cole]] {{yel|44}}<br />[[Frank Lampard|Lampard]] {{goal|61|pen.}}<br />[[John Terry|Terry]] {{yel|84}}
+|stadium=[[Boleyn Ground|Upton Park]]
+|location= London
+|attendance=33,388
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=D
+}}
+{{football box collapsible
+|round=19
+|date=26 December 2009
+|time=12:45 [[GMT]]
+|team1=[[Birmingham City F.C.|Birmingham City]]
+|score= 0–0
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8423355.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Lee Bowyer|Bowyer]] {{yel|71}}
+|goals2=[[Florent Malouda|Malouda]] {{sent off|2|61|89}}<br />[[Branislav Ivanović|Ivanović]] {{yel|79}}
+|stadium=[[St Andrew's (stadium)|St Andrews]]
+|location= [[Birmingham]]
+|attendance=28,958
+|referee=[[Peter Walton (referee)|Peter Walton]]
+|result=D
+}}
+{{football box collapsible
+|round=20
+|date=28 December 2009
+|time=15:00 [[GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 2–1
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8428887.stm (Report)]
+|team2= [[Fulham F.C.|Fulham]]
+|goals1=[[Didier Drogba|Drogba]] {{goal|73}}, {{yel|88}}<br />[[Chris Smalling|Smalling]] {{goal|75|o.g.}}
+|goals2=[[Zoltán Gera|Gera]] {{goal|4}}<br />[[Chris Baird|Baird]] {{yel|56}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=41,805
+|referee=[[Andre Marriner]]
+|result=W
+}}
+{{football box collapsible
+|round=21
+|date=16 January 2010
+|time=15:00 [[GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 7–2
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8454249.stm (Report)]
+|team2= [[Sunderland A.F.C.|Sunderland]]
+|goals1=[[Nicolas Anelka|Anelka]] {{goal|8||65}} <br />[[Florent Malouda|Malouda]] {{goal|17}}<br />[[Ashley Cole|A. Cole]] {{goal|22}}<br />[[Frank Lampard|Lampard]] {{goal|34||90}}<br />[[Michael Ballack|Ballack]] {{goal|52}}
+|goals2=[[Boudewijn Zenden|Zenden]] {{goal|56}}<br>[[Phillip Bardsley|Bardsley]] {{yel|66}}<br />[[Darren Bent|Bent]] {{goal|90+2}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=41,776
+|referee=[[Chris Foy (referee)|Chris Foy]]
+|result=W
+}}
+{{football box collapsible
+|round=22
+|date=27 January 2010
+|time=19:45 [[GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 3–0
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8468712.stm (Report)]
+|team2= [[Birmingham City F.C.|Birmingham City]]
+|goals1=[[Florent Malouda|Malouda]] {{goal|5}}<br />[[Frank Lampard|Lampard]] {{goal|32||90}}
+|goals2=
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=41,293
+|referee=[[Steve Bennett (referee)|Steve Bennett]]
+|result=W
+}}
+{{football box collapsible
+|round=23
+|date=30 January 2010
+|time=17:30 [[GMT]]
+|team1=[[Burnley F.C.|Burnley]]
+|score= 1–2
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8486120.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Andre Bikey|Bikey]] {{yel|39}} <br /> [[Steven Fletcher (footballer)|Fletcher]] {{goal|50}}
+|goals2=[[Nicolas Anelka|Anelka]] {{goal|27}} <br /> [[John Terry|Terry]] {{yel|33}} {{goal|82}}
+|stadium=[[Turf Moor]]
+|location= [[Burnley]]
+|attendance=21,131
+|referee=[[Phil Dowd]]
+|result=W
+}}
+{{football box collapsible
+|round=24
+|date=2 February 2010
+|time=19:45 [[GMT]]
+|team1=[[Hull City A.F.C.|Hull City]]
+|score= 1–1
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8490298.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Steven Mouyokolo|Mouyokolo]] {{goal|30}}<br />[[Paul McShane (Irish footballer)|McShane]] {{yel|59}}
+|goals2=[[Branislav Ivanović|Ivanović]] {{yel|29}}<br />[[Didier Drogba|Drogba]] {{goal|42}}, {{yel|89}}<br />[[John Terry|Terry]] {{yel|45}}
+|stadium=[[KC Stadium]]
+|location= [[Kingston upon Hull|Hull]]
+|attendance=24,957
+|referee=[[Mark Clattenburg]]
+|result=D
+}}
+{{football box collapsible
+|round=25
+|date=7 February 2010
+|time=16:00 [[GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 2–0
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8500129.stm (Report)]
+|team2= [[Arsenal F.C.|Arsenal]]
+|goals1=[[Didier Drogba|Drogba]] {{goal|8||23}}<br />[[Yuri Zhirkov|Zhirkov]] {{yel|88}}<br />[[Joe Cole|J. Cole]] {{yel|88}}
+|goals2=[[Alex Song|Song]] {{yel|83}} <br />[[Cesc Fàbregas|Fàbregas]] {{yel|84}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=41,794
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=W
+}}
+{{football box collapsible
+|round=26
+|date=10 February 2010
+|time=20:00 [[GMT]]
+|team1=[[Everton F.C.|Everton]]
+|score= 2–1
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8502608.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Louis Saha|Saha]] {{goal|33||75}}<br />[[Landon Donovan|Donovan]] {{yel|64}}
+|goals2=[[Florent Malouda|Malouda]] {{goal|17}}, {{yel|90+5}}<br />[[Mikel John Obi|Mikel]] {{yel|62}}
+|stadium=[[Goodison Park]]
+|location= [[Liverpool]]
+|attendance=36,411
+|referee=[[Alan Wiley]]
+|result=L
+}}
+{{football box collapsible
+|round=27
+|date=20 February 2010
+|time=15:00 [[GMT]]
+|team1=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|score= 0–2
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8518120.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=[[Didier Drogba|Drogba]] {{goal|40||67}}<br />[[Michael Ballack|Ballack]] {{yel|64}}
+|stadium=[[Molineux Stadium]]
+|location= [[Wolverhampton]]
+|attendance=28,978
+|referee=[[Kevin Friend]]
+|result=W
+}}
+{{football box collapsible
+|round=28
+|date=27 February 2010
+|time=12:45 [[GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 2–4
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8530847.stm (Report)]
+|team2= [[Manchester City F.C.|Manchester City]]
+|goals1=[[Frank Lampard|Lampard]] {{goal|42||90+1|pen.}}<br />[[John Terry|Terry]] {{yel|49}}<br />[[Branislav Ivanović|Ivanović]] {{yel|58}}<br />[[Michael Ballack|Ballack]] {{sent off|2|68|81}}<br />[[Juliano Belletti|Belletti]] {{sent off|0|75}}
+|goals2=[[Carlos Tevez|Tevez]] {{goal|45+1||76|pen.}}<br />[[Pablo Zabaleta|Zabaleta]] {{yel|57}}<br />[[Craig Bellamy|Bellamy]] {{goal|51||87}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=41,814
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=L
+}}
+{{football box collapsible
+|round=29
+|date=13 March 2010
+|time=15:00 [[GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 4–1
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8559629.stm (Report)]
+|team2= [[West Ham United F.C.|West Ham United]]
+|goals1=[[Alex (footballer, born June 1982)|Alex]] {{goal|16}}<br />[[Didier Drogba|Drogba]] {{goal|56||90}}<br />[[Florent Malouda|Malouda]] {{goal|77}}
+|goals2=[[Scott Parker|Parker]] {{goal|30}}<br />[[Mido (footballer)|Mido]] {{yel|49}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=41,755
+|referee=[[Mark Clattenburg]]
+|result=W
+}}
+{{football box collapsible
+|round=30
+|date=21 March 2010
+|time=16:00 [[GMT]]
+|team1=[[Blackburn Rovers F.C.|Blackburn Rovers]]
+|score= 1–1
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8570810.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[El Hadji Diouf|Diouf]] {{goal|70}}
+|goals2=[[Didier Drogba|Drogba]] {{goal|6}}<br />[[Yuri Zhirkov|Zhirkov]] {{yel|45}}
+|stadium=[[Ewood Park]]
+|location= [[Blackburn]]
+|attendance=25,554
+|referee=[[Steve Bennett (referee)|Steve Bennett]]
+|result=D
+}}
+{{football box collapsible
+|round=31
+|date=24 March 2010
+|time=19:45 [[GMT]]
+|team1=[[Portsmouth F.C.|Portsmouth]]
+|score= 0–5
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8580687.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Jamie O'Hara (footballer)|O'Hara]] {{yel|67}}<br />[[Richard Hughes (footballer)|Hughes]] {{yel|86}}<br />[[David James (footballer, born 1970)|James]] {{yel|90+6}}
+|goals2=[[Didier Drogba|Drogba]] {{goal|32||77}}<br />[[Florent Malouda|Malouda]] {{yel|40}}, {{goal|50||60}}<br />[[Mikel John Obi|Mikel]] {{yel|90}} <br />[[Frank Lampard|Lampard]] {{goal|90+4}}
+|stadium=[[Fratton Park]]
+|location= [[Portsmouth]]
+|attendance=18,753
+|referee=[[Lee Mason]]
+|result=W
+}}
+{{football box collapsible
+|round=32
+|date=27 March 2010
+|time=15:00 [[GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 7–1
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8587517.stm (Report)]
+|team2= [[Aston Villa F.C.|Aston Villa]]
+|goals1=[[Frank Lampard|Lampard]] {{goal|15||44|pen.|62|pen.|90+1}} <br />[[Yuri Zhirkov|Zhirkov]] {{yel|31}} <br />[[Deco]] {{yel|39}} <br />[[Paulo Ferreira|Ferreira]] {{yel|48}}<br />[[Florent Malouda|Malouda]] {{goal|57||67}} <br />[[Salomon Kalou|Kalou]] {{goal|83}}
+|goals2=[[Stiliyan Petrov|Petrov]] {{yel|28}} <br /> [[John Carew|Carew]] {{goal|29}}<br>[[Richard Dunne|Dunne]] {{yel|62}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=41,825
+|referee=[[Peter Walton (referee)|Peter Walton]]
+|result=W
+}}
+{{football box collapsible
+|round=33
+|date=3 April 2010
+|time=12:45 [[British Summer Time|BST]]
+|team1= [[Manchester United F.C.|Manchester United]]
+|score= 1–2
+|report=  [http://news.bbc.co.uk/sport2/hi/football/eng_prem/8599045.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1= [[Paul Scholes|Scholes]] {{yel|35}}<br />[[Gary Neville|Neville]] {{yel|44}}<br>[[Federico Macheda|Macheda]] {{goal|81}}<br>[[Darren Fletcher|Fletcher]] {{yel|85}}
+|goals2= [[Joe Cole|J. Cole]] {{goal|20}}, {{yel|72}}<br>[[Deco]] {{yel|70}}<br />[[Didier Drogba|Drogba]] {{goal|79}}
+|stadium= [[Old Trafford]]
+|location= [[Manchester]]
+|attendance= 75,217
+|referee= [[Mike Dean (referee)|Mike Dean]]
+|result=W
+}}
+{{football box collapsible
+|round=34
+|date=13 April 2010
+|time=20:00 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 1–0
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8611471.stm (Report)]
+|team2= [[Bolton Wanderers F.C.|Bolton Wanderers]]
+|goals1=[[Nicolas Anelka|Anelka]] {{goal|43}}<br />[[Alex (footballer, born June 1982)|Alex]] {{yel|78}}
+|goals2=[[Grétar Steinsson|Steinsson]] {{yel|24}}<br />[[Paul Robinson (footballer, born December 1978)|Robinson]] {{yel|77}}<br />[[Kevin Davies|Davies]] {{yel|78}}<br />[[Johan Elmander|Elmander]] {{yel|88}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=40,539
+|referee=[[Chris Foy (referee)|Chris Foy]]
+|result=W
+}}
+{{football box collapsible
+|round=35
+|date=17 April 2010
+|time=17:30 [[British Summer Time|BST]]
+|team1=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|score= 2–1
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8617737.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Jermain Defoe|Defoe]] {{goal|15|pen.}}<br />[[Gareth Bale|Bale]] {{goal|44}}<br />[[Tom Huddlestone|Huddlestone]] {{yel|54}} <br />[[Roman Pavlyuchenko|Pavlyuchenko]] {{yel|85}}
+|goals2=[[Alex (footballer, born June 1982)|Alex]] {{yel|17}}<br />[[Deco]] {{yel|54}}<br />[[John Terry|Terry]] {{sent off|2|63|66}}<br />[[Yuri Zhirkov|Zhirkov]] {{yel|79}}<br />[[Frank Lampard|Lampard]] {{goal|90+1}}
+|stadium=[[White Hart Lane]]
+|location= London
+|attendance= 35,814
+|referee=[[Phil Dowd]]
+|result=L
+}}
+{{football box collapsible
+|round=36
+|date=25 April 2010
+|time=16:00 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 7–0
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8632297.stm (Report)]
+|team2= [[Stoke City F.C.|Stoke City]]
+|goals1=[[Salomon Kalou|Kalou]] {{goal|24||31||69}}<br />[[Frank Lampard|Lampard]] {{goal|44|pen.|81}} <br />[[Daniel Sturridge|Sturridge]] {{goal|87}} <br />[[Florent Malouda|Malouda]] {{goal|89}}
+|goals2=[[Glenn Whelan|Whelan]] {{yel|59}}<br />[[Dean Whitehead|Whitehead]] {{yel|61}} <br />[[Robert Huth|Huth]] {{yel|76}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=41,013
+|referee=[[Steve Bennett (referee)|Steve Bennett]]
+|result=W
+}}
+{{football box collapsible
+|round=37
+|date=2 May 2010
+|time=13:30 [[British Summer Time|BST]]
+|team1=[[Liverpool F.C.|Liverpool]]
+|score= 0–2
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8648924.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Javier Mascherano|Mascherano]] {{yel|87}}
+|goals2=[[Florent Malouda|Malouda]] {{yel|26}}<br />[[Didier Drogba|Drogba]] {{goal|33}}<br />[[Michael Ballack|Ballack]] {{yel|40}}<br />[[Frank Lampard|Lampard]] {{goal|54}}
+|stadium=[[Anfield]]
+|location= [[Liverpool]]
+|attendance=44,375
+|referee=[[Alan Wiley]]
+|result=W
+}}
+{{football box collapsible
+|round=38
+|date=9 May 2010
+|time=16:00 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 8–0
+|report=[http://news.bbc.co.uk/sport2/hi/football/eng_prem/8663686.stm (Report)]
+|team2= [[Wigan Athletic F.C.|Wigan Athletic]]
+|goals1=[[Nicolas Anelka|Anelka]] {{goal|6||56}}<br />[[Frank Lampard|Lampard]] {{goal|32|pen.}}<br />[[Salomon Kalou|Kalou]] {{goal|54}}, {{yel|54}}<br />[[Didier Drogba|Drogba]] {{goal|63||68|pen.|80}}, {{yel|74}}<br />[[Ashley Cole|A. Cole]] {{goal|90}}
+|goals2=[[Gary Caldwell|Caldwell]] {{sent off|0|31}}<br />[[Steve Gohouri|Gohouri]] {{yel|41}}<br />[[Charles N'Zogbia|N'Zogbia]] {{yel|49}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=41,383
+|referee=[[Martin Atkinson]]
+|result=W
+}}
+
+===FA Cup===
+{{main|2009–10 FA Cup}}
+{{football box collapsible
+|round=[[2009–10 FA Cup#Third round proper|Third round]]
+|date=3 January 2010
+|time=15:00 [[GMT]]
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 5–0
+|report=[http://news.bbc.co.uk/sport2/hi/football/fa_cup/8433896.stm (Report)]
+|team2= [[Watford F.C.|Watford]]
+|goals1=[[Daniel Sturridge|Sturridge]] {{goal|5||68}}<br />[[John Eustace|Eustace]] {{goal|15|o.g.}}<br />[[Florent Malouda|Malouda]] {{goal|22}}<br />[[Juliano Belletti|Belletti]] {{yel|41}} <br />[[Joe Cole|J. Cole]] {{yel|43}}<br>[[Frank Lampard|Lampard]] {{goal|64}}<br>[[Nemanja Matić|Matić]] {{yel|83}}
+|goals2=[[Henri Lansbury|Lansbury]] {{yel|41}}<br>[[John Eustace|Eustace]] {{yel|81}}<br>[[Tom Cleverley|Cleverley]] {{yel|86}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=40,912
+|referee= [[Kevin Friend]]
+|result=W
+}}
+{{football box collapsible
+|round=[[2009–10 FA Cup#Fourth round proper|Fourth round]]
+|date=23 January 2010
+|time=12:45 [[GMT]]
+|team1= [[Preston North End F.C.|Preston North End]]
+|score= 0–2
+|report=[http://news.bbc.co.uk/sport2/hi/football/fa_cup/8468633.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Michael Hart (footballer)|Hart]] {{yel|24}}
+|goals2=[[Nicolas Anelka|Anelka]] {{goal|37}}<br />[[Daniel Sturridge|Sturridge]] {{goal|47}}
+|stadium=[[Deepdale]]
+|location= [[Preston, Lancashire|Preston]]
+|attendance=23,119
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=W
+}}
+{{football box collapsible
+|round=[[2009–10 FA Cup#Fifth round proper|Fifth round]]
+|date=13 February 2010
+|time=12:00 [[GMT]]
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 4–1
+|report=[http://news.bbc.co.uk/sport2/hi/football/fa_cup/8506485.stm (Report)]
+|team2= [[Cardiff City F.C.|Cardiff City]]
+|goals1=[[Didier Drogba|Drogba]] {{goal|2}}<br />[[Alex (footballer, born June 1982)|Alex]] {{yel|10}}<br />[[Michael Ballack|Ballack]] {{goal|51}}<br />[[Ricardo Carvalho|Carvalho]] {{yel|61}}<br />[[Daniel Sturridge|Sturridge]] {{goal|69}}<br />[[Salomon Kalou|Kalou]] {{goal|86}}
+|goals2=[[Michael Chopra|Chopra]] {{yel|20}}, {{goal|34}}<br />[[Anthony Gerrard|Gerrard]] {{yel|67}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=40,827
+|referee=[[Andre Marriner]]
+|result=W
+}}
+{{football box collapsible
+|round=[[2009–10 FA Cup#Sixth round proper|Quarter-finals]]
+|date=7 March 2010
+|time=16:00 [[GMT]]
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 2–0
+|report=[http://news.bbc.co.uk/sport2/hi/football/fa_cup/8549612.stm (Report)]
+|team2= [[Stoke City F.C.|Stoke City]]
+|goals1=[[Frank Lampard|Lampard]] {{goal|35}}<br />[[John Terry|Terry]] {{goal|67}}, {{yel|86}}
+|goals2=
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=41,322
+|referee=[[Martin Atkinson]]
+|result=W
+}}
+{{football box collapsible
+|round=[[2009–10 FA Cup#Semi-finals|Semi-finals]]
+|date=10 April 2010
+|time=15:00 [[British Summer Time|BST]]
+|team1= [[Aston Villa F.C.|Aston Villa]]
+|score= 0–3
+|report=[http://news.bbc.co.uk/sport2/hi/football/fa_cup/8611094.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=[[Deco]] {{yel|52}}<br>[[Didier Drogba|Drogba]] {{goal|68}}<br>[[John Terry|Terry]] {{yel|75}}<br>[[Mikel John Obi|Mikel]] {{yel|84}}<br>[[Florent Malouda|Malouda]] {{goal|89}}<br>[[Frank Lampard|Lampard]] {{goal|90+5}}
+|stadium= [[Wembley Stadium]]
+|location= London
+|attendance=85,472
+|referee=[[Howard Webb]]
+|result=W
+}}
+{{football box collapsible
+|round=[[2010 FA Cup Final|Final]]
+|date=15 May 2010
+|time=15:00 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 1–0
+|report=[http://news.bbc.co.uk/sport2/hi/football/fa_cup/8680493.stm (Report)]
+|team2=[[Portsmouth F.C.|Portsmouth]]
+|goals1=[[Didier Drogba|Drogba]] {{goal|59}}
+|goals2=[[Kevin-Prince Boateng|Boateng]] {{yel|36}}<br />[[Ricardo Rocha (footballer, born 1978)|Rocha]] {{yel|90+1}}
+|stadium=[[Wembley Stadium]]
+|location= London
+|attendance=88,335
+|referee=[[Chris Foy (referee)|Chris Foy]]
+|result=W
+}}
+
+===League Cup===
+{{main|2009–10 Football League Cup}}
+{{football box collapsible
+|round=[[2009–10 Football League Cup#Third round|Third round]]
+|date=23 September 2009
+|time=19:45 [[British Summer Time|BST]]
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 1–0
+|report=[http://news.bbc.co.uk/sport1/hi/football/league_cup/8257276.stm (Report)]
+|team2= [[Queens Park Rangers F.C.|Queens Park Rangers]]
+|goals1=[[Salomon Kalou|Kalou]] {{goal|52}}
+|goals2=
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=37,781
+|referee=Mike Jones
+|result=W
+}}
+{{football box collapsible
+|round=[[2009–10 Football League Cup#Fourth round|Fourth round]]
+|date=28 October 2009
+|time=19:45 [[GMT]]
+|team1= [[Chelsea F.C.|Chelsea]]
+|score= 4–0
+|report=[http://news.bbc.co.uk/sport2/hi/football/league_cup/8323104.stm (Report)]
+|team2= [[Bolton Wanderers F.C.|Bolton Wanderers]]
+|goals1=[[Salomon Kalou|Kalou]] {{goal|15}}<br />[[Florent Malouda|Malouda]] {{goal|26}}<br />[[Deco]] {{goal|67}}<br />[[Didier Drogba|Drogba]] {{goal|89}}
+|goals2=
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= London
+|attendance=41,538
+|referee=[[Andre Marriner]]
+|result=W
+}}
+{{football box collapsible
+|round=[[2009–10 Football League Cup#Fifth round|Fifth round]]
+|date=2 December 2009
+|time=20:00 [[GMT]]
+|team1= [[Blackburn Rovers F.C.|Blackburn Rovers]]
+|score=3–3
+|aet=yes
+|report=[http://news.bbc.co.uk/sport2/hi/football/league_cup/8387299.stm (Report)]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1=[[Nikola Kalinić (footballer)|Kalinić]] {{goal|9}} <br />[[Vince Grella|Grella]] {{yel|62}}<br />[[Brett Emerton|Emerton]] {{goal|64}} <br />[[Benni McCarthy|McCarthy]] {{goal|93|pen.}}
+|goals2=[[Jeffrey Bruma|Bruma]] {{yel|46}} <br />[[Didier Drogba|Drogba]] {{goal|48}} <br />[[Salomon Kalou|Kalou]] {{goal|52}} <br />[[Paulo Ferreira|Ferreira]] {{goal|120+2}}
+|stadium= [[Ewood Park]]
+|location= [[Blackburn]]
+|attendance=18,136
+|referee=[[Alan Wiley]]
+|penaltyscore= 4–3
+|penalties1= [[Benni McCarthy|McCarthy]] {{pengoal}} <br />[[Brett Emerton|Emerton]] {{pengoal}} <br /> [[Vince Grella|Grella]] {{pengoal}}<br />[[Nikola Kalinić (footballer)|Kalinić]] {{penmiss}} <br />[[David Hoilett|Hoilett]] {{pengoal}}
+|penalties2={{penmiss}} [[Michael Ballack|Ballack]]<br />{{pengoal}} [[Didier Drogba|Drogba]]<br />{{pengoal}} [[Florent Malouda|Malouda]]<br />{{pengoal}} [[Yuri Zhirkov|Zhirkov]]<br />{{penmiss}} [[Gaël Kakuta|Kakuta]]
+|result=D
+}}
+
+===UEFA Champions League===
+{{main|2009–10 UEFA Champions League}}
+
+====Group stage====
+{{main|2009–10 UEFA Champions League group stage#Group D}}
+{{:2009–10 UEFA Champions League group stage|transcludesection=Group D|showteam=CHE}}
+{{football box collapsible
+|round=[[2009–10 UEFA Champions League group stage#Chelsea v Porto|1]]
+|date=15 September 2009
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score= 1–0
+|report=[https://www.uefa.com/uefachampionsleague/match/2000378--chelsea-vs-porto/ Report]
+|team2={{flagicon|POR}} [[FC Porto|Porto]]
+|goals1=[[Michael Essien|Essien]] {{yel|15}}<br />[[Florent Malouda|Malouda]] {{yel|18}}<br />[[Nicolas Anelka|Anelka]] {{goal|49}}
+|goals2=[[Fernando (footballer, born 1987)|Fernando]] {{sent off|2|78|90}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London, England
+|attendance= 39,851
+|referee= [[Konrad Plautz]] ([[Austrian Football Association|Austria]])
+|result=W
+}}
+{{football box collapsible
+|round=[[2009–10 UEFA Champions League group stage#APOEL v Chelsea|2]]
+|date=30 September 2009
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[APOEL FC|APOEL]] {{flagicon|CYP}}
+|score= 0–1
+|report=[https://www.uefa.com/uefachampionsleague/match/2000386--apoel-vs-chelsea/ Report]
+|team2={{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=[[Nicolas Anelka|Anelka]] {{goal|18}}<br />[[Salomon Kalou|Kalou]] {{yel|44}}<br />[[Branislav Ivanović|Ivanović]] {{yel|79}}
+|stadium=[[GSP Stadium]]
+|location=[[Nicosia]], [[Cyprus]]
+|attendance=21,657
+|referee= [[Bertrand Layec]] ([[French Football Federation|France]])
+|result=W
+}}
+{{football box collapsible
+|round=[[2009–10 UEFA Champions League group stage#Chelsea v Atlético Madrid|3]]
+|date=21 October 2009
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score= 4–0
+|report=[https://www.uefa.com/uefachampionsleague/match/2000403--chelsea-vs-atleti/ Report]
+|team2={{flagicon|ESP}} [[Atlético Madrid]]
+|goals1= [[Salomon Kalou|Kalou]] {{goal|41||52}} <br />[[Frank Lampard|Lampard]] {{goal|69}} <br /> [[Juliano Belletti|Belletti]] {{yel|86}} <br /> [[Luis Amaranto Perea|Perea]] {{goal|90+1|o.g.}}
+|goals2= [[Raúl García (footballer, born 1986)|García]] {{yel|74}} <br />[[Álvaro Domínguez Soto|Domínguez]] {{yel|90}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London, England
+|attendance=39,997
+|referee= [[Florian Meyer (referee)|Florian Meyer]] ([[German Football Association|Germany]])
+|result=W
+}}
+{{football box collapsible
+|round=[[2009–10 UEFA Champions League group stage#Atlético Madrid v Chelsea|4]]
+|date=3 November 2009
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Atlético Madrid]] {{flagicon|ESP}}
+|score= 2–2
+|report=[https://www.uefa.com/uefachampionsleague/match/2000427--atleti-vs-chelsea/ Report]
+|team2={{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1= [[José Antonio Reyes|Reyes]] {{yel|26}}<br />[[Paulo Assunção|Assunção]] {{yel|33}}<br /> [[Sergio Agüero|Agüero]] {{goal|66||90+1}}
+|goals2= [[Michael Essien|Essien]] {{yel|17}}<br />[[Didier Drogba|Drogba]] {{goal|61||85}}<br />[[John Terry|Terry]] {{yel|87}}
+|stadium=[[Vicente Calderón Stadium|Vicente Calderón]]
+|location=[[Madrid]], Spain
+|attendance=45,000
+|referee= [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|result=D
+}}
+{{football box collapsible
+|round=[[2009–10 UEFA Champions League group stage#Porto v Chelsea|5]]
+|date=25 November 2009
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[FC Porto|Porto]] {{flagicon|POR}}
+|score= 0–1
+|report=[https://www.uefa.com/uefachampionsleague/match/2000434--porto-vs-chelsea/ Report]
+|team2={{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=[[Fernando (footballer, born 1987)|Fernando]] {{yel|50}}
+|goals2=[[Michael Ballack|Ballack]] {{yel|57}} <br /> [[Nicolas Anelka|Anelka]] {{goal|66}}
+|stadium=[[Estádio do Dragão]]
+|location=[[Porto]], Portugal
+|attendance=38,410
+|referee=[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+|result=W
+}}
+{{football box collapsible
+|round=[[2009–10 UEFA Champions League group stage#Chelsea v APOEL|6]]
+|date=8 December 2009
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score= 2–2
+|report=[https://www.uefa.com/uefachampionsleague/match/2000458--chelsea-vs-apoel/ Report]
+|team2={{flagicon|CYP}} [[APOEL FC|APOEL]]
+|goals1=[[Yuri Zhirkov|Zhirkov]] {{yel|18}} <br />[[Michael Essien|Essien]] {{goal|19}}<br />[[Didier Drogba|Drogba]] {{goal|24}}
+|goals2=[[Marcin Żewłakow|Żewłakow]] {{goal|5}}<br />[[Savvas Poursaitidis|Poursaitidis]] {{yel|85}} <br />[[Nenad Mirosavljević|Mirosavljević]] {{goal|87}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London, England
+|attendance=40,917
+|referee=[[Matteo Trefoloni]] ([[Italian Football Federation|Italy]])
+|result=D
+}}
+
+====Knockout phase====
+{{main|2009–10 UEFA Champions League knockout phase}}
+
+=====Round of 16=====
+{{football box collapsible
+|round=[[2009–10 UEFA Champions League knockout phase#Internazionale v Chelsea|First leg]]
+|date=24 February 2010
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1= [[Inter Milan|Internazionale]] {{flagicon|ITA}}
+|score= 2–1
+|report=[https://www.uefa.com/uefachampionsleague/match/2000462--inter-vs-chelsea/ Report]
+|team2= {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=[[Diego Milito|Milito]] {{goal|3}} {{yel|22}} <br />[[Thiago Motta|Motta]] {{yel|10}}<br />[[Esteban Cambiasso|Cambiasso]] {{goal|55}}
+|goals2=[[Salomon Kalou|Kalou]] {{yel|23}} {{goal|51}}
+|stadium=[[San Siro]]
+|location=[[Milan]], Italy
+|attendance=84,638
+|referee=[[Manuel Mejuto González]] ([[Royal Spanish Football Federation|Spain]])
+|result=L
+}}
+{{football box collapsible
+|round=[[2009–10 UEFA Champions League knockout phase#Chelsea v Internazionale|Second leg]]
+|date=16 March 2010
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score= 0–1
+|aggregatescore= 1–3
+|report=[https://www.uefa.com/uefachampionsleague/match/2000474--chelsea-vs-inter/ Report]
+|team2={{flagicon|ITA}} [[Inter Milan|Internazionale]]
+|goals1=[[Florent Malouda|Malouda]] {{yel|55}}<br />[[Didier Drogba|Drogba]] {{sent off|1|57|87}}<br />[[Alex (footballer, born June 1982)|Alex]] {{yel|83}}<br />[[John Terry|Terry]] {{yel|89}}
+|goals2=[[Samuel Eto'o|Eto'o]] {{yel|17}}, {{goal|79}}<br />[[Thiago Motta|Motta]] {{yel|48}}<br />[[Lúcio]] {{yel|54}}<br />[[Júlio César (football goalkeeper, born 1979)|Júlio César]] {{yel|82}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=London, England
+|attendance=38,107
+|referee=[[Wolfgang Stark]] ([[German Football Association|Germany]])
+|result=L
+}}
+
+==Statistics==
+
+===Appearances and goals===
+{{Extended football squad start|[[2009–10 Premier League|Premier League]]|[[2009–10 UEFA Champions League|Champions League]]|[[2009–10 FA Cup|FA Cup]]|[[2009–10 Football League Cup|League Cup]]}}
+{{Extended football squad player|no=1|name=[[Petr Čech]]|pos=GK|nat=CZE|34+0|0|6+0|0|2+0|0|0+0|0}}
+{{Extended football squad player|no=2|name=[[Branislav Ivanović]]|pos=DF|nat=SRB|25+3|1|6+0|0|3+0|0|3+0|0}}
+{{Extended football squad player|no=3|name=[[Ashley Cole]]|pos=DF|nat=ENG|25+2|4|4+0|0|2+0|0|0+1|0}}
+{{Extended football squad player|no=5|name=[[Michael Essien]]|pos=MF|nat=GHA|13+1|3|5+1|1|0+0|0|0+1|0}}
+{{Extended football squad player|no=6|name=[[Ricardo Carvalho]]|pos=DF|nat=POR|22+0|0|5+0|0|1+0|0|0+0|0}}
+{{Extended football squad player|no=7|name=''[[Andriy Shevchenko]]*'' |pos=FW|nat=UKR|0+1|0|0+0|0|0+0|0|0+0|0}}
+{{Extended football squad player|no=8|name=[[Frank Lampard]]|pos=MF|nat=ENG|36+0|22|6+1|1|6+0|3|0+1|0}}
+{{Extended football squad player|no=10|name=[[Joe Cole]]|pos=MF|nat=ENG|14+12|2|2+3|0|3+2|0|3+0|0}}
+{{Extended football squad player|no=11|name=[[Didier Drogba]]|pos=FW|nat=CIV|31+1|29|5+0|3|4+0|3|0+2|2}}
+{{Extended football squad player|no=12|name=[[Mikel John Obi]]|pos=MF|nat=NGA|21+4|0|4+0|0|3+0|0|2+0|0}}
+{{Extended football squad player|no=13|name=[[Michael Ballack]]|pos=MF|nat=GER|26+6|4|5+1|0|3+1|1|2+0|0}}
+{{Extended football squad player|no=15|name=[[Florent Malouda]]|pos=MF|nat=FRA|26+7|12|7+1|0|4+2|2|3+0|1}}
+{{Extended football squad player|no=17|name=[[José Bosingwa]]|pos=DF|nat=POR|8+0|0|0+0|0|0+0|0|0+0|0}}
+{{Extended football squad player|no=18|name=[[Yuri Zhirkov]]|pos=MF|nat=Russia|10+7|0|3+1|0|4+0|0|2+0|0}}
+{{Extended football squad player|no=19|name=[[Paulo Ferreira]]|pos=DF|nat=POR|11+2|0|0+0|0|4+0|0|3+0|1}}
+{{Extended football squad player|no=20|name=[[Deco]]|pos=MF|nat=POR|14+5|2|2+2|0|3+0|0|2+0|1}}
+{{Extended football squad player|no=21|name=[[Salomon Kalou]]|pos=FW|nat=CIV|11+12|5|5+1|3|2+2|1|3+0|3}}
+{{Extended football squad player|no=22|name=[[Ross Turnbull]]|pos=GK|nat=England|2+0|0|2+0|0|0+0|0|0+1|0}}
+{{Extended football squad player|no=23|name=[[Daniel Sturridge]]|pos=FW|nat=England|2+11|1|0+2|0|3+1|4|1+0|0}}
+{{Extended football squad player|no=24|name=[[Nemanja Matić]]|pos=MF|nat=SRB|0+2|0|0+0|0|0+1|0|0+0|0}}
+{{Extended football squad player|no=26|name=[[John Terry]]|pos=DF|nat=ENG|37+0|2|8+0|0|5+0|1|0+1|0}}
+{{Extended football squad player|no=33|name=[[Alex (footballer, born June 1982)|Alex]]|pos=DF|nat=BRA|13+3|1|2+0|0|6+0|0|1+0|0}}
+{{Extended football squad player|no=35|name=[[Juliano Belletti]]|pos=DF|nat=BRA|4+7|0|4+1|0|2+1|0|3+0|0}}
+{{Extended football squad player|no=39|name=[[Nicolas Anelka]]|pos=FW|nat=FRA|31+2|11|6+1|3|3+1|1|0+0|0}}
+{{Extended football squad player|no=40|name=[[Henrique Hilário]]|pos=GK|nat=POR|2+1|0|0+1|0|4+0|0|3+0|0}}
+{{Extended football squad player|no=41|name=[[Sam Hutchinson]]|pos=DF|nat=ENG|0+2|0|0+0|0|0+0|0|1+0|0}}
+{{Extended football squad player|no=43|name=[[Jeffrey Bruma]]|pos=DF|nat=NED|0+2|0|0+0|0|0+0|0|0+1|0}}
+{{Extended football squad player|no=44|name=[[Gaël Kakuta]]|pos=FW|nat=FRA|0+1|0|1+0|0|0+1|0|0+1|0}}
+{{Extended football squad player|no=45|name=[[Fabio Borini]]|pos=FW|nat=ITA|0+4|0|0+1|0|0+2|0|1+0|0}}
+{{Extended football squad player|no=52|name=[[Patrick van Aanholt]]|pos=DF|nat=NED|0+2|0|0+0|0|0+0|0|0+0|0}}
+|}
+Notes:
+* ''* = Player is no longer with the club but still made an appearance during the season.''
+
+===Top scorers===
+Includes all competitive matches. The list is sorted by shirt number when total goals are equal.
+{| class="wikitable sortable" style="font-size: 95%; text-align: center;"
+|-
+!width=10|{{Abbr| Rnk | Ranking }}
+!width=10|{{Abbr| No. | Squad Number }}
+!width=150|Player
+!width=80|Premier League
+!width=80|Champions League
+!width=80|League Cup
+!width=80|FA Cup
+!width=80|Community Shield
+!width=80|Total
+|-
+|1
+|11
+|align=left|{{Flagicon|CIV}} [[Didier Drogba|Drogba]]
+|29
+|3
+|2
+|3
+|0
+|'''37'''
+|-
+|2
+|8
+|align=left|{{flagicon|ENG}} [[Frank Lampard|Lampard]]
+|22
+|1
+|0
+|3
+|1
+|'''27'''
+|-
+|rowspan="2"|3
+|15
+|align=left|{{Flagicon|FRA}} [[Florent Malouda|Malouda]]
+|12
+|0
+|1
+|2
+|0
+|'''15'''
+|-
+|39
+|align=left|{{Flagicon|FRA}} [[Nicolas Anelka|Anelka]]
+|11
+|3
+|0
+|1
+|0
+|'''15'''
+|-
+|5
+|21
+|align=left|{{Flagicon|CIV}} [[Salomon Kalou|Kalou]]
+|5
+|3
+|3
+|1
+|0
+|'''12'''
+|-
+|rowspan="2"|6
+|13
+|align=left|{{Flagicon|GER}} [[Michael Ballack|Ballack]]
+|4
+|0
+|0
+|1
+|0
+|'''5'''
+|-
+|23
+|align=left|{{Flagicon|ENG}} [[Daniel Sturridge|Sturridge]]
+|1
+|0
+|0
+|4
+|0
+|'''5'''
+|-
+|rowspan="2"|8
+|3
+|align=left|{{Flagicon|ENG}} [[Ashley Cole|Cole]]
+|4
+|0
+|0
+|0
+|0
+|'''4'''
+|-
+|5
+|align=left|{{Flagicon|GHA}} [[Michael Essien|Essien]]
+|3
+|1
+|0
+|0
+|0
+|'''4'''
+|-
+|rowspan="2"|10
+|20
+|align=left|{{Flagicon|POR}} [[Deco]]
+|2
+|0
+|1
+|0
+|0
+|'''3'''
+|-
+|26
+|align=left|{{Flagicon|ENG}} [[John Terry|Terry]]
+|2
+|0
+|0
+|1
+|0
+|'''3'''
+|-
+| 12
+|10
+|align=left|{{Flagicon|ENG}} [[Joe Cole|Cole]]
+|2
+|0
+|0
+|0
+|0
+|'''2'''
+|-
+|rowspan="4"|13
+|2
+|align=left|{{Flagicon|SER}} [[Branislav Ivanović|Ivanović]]
+|1
+|0
+|0
+|0
+|0
+|'''1'''
+|-
+|6
+|align=left|{{Flagicon|POR}} [[Ricardo Carvalho|Carvalho]]
+|0
+|0
+|0
+|0
+|1
+|'''1'''
+|-
+|19
+|align=left|{{Flagicon|POR}} [[Paulo Ferreira|Ferreira]]
+|0
+|0
+|1
+|0
+|0
+|'''1'''
+|-
+|33
+|align=left|{{Flagicon|BRA}} [[Alex (footballer, born June 1982)|Alex]]
+|1
+|0
+|0
+|0
+|0
+|'''1'''
+|-
+|colspan="3"|'''Own goals'''
+|4
+|1
+|0
+|1
+|0
+|'''6'''
+|-
+|colspan="3"|'''TOTALS'''
+|'''103'''
+|'''12'''
+|'''8'''
+|'''17'''
+|'''2'''
+|'''142'''
+|}
+
+===Disciplinary record===
+Includes all competitive matches. Players with 1 card or more included only.
+{| class="wikitable" style="font-size: 95%; text-align: center;"
+|-
+| rowspan="2" width="5%" align="center"|'''Position'''
+| rowspan="2" width="5%" align="center"|'''Nation'''
+| rowspan="2" width="5%" align="center"|'''Number'''
+| rowspan="2" width="15%" align="center"|'''Name'''
+|colspan="2" align="center"|'''Premier League'''
+|colspan="2" align="center"|'''Champions League'''
+|colspan="2" align="center"|'''League Cup'''
+|colspan="2" align="center"|'''FA Cup'''
+|colspan="2" align="center"|'''Total (FA Total)'''
+|-
+!width=60 style="background: #FFEE99"| {{yel}}
+!width=60 style="background: #FF8888"|{{sent off}}
+!width=60 style="background: #FFEE99"|{{yel}}
+!width=60 style="background: #FF8888"|{{sent off}}
+!width=60 style="background: #FFEE99"|{{yel}}
+!width=60 style="background: #FF8888"|{{sent off}}
+!width=60 style="background: #FFEE99"|{{yel}}
+!width=60 style="background: #FF8888"|{{sent off}}
+!width=60 style="background: #FFEE99"|{{yel}}
+!width=60 style="background: #FF8888"|{{sent off}}
+|-
+|GK
+|{{Flagicon|CZE}}
+|1
+|[[Petr Čech]]
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+|'''0 (0)'''
+|'''1 (1)'''
+|-
+|DF
+|{{Flagicon|SRB}}
+|2
+|[[Branislav Ivanović]]
+|6
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|'''7 (6)'''
+|'''0'''
+|-
+|DF
+|{{Flagicon|ENG}}
+|3
+|[[Ashley Cole]]
+|4
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|'''4 (4)'''
+|'''0'''
+|-
+|MF
+|{{Flagicon|GHA}}
+|5
+|[[Michael Essien]]
+|2
+|0
+|2
+|0
+|0
+|0
+|0
+|0
+|'''4 (2)'''
+|'''0'''
+|-
+|DF
+|{{Flagicon|POR}}
+|6
+|[[Ricardo Carvalho]]
+|4
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|'''5 (5)'''
+|'''0'''
+|-
+|MF
+|{{Flagicon|ENG}}
+|10
+|[[Joe Cole]]
+|1
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|'''2 (2)'''
+|'''0'''
+|-
+|FW
+|{{Flagicon|CIV}}
+|11
+|[[Didier Drogba]]
+|7
+|0
+|1
+|1
+|0
+|0
+|0
+|0
+|'''8 (7)'''
+|'''1 (0)'''
+|-
+|MF
+|{{Flagicon|NGA}}
+|12
+|[[Mikel John Obi]]
+|3
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|'''4 (4)'''
+|'''0'''
+|-
+|MF
+|{{Flagicon|GER}}
+|13
+|[[Michael Ballack]]
+|4
+|1
+|1
+|0
+|0
+|0
+|0
+|0
+|'''5 (4)'''
+|'''1 (1)'''
+|-
+|MF
+|{{Flagicon|FRA}}
+|15
+|[[Florent Malouda]]
+|5
+|1
+|2
+|0
+|0
+|0
+|0
+|0
+|'''7 (5)'''
+|'''1 (1)'''
+|-
+|MF
+|{{Flagicon|RUS}}
+|18
+|[[Yuri Zhirkov]]
+|4
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|'''5 (4)'''
+|'''0'''
+|-
+|DF
+|{{Flagicon|POR}}
+|19
+|[[Paulo Ferreira]]
+|2
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|'''2 (2)'''
+|'''0'''
+|-
+|MF
+|{{Flagicon|POR}}
+|20
+|[[Deco]]
+|4
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|'''5 (5)'''
+|'''0'''
+|-
+|FW
+|{{Flagicon|CIV}}
+|21
+|[[Salomon Kalou]]
+|2
+|0
+|2
+|0
+|0
+|0
+|0
+|0
+|'''4 (2)'''
+|'''0'''
+|-
+|MF
+|{{Flagicon|SRB}}
+|24
+|[[Nemanja Matić]]
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|'''1 (1)'''
+|'''0'''
+|-
+|DF
+|{{Flagicon|ENG}}
+|26
+|[[John Terry]]
+|7
+|1
+|2
+|0
+|0
+|0
+|2
+|0
+|'''11 (9)'''
+|'''1 (1)'''
+|-
+|DF
+|{{Flagicon|BRA}}
+|33
+|[[Alex (footballer, born June 1982)|Alex]]
+| 2
+| 0
+| 1
+| 0
+| 0
+| 0
+| 1
+| 0
+| '''4 (3)'''
+| '''0'''
+|-
+|DF
+|{{Flagicon|BRA}}
+|35
+|[[Juliano Belletti]]
+|1
+|1
+|1
+|0
+|0
+|0
+|1
+|0
+|'''3 (2)'''
+|'''1 (1)'''
+|-
+|DF
+|{{Flagicon|NED}}
+|43
+|[[Jeffrey Bruma]]
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|0
+|'''1 (1)'''
+|'''0'''
+|-
+|
+|
+|
+| '''TOTALS'''
+|'''58'''
+|'''5'''
+|'''14'''
+|'''1'''
+|'''1'''
+|'''0'''
+|'''9'''
+|'''0'''
+|'''82 (68)'''
+|'''6 (5)'''
+|-
+|}
+
+===Overall===
+{|class="wikitable"
+|-
+|Games played || 55 (38 [[Premier League]], 8 [[UEFA Champions League]], 3 [[Football League Cup]], 6 [[FA Cup]])
+|-
+|Games won || 39 (27 [[Premier League]], 4 [[UEFA Champions League]], 2 [[Football League Cup]], 6 [[FA Cup]])
+|-
+|Games drawn ||  7 (5 [[Premier League]], 2 [[UEFA Champions League]])
+|-
+|Games lost || 9 (6 [[Premier League]], 2 [[UEFA Champions League]], 1 [[Football League Cup]])
+|-
+|Goals scored || 142
+|-
+|Goals conceded || 44
+|-
+|Goal difference || +98
+|-
+|Clean sheets || 29
+|-
+|Yellow cards || 82
+|-
+|Red cards || 6
+|-
+|Worst discipline || {{Flagicon|ENG}} [[John Terry]] (11 {{yel}}, 1 {{sent off}})
+|-
+|Best result(s) || 8–0 (H) v Wigan Athletic – [[Premier League]] – 9 May 2010
+|-
+|rowspan="2"|Worst result(s) || 2–4 (H) v Manchester City – [[Premier League]] – 27 February 2010
+|-
+|3–1 (A) v [[Wigan Athletic F.C.|Wigan Athletic]] – [[Premier League]] – 23 September 2009
+|-
+|Most appearances || [[John Terry]] with 51 appearances
+|-
+|Top scorer || {{Flagicon|CIV}} [[Didier Drogba]] (37 goals)
+|-
+|Points || 124/165 (75.15%)
+|-
+{{Fb cs footer|s=[http://www.chelseafc.com/page/TheManagementIndex/0,,10268,00.html Chelsea FC]|date=May 2015}}
+
+==Honours==
+
+===Individuals===
+
+===Player===
+{| class="wikitable" border="1"
+|-
+! {{Abbr| No. | Squad Number }}
+! Player
+! Award
+! Source
+|-
+| 1
+| {{Flagicon|CZE}} [[Petr Čech]]
+| 2009 Czech Footballer of the Year,<ref>[https://web.archive.org/web/20100313073547/http://www.uefa.com/memberassociations/association=eng/news/newsid=1457060.html UEFA] Čech voted Czech player of the year</ref> [[Barclays Golden Glove|2009–10 Barclays Golden Glove]]
+|-
+| 2
+| {{Flagicon|SER}} [[Branislav Ivanović]]
+| [[PFA Team of the Year#Premier League 18|PFA Team of the Year (2010)]]
+|-
+| 3
+| {{Flagicon|ENG}} [[Ashley Cole]]
+| [[Chelsea Player of the Year#2009–10|Goal of the Season (2009–10)]] v [[Sunderland A.F.C.|Sunderland]] ([[Premier League]]) 16 January 2010
+|-
+| 8
+| {{Flagicon|ENG}} [[Frank Lampard]]
+| [[FWA Tribute Award|2010 Football Writers' Association Tribute Award]]
+|-
+| 11
+|  {{Flagicon|CIV}} [[Didier Drogba]]
+| [[BBC African Footballer of the Year|2009 BBC African Footballer of the Year]], [[African Footballer of the Year|2009 African Footballer of the Year]], [[PFA Team of the Year#Premier League 18|PFA Team of the Year (2010)]], [[Chelsea Player of the Year#2009–10|Chelsea Player of the Year (2009–10)]], [[Premier League Golden Boot|2010 Barclays Golden Boot Winner]]
+|-
+| 15
+| {{Flagicon|FRA}} [[Florent Malouda]]
+| [[2009–10 Premier League#Monthly awards|Player of the Month (March 2010)]], [[Chelsea Player of the Year#2009–10|Samsung Players' Player of the Year (2009–10)]]
+|-
+| 26
+| {{Flagicon|ENG}} [[John Terry]]
+| [[UEFA Club Football Awards#Best Defender|UEFA European Club Defender of the Year (2009)]], [[FIFPro|FIFPro World XI (2008–09)]]
+|-
+|}
+
+===Manager===
+{| class="wikitable" border="1"
+|-
+! Manager
+! Award
+! Source
+|-
+| {{Flagicon|ITA}} [[Carlo Ancelotti]]
+| [[2009–10 Premier League#Monthly awards|Manager of the Month (November 2009)]]
+|
+|-
+|}
+
+==See also==
+* [[Chelsea F.C.]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.chelseafc.com Chelsea FC official website]
+* [https://www.soccerbase.com/teams/team.sd?team_id=536 Chelsea FC on Soccerbase] {{webarchive |url=https://web.archive.org/web/20070627030941/http://www.soccerbase.com/teams2.sd?teamid=536 |date=2007-06-27}}
+* [https://web.archive.org/web/20011018222648/http://www.uefa.com/Competitions/UCL/FixturesResults/index.html UEFA Champions League]
+
+{{Chelsea F.C. seasons}}
+{{2009–10 in English football}}
+
+{{DEFAULTSORT:Chelsea F.C. Season 2009-10}}
+[[Category:Chelsea F.C. seasons|2009-10]]
+[[Category:2009–10 Premier League by team]]
+[[Category:English football championship–winning seasons|2009-10]]
+[[Category:2009–10 UEFA Champions League participants seasons]]

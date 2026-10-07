@@ -1,0 +1,351 @@
+{{Short description|English football club season}}
+{{Use dmy dates|date=February 2015}}
+{{Use British English|date=February 2015}}
+{{Infobox football club season
+  | club               = Chelsea F.C.
+  | season             = 1996–97
+  | chairman           = [[Ken Bates]]
+  | manager            = [[Ruud Gullit]]
+  | league             = [[FA Premier League]]
+  | league result      = [[1996–97 FA Premier League|6th]]
+  | cup1               = [[FA Cup]]
+  | cup1 result        = [[1996–97 FA Cup|Winners]]
+  | cup2               = [[Football League Cup|League Cup]]
+  | cup2 result        = [[1996–97 Football League Cup|Third round]]
+  | league topscorer   = [[Gianluca Vialli]] (9)
+  | season topscorer   = [[Mark Hughes]] (14)
+  | highest attendance = <span class="nowrap">28,418 vs [[Everton F.C.|Everton]]</span> <br> (7 December 1996, [[FA Premier League]])
+  | lowest attendance  = <span class="nowrap">11,732 vs [[Blackpool F.C.|Blackpool]]</span> <br> (25 September 1996, [[Football League Cup|League Cup]])
+  | average attendance = 27,001
+  | pattern_b1  = _chelsea9697h
+  | pattern_la1 = 
+  | pattern_ra1 = 
+  | pattern_sh1 = _chelsea9697h
+  | leftarm1    = 1C2E84
+  | body1       = 1C2E84
+  | rightarm1   = 1C2E84
+  | shorts1     = 1C2E84
+  | socks1      = FFFFFF
+  | pattern_b2  = _chelsea1996a
+  | pattern_ra2 = _chelsea1996a
+  | pattern_la2 = _chelsea1996a
+  | pattern_so2 = 
+  | leftarm2    = FF0000
+  | body2       = FF0000
+  | rightarm2   = FF0000
+  | shorts2     = FFff00
+  | socks2      = ffff00
+  | prevseason         = [[1995–96 Chelsea F.C. season|1995–96]]
+  | nextseason         = [[1997–98 Chelsea F.C. season|1997–98]]
+}}
+During the 1996–97 English football season, Chelsea competed in the [[FA Premier League]].
+
+==Season summary==
+With [[Glenn Hoddle]] leaving to become [[England national football team|England]] manager, Chelsea gave the managerial role to midfielder [[Ruud Gullit]]. Gullit would use his continental connections to bring in world-class international players such as [[France]] center-back [[Frank Leboeuf]], and [[Italy|Italian]] superstars such as midfielder [[Roberto Di Matteo]], Parma's playmaker [[Gianfranco Zola]] and the [[UEFA Champions League|Champions League]] winning striker and [[Juventus FC|Juventus]] captain [[Gianluca Vialli]]. Gullit had a dream start to his managerial career as Chelsea won the [[FA Cup]] with a 2–0 win over [[Middlesbrough F.C.|Middlesbrough]], ending Chelsea's 26-year trophy drought and making him the first foreign manager and first black manager to win a major trophy with an English club.<ref>{{cite web|url=https://www.chelseafc.com/en/news/article/ruud-gullit-leading-chelsea-to-triumph|title=Ruud Gullit - Leading Chelsea to triumph|website=Chelsea FC|date=3 October 2020|access-date=4 November 2025}}</ref>
+
+Zola was voted [[FWA Footballer of the Year]]<ref>{{cite web|url=https://www.espn.co.uk/football/story/_/id/37417835/gianfranco-zola-says-chelsea-team-beat-eden-hazard|title=Gianfranco Zola says Chelsea 'team to beat' next year with Eden Hazard|website=ESPN|date=22 May 2015|access-date=4 November 2025}}</ref> after a brilliant first season at [[Stamford Bridge (stadium)|Stamford Bridge]] in which he scored 12 goals and contributed many assists, while fellow countryman and record £4.5 million signing Roberto Di Matteo scored one of Chelsea's goals in the triumphant Wembley final.<ref>{{cite web|url=https://www.independent.co.uk/sport/chelsea-cruelly-expose-boro-fault-lines-1262302.html|title=Chelsea cruelly expose Boro fault lines|website=Independent|date=19 May 1997|access-date=4 November 2025}}</ref>
+
+The club suffered a tragedy in late October when director [[Matthew Harding]] was killed in a helicopter crash in [[Cheshire]] when returning home from the club's League Cup exit at [[Bolton Wanderers F.C.|Bolton]].<ref>{{cite web|last1=Shaw|first1=Phil|title=Football mourns a true fan|url=https://www.independent.co.uk/sport/football-mourns-a-true-fan-1359957.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football-mourns-a-true-fan-1359957.html |archive-date=1 May 2022 |url-access=subscription |url-status=live|work=The Independent|date=24 October 1996|access-date=10 September 2015}}{{cbignore}}</ref>
+
+==Final league table==
+{{main|1996–97 FA Premier League}}
+{{:1996–97 FA Premier League|showteam=CHE}}
+
+;Results summary
+{{Fb_rs|hw=9|hd=8|hl=2|hgf=33|hga=22|aw=7|ad=3|al=9|agf=25|aga=33}}
+{{Fb_rs_footer|s=[http://www.statto.com/football/teams/chelsea/1996-1997/table Statto]|date=September 2015}}
+
+;Results by round
+{{#invoke:sports rbr table|table|legendpos=b
+|header=Round
+|label1= Ground
+| res1=A/H/H/A/A/H/A/H/A/H/H/A/A/H/A/H/A/H/A/H/H/A/H/A/H/A/H/A/H/H/A/H/A/A/H/A/H/A
+|label2= Result
+| res2=D/W/W/D/W/D/L/D/W/L/W/W/D/D/L/D/L/W/W/D/W/L/W/W/D/L/D/L/W/W/L/L/L/L/W/W/D/W
+|label3= Position
+| res3=11/8/2/3/2/3/7/6/6/6/6/5/5/5/7/7/7/8/7/7/7/7/6/5/6/7/8/8/7/5/6/6/7/8/7/7/6/6
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_1=1st|color_2=2nd|color_3=3rd|color_18-=red1
+
+|source=[http://www.statto.com/football/teams/chelsea/1996-1997/results Statto.com]
+|date=September 2015
+}}
+
+==Results==
+===Premier League===
+{| class="wikitable sortable" style="font-size:95%; text-align:center"
+!Date!!Opponent!!Venue!!Result!!Attendance!!Scorers
+|- bgcolor = "#FFFFEE"
+| align=left|18 August 1996 ||align=left|[[Southampton F.C.|Southampton]]||A||0–0||15,186||align=left|
+|- bgcolor = "#EEFFEE"
+| align=left|21 August 1996 ||align=left|[[Middlesbrough F.C.|Middlesbrough]]||H||1–0||28,272||align=left|[[Roberto Di Matteo|Di Matteo]]
+|- bgcolor = "#EEFFEE"
+| align=left|24 August 1996 ||align=left|[[Coventry City F.C.|Coventry City]]||H||2–0||25,024||align=left|[[Frank Leboeuf|Leboeuf]], [[Gianluca Vialli|Vialli]]
+|- bgcolor = "#FFFFEE"
+| align=left|4 September 1996 ||align=left|[[Arsenal F.C.|Arsenal]]||A||3–3||38,132||align=left|[[Frank Leboeuf|Leboeuf]] ([[Penalty kick|pen.]]), [[Dennis Wise|Wise]], [[Gianluca Vialli|Vialli]]
+|- bgcolor = "#EEFFEE"
+| align=left|7 September 1996 ||align=left|[[Sheffield Wednesday F.C.|Sheffield Wednesday]]||A||2–0||30,983||align=left|[[Craig Burley|Burley]], [[Andy Myers|Myers]]
+|- bgcolor = "#FFFFEE"
+| align=left|15 September 1996 ||align=left|[[Aston Villa F.C.|Aston Villa]]||H||1–1||27,729||align=left|[[Frank Leboeuf|Leboeuf]]
+|- bgcolor = "#FFEEEE"
+| align=left|21 September 1996 ||align=left|[[Liverpool F.C.|Liverpool]]||A||1–5||40,739||align=left|[[Frank Leboeuf|Leboeuf]] ([[Penalty kick|pen.]])
+|- bgcolor = "#FFFFEE"
+| align=left|28 September 1996 ||align=left|[[Nottingham Forest F.C.|Nottingham Forest]]||H||1–1||27,673||align=left|[[Gianluca Vialli|Vialli]]
+|- bgcolor = "#EEFFEE"
+| align=left|12 October 1996 ||align=left|[[Leicester City F.C.|Leicester City]]||A||3–1||20,766||align=left|[[Roberto Di Matteo|Di Matteo]], [[Mark Hughes|M. Hughes]], [[Gianluca Vialli|Vialli]]
+|- bgcolor = "#FFEEEE"
+| align=left|19 October 1996 ||align=left|[[Wimbledon F.C.|Wimbledon]]||H||2–4||28,020||align=left|[[Scott Minto|Minto]], [[Gianluca Vialli|Vialli]] ([[Penalty kick|pen.]])
+|- bgcolor = "#EEFFEE"
+| align=left|26 October 1996 ||align=left|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]||H||3–1||28,373||align=left|[[David Lee (footballer born 1969)|David Lee]] ([[Penalty kick|pen.]]), [[Ruud Gullit|Gullit]], [[Roberto Di Matteo|Di Matteo]]
+|- bgcolor = "#EEFFEE"
+| align=left|2 November 1996 ||align=left|[[Manchester United F.C.|Manchester United]]||A||2–1||55,198||align=left|[[Michael Duberry|Duberry]], [[Gianluca Vialli|Vialli]]
+|- bgcolor = "#FFFFEE"
+| align=left|16 November 1996 ||align=left|[[Blackburn Rovers F.C.|Blackburn Rovers]]||H||1–1||27,229||align=left|[[Dan Petrescu|Petrescu]]
+|- bgcolor = "#FFFFEE"
+| align=left|23 November 1996 ||align=left|[[Newcastle United F.C.|Newcastle United]]||H||1–1||28,401||align=left|[[Gianluca Vialli|Vialli]]
+|- bgcolor = "#FFEEEE"
+| align=left|1 December 1996 ||align=left|[[Leeds United F.C.|Leeds United]]||A||0–2||32,671||align=left|
+|- bgcolor = "#FFFFEE"
+| align=left|7 December 1996 ||align=left|[[Everton F.C.|Everton]]||H||2–2||28,418||align=left|[[Gianfranco Zola|Zola]], [[Gianluca Vialli|Vialli]]
+|- bgcolor = "#FFEEEE"
+| align=left|15 December 1996 ||align=left|[[Sunderland F.C.|Sunderland]]||A||0–3||19,683||align=left|
+|- bgcolor = "#EEFFEE"
+| align=left|21 December 1996 ||align=left|[[West Ham United F.C.|West Ham United]]||H||3–1||28,315||align=left|[[Gianfranco Zola|Zola]], [[Mark Hughes|M. Hughes]] (2)
+|- bgcolor = "#EEFFEE"
+| align=left|26 December 1996 ||align=left|[[Aston Villa F.C.|Aston Villa]]||A||2–0||39,339||align=left|[[Gianfranco Zola|Zola]] (2)
+|- bgcolor = "#FFFFEE"
+| align=left|28 December 1997 ||align=left|[[Sheffield Wednesday F.C.|Sheffield Wednesday]]||H||2–2||27,467||align=left|[[Gianfranco Zola|Zola]], [[Mark Hughes|M. Hughes]]
+|- bgcolor = "#EEFFEE"
+| align=left|1 January 1997 ||align=left|[[Liverpool F.C.|Liverpool]]||H||1–0||28,329||align=left|[[Roberto Di Matteo|Di Matteo]]
+|- bgcolor = "#FFEEEE"
+| align=left|11 January 1997 ||align=left|[[Nottingham Forest F.C.|Nottingham Forest]]||A||0–2||28,358||align=left|
+|- bgcolor = "#EEFFEE"
+| align=left|18 January 1997 ||align=left|[[Derby County F.C.|Derby County]]||H||3–1||28,293||align=left|[[Frank Leboeuf|Leboeuf]] ([[Penalty kick|pen.]]), [[Dennis Wise|Wise]], [[Paul Hughes (footballer)|P. Hughes]]
+|- bgcolor = "#EEFFEE"
+| align=left|1 February 1997 ||align=left|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]||A||2–1||33,027||align=left|[[Sol Campbell|Campbell]] ([[Own goal|o.g.]]), [[Roberto Di Matteo|Di Matteo]]
+|- bgcolor = "#FFFFEE"
+| align=left|22 February 1997 ||align=left|[[Manchester United F.C.|Manchester United]]||H||1–1||28,336||align=left|[[Gianfranco Zola|Zola]]
+|- bgcolor = "#FFEEEE"
+| align=left|1 March 1997 ||align=left|[[Derby County F.C.|Derby County]]||A||2–3||18,039||align=left|[[Frank Leboeuf|Leboeuf]], [[Scott Minto|Minto]]
+|- bgcolor = "#FFFFEE"
+| align=left|5 March 1997 ||align=left|[[Blackburn Rovers F.C.|Blackburn Rovers]]||H||1–1||25,784||align=left|[[Scott Minto|Minto]]
+|- bgcolor = "#FFEEEE"
+| align=left|12 March 1997 ||align=left|[[West Ham United F.C.|West Ham United]]||A||2–3||24,502||align=left|[[Gianluca Vialli|Vialli]], [[Gianfranco Zola|Zola]]
+|- bgcolor = "#EEFFEE"
+| align=left|16 March 1997 ||align=left|[[Sunderland F.C.|Sunderland]]||H||6–2||24,027||align=left|[[Frank Sinclair|Sinclair]], [[Dan Petrescu|Petrescu]], [[Roberto Di Matteo|Di Matteo]], [[Gianfranco Zola|Zola]], [[Mark Hughes|M. Hughes]] (2)
+|- bgcolor = "#EEFFEE"
+| align=left|19 March 1997 ||align=left|[[Southampton F.C.|Southampton]]||H||1–0||28,079||align=left|[[Gianfranco Zola|Zola]]
+|- bgcolor = "#FFEEEE"
+| align=left|22 March 1997 ||align=left|[[Middlesbrough F.C.|Middlesbrough]]||A||0–1||29,811||align=left|
+|- bgcolor = "#FFEEEE"
+| align=left|5 April 1997 ||align=left|[[Arsenal F.C.|Arsenal]]||H||0–3||28,182||align=left|
+|- bgcolor = "#FFEEEE"
+| align=left|9 April 1997 ||align=left|[[Coventry City F.C.|Coventry City]]||A||1–3||19,917||align=left|[[Paul Hughes (footballer)|P. Hughes]]
+|- bgcolor = "#FFEEEE"
+| align=left|16 April 1997 ||align=left|[[Newcastle United F.C.|Newcastle United]]||A||1–3||36,320||align=left|[[Craig Burley|Burley]]
+|- bgcolor = "#EEFFEE"
+| align=left|19 April 1997 ||align=left|[[Leicester City F.C.|Leicester City]]||H||2–1||27,723||align=left|[[Scott Minto|Minto]], [[Mark Hughes|M. Hughes]]
+|- bgcolor = "#EEFFEE"
+| align=left|22 April 1997 ||align=left|[[Wimbledon F.C.|Wimbledon]]||A||1–0||14,601||align=left|[[Dan Petrescu|Petrescu]]
+|- bgcolor = "#FFFFEE"
+| align=left|3 May 1997 ||align=left|[[Leeds United F.C.|Leeds United]]||H||0–0||26,277||align=left|
+|- bgcolor = "#EEFFEE"
+| align=left|11 May 1997 ||align=left|[[Everton F.C.|Everton]]||A||2–1||38,321||align=left|[[Roberto Di Matteo|Di Matteo]], [[Dennis Wise|Wise]]
+|}
+
+===League Cup===
+{| class="wikitable sortable" style="font-size:95%; text-align:center"
+|-
+!Date!!Round!!Opponent!!Venue!!Result!!Attendance!!Scorers
+|- style="background:#efe;"
+| {{left}}18 September 1996 ||R2||{{left}}[[Blackpool F.C.|Blackpool]]||A||4–1||9,666||{{left}}[[Dan Petrescu|Petrescu]], [[Jody Morris|Morris]], [[John Spencer (Scottish footballer)|Spencer]], [[Mark Hughes|M. Hughes]]
+|- style="background:#fee;"
+| {{left}}25 September 1996 ||R2||{{left}}[[Blackpool F.C.|Blackpool]]||H||1–3||11,732||{{left}}[[John Spencer (Scottish footballer)|Spencer]]
+|- style="background:#fee;"
+| {{left}}22 October 1996 ||R3||{{left}}[[Bolton Wanderers F.C.|Bolton Wanderers]]||A||1–2||16,867||{{left}}[[Scott Minto|Minto]]
+|}
+
+===FA Cup===
+{| class="wikitable sortable" style="font-size:95%; text-align:center"
+|-
+!Date!!Round!!Opponent!!Venue!!Result!!Attendance!!Scorers
+|- style="background:#efe;"
+| {{left}}4 January 1997 ||R3||{{left}}[[West Bromwich Albion F.C.|West Bromwich Albion]]||H||3–0||27,446||{{left}}[[Dennis Wise|Wise]], [[Gianfranco Zola|Zola]], [[Craig Burley|Burley]]
+|- style="background:#efe;"
+| {{left}}26 January 1997 ||R4||{{left}}[[Liverpool F.C.|Liverpool]]||H||4–2||27,950||{{left}}[[Mark Hughes|M. Hughes]], [[Gianfranco Zola|Zola]], [[Gianluca Vialli|Vialli]] (2)
+|- style="background:#ffe;"
+| {{left}}16 February 1997 ||R5||{{left}}[[Leicester City F.C.|Leicester City]]||A||2–2||19,125||{{left}}[[Roberto Di Matteo|Di Matteo]], [[Mark Hughes|M. Hughes]]
+|- style="background:#efe;"
+| {{left}}26 February 1997 ||R5 (R)||{{left}}[[Leicester City F.C.|Leicester City]]||H||1–0<br><small> {{aet}}</small>||26,053||{{left}}[[Frank Leboeuf|Leboeuf]] ([[Penalty kick (association football)|pen.]])
+|- style="background:#efe;"
+| {{left}}9 March 1997 ||QF||{{left}}[[Portsmouth F.C.|Portsmouth]]||A||4–1||15,701||{{left}}[[Dennis Wise|Wise]] (2), [[Gianfranco Zola|Zola]], [[Mark Hughes|M. Hughes]]
+|- style="background:#efe;"
+| {{left}}13 April 1997 ||SF||{{left}}[[Wimbledon F.C.|Wimbledon]]||N||3–0||32,674||{{left}}[[Mark Hughes|M. Hughes]] (2), [[Gianfranco Zola|Zola]]
+|- style="background:#efe;"
+| {{left}}17 May 1997 ||F||{{left}}[[Middlesbrough F.C.|Middlesbrough]]||N||2–0||79,160||{{left}}[[Roberto Di Matteo|Di Matteo]], [[Eddie Newton|Newton]]
+|}
+
+==First team squad==
+:''Squad at end of season''<ref>{{cite web|url=http://www.footballsquads.co.uk/eng/1996-1997/faprem/chelsea.htm |title=Chelsea - 1996/97 |publisher=FootballSquads |access-date=2012-05-26}}</ref>
+{{fs start}}
+{{Fs player|no=1|nat=RUS|pos=GK|name=[[Dmitri Kharine]]}}
+{{Fs player|no=2|nat=ROU|pos=DF|name=[[Dan Petrescu]]}}
+{{Fs player|no=4|nat=NED|pos=MF|name=[[Ruud Gullit]]}}
+{{Fs player|no=5|nat=FRA|pos=DF|name=[[Frank Leboeuf]]}}
+{{Fs player|no=6|nat=SCO|pos=DF|name=[[Steve Clarke]]}}
+{{Fs player|no=8|nat=ENG|pos=DF|name=[[Andy Myers]]}}
+{{Fs player|no=9|nat=ITA|pos=FW|name=[[Gianluca Vialli]]}}
+{{Fs player|no=10|nat=WAL|pos=FW|name=[[Mark Hughes]]}}
+{{Fs player|no=11|nat=ENG|pos=MF|name=[[Dennis Wise]]|other=captain}}
+{{Fs player|no=12|nat=ENG|pos=DF|name=[[Michael Duberry]]}}
+{{Fs player|no=13|nat=ENG|pos=GK|name=[[Kevin Hitchcock]]}}
+{{Fs player|no=14|nat=SCO|pos=MF|name=[[Craig Burley]]}}
+{{Fs player|no=15|nat=ENG|pos=DF|name=[[David Lee (footballer born 1969)|David Lee]]}}
+{{Fs player|no=16|nat=ITA|pos=MF|name=[[Roberto Di Matteo]]}}
+{{fs mid}}
+{{Fs player|no=17|nat=ENG|pos=DF|name=[[Scott Minto]]}}
+{{Fs player|no=18|nat=NOR|pos=DF|name=[[Erland Johnsen]]}}
+{{Fs player|no=19|nat=ENG|pos=DF|name=[[Paul Parker (footballer)|Paul Parker]]}}
+{{Fs player|no=20|nat=JAM|pos=DF|name=[[Frank Sinclair]]}}
+{{Fs player|no=21|nat=ENG|pos=MF|name=[[Jody Morris]]}}
+{{Fs player|no=22|nat=ENG|pos=FW|name=[[Mark Nicholls (footballer)|Mark Nicholls]]}}
+{{Fs player|no=23|nat=IRL|pos=GK|name=[[Nick Colgan]]}}
+{{Fs player|no=24|nat=ENG|pos=MF|name=[[Eddie Newton]]}}
+{{Fs player|no=25|nat=ITA|pos=FW|name=[[Gianfranco Zola]]}}
+{{Fs player|no=26|nat=ENG|pos=DF|name=[[Neil Clement]]}}
+{{Fs player|no=27|nat=ENG|pos=MF|name=[[Paul Hughes (footballer)|Paul Hughes]]}}
+{{Fs player|no=28|nat=ENG|pos=DF|name=[[Danny Granville]]}}
+{{Fs player|no=29|nat=ENG|pos=FW|name=[[Joe Sheerin]]}}
+{{Fs player|no=30|nat=NOR|pos=GK|name=[[Frode Grodås]]}}
+{{Fs end}}
+
+===Left club during season===
+{{Fs start}}
+{{Fs player|no=3|nat=IRL|pos=DF|name=[[Terry Phelan]]|other=to [[Everton F.C.|Everton]]}}
+{{Fs player|no=7|nat=SCO|pos=FW|name=[[John Spencer (Scottish footballer)|John Spencer]]|other=to [[Queen's Park Rangers F.C.|Queen's Park Rangers]]}}
+{{Fs player|no=|nat=ENG|pos=MF|name=[[David Rocastle]]|other=on loan to [[Norwich City F.C.|Norwich City]]}}
+{{Fs mid}}
+{{Fs player|no=19|nat=ENG|pos=MF|name=[[Gavin Peacock]]|other=to [[Queen's Park Rangers F.C.|Queen's Park Rangers]]}}
+{{Fs player|no=31|nat=CAN|pos=GK|name=[[Craig Forrest]]|other=on loan from [[Ipswich Town F.C.|Ipswich Town]]}}
+{{Fs end}}
+
+===Reserve squad===
+{{Fs start}}
+{{Fs player|no=|nat=ENG|pos=DF|name=[[Jon Harley]]}}
+{{Fs player|no=|nat=NZL|pos=DF|name=[[Chris Zoricich]]}}
+{{Fs mid}}
+{{Fs player|no=|nat=ENG|pos=DF|name=[[Nick Crittenden]]}}
+{{Fs player|no=|nat=ENG|pos=MF|name=[[David Rocastle]]}}
+{{Fs end}}
+
+==Statistics==
+{{Efs start|[[FA Premier League]]|[[FA Cup]]|[[Football League Cup]]}}
+{{Efs player|no=30|name=[[Frode Grodås]]|pos=GK|nat=NOR|20+1|0|4|0|1|0}}
+{{Efs player|no=2|name=[[Dan Petrescu]]|pos=DF|nat=ROU|34|3|5|0|2|1}}
+{{Efs player|no=5|name=[[Frank Leboeuf]]|pos=DF|nat=FRA|26|6|6|1|2|0}}
+{{Efs player|no=6|name=[[Steve Clarke]]|pos=DF|nat=SCO|31|0|6|0|3|0}}
+{{Efs player|no=17|name=[[Scott Minto]]|pos=DF|nat=ENG|24+1|4|5|0|2|1}}
+
+{{Efs player|no=16|name=[[Roberto Di Matteo]]|pos=MF|nat=ITA|33+1|7|7|2|3|0}}
+{{Efs player|no=11|name=[[Dennis Wise]]|pos=MF|nat=ENG|27+4|3|7|3|2|0}}
+{{Efs player|no=14|name=[[Craig Burley]]|pos=MF|nat=SCO|26+5|2|1+2|1|3|0}}
+{{Efs player|no=9|name=[[Gianluca Vialli]]|pos=FW|nat=ITA|23+5|9|1+4|2|1|0}}
+{{Efs player|no=10|name=[[Mark Hughes]]|pos=FW|nat=WAL|32+3|8|6+1|5|2|1}}
+{{Efs player|no=25|name=[[Gianfranco Zola]]|pos=FW|nat=ITA|22+1|8|7|4|0|0}}
+{{Efs player|no=13|name=[[Kevin Hitchcock]]|pos=GK|nat=ENG|10+2|0|2|0|2|0}}
+{{Efs player|no=20|name=[[Frank Sinclair]]<ref>Sinclair was born in [[London Borough of Lambeth|Lambeth]], [[England]], but also qualified to represent [[Jamaica]] internationally.</ref>|pos=DF|nat=ENG|17+2|1|6|0|0|0}}
+{{Efs player|no=8|name=[[Andy Myers]]|pos=DF|nat=ENG|15+3|1|0|0|0|0}}
+{{Efs player|no=18|name=[[Erland Johnsen]]|pos=DF|nat=NOR|14+4|0|1+2|0|1|0}}
+{{Efs player|no=12|name=[[Michael Duberry]]|pos=DF|nat=ENG|13+2|1|0|0|2|0}}
+{{Efs player|no=24|name=[[Eddie Newton]]|pos=MF|nat=ENG|13+2|0|5|1|0|0}}
+{{Efs player|no=27|name=[[Paul Hughes (footballer)|Paul Hughes]]|pos=MF|nat=ENG|8+4|2|1|0|0|0}}
+{{Efs player|no=4|name=[[Ruud Gullit]]|pos=MF|nat=NED|6+6|1|0+1|0|1|0}}
+{{Efs player|no=21|name=[[Jody Morris]]|pos=MF|nat=ENG|6+6|0|0|0|2|1}}
+{{Efs player|no=1|name=[[Dmitri Kharine]]|pos=GK|nat=RUS|5|0|0|0|0|0}}
+{{Efs player|no=22|name=[[Mark Nicholls (footballer)|Mark Nicholls]]|pos=FW|nat=ENG|3+5|0|0|0|0+2|0}}
+{{Efs player|no=28|name=[[Danny Granville]]|pos=DF|nat=ENG|3+2|0|0|0|0|0}}
+{{Efs player|no=3|name=[[Terry Phelan]]<ref>Phelan was born in [[Manchester]], [[England]].</ref>|pos=DF|nat=IRL|1+2|0|0|0|0+1|0}}
+{{Efs player|no=19|name=[[Paul Parker (footballer)|Paul Parker]]|pos=DF|nat=ENG|1+3|0|0|0|0|0}}
+{{Efs player|no=15|name=[[David Lee (footballer born 1969)|David Lee]]|pos=DF|nat=ENG|1|1|0|0|1|0}}
+{{Efs player|no=26|name=[[Neil Clement]]|pos=DF|nat=ENG|1|0|0|0|0|0}}
+{{Efs player|no=29|name=[[Nick Colgan]]|pos=GK|nat=IRL|1|0|0|0|0|0}}
+{{Efs player|no=7|name=[[John Spencer (Scottish footballer)|John Spencer]]|pos=FW|nat=SCO|0+4|0|0|0|3|2}}
+|}
+
+Statistics taken from [http://www.soccerbase.com/squad_season.sd?teamid=536] {{Webarchive|url=https://web.archive.org/web/20090520151010/http://www.soccerbase.com/squad_season.sd?teamid=536 |date=20 May 2009 }}. Squad details and shirt numbers from [https://web.archive.org/web/20130505052001/http://cfchistory.co.uk/] and [https://web.archive.org/web/20091027001136/http://www.geocities.com/Colosseum/8882/players.html].
+
+==Transfers==
+
+===In===
+{| class="wikitable" style="width:75%; text-align:center; font-size:95%; text-align:left;"
+|-
+!#
+!Pos
+!Player
+!From
+!Fee
+!Date
+|-
+|9||FW||{{flagicon|ITA}} [[Gianluca Vialli]] ||{{flagicon|ITA}} [[Juventus FC|Juventus]] || Free || 24 May 1996
+|-
+|16||MF||{{flagicon|ITA}} [[Roberto Di Matteo]] ||{{flagicon|ITA}} [[S.S. Lazio|Lazio]] || £4,900,000 || 1 July 1996
+|-
+|5||DF||{{flagicon|FRA}} [[Frank Leboeuf]] ||{{flagicon|FRA}} [[RC Strasbourg|Strasbourg]] || £2,500,000 || 1 July 1996
+|-
+|30||GK||{{flagicon|NOR}} [[Frode Grodås]] ||{{flagicon|NOR}} [[Lillestrøm SK|LSK]] || Free || 1 November 1996
+|-
+|25||FW||{{flagicon|ITA}} [[Gianfranco Zola]] ||{{flagicon|ITA}} [[Parma F.C.|Parma]] || £4,500,000 || 8 November 1996
+|-
+|28||DF||{{flagicon|ENG}} [[Danny Granville]] ||{{flagicon|ENG}} [[Cambridge United F.C.|Cambridge United]] || £300,000 || 20 March 1997
+|-
+| ||DF||{{flagicon|NGA}} [[Celestine Babayaro]] ||{{flagicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]] || £2,250,000 || 21 April 1997
+|}
+
+===Out===
+{| class="wikitable" style="width:75%; text-align:center; font-size:95%; text-align:left;"
+|-
+!#
+!Pos
+!Player
+!To
+!Fee
+!Date
+|-
+| ||FW||{{flagicon|ENG}} [[Zeke Rowe]] ||{{flagicon|ENG}} [[Peterborough United F.C.|Peterborough United]] || Free || 4 July 1996
+|-
+| ||MF||{{flagicon|TUR}} [[Muzzy Izzet]] ||{{flagicon|ENG}} [[Leicester City F.C.|Leicester City]] || £650,000 || 8 July 1996
+|-
+| ||MF||{{flagicon|ENG}} [[Ritchie Hanlon]] ||{{flagicon|ENG}} [[Southend United F.C.|Southend United]] || Free || 10 July 1996
+|-
+| ||FW||{{flagicon|ENG}} [[Paul Furlong]] ||{{flagicon|ENG}} [[Birmingham City F.C.|Birmingham City]] || £1,500,000 || 17 July 1996
+|-
+| ||DF||{{flagicon|ENG}} [[Anthony Barness]] ||{{flagicon|ENG}} [[Charlton Athletic F.C.|Charlton Athletic]] || £165,000 || 1 August 1996
+|-
+| ||MF||{{flagicon|NIR}} [[Russell Kelly (footballer)|Russell Kelly]] ||{{flagicon|ENG}} [[Darlington F.C.|Darlington]] || Free || 16 August 1996
+|-
+| ||FW||{{flagicon|SCO}} [[John Spencer (Scottish footballer)|John Spencer]] ||{{flagicon|ENG}} [[Queens Park Rangers F.C.|QPR]] || £2,500,000 || 21 November 1996
+|-
+| ||MF||{{flagicon|ENG}} [[Gavin Peacock]] ||{{flagicon|ENG}} [[Queens Park Rangers F.C.|QPR]] || £800,000 || 23 December 1996
+|-
+| ||DF||{{flagicon|IRL}} [[Terry Phelan]] ||{{flagicon|ENG}} [[Everton F.C.|Everton]] || £850,000 || 30 December 1996
+|}
+
+:Transfers in: {{loss}} £14,450,000
+:Transfers out: {{gain}} £4,965,000
+:Total spending: {{loss}} £9,485,000
+
+==References==
+{{reflist}}
+
+*Hockings, Ron. ''100 Years of the Blues: A Statistical History of Chelsea Football Club''. (2007)
+
+{{Chelsea F.C. seasons}}
+{{1996–97 in English football}}
+
+{{DEFAULTSORT:1996-97 Chelsea F.C. season}}
+[[Category:Chelsea F.C. seasons]]
+[[Category:1996–97 FA Premier League by team|Chelsea]]

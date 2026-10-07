@@ -1,0 +1,347 @@
+{{Short description|English football club season}}
+{{Use dmy dates|date=February 2015}}
+{{Use British English|date=February 2015}}
+{{Infobox football club season
+| club               = [[Chelsea F.C.|Chelsea]]
+| season             = [[1991–92 in English football|1991–92]]
+| manager            = [[Ian Porterfield]]
+| chairman           = [[Ken Bates]]
+| stadium            = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| league             = [[Football League First Division|First Division]]
+| league result      = [[1991–92 Football League#First Division|14th]]
+| cup1               = [[FA Cup]]
+| cup1 result        = [[1991–92 FA Cup#Sixth Round Proper|Quarter finals]]
+| cup2               = [[Football League Cup|League Cup]]
+| cup2 result        = [[1991–92 Football League Cup#Second round|Second round]]
+| cup3               = <span class="nowrap">[[Full Members Cup]]</span>
+| cup3 result        = [[1991–92 Full Members Cup#Area finals|Southern Area final]]
+| league topscorer   = [[Dennis Wise|Wise]] (14)
+| season topscorer   = 
+| highest attendance = 
+| lowest attendance  = 
+| average attendance = 18,686
+| pattern_b1  = _chelsea1991h
+| pattern_la1 = _chelsea1991h
+| pattern_ra1 = 
+| pattern_sh1 = 
+| leftarm1    = 0000FF
+| body1       = 0000FF
+| rightarm1   = 0000FF
+| shorts1     = 0000FF
+| socks1      = FFFFFF
+| pattern_b2  = _chelsea1990a
+| pattern_ra2 = _redborder
+| pattern_la2 = _redborder
+| pattern_so2 = 
+| leftarm2    = FFFFFF
+| body2       = FFFFFF
+| rightarm2   = FFFFFF
+| shorts2     = FFFFFF
+| socks2      = FFFFFF
+| pattern_b3  =  _chelsea1991t
+| pattern_ra3  = _chelsea1991t
+| pattern_la3  = _chelsea1991t
+| pattern_so3  = 
+| leftarm3     = FFFF00
+| body3        = FFFF00
+| rightarm3    = FFFF00
+| shorts3      = FFFF00
+| socks3       = FFFF00
+| prevseason         = [[1990–91 Chelsea F.C. season|1990–91]]
+| nextseason         = [[1992–93 Chelsea F.C. season|1992–93]]
+}}
+
+The '''1991–92''' season saw '''[[Chelsea F.C.]]''' compete in the last season of the [[Football League First Division]] before its rebranding as the [[FA Premier League]].
+
+==Season summary==
+In the summer of 1991, [[Bobby Campbell (footballer born 1937)|Bobby Campbell]] was succeeded as team manager by first team coach [[Ian Porterfield]]. The 1991–92 season looked promising for Chelsea and were in 6th place at the beginning of February with a possible destination of European football but only three wins in their final 15 league games of the season saw Chelsea finish in 14th place.
+
+==Final league table==
+{{main|1991–92 Football League First Division}}
+{{:1991–92 Football League First Division|only_totals=y|showteam=CHE}}
+
+==Results==
+''Chelsea's score comes first''<ref>{{Cite web |url=http://www.statto.com/football/teams/chelsea/1991-1992/results |title=Chelsea 1991-1992 Results - statto.com |access-date=5 September 2012 |archive-url=https://web.archive.org/web/20120825170737/http://www.statto.com/football/teams/chelsea/1991-1992/results |archive-date=25 August 2012 |url-status=live |df=dmy-all }}</ref>
+
+===Legend===
+{| class="wikitable"
+|style="background-color: #d0ffe3;"|<small>Win</small>
+|style="background-color: #ffffdd;"|<small>Draw</small>
+|style="background-color: #ffd0e3;"|<small>Loss</small>
+|}
+
+===Football League First Division===
+{| class="wikitable sortable" style="font-size:100%; text-align:center"
+!Date!!Opponent!!Venue!!Result!!Attendance!!Scorers
+|-style="background-color: #ffffdd;"
+| 17 August 1991 ||[[Wimbledon F.C.|Wimbledon]]||H||2–2||22,574||[[Paul Elliott (footballer)|Elliott]], [[Joe Allon|Allon]]
+|-style="background-color: #ffd0e3;"
+| 21 August 1991 ||[[Oldham Athletic A.F.C.|Oldham Athletic]]||A||0–3||14,997||
+|-style="background-color: #d0ffe3;"
+| 24 August 1991 ||[[Tottenham Hotspur F.C.|Tottenham Hotspur]]||A||3–1||34,645||[[Kerry Dixon|Dixon]], [[Kevin Wilson (footballer born 1961)|Wilson]], [[Andy Townsend|Townsend]]
+|-style="background-color: #ffffdd;"
+| 28 August 1991 ||[[Notts County F.C.|Notts County]]||H||2–2||15,847||[[Paul Elliott (footballer)|Elliott]], [[Joe Allon|Allon]]
+|-style="background-color: #d0ffe3;"
+| 31 August 1991 ||[[Luton Town F.C.|Luton Town]]||H||4–1||17,457||[[Graeme Le Saux|Le Saux]], [[Andy Townsend|Townsend]], [[Kerry Dixon|Dixon]], [[Dennis Wise|Wise]]
+|-style="background-color: #d0ffe3;"
+| 3 September 1991 ||[[Sheffield United F.C.|Sheffield United]]||A||1–0||17,400||[[Dennis Wise|Wise]]
+|-style="background-color: #ffffdd;"
+| 7 September 1991 ||[[West Ham United F.C.|West Ham United]]||A||1–1||18,875||[[Kerry Dixon|Dixon]]
+|-style="background-color: #ffd0e3;"
+| 14 September 1991 ||[[Leeds United A.F.C.|Leeds United]]||H||0–1||23,439||
+|-style="background-color: #d0ffe3;"
+| 18 September 1991 ||[[Aston Villa F.C.|Aston Villa]]||H||2–0||17,182||[[Vinnie Jones|Jones]], [[Andy Townsend|Townsend]]
+|-style="background-color: #ffffdd;"
+| 21 September 1991 ||[[Queens Park Rangers F.C.|Queens Park Rangers]]||A||2–2||19,579||[[Andy Townsend|Townsend]], [[Dennis Wise|Wise]]
+|-style="background-color: #ffffdd;"
+| 28 September 1991 ||[[Everton F.C.|Everton]]||H||2–2||19,038||[[Kevin Wilson (footballer born 1961)|Wilson]], [[Dennis Wise|Wise]]
+|-style="background-color: #ffd0e3;"
+| 5 October 1991 ||[[Arsenal F.C.|Arsenal]]||A||2–3||42,074||[[Graeme Le Saux|Le Saux]], [[Dennis Wise|Wise]]
+|-style="background-color: #ffffdd;"
+| 19 October 1991 ||[[Liverpool F.C.|Liverpool]]||H||2–2||30,230||[[Vinnie Jones|Jones]], [[Andy Myers|Myers]]
+|-style="background-color: #ffffdd;"
+| 26 October 1991 ||[[Crystal Palace F.C.|Crystal Palace]]||A||0–0||21,841||
+|-style="background-color: #d0ffe3;"
+| 2 November 1991 ||[[Coventry City F.C.|Coventry City]]||A||1–0||11,343||[[Graeme Le Saux|Le Saux]]
+|-style="background-color: #ffd0e3;"
+| 16 November 1991 ||[[Norwich City F.C.|Norwich City]]||H||0–3||15,755||
+|-style="background-color: #ffd0e3;"
+| 23 November 1991 ||[[Southampton F.C.|Southampton]]||A||0–1||14,933||
+|-style="background-color: #d0ffe3;"
+| 30 November 1991 ||[[Nottingham Forest F.C.|Nottingham Forest]]||H||1–0||19,420||[[Kerry Dixon|Dixon]]
+|-style="background-color: #ffd0e3;"
+| 7 December 1991 ||[[Sheffield Wednesday F.C.|Sheffield Wednesday]]||A||0–3||27,383||
+|-style="background-color: #ffd0e3;"
+| 15 December 1991 ||[[Manchester United F.C.|Manchester United]]||H||1–3||23,120||[[Clive Allen|Allen]]
+|-style="background-color: #d0ffe3;"
+| 21 December 1991 ||[[Oldham Athletic A.F.C.|Oldham Athletic]]||H||4–2||13,136||[[Dennis Wise|Wise]] (pen), [[Clive Allen|Allen]] (2), [[Paul Elliott (footballer)|Elliott]]
+|-style="background-color: #ffd0e3;"
+| 26 December 1991 ||[[Notts County F.C.|Notts County]]||A||0–2||11,933||
+|-style="background-color: #ffd0e3;"
+| 28 December 1991 ||[[Luton Town F.C.|Luton Town]]||A||0–2||10,738||
+|-style="background-color: #ffffdd;"
+| 1 January 1992 ||[[Manchester City F.C.|Manchester City]]||H||1–1||18,196||[[Clive Allen|Allen]]
+|-style="background-color: #d0ffe3;"
+| 11 January 1992 ||[[Tottenham Hotspur F.C.|Tottenham Hotspur]]||H||2–0||28,628||[[Clive Allen|Allen]], [[Dennis Wise|Wise]]
+|-style="background-color: #d0ffe3;"
+| 18 January 1992 ||[[Wimbledon F.C.|Wimbledon]]||A||2–1||8,413||[[Andy Townsend|Townsend]], [[Clive Allen|Allen]]
+|-style="background-color: #d0ffe3;"
+| 1 February 1992 ||[[Liverpool F.C.|Liverpool]]||A||2–1||38,681||[[Vinnie Jones|Jones]], [[Dennis Wise|Wise]]
+|-style="background-color: #ffffdd;"
+| 8 February 1992 ||[[Crystal Palace F.C.|Crystal Palace]]||H||1–1||17,810||[[Tony Cascarino|Cascarino]]
+|-style="background-color: #ffffdd;"
+| 12 February 1992 ||[[Southampton F.C.|Southampton]]||H||1–1||7,148||[[Andy Townsend|Townsend]]
+|-style="background-color: #ffffdd;"
+| 22 February 1992 ||[[Nottingham Forest F.C.|Nottingham Forest]]||A||1–1||24,095||[[Clive Allen|Allen]]
+|-style="background-color: #ffffdd;"
+| 26 February 1992 ||[[Manchester United F.C.|Manchester United]]||A||1–1||44,872||[[Mal Donaghy|Donaghy]] (own goal)
+|-style="background-color: #ffd0e3;"
+| 29 February 1992 ||[[Sheffield Wednesday F.C.|Sheffield Wednesday]]||H||0–3||17,538||
+|-style="background-color: #d0ffe3;"
+| 11 March 1992 ||[[Norwich City F.C.|Norwich City]]||A||1–0||13,430||[[Kerry Dixon|Dixon]]
+|-style="background-color: #ffd0e3;"
+| 14 March 1992 ||[[Coventry City F.C.|Coventry City]]||H||0–1||10,962||
+|-style="background-color: #ffd0e3;"
+| 21 March 1992 ||[[Sheffield United F.C.|Sheffield United]]||H||1–2||11,247||[[Jason Cundy|Cundy]]
+|-style="background-color: #ffffdd;"
+| 28 March 1992 ||[[Manchester City F.C.|Manchester City]]||A||0–0||23,633||
+|-style="background-color: #d0ffe3;"
+| 4 April 1992 ||[[West Ham United F.C.|West Ham United]]||H||2–1||20,684||[[Dennis Wise|Wise]], [[Tony Cascarino|Cascarino]]
+|-style="background-color: #ffd0e3;"
+| 11 April 1992 ||[[Leeds United A.F.C.|Leeds United]]||A||0–3||31,363||
+|-style="background-color: #d0ffe3;"
+| 18 April 1992 ||[[Queens Park Rangers F.C.|Queens Park Rangers]]||H||2–1||18,952||[[Steve Clarke|Clarke]], [[Dennis Wise|Wise]] (pen)
+|-style="background-color: #ffd0e3;"
+| 20 April 1992 ||[[Aston Villa F.C.|Aston Villa]]||A||1–3||19,269||[[Frank Sinclair|Sinclair]]
+|-style="background-color: #ffffdd;"
+| 25 April 1992 ||[[Arsenal F.C.|Arsenal]]||H||1–1||26,003||[[Dennis Wise|Wise]]
+|-style="background-color: #ffd0e3;"
+| 2 May 1992 ||[[Everton F.C.|Everton]]||A||1–2||20,163||[[Eddie Newton|Newton]]
+|}
+
+===FA Cup===
+{{Main|1991-92 FA Cup}}
+
+{| class="wikitable"
+|+
+!Round!!Date!!Opponent!!Venue!!Result!!Attendance!!Goalscorers
+|-style="background-color: #d0ffe3;"
+||R3||4 January 1992 ||[[Hull City F.C.|Hull City]]||A||2–0||13,580||[[Vinnie Jones|Jones]], [[Dennis Wise|Wise]]
+|-style="background-color: #d0ffe3;"
+||R4||26 January 1992 ||[[Everton F.C.|Everton]]||H||1–0||21,152||[[Clive Allen|Allen]]
+|-style="background-color: #d0ffe3;"
+||R5||15 February 1992 ||[[Sheffield United F.C.|Sheffield United]]||H||1–0||34,447||[[Graham Stuart (footballer)|Stuart]]
+|-style="background-color: #ffffdd;"
+||QF||9 March 1992 ||[[Sunderland A.F.C.|Sunderland]]||H||1–1||33,948||[[Clive Allen|Allen]]
+|-style="background-color: #ffd0e3;"
+||QFR||18 March 1992 ||[[Sunderland A.F.C.|Sunderland]]||A||1–2||26,039||[[Dennis Wise|Wise]]
+|}
+
+===League Cup===
+{{Main|1991–92 Football League Cup}}
+
+{| class="wikitable"
+|+
+!Round!!Date!!Opponent!!Venue!!Result!!Attendance!!Goalscorers
+|-style="background-color: #ffffdd;"
+||R2 1st leg||25 September 1991 ||[[Tranmere Rovers F.C.|Tranmere Rovers]]||H||1–1||11,311||[[Andy Townsend|Townsend]]
+|-style="background-color: #ffd0e3;"
+||R2 2nd leg||8 October 1991 ||[[Tranmere Rovers F.C.|Tranmere Rovers]]||A||1–3 (lost 2–4 on agg)||11,165||[[Dennis Wise|Wise]]
+|}
+
+===Full Members Cup===
+{{Main|1991-92 Full Members Cup}}
+
+{| class="wikitable"
+|+
+!Round!!Date!!Opponent!!Venue!!Result!!Attendance!!Goalscorers
+|-style="background-color: #d0ffe3;"
+||R2||23 October 1991 ||[[Swindon Town F.C.|Swindon Town]]||H||1–0||5,784||[[Vinnie Jones|Jones]]
+|-style="background-color: #d0ffe3;"
+||R3||26 November 1991 ||[[Ipswich Town F.C.|Ipswich Town]]||H||2–2 (won 4–3 on pens)||6,325||[[Vinnie Jones|Jones]], [[Joe Allon|Allon]]
+|-style="background-color: #d0ffe3;"
+||Area SF||10 December 1991 ||[[Crystal Palace F.C.|Crystal Palace]]||A||1–0||8,416||[[Kerry Dixon|Dixon]]
+|-style="background-color: #ffd0e3;"
+||S Area F 1st leg||21 January 1992 ||[[Southampton F.C.|Southampton]]||A||0–2||8,726||
+|-style="background-color: #ffd0e3;"
+||S Area F 2nd leg||29 January 1992 ||[[Southampton F.C.|Southampton]]||H||1–3 (lost 1–5 on agg)||9,781||[[Dennis Wise|Wise]] (pen) 37'
+|}
+
+==Squad==
+<ref>{{Cite web|url=http://www.11v11.com/teams/chelsea/tab/players/season/1992|title = All Chelsea players: 1992}}</ref>
+{{fs start|nonumber=yes}}
+{{fs player|nonumber=yes|nat=ENG|pos=GK|name=[[Kevin Hitchcock]]}}
+{{fs player|nonumber=yes|nat=SCO|pos=DF|name=[[Steve Clarke]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=DF|name=[[Paul Elliott (footballer)|Paul Elliott]]}}
+{{fs player|nonumber=yes|nat=NED|pos=DF|name=[[Ken Monkou]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=DF|name=[[Graeme Le Saux]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[Dennis Wise]]}}
+{{fs player|nonumber=yes|nat=IRL|pos=MF|name=[[Andy Townsend]]}}
+{{fs player|nonumber=yes|nat=WAL|pos=MF|name=[[Vinnie Jones]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=FW|name=[[Kerry Dixon]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=FW|name=[[Kevin Wilson (footballer born 1961)|Kevin Wilson]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=FW|name=[[Clive Allen]]}}
+{{fs player|nonumber=yes|nat=SCO|pos=DF|name=[[Tom Boyd (Scottish footballer)|Tom Boyd]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[Graham Stuart (footballer)|Graham Stuart]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=GK|name=[[Dave Beasant]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=DF|name=[[Jason Cundy]]}}
+{{fs player|nonumber=yes|nat=WAL|pos=DF|name=[[Gareth Hall]]}}
+{{fs mid|nonumber=yes}}
+{{fs player|nonumber=yes|nat=IRL|pos=FW|name=[[Tony Cascarino]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=DF|name=[[Andy Myers]]}}
+{{fs player|nonumber=yes|nat=JAM|pos=DF|name=[[Frank Sinclair]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[Alan Dickens (footballer)|Alan Dickens]]}}
+{{fs player|nonumber=yes|nat=SCO|pos=MF|name=[[Craig Burley]]}}
+{{fs player|nonumber=yes|nat=NOR|pos=DF|name=[[Erland Johnsen]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[Damian Matthew]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=FW|name=[[Joe Allon]]}}
+{{fs player|nonumber=yes|nat=WAL|pos=DF|name=[[Darren Barnard]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=DF|name=[[David Lee (footballer, born 1969)|David Lee]]}}
+{{fs player|nonumber=yes|nat=WAL|pos=GK|name=[[Roger Freestone]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=DF|name=[[Ian Pearce (footballer)|Ian Pearce]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[Eddie Newton]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[Michael Gilkes (footballer)|Michael Gilkes]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[Nigel Spackman]]}}
+{{fs end}}
+
+==Transfers==
+
+===In===
+{| class="wikitable"
+|-
+!Date
+!Pos
+!Name
+!From
+!Fee
+|-
+|27 June 1991
+|DF
+|[[Tom Boyd (Scottish footballer)|Tom Boyd]]
+|[[Motherwell F.C.|Motherwell]]
+|£800,000
+|-
+|14 August 1991
+|FW
+|[[Joe Allon]]
+|[[Hartlepool United F.C.|Hartlepool United]]
+|£250,000
+|-
+|30 August 1991
+|MF
+|[[Vinnie Jones]]
+|[[Sheffield United F.C.|Sheffield United]]
+|£575,000
+|-
+|6 December 1991
+|FW
+|[[Clive Allen]]
+|[[Manchester City F.C.|Manchester City]]
+|£250,000
+|}
+
+===Out===
+{| class="wikitable"
+|-
+!Date
+!Pos
+!Name
+!To
+!Fee
+|-
+|6 June 1991
+|DF
+|[[Tony Dorigo]]
+|[[Leeds United A.F.C.|Leeds United]]
+|£1,300,000
+|-
+|13 August 1991
+|MF
+|[[Kevin McAllister]]
+|[[Falkirk F.C.|Falkirk]]
+|£225,000
+|-
+|16 August 1991
+|FW
+|[[Gordon Durie]]
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|£2,200,000
+|-
+|5 September 1991
+|GK
+|[[Roger Freestone]]
+|[[Swansea City A.F.C.|Swansea City]]
+|£45,000
+|-
+|6 February 1992
+|DF
+|[[Tom Boyd (Scottish footballer)|Tom Boyd]]
+|[[Celtic F.C.|Celtic]]
+|£750,000
+|-
+|27 March 1992
+|FW
+|[[Clive Allen]]
+|[[West Ham United F.C.|West Ham United]]
+|£275,000
+|-
+|27 March 1992
+|FW
+|[[Kevin Wilson (footballer born 1961)|Kevin Wilson]]
+|[[Notts County F.C.|Notts County]]
+|£225,000
+|}
+
+:Transfers in: {{loss}} £1,875,000
+:Transfers out: {{gain}} £5,020,000
+:Total spending: {{gain}} £3,145,000
+
+==References==
+{{reflist}}
+
+{{Chelsea F.C. seasons}}
+{{1991–92 in English football}}
+
+{{DEFAULTSORT:1991-92 Chelsea F.C. season}}
+[[Category:Chelsea F.C. seasons]]
+[[Category:1991–92 Football League First Division by team|Chelsea]]

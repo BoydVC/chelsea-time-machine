@@ -1,0 +1,300 @@
+{{Short description|English football club season}}
+{{Use dmy dates|date=February 2015}}
+{{Use British English|date=February 2015}}
+{{Infobox football club season
+|club=[[Chelsea F.C.]]
+|season=1992–93
+|manager=[[Ian Porterfield]] (until 15 February)<br>[[David Webb (footballer)|David Webb]] (from 15 February)
+|chairman=[[Ken Bates]]
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|league=[[Premier League|FA Premier League]]
+|league result=[[1992–93 FA Premier League|11th]]
+|cup2=[[FA Cup]]
+|cup2 result=[[1992–93 FA Cup#Third round proper|Third round]]
+|cup3=[[Football League Cup|League Cup]]
+|cup3 result=Quarter-finals
+|league topscorer=[[Mick Harford|Harford]]/[[Graham Stuart (footballer)|Stuart]] (9)
+|season topscorer=Harford (11)
+|highest attendance=
+|lowest attendance=
+|average attendance=18,787
+| pattern_b1  = _chelsea1991h
+| pattern_la1 = _chelsea1991h
+| pattern_ra1 = 
+| pattern_sh1 = 
+| leftarm1    = 0000FF
+| body1       = 0000FF
+| rightarm1   = 0000FF
+| shorts1     = 0000FF
+| socks1      = FFFFFF
+| pattern_b2  = _chelsea1992a
+| pattern_ra2 = _chelsea1992a
+| pattern_la2 = _chelsea1992a
+| pattern_so2 = 
+| leftarm2    = FF0000
+| body2       = FFFFFF
+| rightarm2   = FF0000
+| shorts2     = FF0000
+| socks2      = FF0000
+| pattern_b3  =  _chelsea1991t
+| pattern_ra3  = _chelsea1991t
+| pattern_la3  = _chelsea1991t
+| pattern_so3  = 
+| leftarm3     = FFFF00
+| body3        = FFFF00
+| rightarm3    = FFFF00
+| shorts3      = FFFF00
+| socks3       = FFFF00
+|prevseason=[[1991–92 Chelsea F.C. season|1991–92]]
+|nextseason=[[1993–94 Chelsea F.C. season|1993–94]]
+}}
+During the '''1992–93''' English football season, [[Chelsea F.C.]] competed in the inaugural season of the [[FA Premier League]].
+
+The season was the club's 88th year in existence since their foundation in 1905. It was their 58th season within England's highest tier of football and their fourth season of their current top-flight spell following promotion at the end of the [[1988–89 in English football|1988–89 season]].<ref>{{Cite web|url=http://www.free-elements.com/England/Goals/CheL/CheL5.html|title = Chelsea}}</ref>
+
+==Season summary==
+Chelsea started the season well and stood second after 19 games, but went into freefall after that, going 12 matches without a win, a run that pulled Chelsea down to 12th,<ref>{{Cite web |url=http://www.statto.com/football/teams/chelsea/1992-1993 |title=Chelsea 1992-1993 Home - statto.com |access-date=13 January 2012 |archive-url=https://web.archive.org/web/20111126110143/http://www.statto.com/football/teams/chelsea/1992-1993 |archive-date=26 November 2011 |url-status=live |df=dmy-all }}</ref> replacing hopes of a title challenge with relegation fears. Manager [[Ian Porterfield]] paid for the team's poor form by becoming the first manager to be sacked in the new Premier League on 15 February. He was replaced by [[David Webb (footballer)|David Webb]], the scorer of the Chelsea winner that won the [[1970 FA Cup Final]]. Webb managed to steer Chelsea to safety, but his contract was not renewed by the board. Instead, they appointed former Tottenham legend [[Glenn Hoddle]], who had just taken [[Swindon Town F.C.|Swindon Town]] to their first ever top-flight campaign, as player-manager.
+
+The club ended the season with 56 points, having won 14, drawn 14 and lost 14 matches.  By finishing 11th of 22 clubs, it was Chelsea's first top-half finish since coming 5th in 1989–90. With 54 goals conceded, this was Chelsea's best defence in the top flight, a record broken next season as well.<ref>{{Cite web |url=http://chelseafootballclub.net/historytable.htm |title=Archived copy |access-date=30 July 2011 |archive-date=16 December 2003 |archive-url=https://web.archive.org/web/20031216182913/http://www.chelseafootballclub.net/historytable.htm |url-status=dead }}</ref>
+
+Chelsea went out in the third round of the [[FA Cup]] this season, beaten 2–1 by [[Middlesbrough F.C.|Middlesbrough]] away at [[Ayresome Park]].
+
+==Kit==
+Chelsea retained the previous season's home kit,<ref>{{Cite web|url=http://historicalkits.co.uk/Chelsea/Chelsea.htm|title = Chelsea - Historical Football Kits}}</ref> manufactured by [[Umbro]] and sponsored by [[Commodore International|Commodore]]. It featured a geometric pattern on the players' right shoulder, repeated on the left leg of the shorts, an Umbro trademark of the time also used by [[Everton F.C.|Everton]]<ref>{{Cite web|url=http://historicalkits.co.uk/Everton/Everton.htm|title = Everton - Historical Football Kits}}</ref> and [[Manchester United F.C.|Manchester United]]'s <ref>{{Cite web|url=http://historicalkits.co.uk/Manchester_United/Manchester_United.htm|title = Manchester United - Historical Football Kits}}</ref> home shirts of the same time. For this season, Chelsea re-introduced white socks as first choice for the first time since [[1984–85 in English football|1984–85]]. White socks had been introduced by [[Tommy Docherty]] for Chelsea in 1965, to make Chelsea stand out among other clubs wearing blue shirts, white shorts and blue socks.<ref>{{Cite web|url=http://historicalkits.co.uk/Chelsea/Chelsea.htm|title = Chelsea - Historical Football Kits}}</ref>
+
+The away kit was based on football kits of the game's early days as part of a nostalgia craze following the [[1990 World Cup]].<ref>'True Colours' by John Devlin</ref> It was a white shirt with red pinstripes, red shorts and socks.<ref>{{Cite web|url=http://historicalkits.co.uk/Chelsea/Chelsea-change-kits.html|title=Chelsea Change Kits - Historical Football Kits}}</ref> Its laces were also worn on the Umbro home kits of [[Aston Villa F.C.|Aston Villa]]<ref>{{Cite web|url=http://historicalkits.co.uk/Aston_Villa/Aston_Villa.htm|title = Aston Villa - Historical Football Kits}}</ref> and [[Sheffield United F.C.|Sheffield United]].<ref>{{Cite web|url=http://historicalkits.co.uk/Sheffield_United/Sheffield_United.htm|title = Sheffield United - Historical Football Kits}}</ref> The Chelsea lion badge was included in a blue shield; the kits for next season retained this style. The kit was the final one in which Chelsea wore a red garment, the colour having been a popular away kit throughout the 1970s and 1980s.<ref>{{Cite web|url=http://historicalkits.co.uk/Chelsea/Chelsea-change-kits.html|title=Chelsea Change Kits - Historical Football Kits}}</ref>
+
+Chelsea wore a third kit of all-yellow with a blue collar and pattern on the front,<ref>{{Cite web|url=http://historicalkits.co.uk/Chelsea/Chelsea-change-kits.html|title=Chelsea Change Kits - Historical Football Kits}}</ref> also worn by Everton.<ref>{{Cite web|url=http://historicalkits.co.uk/Everton/Everton-change-kits.html|title=Everton Change Kits - Historical Football Kits}}</ref> The kit was from an Umbro range called [[FC Porto|Porto]].<ref>'True Colours' by John Devlin</ref>
+
+==Transfers==
+{{expand section|date=January 2026}}
+
+===In===
+{| class="wikitable" style="text-align:center;width:75%;"
+|-
+! No.
+! Pos.
+! Player
+! From
+! Date
+! Fee
+|-
+! colspan=7| Summer
+|-
+|
+| DF
+|align=left| {{flagicon|NIR}} [[Mal Donaghy]]
+|align=left| {{flagicon|ENG}} [[Manchester United F.C.|Manchester United]]
+| 1 July 1992
+| £100,800
+|-
+|
+| FW
+|align=left| {{flagicon|SCO}} [[John Spencer (Scottish footballer)|John Spencer]]
+|align=left| {{flagicon|SCO}} [[Rangers F.C.|Rangers]]
+| 1 July 1992
+| free transfer
+|-
+|
+| GK
+|align=left| {{flagicon|IRE}} [[Nick Colgan]]
+|align=left| {{flagicon|IRE}} [[Drogheda United FC|Drogheda United]]
+| 1 July 1992
+| undisclosed
+|-
+|
+| FW
+|align=left| {{flagicon|SCO}} [[Robert Fleck]]
+|align=left| {{flagicon|ENG}} [[Norwich City F.C.|Norwich City]]
+| 1 July 1992
+| undisclosed
+|-
+|}
+
+==Final league table==
+{{main|1992–93 FA Premier League}}
+{{:1992–93 FA Premier League|showteam=CHE}}
+
+==Results==
+''Chelsea's score comes first''<ref>{{Cite web |url=http://www.statto.com/football/teams/chelsea/1992-1993/results |title=Chelsea 1992-1993 Results - statto.com |access-date=22 February 2014 |archive-url=https://web.archive.org/web/20140214020440/http://www.statto.com/football/teams/chelsea/1992-1993/results |archive-date=14 February 2014 |url-status=live |df=dmy-all }}</ref>
+
+===Legend===
+{| class="wikitable"
+|style="background-color: #d0ffe3;"|<small>Win</small>
+|style="background-color: #ffffdd;"|<small>Draw</small>
+|style="background-color: #ffd0e3;"|<small>Loss</small>
+|}
+
+===FA Premier League===
+{| class="wikitable sortable" style="font-size:100%; text-align:center"
+!Date!!Opponent!!Venue!!Result!!Attendance!!Scorers
+|-style="background-color: #ffffdd;"
+| 15 August 1992 ||[[Oldham Athletic A.F.C.|Oldham Athletic]]||H||1–1||20,699||[[Mick Harford|Harford]]
+|-style="background-color: #ffd0e3;"
+| 19 August 1992 ||[[Norwich City F.C.|Norwich City]]||A||1–2||15,164||[[Graham Stuart (footballer)|Stuart]]
+|-style="background-color: #ffffdd;"
+| 22 August 1992 ||[[Sheffield Wednesday F.C.|Sheffield Wednesday]]||A||3–3||26,338||[[Vinnie Jones|Jones]], [[Graham Stuart (footballer)|Stuart]], [[Eddie Newton|Newton]]
+|-style="background-color: #ffffdd;"
+| 26 August 1992 ||[[Blackburn Rovers F.C.|Blackburn Rovers]]||H||0–0||19,575||
+|-style="background-color: #d0ffe3;"
+| 29 August 1992 ||[[Queens Park Rangers F.C.|Queens Park Rangers]]||H||1–0||22,910||[[Mick Harford|Harford]]
+|-style="background-color: #d0ffe3;"
+| 2 September 1992 ||[[Aston Villa F.C.|Aston Villa]]||A||3–1||19,125||[[Robert Fleck|Fleck]], [[Eddie Newton|Newton]], [[Dennis Wise|Wise]]
+|-style="background-color: #ffd0e3;"
+| 5 September 1992 ||[[Liverpool F.C.|Liverpool]]||A||1–2||34,199||[[Mick Harford|Harford]]
+|-style="background-color: #ffd0e3;"
+| 12 September 1992 ||[[Norwich City F.C.|Norwich City]]||H||2–3||16,880||[[Mick Harford|Harford]], [[Andy Townsend|Townsend]]
+|-style="background-color: #d0ffe3;"
+| 20 September 1992 ||[[Manchester City F.C.|Manchester City]]||A||1–0||22,420||[[Mick Harford|Harford]]
+|-style="background-color: #ffffdd;"
+| 26 September 1992 ||[[Nottingham Forest F.C.|Nottingham Forest]]||H||0–0||19,760||
+|-style="background-color: #ffd0e3;"
+| 3 October 1992 ||[[Arsenal F.C.|Arsenal]]||A||1–2||27,780||[[Dennis Wise|Wise]]
+|-style="background-color: #d0ffe3;"
+| 17 October 1992 ||[[Ipswich Town F.C.|Ipswich Town]]||H||2–1||16,707||[[Gareth Hall|Hall]], [[Mick Harford|Harford]]
+|-style="background-color: #d0ffe3;"
+| 24 October 1992 ||[[Coventry City F.C.|Coventry City]]||A||2–1||15,626||[[Mick Harford|Harford]], [[Graham Stuart (footballer)|Stuart]]
+|-style="background-color: #ffd0e3;"
+| 31 October 1992 ||[[Sheffield United F.C.|Sheffield United]]||H||1–2||13,763||[[Andy Townsend|Townsend]]
+|-style="background-color: #d0ffe3;"
+| 7 November 1992 ||[[Crystal Palace F.C.|Crystal Palace]]||H||3–1||17,141||[[Richard Shaw (footballer)|Shaw]] (own goal), [[Graham Stuart (footballer)|Stuart]], [[Mick Harford|Harford]]
+|-style="background-color: #d0ffe3;"
+| 21 November 1992 ||[[Everton F.C.|Everton]]||A||1–0||17,418||[[Robert Fleck|Fleck]]
+|-style="background-color: #d0ffe3;"
+| 29 November 1992 ||[[Leeds United A.F.C.|Leeds United]]||H||1–0||24,345||[[Andy Townsend|Townsend]]
+|-style="background-color: #d0ffe3;"
+| 5 December 1992 ||[[Tottenham Hotspur F.C.|Tottenham Hotspur]]||A||2–1||31,540||[[Eddie Newton|Newton]] (2)
+|-style="background-color: #ffffdd;"
+| 11 December 1992 ||[[Middlesbrough F.C.|Middlesbrough]]||A||0–0||15,599||
+|-style="background-color: #ffffdd;"
+| 19 December 1992 ||[[Manchester United F.C.|Manchester United]]||H||1–1||34,464||[[David Lee (footballer born 1969)|Lee]]
+|-style="background-color: #ffffdd;"
+| 26 December 1992 ||[[Southampton F.C.|Southampton]]||H||1–1||18,344||[[Eddie Newton|Newton]]
+|-style="background-color: #ffffdd;"
+| 28 December 1992 ||[[Wimbledon F.C.|Wimbledon]]||A||0–0||14,687||
+|-style="background-color: #ffd0e3;"
+| 9 January 1993 ||[[Manchester City F.C.|Manchester City]]||H||2–4||15,939||[[Graham Stuart (footballer)|Stuart]], [[John Spencer (Scottish footballer)|Spencer]]
+|-style="background-color: #ffd0e3;"
+| 16 January 1993 ||[[Nottingham Forest F.C.|Nottingham Forest]]||A||0–3||23,249||
+|-style="background-color: #ffffdd;"
+| 27 January 1993 ||[[Queens Park Rangers F.C.|Queens Park Rangers]]||A||1–1||15,806||[[John Spencer (Scottish footballer)|Spencer]]
+|-style="background-color: #ffd0e3;"
+| 30 January 1993 ||[[Sheffield Wednesday F.C.|Sheffield Wednesday]]||H||0–2||16,261||
+|-style="background-color: #ffd0e3;"
+| 6 February 1993 ||[[Oldham Athletic A.F.C.|Oldham Athletic]]||A||1–3||11,772||[[Mick Harford|Harford]]
+|-style="background-color: #ffffdd;"
+| 10 February 1993 ||[[Liverpool F.C.|Liverpool]]||H||0–0||20,981||
+|-style="background-color: #ffd0e3;"
+| 13 February 1993 ||[[Aston Villa F.C.|Aston Villa]]||H||0–1||20,081||
+|-style="background-color: #ffd0e3;"
+| 21 February 1993 ||[[Blackburn Rovers F.C.|Blackburn Rovers]]||A||0–2||14,780||
+|-style="background-color: #d0ffe3;"
+| 1 March 1993 ||[[Arsenal F.C.|Arsenal]]||H||1–0||17,725||[[Graham Stuart (footballer)|Stuart]]
+|-style="background-color: #d0ffe3;"
+| 10 March 1993 ||[[Everton F.C.|Everton]]||H||2–1||12,739||[[Graham Stuart (footballer)|Stuart]], [[John Spencer (Scottish footballer)|Spencer]]
+|-style="background-color: #ffffdd;"
+| 15 March 1993 ||[[Crystal Palace F.C.|Crystal Palace]]||A||1–1||12,610||[[Graham Stuart (footballer)|Stuart]]
+|-style="background-color: #ffffdd;"
+| 20 March 1993 ||[[Tottenham Hotspur F.C.|Tottenham Hotspur]]||H||1–1||25,157||[[Tony Cascarino|Cascarino]]
+|-style="background-color: #ffffdd;"
+| 24 March 1993 ||[[Leeds United A.F.C.|Leeds United]]||A||1–1||28,135||[[Mal Donaghy|Donaghy]]
+|-style="background-color: #d0ffe3;"
+| 3 April 1993 ||[[Middlesbrough F.C.|Middlesbrough]]||H||4–0||13,043||[[Mal Donaghy|Donaghy]], [[John Spencer (Scottish footballer)|Spencer]], [[Graham Stuart (footballer)|Stuart]], [[Darren Barnard|Barnard]]
+|-style="background-color: #ffffdd;"
+| 6 April 1993 ||[[Ipswich Town F.C.|Ipswich Town]]||A||1–1||17,444||[[John Spencer (Scottish footballer)|Spencer]]
+|-style="background-color: #ffd0e3;"
+| 10 April 1993 ||[[Southampton F.C.|Southampton]]||A||0–1||15,135||
+|-style="background-color: #d0ffe3;"
+| 12 April 1993 ||[[Wimbledon F.C.|Wimbledon]]||H||4–2||13,138||[[Dennis Wise|Wise]] (pen), [[Gareth Hall|Hall]], [[John Spencer (Scottish footballer)|Spencer]], [[Neil Shipperley|Shipperley]]
+|-style="background-color: #ffd0e3;"
+| 17 April 1993 ||[[Manchester United F.C.|Manchester United]]||A||0–3||40,139||
+|-style="background-color: #d0ffe3;"
+| 1 May 1993 ||[[Coventry City F.C.|Coventry City]]||H||2–1||14,186||[[John Spencer (Scottish footballer)|Spencer]], [[Tony Cascarino|Cascarino]]
+|-style="background-color: #ffd0e3;"
+| 8 May 1993 ||[[Sheffield United F.C.|Sheffield United]]||A||2–4||24,850||[[David Lee (footballer born 1969)|Lee]], [[Andy Townsend|Townsend]]
+|}
+
+===FA Cup===
+{{Main|1992–93 FA Cup}}
+
+{| class="wikitable"
+|+
+!Round!!Date!!Opponent!!Venue!!Result!!Attendance!!Goalscorers
+|-style="background-color: #ffd0e3;"
+||R3||2 January 1993 ||[[Middlesbrough F.C.|Middlesbrough]]||A||1–2||16,776||[[Nicky Mohan|Mohan]] (own goal)
+|}
+
+===League Cup===
+{{Main|1992–93 Football League Cup}}
+
+{| class="wikitable"
+|+
+!Round!!Date!!Opponent!!Venue!!Result!!Attendance!!Goalscorers
+|-style="background-color: #d0ffe3;"
+||R2 First Leg ||23 September 1992 ||[[Walsall F.C.|Walsall]]||A||3–0||5,510||[[Dennis Wise|Wise]] 15', [[Eddie Newton|Newton]] 28', [[Andy Townsend|Townsend]] 78'
+|-style="background-color: #d0ffe3;"
+||R2 Second Leg ||7 October 1992 ||[[Walsall F.C.|Walsall]]||H||1–0 (won 4–0 on agg)||7,646||[[Robert Fleck|Fleck]] (pen) 73'
+|-style="background-color: #d0ffe3;"
+||R3||28 October 1992 ||[[Newcastle United F.C.|Newcastle United]]||H||2–1||30,193||[[Frank Sinclair|Sinclair]] 59', [[Mick Harford|Harford]] 82'
+|-style="background-color: #ffffdd;"
+||R4||2 December 1992 ||[[Everton F.C.|Everton]]||A||2–2||14,457||[[Mick Harford|Harford]] 28', [[Graham Stuart (footballer)|Stuart]] 79'
+|-style="background-color: #d0ffe3;"
+||R4R||16 December 1992 ||[[Everton F.C.|Everton]]||H||1–0||19,496||[[Andy Townsend|Townsend]] 19'
+|-style="background-color: #ffd0e3;"
+||QF||6 January 1993 ||[[Crystal Palace F.C.|Crystal Palace]]||A||1–3||28,510||[[Andy Townsend|Townsend]] 18'
+|}
+
+==First-team squad==
+<ref>{{Cite web|url=http://www.11v11.com/teams/chelsea/tab/players/season/1993|title = All Chelsea players: 1993}}</ref>
+{{fs start|nonumber=yes}}
+{{fs player|nonumber=yes|nat=ENG|pos=GK|name=[[Dave Beasant]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=GK|name=[[Alec Chamberlain]]|other=on loan from [[Luton Town F.C.|Luton Town]]}}
+{{fs player|nonumber=yes|nat=IRL|pos=GK|name=[[Nick Colgan]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=GK|name=[[Kevin Hitchcock]]}}
+{{fs player|nonumber=yes|nat=RUS|pos=GK|name=[[Dmitri Kharine]]}}
+{{fs player|nonumber=yes|nat=IRL|pos=GK|name=[[Gerry Peyton]]<ref>Peyton was born in [[Birmingham]], [[England]].</ref>|other=on loan from [[Everton F.C.|Everton]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=DF|name=[[Anthony Barness]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=DF|name=[[Paul Elliott (footballer)|Paul Elliott]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=DF|name=[[David Lee (footballer, born 1969)|David Lee]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=DF|name=[[Andy Myers]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=DF|name=[[Ian Pearce (footballer)|Ian Pearce]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=DF|name=[[Frank Sinclair]]<ref>Sinclair was born in [[London Borough of Lambeth|Lambeth]], [[England]], but also qualified to represent [[Jamaica]] internationally.</ref>}}
+{{fs player|nonumber=yes|nat=WAL|pos=DF|name=[[Darren Barnard]]<ref>Barnard was born in [[Rinteln]], [[West Germany]] (now [[Germany]]).</ref>}}
+{{fs player|nonumber=yes|nat=WAL|pos=DF|name=[[Gareth Hall]]<ref>Hall was born in [[London Borough of Croydon|Croydon]], [[England]].</ref>}}
+{{fs player|nonumber=yes|nat=SCO|pos=DF|name=[[Steve Clarke]]}}
+{{fs player|nonumber=yes|nat=NIR|pos=DF|name=[[Mal Donaghy]]}}
+{{fs mid|nonumber=yes}}
+{{fs player|nonumber=yes|nat=NOR|pos=DF|name=[[Erland Johnsen]]}}
+{{fs player|nonumber=yes|nat=SCO|pos=MF|name=[[Craig Burley]]}}
+{{fs player|nonumber=yes|nat=SCO|pos=MF|name=[[David Hopkin]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[Damian Matthew]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[Eddie Newton]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[Nigel Spackman]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[Graham Stuart (footballer)|Graham Stuart]]}}
+{{fs player|nonumber=yes|nat=IRL|pos=MF|name=[[Andy Townsend]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[Dennis Wise]]|other=captain}}
+{{fs player|nonumber=yes|nat=ENG|pos=FW|name=[[Mick Harford]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=FW|name=[[Steve Livingstone]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=FW|name=[[Neil Shipperley]]}}
+{{fs player|nonumber=yes|nat=SCO|pos=FW|name=[[Robert Fleck]]}}
+{{fs player|nonumber=yes|nat=SCO|pos=FW|name=[[John Spencer (Scottish footballer)|John Spencer]]}}.
+{{fs player|nonumber=yes|nat=IRL|pos=FW|name=[[Tony Cascarino]]<ref>Cascarino was born in [[London Borough of Bromley|Bromley]], [[England]], but also qualified to represent the [[Republic of Ireland]] internationally through his maternal grandfather. It was later discovered that his mother was adopted and he could not qualify through his grandfather, but was still eligible to represent the Republic of Ireland as his mother's adoption gave her Irish citizenship.</ref>}}
+{{fs end}}
+
+===Left club during season===
+{{fs start|nonumber=yes}}
+{{fs player|nonumber=yes|nat=ENG|pos=DF|name=[[Graeme Le Saux]]|other=to [[Blackburn Rovers F.C.|Blackburn Rovers]]}}
+{{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[Vinnie Jones]]<ref>Jones was born in [[Watford]], [[England]], but also qualified to represent [[Wales]] internationally.</ref>|other=to [[Wimbledon F.C.|Wimbledon]]}}
+{{fs mid|nonumber=yes}}
+{{fs player|nonumber=yes|nat=ENG|pos=FW|name=[[Joe Allon]]|other=to [[Brentford F.C.|Brentford]]}}
+{{fs end}}
+
+==References==
+{{reflist}}
+
+{{Chelsea F.C. seasons}}
+{{1992–93 in English football}}
+
+{{DEFAULTSORT:1992-93 Chelsea F.C. season}}
+[[Category:Chelsea F.C. seasons]]
+[[Category:1992–93 FA Premier League by team|Chelsea]]

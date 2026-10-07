@@ -1,0 +1,1546 @@
+{{Short description|English football club season}}
+{{Use British English|date=February 2015}}
+{{Use dmy dates|date=January 2021}}
+{{Infobox football club season
+| club               = Chelsea F.C.
+| season             = 2006–07
+| image              = File:Cfc fa cup2007.jpg
+| image_size         = 300px
+| alt                =
+| caption            = Chelsea players celebrating the [[2006–07 FA Cup|FA Cup]] title
+| manager            = [[José Mourinho]]
+| chairman           = [[Bruce Buck]]
+| owner              = [[Roman Abramovich]]
+| stadium            = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| league             = [[Premier League|FA Premier League]]
+| league result      = [[2006–07 FA Premier League|2nd]]
+| cup1               = [[FA Cup]]
+| cup1 result        = '''[[2007 FA Cup final|Winners]]'''
+| cup2               = [[EFL Cup|League Cup]]
+| cup2 result        = '''[[2007 Football League Cup final|Winners]]'''
+| cup3               = [[FA Community Shield]]
+| cup3 result        = [[2006 FA Community Shield|Runners-up]]
+| cup4               = [[UEFA Champions League]]
+| cup4 result        = [[2006–07 UEFA Champions League#Semi-finals|Semi-finals]]
+| league topscorer   = <br>[[Didier Drogba]] (20)
+| season topscorer   = <br>Didier Drogba (33)
+| highest attendance = 41,953 (20 August vs<br>[[Manchester City F.C.|Manchester City]])
+| lowest attendance  = 32,135 (12 September vs<br>[[SV Werder Bremen|Werder Bremen]])
+| average attendance = League: 39,333<br />All: 38,099
+| pattern_la1 = _chelsea0608h
+| pattern_b1  = _chelsea0608h
+| pattern_ra1 = _chelsea0608h
+| pattern_sh1 = _chelsea0608h
+| pattern_so1 = _3_stripes_blue
+| leftarm1    = 0000FF
+| body1       = 0000FF
+| rightarm1   = 0000FF
+| shorts1     = 0000FF
+| socks1      = FFFFFF
+| pattern_la2 = _chelsea0607a
+| pattern_b2  = _chelsea0607a
+| pattern_ra2 = _chelsea0607a
+| pattern_sh2 = _chelsea0607a
+| pattern_so2 = _3_stripes_white
+| leftarm2    = FFFFFF
+| body2       = FFFFFF
+| rightarm2   = FFFFFF
+| shorts2     = FFFFFF
+| socks2      = 0000FF
+| pattern_la3        = _chelsea0607t
+| pattern_b3         = _chelsea0607t
+| pattern_ra3        = _chelsea0607t
+| pattern_sh3        = _chelsea0607t
+| pattern_so3        = _rmcf1415t
+| leftarm3           = 000000
+| body3              = 000000
+| rightarm3          = 000000
+| shorts3            = 000000
+| socks3             = 000000
+| prevseason         = [[2005–06 Chelsea F.C. season|2005–06]]
+| nextseason         = [[2007–08 Chelsea F.C. season|2007–08]]
+}}
+The '''2006–07 season''' was '''Chelsea F.C.'s''' 93rd competitive season, 15th consecutive season in the Premier League and 101st year as a club. Managed by [[José Mourinho]], the club won both the [[2006–07 FA Cup|FA Cup]] and the [[2006–07 Football League Cup|League Cup]].
+
+Chelsea were in race to win a unique [[The Quadruple (Football)|Quadruple]] until 1 May. The [[2006–07 FA Premier League|2006–07 Premier League]] was decided on matchday 36, after [[Chelsea F.C.|Chelsea]] failed to win against [[Arsenal F.C.|Arsenal]] at the [[Emirates Stadium]]. This left them seven points behind [[Manchester United F.C.|Manchester United]] with two games to go, confirming Manchester United as league champions.
+
+The season was their fourth under the ownership of [[Roman Abramovich]] and Chelsea spent heavily in the transfer market before the season. Notable transactions include the signing of [[Andriy Shevchenko]] from [[A.C. Milan|Milan]] for £30 million and [[Salomon Kalou]] from [[Feyenoord]] for an undisclosed fee. They also added [[Michael Ballack]] from [[FC Bayern Munich|Bayern Munich]] on free transfer and also exchanged [[William Gallas]] and £5 million with [[Arsenal F.C.|Arsenal]] for [[Ashley Cole]].
+
+In the [[2006–07 UEFA Champions League|Champions League]], Chelsea aimed to improve upon their first knockout round exit in the previous season. They managed to reach the semi-finals for the third time in four seasons, but lost to [[Liverpool F.C.|Liverpool]] 4–1 on penalties after a 1–1 aggregate scoreline. Chelsea also lost the pre season [[2006 FA Community Shield|Community Shield]] to Liverpool at the beginning of the season.
+
+== Kits ==
+'''Supplier:''' [[Adidas]] / '''Sponsor:''' [[Samsung Mobile]]
+
+{|border="0" style="margin:1em auto;"
+|{{Football kit
+| pattern_la = _chelsea0608h
+| pattern_b  = _chelsea0608h
+| pattern_ra = _chelsea0608h
+| pattern_sh = _chelsea0608h
+| pattern_so = _3_stripes_blue
+| leftarm    = 0000FF
+| body       = 0000FF
+| rightarm   = 0000FF
+| shorts     = 0000FF
+| socks      = FFFFFF
+| title      = Home
+}}
+|{{Football kit
+| pattern_la = _chelsea0608h
+| pattern_b  = _chelsea0608h
+| pattern_ra = _chelsea0608h
+| pattern_sh = _chelsea0608h
+| pattern_so = _3_stripes_white
+| leftarm    = 0000FF
+| body       = 0000FF
+| rightarm   = 0000FF
+| shorts     = 0000FF
+| socks      = 0000FF
+| title      = Home <small>alt.</small>
+}}
+|{{Football kit
+| pattern_la = _chelsea0607a
+| pattern_b  = _chelsea0607a
+| pattern_ra = _chelsea0607a
+| pattern_sh = _chelsea0607a
+| pattern_so = _3_stripes_white
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = FFFFFF
+| socks      = 0000FF
+| title      = Away
+}}
+|{{Football kit
+| pattern_la = _chelsea0607a
+| pattern_b  = _chelsea0607a
+| pattern_ra = _chelsea0607a
+| pattern_sh = _chelsea0607a
+| pattern_so = _3_stripes_blue
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = FFFFFF
+| socks      = FFFFFF
+| title      = Away <small>alt. 1</small>
+}}
+|{{Football kit
+| pattern_la = _chelsea0607a
+| pattern_b  = _chelsea0607a
+| pattern_ra = _chelsea0607a
+| pattern_sh = _chelsea0608h
+| pattern_so = _3_stripes_white
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 0000FF
+| socks      = 0000FF
+| title      = Away <small>alt. 2</small>
+}}
+|{{Football kit
+| pattern_la = _chelsea0607a
+| pattern_b  = _chelsea0607a
+| pattern_ra = _chelsea0607a
+| pattern_sh = _chelsea0608h
+| pattern_so = _3_stripes_blue
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = 0000FF
+| socks      = FFFFFF
+| title      = Away <small>alt. 3</small>
+}}
+|{{Football kit
+| pattern_la = _chelsea0607t
+| pattern_b  = _chelsea0607t
+| pattern_ra = _chelsea0607t
+| pattern_sh = _chelsea0607t
+| pattern_so = _3_stripes_white
+| leftarm    = 000000
+| body       = 000000
+| rightarm   = 000000
+| shorts     = 000000
+| socks      = 000000
+| title      = Third
+}}
+|{{Football kit
+| pattern_la = _chelsea0607t
+| pattern_b  = _chelsea0607t
+| pattern_ra = _chelsea0607t
+| pattern_sh = _chelsea0607t
+| pattern_so = 
+| leftarm    = 000000
+| body       = 000000
+| rightarm   = 000000
+| shorts     = 000000
+| socks      = FFFFFF
+| title      = Third <small>alt.</small>
+}}
+|}
+{| style="margin:1em auto;"
+|
+|{{Football kit
+|pattern_la = _tomsk06a
+|pattern_b  = _chelsea0607gk
+|pattern_ra = _tomsk06a
+|pattern_sh = _chelsea0607gk
+|pattern_so = _3_stripes_white
+|leftarm    = 002244
+|body       = 002244
+|rightarm   = 002244
+|shorts     = 002244
+|socks      = 002244
+|title      = Goalkeeper <small>1</small>
+}}
+|
+|{{Football kit
+|pattern_la = _jap0607gk
+|pattern_b  = _jap0607gk
+|pattern_ra = _jap0607gk
+|pattern_sh = _jap0607gk
+|pattern_so = _3_stripes_navy
+|leftarm    = FFFFFF
+|body       = FFFFFF
+|rightarm   = FFFFFF
+|shorts     = FFFFFF
+|socks      = BBBBBB
+|title= Goalkeeper 2
+}}
+|
+|{{Football kit
+|pattern_la = _jap0607gk
+|pattern_b  = _jap0607gk
+|pattern_ra = _jap0607gk
+|pattern_sh = _chelsea0607gk
+|pattern_so = _3_stripes_navy
+|leftarm    = FFFFFF
+|body       = FFFFFF
+|rightarm   = FFFFFF
+|shorts     = FFFFFF
+|socks      = BBBBBB
+|title= Goalkeeper 2 <small>alt.</small>
+}}
+|
+|{{Football kit
+|pattern_la = _jap0607gk
+|pattern_b  = _jap0607gk
+|pattern_ra = _jap0607gk
+|pattern_sh = _chelsea0607t
+|pattern_so = 
+|leftarm    = FFFFFF
+|body       = FFFFFF
+|rightarm   = FFFFFF
+|shorts     = FFFFFF
+|socks      = FFFFFF
+|title= Goalkeeper 2 (Worn by John Terry)
+}}
+|
+|}
+
+==Management==
+{{Fb cs header}}
+{{Fb cs staff |bg= |p=Manager |s={{flagicon|Portugal}} [[José Mourinho]] }}
+{{Fb cs staff |bg= |p=Assistant manager |s={{flagicon|Scotland}} [[Steve Clarke]] }}
+{{Fb cs staff |bg= |p=First team coach |s={{flagicon|Brazil}} [[Baltemar Brito]] }}
+{{Fb cs staff |bg= |p=Fitness coach |s={{flagicon|Portugal}} [[Rui Faria]] }}
+{{Fb cs staff |bg= |p=Goalkeeping coach |s={{flagicon|Portugal}} [[Silvino Louro]] }}
+{{Fb cs staff |bg= |p=Opposition scout |s={{flagicon|Portugal}} [[André Villas-Boas]] }}
+{{Fb cs footer|s=[http://www.soccerbase.com/squad_season.sd?teamid=536][http://www.eufo.de/football/eng/2006/chela_fc.htm] |date=April 2013}}
+
+==First team squad==
+:''Squad at end of season''<ref>[http://www.footballsquads.co.uk/eng/2006-2007/faprem/chelsea.htm "Chelsea 2006–07"]. ''FootballSquads.co.uk''.</ref>
+{{fs start}}
+{{Fs player|no=1|nat=CZE|pos=GK|name=[[Petr Čech]]}}
+{{Fs player|no=3|nat=ENG|pos=DF|name=[[Ashley Cole]]}}
+{{Fs player|no=4|nat=FRA|pos=MF|name=[[Claude Makélélé]]}}
+{{Fs player|no=5|nat=GHA|pos=MF|name=[[Michael Essien]]}}
+{{Fs player|no=6|nat=POR|pos=DF|name=[[Ricardo Carvalho]]}}
+{{Fs player|no=7|nat=UKR|pos=FW|name=[[Andriy Shevchenko]]}}
+{{Fs player|no=8|nat=ENG|pos=MF|name=[[Frank Lampard]]}}
+{{Fs player|no=9|nat=NED|pos=DF|name=[[Khalid Boulahrouz]]}}
+{{Fs player|no=10|nat=ENG|pos=MF|name=[[Joe Cole]]}}
+{{Fs player|no=11|nat=CIV|pos=FW|name=[[Didier Drogba]]}}
+{{Fs player|no=12|nat=NGA|pos=MF|name=[[Mikel John Obi]]}}
+{{Fs player|no=13|nat=GER|pos=MF|name=[[Michael Ballack]]}}
+{{Fs player|no=14|nat=CMR|pos=MF|name=[[Geremi Njitap|Geremi]]}}
+{{Fs player|no=16|nat=NED|pos=MF|name=[[Arjen Robben]]}}
+{{fs mid}}
+{{Fs player|no=18|nat=ENG|pos=DF|name=[[Wayne Bridge]]}}
+{{Fs player|no=19|nat=FRA|pos=MF|name=[[Lassana Diarra]]}}
+{{Fs player|no=20|nat=POR|pos=DF|name=[[Paulo Ferreira]]}}
+{{Fs player|no=21|nat=CIV|pos=FW|name=[[Salomon Kalou]]}}
+{{Fs player|no=23|nat=ITA|pos=GK|name=[[Carlo Cudicini]]}}
+{{Fs player|no=24|nat=ENG|pos=MF|name=[[Shaun Wright-Phillips]]}}
+{{Fs player|no=26|nat=ENG|pos=DF|name=[[John Terry]]}}
+{{Fs player|no=40|nat=POR|pos=GK|name=[[Henrique Hilário]]}}
+{{Fs player|no=41|nat=BEL|pos=GK|name=[[Yves Ma-Kalambay]]<ref>Ma-Kalambay was born in [[Brussels]], [[Belgium]], and has represented [[Belgium]] internationally at youth level, but also qualified to represent the [[Democratic Republic of the Congo|DR Congo]] and made his full international debut for [[Democratic Republic of Congo national football team|DR Congo]] in May 2010.</ref>}}
+{{Fs player|no=47|nat=ISR|pos=FW|name=[[Ben Sahar]]}}
+{{Fs player|no=48|nat=ENG|pos=MF|name=[[Michael Woods (footballer, born 1990)|Michael Woods]]}}
+{{Fs player|no=49|nat=ENG|pos=FW|name=[[Scott Sinclair]]}}
+{{Fs player|no=51|nat=ENG|pos=DF|name=[[Sam Hutchinson]]}}
+{{Fs end}}
+
+===Left club during season===
+{{Fs start}}
+{{Fs player|no=2|nat=ENG|pos=DF|name=[[Glen Johnson (English footballer)|Glen Johnson]]|other=on loan to [[Portsmouth F.C.|Portsmouth]]}}
+{{Fs player|no=13|nat=FRA|pos=DF|name=[[William Gallas]]|other=to [[Arsenal F.C.|Arsenal]]}}
+{{Fs player|no=29|nat=GER|pos=DF|name=[[Robert Huth]]|other=to [[Middlesbrough F.C.|Middlesbrough]]}}
+{{Fs player|no=30|nat=ENG|pos=MF|name=[[Anthony Grant (English footballer)|Anthony Grant]]|other=on loan to [[Wycombe Wanderers F.C.|Wycombe Wanderers]]}}
+{{Fs player|no=44|nat=ENG|pos=DF|name=[[Michael Mancienne]]|other=on loan to [[Queens Park Rangers F.C.|Queens Park Rangers]]}}
+{{Fs mid}}
+{{Fs player|no=46|nat=ENG|pos=MF|name=[[Jimmy Smith (footballer, born 1987)|Jimmy Smith]]|other=on loan to [[Queens Park Rangers F.C.|Queens Park Rangers]]}}
+{{Fs player|no=|nat=ENG|pos=DF|name=[[Adrian Pettigrew]]|other=on loan to [[Wycombe Wanderers F.C.|Wycombe Wanderers]]}}
+{{Fs player|no=|nat=ENG|pos=DF|name=[[Harry Worley]]|other=on loan to [[Doncaster Rovers F.C.|Doncaster Rovers]]}}
+{{Fs player|no=|nat=ENG|pos=MF|name=[[Jack Cork]]|other=on loan to [[AFC Bournemouth]]}}
+{{Fs player|no=|nat=ENG|pos=MF|name=James Simmonds|other=on loan to [[Cardiff City F.C.|Cardiff City]]}}
+{{Fs end}}
+
+==Reserve squad==
+{{Fs start}}
+{{Fs player|no=22|nat=SWE|pos=GK|name=[[Magnus Hedman]]}}
+{{Fs player|no=33|nat=POR|pos=DF|name=[[Nuno Morais]]}}
+{{Fs player|no=42|nat=SUI|pos=DF|name=[[Jonas Elmer]]}}
+{{Fs player|no=43|nat=ENG|pos=DF|name=[[Ryan Bertrand]]}}
+{{Fs player|no=44|nat=ENG|pos=DF|name=[[Michael Mancienne]]}}
+{{Fs player|no=46|nat=ENG|pos=MF|name=[[Jimmy Smith (footballer, born 1987)|Jimmy Smith]]}}
+{{Fs player|no=50|nat=ENG|pos=MF|name=[[Lee Sawyer]]}}
+{{Fs mid}}
+{{Fs player|no=52|nat=WAL|pos=GK|name=[[Rhys Taylor]]}}
+{{Fs player|no=|nat=IRL|pos=GK|name=James Russell}}
+{{Fs player|no=|nat=ENG|pos=DF|name=[[Adrian Pettigrew]]}}
+{{Fs player|no=|nat=ENG|pos=DF|name=[[Harry Worley]]}}
+{{Fs player|no=|nat=ENG|pos=MF|name=[[Jack Cork]]}}
+{{Fs player|no=|nat=ENG|pos=MF|name=James Simmonds}}
+{{Fs player|no=|nat=POR|pos=MF|name=[[Fábio Ferreira (Portuguese footballer)|Fábio Ferreira]]}}
+{{Fs end}}
+
+==Transfers==
+
+===In===
+{|width=90% class="wikitable" style="text-align:center; font-size:95%; text-align:left"
+!#
+!Pos
+!Player
+!From
+!Fee
+!Date
+|----
+|13|| MF||{{flagicon|GER}} [[Michael Ballack]] || {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]] || Free<ref name="Torres">{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/4769763.stm|title=Chelsea announce Ballack capture|work=BBC Sport|access-date=15 May 2006 | date=15 May 2006| archive-url= https://web.archive.org/web/20060620181014/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/4769763.stm| archive-date= 20 June 2006 | url-status= live}}</ref> || 15 May 2006
+|----
+|21|| FW||{{flagicon|CIV}} [[Salomon Kalou]] || {{flagicon|NED}} [[Feyenoord]] || £9 million<ref name="Kalou">{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/5023196.stm|title=Chelsea sign Feyenoord star Kalou|work=BBC Sport|access-date=31 May 2006 | date=31 May 2006}}</ref> || 30 May 2006
+|----
+|7|| FW||{{flagicon|UKR}} [[Andriy Shevchenko]] || {{flagicon|ITA}} [[A.C. Milan|Milan]] || £30 million <ref name="Shevchenko">{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/5035604.stm|title=Chelsea complete Shevchenko deal|work=BBC Sport|access-date=31 May 2006 | date=31 May 2006| archive-url= https://web.archive.org/web/20060616095510/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/5035604.stm| archive-date= 16 June 2006 | url-status= live}}</ref> || 31 May 2006
+|----
+|12|| DM||{{flagicon|NGA}} [[Mikel John Obi]] || {{flagicon|NOR}} [[FK Lyn|Lyn]]<ref name="ESPNsoccernet">{{Cite news |url=http://soccernet.espn.go.com/news/story?id=374089&cc=5739 |title=Champs Chelsea secure Obi Mikel permit |publisher=ESPNsoccernet |date=19 July 2006 |access-date=19 July 2006 |archive-date=23 October 2012 |archive-url=https://web.archive.org/web/20121023190911/http://soccernet.espn.go.com/news/story?id=374089&cc=5739 |url-status=dead }}</ref> || £4 million<ref name="ESPNsoccernet"/> || 19 July 2006<ref name="ESPNsoccernet"/>
+|----
+|9|| DF||{{flagicon|NED}} [[Khalid Boulahrouz]] || {{flagicon|GER}} [[Hamburger SV]] || £8.5 million <ref name="Boulahrouz">{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/5265164.stm|title=Boulahrouz completes Chelsea move|work=BBC Sport|access-date=22 August 2006 | date=22 August 2006| archive-url= https://web.archive.org/web/20060824052757/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/5265164.stm| archive-date= 24 August 2006 | url-status= live}}</ref> || 21 August 2006
+|----
+|3|| DF||{{flagicon|ENG}} [[Ashley Cole]] || {{flagicon|ENG}} [[Arsenal F.C.|Arsenal]] || £5 million + [[William Gallas|Gallas]]<ref name="Cole">{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/eng_prem/5297616.stm|title=Blues beat deadline to sign Cole|work=BBC Sport|access-date=31 August 2006 | date=1 September 2006}}</ref> || 31 August 2006
+|}
+
+===Out===
+{|width=90% class="wikitable" style="text-align:center; font-size:95%; text-align:left"
+!#
+!Pos
+!Player
+!To
+!Fee
+!Date
+|----
+|40|| GK||{{flagicon|ENG}} [[Lenny Pidgeley]] || {{flagicon|ENG}} [[Millwall F.C.|Millwall]]  || Free<ref name="Pidgeley">{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/teams/m/millwall/5067184.stm|title=Lions sign Blues keeper Pidgeley|work=BBC Sport|access-date=10 June 2006 | date=10 June 2006| archive-url= https://web.archive.org/web/20060619182845/http://news.bbc.co.uk/sport1/hi/football/teams/m/millwall/5067184.stm| archive-date= 19 June 2006 | url-status= live}}</ref> || 9 June 2006
+|----
+|22|| FW||{{flagicon|ISL}} [[Eiður Guðjohnsen]] || {{flagicon|ESP}} [[FC Barcelona|Barcelona]] || £8 million<ref name="Gudjohnsen">{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/5075394.stm|title=Gudjohnsen completes Barca move |work=BBC Sport|access-date=14 June 2006 | date=14 June 2006| archive-url= https://web.archive.org/web/20060615235718/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/5075394.stm| archive-date= 15 June 2006 | url-status= live}}</ref> || 14 June 2006
+|----
+|-|| DF||{{flagicon|ENG}} [[Dean Smith]] || {{flagicon|ENG}} [[Aldershot Town F.C.|Aldershot Town]] || Free || 17 June 2006
+|----
+|27|| MF||{{flagicon|CZE}} [[Jiří Jarošík]] || {{flagicon|SCO}} [[Celtic F.C.|Celtic]] || £2 million <ref name="Jarosik">{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/teams/c/celtic/5093914.stm|title=Celtic sign Jarosik from Chelsea |work=BBC Sport|access-date=19 June 2006 | date=19 June 2006| archive-url= https://web.archive.org/web/20060622033024/http://news.bbc.co.uk/sport1/hi/football/teams/c/celtic/5093914.stm| archive-date= 22 June 2006 | url-status= live}}</ref> || 19 June 2006
+|----
+|-|| MF||{{flagicon|ENG}} [[Danny Hollands]] || {{flagicon|ENG}} [[AFC Bournemouth]] || Free || 28 June 2006
+|----
+|12|| FW||{{flagicon|ENG}} [[Carlton Cole]] || {{flagicon|ENG}} [[West Ham United F.C.|West Ham United]]  || £3 million || 1 July 2006
+|----
+|11|| MF||{{flagicon|IRL}} [[Damien Duff]] || {{flagicon|ENG}} [[Newcastle United F.C.|Newcastle United]] || £5 million<ref name="Duff">{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/n/newcastle_united/5204958.stm|title=Newcastle unveil new signing Duff=BBC Sport|access-date=24 July 2006 | date=24 July 2006|work=BBC News}}</ref> || 22 July 2006
+|----
+|3|| DF||{{flagicon|ESP}} [[Asier del Horno]]||{{flagicon|ESP}} [[Valencia CF|Valencia]]|| £5 million<ref name="del Horno">{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/5204474.stm|title=Valencia sign Chelsea's Del Horno|date=22 July 2006|work=BBC Sport|access-date=10 October 2016}}</ref>|| 22 July 2006
+|----
+|29|| DF||{{flagicon|GER}} [[Robert Huth]] || {{flagicon|ENG}} [[Middlesbrough F.C.|Middlesbrough]]  || £6 million<ref name="Huth">{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/5304684.stm|title=Huth completes £6m switch to Boro |work=BBC Sport|access-date=1 September 2006 | date=1 September 2006}}</ref> || 31 August 2006
+|----
+|13|| DF||{{flagicon|FRA}} [[William Gallas]] || {{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]  || [[Ashley Cole|Cole]] – £5 million<ref name="Gallas">{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/eng_prem/5297616.stm|title=Blues beat deadline to sign Cole |work=BBC Sport|access-date=1 September 2006 | date=1 September 2006}}</ref> || 31 August 2006
+|}
+
+===Overall transfer activity===
+{{col-begin}}
+{{col-3}}
+
+====Total spending====
+Summer: {{loss}} [[Pound sterling|£]]56,600,000
+
+Winter: {{steady}} [[Pound sterling|£]]0,000,000
+
+Total: {{loss}} [[Pound sterling|£]]56,600,000
+
+{{col-3}}
+
+====Income====
+Summer: {{gain}} [[Pound sterling|£]]31,000,000
+
+Winter: {{steady}} [[Pound sterling|£]]0,000,000
+
+Total: {{gain}} [[Pound sterling|£]]31,000,000
+
+{{col-3}}
+
+====Expenditure====
+Summer: {{loss}} [[Pound sterling|£]]25,800,000
+
+Winter: {{steady}} [[Pound sterling|£]]0,000,000
+
+Total: {{loss}} [[Pound sterling|£]]25,800,000
+{{col-end}}
+
+==Competitions==
+
+===FA Community Shield===
+
+{{main article|2006 FA Community Shield}}
+
+{{football box collapsible
+|date           = 13 August 2006
+|time           = 14:00 [[British Summer Time|BST]]
+|team1          = [[Chelsea F.C.|Chelsea]]
+|score          = 1–2
+|report         = [https://news.bbc.co.uk/sport2/hi/football/4780739.stm Report]
+|team2          = [[Liverpool F.C.|Liverpool]]
+|goals1         = [[Andriy Shevchenko|Shevchenko]] {{goal|43}}<br />[[Michael Ballack|Ballack]] {{yel|7}}<br />[[Frank Lampard|Lampard]] {{yel|15}}<br> [[Lassana Diarra|Diarra]] {{yel|68}} 
+|goals2         = [[John Arne Riise|Riise]] {{goal|9}}<br />[[Peter Crouch|Crouch]] {{goal|80}}<br />[[Xabi Alonso|Alonso]] {{yel|61}}
+|stadium        = [[Millennium Stadium]]
+|location       = [[Cardiff]]
+|attendance     = 56,275
+|referee        = [[Martin Atkinson]]
+|result         = L
+}}
+
+===Premier League===
+
+{{main article|2006–07 FA Premier League}}
+
+====League table====
+{{:2006–07 FA Premier League|showteam=CHE}}
+====Position by round====
+{{#invoke:sports rbr table|table|legendpos=b
+|header=Round
+|label1= Ground
+| res1=H/A/A/H/H/A/H/A/H/A/A/H/H/A/A/H/H/A/A/H/H/A/H/A/H/A/H/A/A/H/A/H/A/A/H/A/H/H
+|label2= Result
+|res2=W/L/W/W/W/W/D/W/W/W/L/W/W/D/W/D/W/W/W/D/D/D/W/L/W/W/W/W/W/W/W/W/W/D/D/D/D/D
+|label3= Position
+| res3=2/9/6/4/3/1/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2
+
+<!-- -->				
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_1-2=green1|text_1-2=Qualification for the [[2007–08 UEFA Champions League#Group stage|Champions League group stage]]
+|color_3-4=green2|text_3-4=Qualification for the [[2007–08 UEFA Champions League#Third qualifying round|Champions League third qualifying round]]
+|color_5-7=blue1|text_5-7=Qualification for the [[2007–08 UEFA Cup#First round|UEFA Cup first round]]
+|note_res_5-7=Since both [[2007 FA Cup final|finalists]] of the [[2006–07 FA Cup|FA Cup]] (Manchester United and Chelsea) and the [[2006–07 Football League Cup|League Cup]] [[2007 Football League Cup final|winners]] (Chelsea) were qualified for the Champions League, their UEFA Cup spots were given to the 6th- and 7th-placed Premier League teams.
+|color_8=#CCCCFF|text_8=Qualification for the [[2007 UEFA Intertoto Cup#Third round|Intertoto Cup third round]] 
+|note_res_8=The highest-placed team who applied for the Intertoto Cup and not in an automatic UEFA Cup spot was awarded with a place in that competition. Blackburn Rovers occupied the Intertoto place, because Portsmouth and Reading did not apply.<ref>{{Cite web |url=http://www.lancashiretelegraph.co.uk/mostpopular.var.1364900.mostviewed.spurs_win_may_harm_rovers_intertoto_chances.php |title=Spurs win may harm Rovers' Intertoto chances |access-date=15 December 2025 |archive-date=20 January 2008 |archive-url=https://web.archive.org/web/20080120195022/http://www.lancashiretelegraph.co.uk/mostpopular.var.1364900.mostviewed.spurs_win_may_harm_rovers_intertoto_chances.php |url-status=dead }}</ref> A further place in the UEFA Cup was up for grabs via the Premiership Fair Play League. The winner is placed into a draw with the winners of Fair Play leagues in other countries. The representatives from the two countries that come out of the hat first are given a place in the UEFA Cup first qualifying round. Since the winners of the Premiership Fair Play League, Tottenham Hotspur, had already qualified for the UEFA Cup by virtue of their league position, their place in the Fair Play draw was given to Aston Villa. However, the places in the UEFA Cup were awarded to the representatives from Finland and Norway.
+|color_18-20=red1|text_18-20=Relegation to [[2007–08 Football League Championship|Football League Championship]]
+|update=complete
+|class_rules=1) points; 2) goal difference; 3) number of goals scored.
+|source=[https://www.premierleague.com/tables?co=1&se=15&mw=-1&ha=-1 Premier League] 
+}}
+
+====Matches====
+{{football box collapsible
+|round=1
+|date=20 August 2006
+|time=16:00 BST
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 3–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/4786589.stm (Report)]
+|team2=[[Manchester City F.C.|Manchester City]]
+|goals1= [[John Terry|Terry]] {{goal|11}}<br />[[Frank Lampard|Lampard]] {{goal|26}}<br />[[Michael Essien|Essien]] {{yel|63}}<br/>[[Didier Drogba|Drogba]] {{goal|78}}
+|goals2= [[Ousmane Dabo|Dabo]] {{yel|15}}<br/>[[Bernardo Corradi|Corradi]] {{sent off|2|49|63}}<br/>[[Paul Dickov|Dickov]] {{yel|71}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= [[Fulham]] ([[West London]])
+|attendance=41,953
+|referee=[[Steve Bennett (referee)|Steve Bennett]]
+|result=W
+}}
+{{football box collapsible
+|round=2
+|date=23 August 2006
+|time=20:00
+|team1=[[Middlesbrough F.C.|Middlesbrough]]
+|score= 2–1
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/5266168.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Stuart Parnaby|Parnaby]] {{yel|76}}<br/>[[Emanuel Pogatetz|Pogatetz]] {{goal|80}}<br/>[[George Boateng|Boateng]] {{yel|88}}<br/>[[Mark Viduka|Viduka]] {{goal|90}}
+|goals2= [[Andriy Shevchenko|Shevchenko]] {{goal|16}}<br>[[Didier Drogba|Drogba]] {{yel|46}}<br>[[Paulo Ferreira|Ferreira]] {{yel|80}}
+|stadium=[[Riverside Stadium]], [[Middlesbrough]]
+|attendance=29,198
+|referee=[[Howard Webb]]
+|result=L
+}}
+{{football box collapsible
+|round=3
+|date=27 August 2006
+|time=16:00
+|team1=[[Blackburn Rovers F.C.|Blackburn Rovers]]
+|score= 0–2
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/5266318.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Robbie Savage|Savage]] {{yel|25}}<br/>[[André Ooijer|Ooijer]] {{yel|49}}<br/>[[Zurab Khizanishvili|Khizanishvili]] {{yel|90}}
+|goals2= [[Frank Lampard|Lampard]] {{goal|50|pen.}}<br/>[[Claude Makelele|Makelele]] {{yel|66}}<br/>[[Didier Drogba|Drogba]] {{goal|81}}
+|stadium=[[Ewood Park]], [[Blackburn]]
+|attendance=19,398
+|referee=[[Mark Clattenburg]]
+|result=W
+}}
+{{football box collapsible
+|round=4
+|date=9 September 2006
+|time=15:00
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 2–1
+|report=[https://news.bbc.co.uk/sport1/hi/football/eng_prem/5308188.stm (Report)]
+|team2=[[Charlton Athletic F.C.|Charlton Athletic]]
+|goals1= [[Didier Drogba|Drogba]] {{goal|6}}<br />[[Michael Ballack|Ballack]] {{yel|41}}<br />[[Ricardo Carvalho|Carvalho]] {{yel|59}} {{goal|63}}
+|goals2= [[Amdy Faye|Faye]] {{yel|41}}<br />[[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|54}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= [[Fulham]] ([[West London]])
+|attendance=41,194
+|referee=[[Alan Wiley]]
+|result=W
+}}
+{{football box collapsible
+|round=5
+|date=17 September 2006
+|time=13:30
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 1–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/5330074.stm (Report)]
+|team2=[[Liverpool F.C.|Liverpool]]
+|goals1= [[Khalid Boulahrouz|Boulahrouz]] {{yel|26}}<br/>[[Didier Drogba|Drogba]] {{yel|30}}, {{goal|42}}<br/>[[Michael Ballack|Ballack]] {{sent off|0|51}}<br/>[[Petr Čech|Čech]] {{yel|90}}
+|goals2= [[Stephen Warnock|Warnock]] {{yel|5}}<br/>[[Mohamed Sissoko|Sissoko]] {{yel|44}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= [[Fulham]] ([[West London]])
+|attendance=41,882
+|referee=[[Mike Riley (referee)|Mike Riley]]
+|result=W
+}}
+{{football box collapsible
+|round=6
+|date=23 September 2006
+|time=15:00
+|team1=[[Fulham F.C.|Fulham]]
+|score= 0–2
+|report=[https://news.bbc.co.uk/sport1/hi/football/eng_prem/5351934.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Moritz Volz|Volz]] {{yel|55}}<br/>[[Franck Queudrue|Queudrue]] {{yel|83}}
+|goals2= [[Ricardo Carvalho|Carvalho]] {{yel|61}}<br/>[[Frank Lampard|Lampard]] {{goal|73|pen.|80}}
+|stadium=[[Craven Cottage]], [[London]]
+|attendance=24,290
+|referee=[[Mark Halsey]]
+|result=W
+}}
+{{football box collapsible
+|round=7
+|date=30 September 2006
+|time=15:00
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 1–1
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/5373472.stm (Report)]
+|team2=[[Aston Villa F.C.|Aston Villa]]
+|goals1= [[Didier Drogba|Drogba]] {{goal|3}}
+|goals2= [[Gabriel Agbonlahor|Agbonlahor]] {{goal|45}}<br/>[[Gavin McCann|McCann]] {{yel|53}}<br/>[[Olof Mellberg|Mellberg]] {{yel|83}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= [[Fulham]] ([[West London]])
+|attendance=41,951
+|referee=[[Graham Poll]]
+|result=D
+}}
+{{football box collapsible
+|round=8
+|date=14 October 2006
+|time=17:15
+|team1=[[Reading F.C.|Reading]]
+|score= 0–1
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/5415980.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Ívar Ingimarsson|Ingimarsson]] {{yel|29}}<br/>[[Ibrahima Sonko|Sonko]] {{yel|45}}<br/>[[André Bikey|Bikey]] {{sent off|2|77|83}}
+|goals2= [[Mikel John Obi|Mikel]] {{sent off|2|44|62}}<br/>[[Ívar Ingimarsson|Ingimarsson]] {{goal|45|o.g.}}<br/>[[John Terry|Terry]] {{yel|53}}
+|stadium=[[Madejski Stadium]], [[Reading, Berkshire|Reading]]
+|attendance=24,025
+|referee=[[Mike Riley (referee)|Mike Riley]]
+|result=W
+}}
+{{football box collapsible
+|round=9
+|date=21 October 2006
+|time=15:00
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 2–1
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6050678.stm (Report)]
+|team2=[[Portsmouth F.C.|Portsmouth]]
+|goals1= [[Andriy Shevchenko|Shevchenko]] {{goal|55}}, {{yel|56}}<br/>[[Michael Ballack|Ballack]] {{goal|57}} {{yel|58}}<br/>[[Joe Cole|J. Cole]] {{yel|90+3}}
+|goals2= [[Noé Pamarot|Pamarot]] {{yel|43}}<br/>[[Pedro Mendes (footballer, born 1979)|Mendes]] {{yel|51}}<br/>[[Benjani Mwaruwari|Benjani]] {{goal|69}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= [[Fulham]] ([[West London]])
+|attendance=41,838
+|referee=[[Mark Clattenburg]]
+|result=W
+}}
+{{football box collapsible
+|round=10
+|date=28 October 2006
+|time=12:45 BST
+|team1=[[Sheffield United F.C.|Sheffield United]]
+|score= 0–2
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6072876.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Mikele Leigertwood|Leigertwood]] {{yel|42}}<br/>[[Nick Montgomery|Montgomery]] {{yel|60}}
+|goals2= [[Frank Lampard|Lampard]] {{goal|43}}<br/>[[Michael Ballack|Ballack]] {{goal|49}}
+|stadium=[[Bramall Lane]], [[Sheffield]]
+|attendance=32,321
+|referee=[[Martin Atkinson]]
+|result=W
+}}
+{{football box collapsible
+|round=11
+|date=5 November 2006
+|time=16:00
+|team1=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|score= 2–1
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6094134.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Michael Dawson (footballer)|Dawson]] {{yel|17}}, {{goal|25}}<br/>[[Aaron Lennon|Lennon]] {{goal|52}}<br/>[[Hossam Ghaly|Ghaly]] {{yel|55}}<br/>[[Ledley King|King]] {{yel|78}}
+|goals2= [[Claude Makelele|Makelele]] {{goal|15}}, {{yel|45+3}}<br/>[[Paulo Ferreira|Ferreira]] {{yel|25}}<br/>[[Ashley Cole|A. Cole]] {{yel|45+3}}<br/>[[John Terry|Terry]] {{sent off|2|62|72}}<br/>[[Michael Ballack|Ballack]] {{yel|66}}
+|stadium=[[White Hart Lane]], [[Tottenham]]
+|attendance=36,070
+|referee=[[Graham Poll]]
+|result=L
+}}
+{{football box collapsible
+|round=12
+|date=11 November 2006
+|time=15:00
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 4–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6116238.stm (Report)]
+|team2=[[Watford F.C.|Watford]]
+|goals1= [[Didier Drogba|Drogba]] {{goal|27||36||69}}<br/>[[Michael Ballack|Ballack]] {{yel|40}}<br/>[[Andriy Shevchenko|Shevchenko]] {{goal|52}}
+|goals2= [[Lloyd Doyley|Doyley]] {{yel|45}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= [[Fulham]] ([[West London]])
+|attendance=41,936
+|referee=[[Howard Webb]]
+|result=W
+}}
+{{football box collapsible
+|round=13
+|date=18 November 2006
+|time=15:00
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 1–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6138842.stm (Report)]
+|team2=[[West Ham United F.C.|West Ham United]]
+|goals1= [[Frank Lampard|Lampard]] {{yel|18}}<br/>[[Geremi Njitap|Geremi]] {{goal|22}}
+|goals2= [[Danny Gabbidon|Gabbidon]] {{yel|21}}<br/>[[Nigel Reo-Coker|Reo-Coker]] {{yel|68}}<br/>[[Hayden Mullins|Mullins]] {{yel|71}}<br/>[[Carlos Tevez|Tevez]] {{yel|74}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= [[Fulham]] ([[West London]])
+|attendance=41,916
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=W
+}}
+{{football box collapsible
+|round=14
+|date=26 November 2006
+|time=16:00
+|team1=[[Manchester United F.C.|Manchester United]]
+|score= 1–1
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6161090.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Louis Saha|Saha]] {{goal|29}}<br/>[[Michael Carrick|Carrick]] {{yel|55}}
+|goals2= [[Claude Makelele|Makelele]] {{yel|21}}<br/>[[Didier Drogba|Drogba]] {{yel|36}}<br/>[[Ricardo Carvalho|Carvalho]] {{goal|69}}<br/>[[Ashley Cole|A. Cole]] {{yel|85}}
+|stadium=[[Old Trafford]], [[Manchester]]
+|attendance=75,948
+|referee=[[Howard Webb]]
+|result=D
+}}
+{{football box collapsible
+|round=15
+|date=29 November 2006
+|time=20:00
+|team1=[[Bolton Wanderers F.C.|Bolton Wanderers]]
+|score= 0–1
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6183150.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Iván Campo|Campo]] {{yel|34}}<br/>[[Abdoulaye Faye|Faye]] {{yel|45+4}}<br/>[[Kevin Nolan|Nolan]] {{yel|89}}
+|goals2= [[Ricardo Carvalho|Carvalho]] {{yel|40}}<br/>[[Michael Ballack|Ballack]] {{goal|45}}
+|stadium=[[Reebok Stadium]], [[Bolton]]
+|attendance=23,559
+|referee=[[Steve Bennett (referee)|Steve Bennett]]
+|result=W
+}}
+{{football box collapsible
+|round=16
+|date=10 December 2006
+|time=16:00
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 1–1
+|report=[https://news.bbc.co.uk/sport1/hi/football/eng_prem/6201520.stm (Report)]
+|team2=[[Arsenal F.C.|Arsenal]]
+|goals1=[[Ashley Cole|A. Cole]] {{yel|24}}<br/>[[Didier Drogba|Drogba]] {{yel|66}}<br/>[[Michael Essien|Essien]] {{goal|84}}
+|goals2=[[Mathieu Flamini|Flamini]] {{yel|55}} {{goal|78}}<br/>[[Jens Lehmann|Lehmann]] {{yel|65}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= [[Fulham]] ([[West London]])
+|attendance=41,917
+|referee=[[Alan Wiley]]
+|result=D
+}}
+{{football box collapsible
+|round=17
+|date=13 December 2006
+|time=19:45
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 1–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6164269.stm (Report)]
+|team2=[[Newcastle United F.C.|Newcastle United]]
+|goals1= [[Michael Essien|Essien]] {{yel|62}}<br/>[[Didier Drogba|Drogba]] {{goal|74}}<br/>[[Claude Makelele|Makelele]] {{yel|90+4}}
+|goals2= [[Peter Ramage|Ramage]] {{yel|77}}<br/>[[Celestine Babayaro|Babayaro]] {{yel|90+1}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= [[Fulham]] ([[West London]])
+|attendance=41,945
+|referee=[[Phil Dowd]]
+|result=W
+}}
+{{football box collapsible
+|round=18
+|date=17 December 2006
+|time=13:45
+|team1=[[Everton F.C.|Everton]]
+|score= 2–3
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6164433.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Mikel Arteta|Arteta]] {{goal|38|pen.}}<br/>[[Joseph Yobo|Yobo]] {{goal|64}}<br/>[[Phil Neville|Neville]] {{yel|83}}
+|goals2= [[Tim Howard|Howard]] {{goal|49|o.g.}}<br/>[[Ricardo Carvalho|Carvalho]] {{yel|50}}<br/>[[Frank Lampard|Lampard]] {{goal|81}}<br/>[[Didier Drogba|Drogba]] {{goal|87}}
+|stadium=[[Goodison Park]], [[Liverpool]]
+|attendance=33,970
+|referee=[[Mark Halsey]]
+|result=W
+}}
+{{football box collapsible
+|round=19
+|date=23 December 2006
+|time=17:15
+|team1=[[Wigan Athletic F.C.|Wigan Athletic]]
+|score= 2–3
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6185707.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Emile Heskey|Heskey]] {{goal|45||75}}, {{yel|72}}<br/>[[Arjan De Zeeuw|De Zeeuw]] {{yel|90+6}}<br/>[[Kevin Kilbane|Kilbane]] {{yel|90+6}}
+|goals2= [[Frank Lampard|Lampard]] {{goal|13}}, {{yel|68}}<br/>[[Salomon Kalou|Kalou]] {{goal|31}}<br/>[[Arjen Robben|Robben]] {{yel|44}}, {{goal|90+3}}<br/>[[Khalid Boulahrouz|Boulahrouz]] {{yel|47}}<br/>[[Mikel John Obi|Mikel]] {{yel|87}}
+|stadium=[[JJB Stadium]], [[Wigan]]
+|attendance=22,077
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=W
+}}
+{{football box collapsible
+|round=20
+|date=26 December 2006
+|time=13:00
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 2–2
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6200073.stm (Report)]
+|team2=[[Reading F.C.|Reading]]
+|goals1= [[Didier Drogba|Drogba]] {{goal|38||72}}<br/>[[Michael Ballack|Ballack]] {{yel|88}}
+|goals2= [[Leroy Lita|Lita]] {{goal|67}}, {{yel|75}}<br/>[[Michael Essien|Essien]] {{goal|85|o.g.}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= [[Fulham]] ([[West London]])
+|attendance=41,885
+|referee=[[Alan Wiley]]
+|result=D
+}}
+{{football box collapsible
+|round=21
+|date=30 December 2006
+|time=15:00
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 2–2
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6205605.stm (Report)]
+|team2=[[Fulham F.C.|Fulham]]
+|goals1= [[Liam Rosenior|Rosenior]] {{goal|35|o.g.}}<br/>[[Paulo Ferreira|Ferreira]] {{yel|45+1}}<br/>[[Didier Drogba|Drogba]] {{goal|62}}
+|goals2= [[Moritz Volz|Volz]] {{goal|16}}<br/>[[Carlos Bocanegra|Bocanegra]] {{goal|84}}<br/>[[Franck Queudrue|Queudrue]] {{yel|86}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= [[Fulham]] ([[West London]])
+|attendance=41,926
+|referee=[[Howard Webb]]
+|result=D
+}}
+{{football box collapsible
+|round=22
+|date=2 January 2007
+|time=20:00
+|team1=[[Aston Villa F.C.|Aston Villa]]
+|score= 0–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6213861.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Gavin McCann|McCann]] {{yel|45}}
+|goals2= [[Didier Drogba|Drogba]] {{yel|48}}<br/>[[Ashley Cole|A. Cole]] {{yel|71}}<br/>[[Ricardo Carvalho|Carvalho]] {{yel|71}}
+|stadium=[[Villa Park]], [[Birmingham]]
+|attendance=41,006
+|referee=[[Phil Dowd]]
+|result=D
+}}
+{{football box collapsible
+|round=23
+|date=13 January 2007
+|time=15:00
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 4–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6236703.stm (Report)]
+|team2=[[Wigan Athletic F.C.|Wigan Athletic]]
+|goals1= [[Frank Lampard|Lampard]] {{goal|13}}<br/>[[Arjen Robben|Robben]] {{goal|63}}<br/>[[Chris Kirkland|Kirkland]] {{goal|70|o.g.}}<br/>[[Didier Drogba|Drogba]] {{yel|75}}, {{goal|90+2}}
+|goals2= [[Lee McCulloch|McCulloch]] {{yel|26}}<br/>[[David Cotterill|Cotterill]] {{yel|32}}<br/>[[Kristofer Haestad|Haestad]] {{yel|50}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= [[Fulham]] ([[West London]])
+|attendance=40,846
+|referee=[[Martin Atkinson]]
+|result=W
+}}
+{{football box collapsible
+|round=24
+|date=20 January 2007
+|time=12:45
+|team1=[[Liverpool F.C.|Liverpool]]
+|score= 2–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6258681.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Dirk Kuyt|Kuyt]] {{goal|4}}<br/>[[Jermaine Pennant|Pennant]] {{goal|18}}
+|goals2= [[Paulo Ferreira|Ferreira]] {{yel|70}}
+|stadium=[[Anfield]], [[Liverpool]]
+|attendance=44,245
+|referee=[[Rob Styles]]
+|result=L
+}}
+{{football box collapsible
+|round=25
+|date=31 January 2007
+|time=19:45
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 3–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/6309645.stm (Report)]
+|team2=[[Blackburn Rovers F.C.|Blackburn Rovers]]
+|goals1= [[Didier Drogba|Drogba]] {{goal|6}}<br/>[[Frank Lampard|Lampard]] {{goal|67}}<br/>[[Salomon Kalou|Kalou]] {{goal|90}}
+|goals2= [[Christopher Samba|Samba]] {{yel|86}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= [[Fulham]] ([[West London]])
+|attendance=37,967
+|referee=[[Graham Poll]]
+|result=W
+}}
+{{football box collapsible
+|round=26
+|date=3 February 2007
+|time=15:00
+|team1=[[Charlton Athletic F.C.|Charlton Athletic]]
+|score= 0–1
+|report=[https://news.bbc.co.uk/sport1/hi/football/eng_prem/6305409.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2= [[Frank Lampard|Lampard]] {{goal|18}}<br/>[[Lassana Diarra|Diarra]] {{yel|36}}
+|stadium=[[The Valley (London)|The Valley]], [[London]]
+|attendance=27,111
+|referee=[[Mark Halsey]]
+|result=W
+}}
+{{football box collapsible
+|round=27
+|date=10 February 2007
+|time=15:00
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 3–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6327029.stm (Report)]
+|team2=[[Middlesbrough F.C.|Middlesbrough]]
+|goals1= [[Didier Drogba|Drogba]] {{goal|45||83}}<br/>[[Abel Xavier|Xavier]] {{goal|70|o.g.}}
+|goals2= [[Stewart Downing|Downing]] {{yel|48}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= [[Fulham]] ([[West London]])
+|attendance=41,699
+|referee=[[Chris Foy (referee)|Chris Foy]]
+|result=W
+}}
+{{football box collapsible
+|round=28
+|date=3 March 2007
+|time=17:15
+|team1=[[Portsmouth F.C.|Portsmouth]]
+|score= 0–2
+|report=[https://news.bbc.co.uk/sport1/hi/football/eng_prem/6392451.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2= [[Michael Ballack|Ballack]] {{yel|25}}<br/>[[Didier Drogba|Drogba]] {{goal|33}}<br/>[[Claude Makelele|Makelele]] {{yel|68}}<br/>[[Salomon Kalou|Kalou]] {{goal|82}}
+|stadium=[[Fratton Park]], [[Portsmouth]]
+|attendance=20,219
+|referee=[[Mark Halsey]]
+|result=W
+}}
+{{football box collapsible
+|round=29
+|date=14 March 2007
+|time=20:00
+|team1=[[Manchester City F.C.|Manchester City]]
+|score= 0–1
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6437219.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Dietmar Hamann|Hamann]] {{yel|60}}<br/>[[Richard Dunne|Dunne]] {{yel|68}}<br/>[[Micah Richards|Richards]] {{yel|82}}
+|goals2= [[Frank Lampard|Lampard]] {{goal|28|pen.}}<br/>[[Didier Drogba|Drogba]] {{yel|82}}<br/>[[Michael Ballack|Ballack]] {{yel|89}}
+|stadium=[[City of Manchester Stadium]], [[Manchester]]
+|attendance=39,429
+|referee=[[Alan Wiley]]
+|result=W
+}}
+{{football box collapsible
+|round=30
+|date=17 March 2007
+|time=15:00
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 3–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6437227.stm (Report)]
+|team2=[[Sheffield United F.C.|Sheffield United]]
+|goals1= [[Andriy Shevchenko|Shevchenko]] {{goal|4}}<br/>[[Salomon Kalou|Kalou]] {{goal|17}}<br/>[[Michael Ballack|Ballack]] {{goal|58}}
+|goals2=
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= [[Fulham]] ([[West London]])
+|attendance=41,897
+|referee=[[Chris Foy (referee)|Chris Foy]]
+|result=W
+}}
+{{football box collapsible
+|round=31
+|date=31 March 2007
+|time=17:15
+|team1=[[Watford F.C.|Watford]]
+|score= 0–1
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6491081.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Damien Francis|Francis]] {{yel|24}}
+|goals2= [[Shaun Wright-Phillips|Wright-Phillips]] {{yel|66}}<br/>[[Paulo Ferreira|Ferreira]] {{yel|76}}<br/>[[Ricardo Carvalho|Carvalho]] {{yel|90+1}}<br/>[[Salomon Kalou|Kalou]] {{goal|90+2}}
+|stadium=[[Vicarage Road]], [[Watford]]
+|attendance=19,793
+|referee=[[Uriah Rennie]]
+|result=W
+}}
+{{football box collapsible
+|round=32
+|date=7 April 2007
+|time=12:45
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 1–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6513349.stm (Report)]
+|team2=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1= [[Ricardo Carvalho|Carvalho]] {{goal|52}}<br/>[[Joe Cole|J. Cole]] {{yel|90+5}}<br/>[[Didier Drogba|Drogba]] {{yel|90+5}}
+|goals2= [[Hossam Ghaly|Ghaly]] {{yel|17}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= [[Fulham]] ([[West London]])
+|attendance=41,864
+|referee=[[Rob Styles]]
+|result=W
+}}
+{{football box collapsible
+|round=33
+|date=18 April 2007
+|time=20:00
+|team1=[[West Ham United F.C.|West Ham United]]
+|score= 1–4
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6555237.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Nigel Reo-Coker|Reo-Coker]] {{yel|12}}<br/>[[Lucas Neill|Neill]] {{yel|15}}<br/>[[Carlos Tevez|Tevez]] {{goal|35}}<br/>[[Hayden Mullins|Mullins]] {{yel|77}}<br/>[[George McCartney (footballer)|McCartney]] {{yel|82}}<br/>[[Luís Boa Morte|Boa Morte]] {{yel|88}}
+|goals2= [[Lassana Diarra|Diarra]] {{yel|20}}<br/>[[Shaun Wright-Phillips|Wright-Phillips]] {{goal|31||36}}<br/>[[Salomon Kalou|Kalou]] {{goal|52}}<br/>[[Didier Drogba|Drogba]] {{yel|52}}, {{goal|62}}
+|stadium=[[Boleyn Ground]], [[London]]
+|attendance=34,966
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=W
+}}
+{{football box collapsible
+|round=34
+|date=22 April 2007
+|time=13:30
+|team1=[[Newcastle United F.C.|Newcastle United]]
+|score= 0–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6555257.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=[[Michael Essien|Essien]] {{yel|67}}<br/>[[Mikel John Obi|Mikel]] {{yel|83}}<br/>[[Frank Lampard|Lampard]] {{yel|86}}
+|stadium=[[St James' Park]], [[Newcastle upon Tyne|Newcastle]]
+|attendance=52,056
+|referee=[[Mark Halsey]]
+|result=D
+}}
+{{football box collapsible
+|round=35
+|date=28 April 2007
+|time=12:45
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 2–2
+|report=[https://news.bbc.co.uk/sport1/hi/football/eng_prem/6578777.stm (Report)]
+|team2=[[Bolton Wanderers F.C.|Bolton Wanderers]]
+|goals1= [[Salomon Kalou|Kalou]] {{goal|22}}<br>[[Jussi Jääskeläinen|Jääskeläinen]] {{goal|34|o.g.}}
+|goals2= [[Ľubomír Michalík|Michalík]] {{goal|19}} {{yel|56}}<br/>[[Ricardo Gardner|Gardner]] {{yel|26}}<br>[[Kevin Davies|Davies]] {{yel|50}}, {{goal|54}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= [[Fulham]] ([[West London]])
+|attendance=41,105
+|referee=[[Rob Styles]]
+|result=D
+}}
+{{football box collapsible
+|round=36
+|date=6 May 2007
+|time=16:00
+|team1=[[Arsenal F.C.|Arsenal]]
+|score= 1–1
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6602893.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1= [[Gilberto Silva|Gilberto]] {{goal|43|pen.}} <br/> [[Emmanuel Adebayor|Adebayor]] {{yel|49}}
+|goals2= [[Mikel John Obi|Mikel]] {{yel|31}} <br/> [[Khalid Boulahrouz|Boulahrouz]] {{sent off|0|43}} <br/> [[Michael Essien|Essien]] {{goal|70}}, {{yel|90+2}}
+|stadium=[[Emirates Stadium]], [[London]]
+|attendance=60,102
+|referee=[[Alan Wiley]]
+|result=D
+}}
+{{football box collapsible
+|round=37
+|date=9 May 2007
+|time=20:00
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 0–0
+|report=[https://news.bbc.co.uk/sport1/hi/football/eng_prem/6627707.stm (Report)]
+|team2=[[Manchester United F.C.|Manchester United]]
+|goals1=[[Mikel John Obi|Mikel]] {{yel|21}}<br/>[[Lassana Diarra|Diarra]] {{yel|51}}<br/>[[Michael Essien|Essien]] {{yel|56}}
+|goals2=[[Gabriel Heinze|Heinze]] {{yel|21}}<br/>[[Kieran Lee|Lee]] {{yel|46}}<br/>[[Wes Brown|Brown]] {{yel|47}}<br/>[[Chris Eagles|Eagles]] {{yel|58}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= [[Fulham]] ([[West London]])
+|attendance=41,794
+|referee=[[Graham Poll]]
+|result=D
+}}
+{{football box collapsible
+|round=38
+|date=13 May 2007
+|time=15:00
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 1–1
+|report=[https://news.bbc.co.uk/sport2/hi/football/eng_prem/6627785.stm (Report)]
+|team2=[[Everton F.C.|Everton]]
+|goals1= [[Wayne Bridge|Bridge]] {{yel|44}}<br/>[[Didier Drogba|Drogba]] {{goal|57}}<br/>[[Joe Cole|J. Cole]] {{yel|68}}
+|goals2= [[James Vaughan (footballer, born 1988)|Vaughan]] {{goal|50}}<br/>[[Lee Carsley|Carsley]] {{yel|59}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= [[Fulham]] ([[West London]])
+|attendance=41,746
+|referee=[[Mark Halsey]]
+|result=D
+}}
+
+===UEFA Champions League===
+
+====Group stage====
+{{main article|2006–07 UEFA Champions League group stage#Group A}}
+{{:2006–07 UEFA Champions League group stage|transcludesection=Group A|showteam=CHE}}
+{{football box collapsible
+|round=[[2006–07 UEFA Champions League group stage#Chelsea v Werder Bremen|1]]
+|date=12 September 2006
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score= 2–0
+|report=[https://web.archive.org/web/20121113152654/http://www.uefa.com/uefachampionsleague/season=2006/matches/round=2357/match=1116314/postmatch/report/index.html Report]
+|team2={{flagicon|GER}} [[SV Werder Bremen|Werder Bremen]]
+|goals1= [[Michael Essien|Essien]] {{goal|24}}<br>[[Michael Ballack|Ballack]] {{goal|68|pen.}}
+|goals2=
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=[[London]], England
+|attendance=32,135
+|referee=[[Kyros Vassaras]] ([[Hellenic Football Federation|Greece]])
+|result=W
+}}
+{{football box collapsible
+|round=[[2006–07 UEFA Champions League group stage#Levski Sofia v Chelsea|2]]
+|date=27 September 2006
+|time=19:45 [[British Summer Time|BST]]
+|team1= [[PFC Levski Sofia|Levski Sofia]] {{flagicon|BUL}}
+|score= 1–3
+|report=[https://web.archive.org/web/20131021005327/http://www.uefa.com/uefachampionsleague/season=2006/matches/Round=2357/match=1116330/index.html Report]
+|team2={{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1= [[Marian Ognyanov|Ognyanov]] {{goal|89}}
+|goals2= [[Didier Drogba|Drogba]] {{goal|39||52||68}}
+|stadium=[[Vasil Levski National Stadium]]
+|location=[[Sofia]], [[Bulgaria]]
+|attendance=28,000
+|referee=[[Laurent Duhamel]] ([[French Football Federation|France]])
+|result=W
+}}
+{{football box collapsible
+|round=[[2006–07 UEFA Champions League group stage#Chelsea v Barcelona|3]]
+|date=18 October 2006
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score= 1–0
+|report=[https://web.archive.org/web/20120419190456/http://www.uefa.com/uefachampionsleague/season=2006/matches/round=2357/match=1116347/index.html Report]
+|team2={{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1= [[Didier Drogba|Drogba]] {{goal|47}}
+|goals2=
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=[[London]], England
+|attendance=40,599
+|referee=[[Frank De Bleeckere]] ([[Royal Belgian Football Association|Belgium]])
+|result=W
+}}
+{{football box collapsible
+|round=[[2006–07 UEFA Champions League group stage#Barcelona v Chelsea|4]]
+|date=31 October 2006
+|time=19:45 [[British Summer Time|BST]]
+|team1= [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score= 2–2
+|report=[https://web.archive.org/web/20131022111739/http://www.uefa.com/uefachampionsleague/season=2006/matches/round=2357/match=1116363/postmatch/report/index.html Report]
+|team2={{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1= [[Deco]] {{goal|3}}<br>[[Eiður Guðjohnsen|Guðjohnsen]] {{goal|58}}
+|goals2= [[Frank Lampard|Lampard]] {{goal|52}}<br>[[Didier Drogba|Drogba]] {{goal|90+3}}
+|stadium=[[Camp Nou]]
+|location=[[Barcelona]], [[Spain]]
+|attendance=98,000
+|referee=[[Stefano Farina]] ([[Italian Football Federation|Italy]])
+|result=D
+}}
+{{football box collapsible
+|round=[[2006–07 UEFA Champions League group stage#Werder Bremen v Chelsea|5]]
+|date=22 November 2006
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[SV Werder Bremen|Werder Bremen]] {{flagicon|GER}}
+|score=1–0
+|report=[https://web.archive.org/web/20131022132132/http://www.uefa.com/uefachampionsleague/season=2006/matches/round=2357/match=1116378/postmatch/report/index.html Report]
+|team2={{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1= [[Per Mertesacker|Mertesacker]] {{goal|27}}
+|goals2=
+|stadium=[[Weserstadion]]
+|location=[[Bremen]], [[Germany]]
+|attendance=40,000
+|referee=[[Ľuboš Micheľ]] ([[Slovak Football Association|Slovakia]])
+|result=L
+}}
+{{football box collapsible
+|round=[[2006–07 UEFA Champions League group stage#Chelsea v Levski Sofia|6]]
+|date=5 December 2006
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score=2–0
+|report=[https://web.archive.org/web/20131021141711/http://www.uefa.com/uefachampionsleague/season=2006/matches/round=2357/match=1116394/postmatch/report/index.html Report]
+|team2={{flagicon|BUL}} [[PFC Levski Sofia|Levski Sofia]]
+|goals1= [[Andriy Shevchenko|Shevchenko]] {{goal|27}}<br>[[Shaun Wright-Phillips|Wright-Phillips]] {{goal|83}}
+|goals2=
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=[[London]], England
+|attendance=33,383
+|referee=[[Alain Hamer]] ([[Luxembourg Football Federation|Luxembourg]])
+|result=W
+}}
+
+====Knockout phase====
+{{main article|2006–07 UEFA Champions League knockout stage}}
+
+=====Round of 16=====
+{{football box collapsible
+|round=[[2006–07 UEFA Champions League knockout stage#Porto v Chelsea|First leg]]
+|date=21 February 2007
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[FC Porto|Porto]] {{flagicon|POR}}
+|score=1–1
+|report=[https://www.uefa.com/uefachampionsleague/news/01be-0ea8a02bd466-ebe0e1b7e099-1000--porto-draw-suits-chelsea/ Report]
+|team2={{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=[[Raul Meireles|Meireles]] {{goal|12}}
+|goals2=[[Andriy Shevchenko|Shevchenko]] {{goal|16}}
+|stadium=[[Estádio do Dragão]]
+|location=[[Porto]], [[Portugal]]
+|attendance=49,000
+|referee=[[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])
+|result=D
+}}
+{{football box collapsible
+|round=[[2006–07 UEFA Champions League knockout stage#Chelsea v Porto|Second leg]]
+|date=6 March 2007
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score=2–1
+|aggregatescore = 3–2
+|report=[https://www.uefa.com/uefachampionsleague/news/01bf-0ea8a221006b-96b8ee8d8b07-1000--porto-sunk-by-ballack-strike/ Report]
+|team2={{flagicon|POR}} [[FC Porto|Porto]]
+|goals1=[[Arjen Robben|Robben]] {{goal|48}}<br />[[Michael Ballack|Ballack]] {{goal|78}}
+|goals2=[[Ricardo Quaresma|Quaresma]] {{goal|15}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=[[London]], England
+|attendance=39,041
+|referee=[[Roberto Rosetti]] ([[Italian Football Federation|Italy]])
+|result=W
+}}
+
+=====Quarter-finals=====
+{{football box collapsible
+|round=[[2006–07 UEFA Champions League knockout stage#Chelsea v Valencia|First leg]]
+|date=4 April 2007
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score=1–1
+|report=[https://web.archive.org/web/20070407060459/http://www.uefa.com/competitions/ucl/fixturesresults/round=2359/match=300134/report=rp.html Report]
+|team2={{flagicon|ESP}} [[Valencia CF|Valencia]]
+|goals1=[[Didier Drogba|Drogba]] {{goal|53}}
+|goals2=[[David Silva|Silva]] {{goal|30}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=[[London]], England
+|attendance=38,065
+|referee=[[Frank De Bleeckere]] ([[Royal Belgian Football Association|Belgium]])
+|result=D
+}}
+{{football box collapsible
+|round=[[2006–07 UEFA Champions League knockout stage#Valencia v Chelsea|Second leg]]
+|date=10 April 2007
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Valencia CF|Valencia]] {{flagicon|ESP}}
+|score=1–2
+|aggregatescore = 2–3
+|report=[https://web.archive.org/web/20070416022331/http://www.uefa.com/competitions/ucl/fixturesresults/round=2359/match=300135/report=rp.html Report]
+|team2={{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=[[Fernando Morientes|Morientes]] {{goal|32}}
+|goals2=[[Andriy Shevchenko|Shevchenko]] {{goal|52}}<br />[[Michael Essien|Essien]] {{goal|90}}
+|stadium=[[Estadio Mestalla]]
+|location=[[Valencia, Spain|Valencia]], [[Spain]]
+|attendance=53,000
+|referee=[[Kyros Vassaras]] ([[Hellenic Football Federation|Greece]])
+|result=W
+}}
+
+=====Semi-finals=====
+{{football box collapsible
+|round=[[2006–07 UEFA Champions League knockout stage#Chelsea v Liverpool|First leg]]
+|date=25 April 2007
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score=1–0
+|team2={{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|report=[https://web.archive.org/web/20070427064700/http://www.uefa.com/competitions/ucl/fixturesresults/round=2360/match=300136/report=rp.html Report]
+|goals1=[[Joe Cole|J. Cole]] {{goal|29}}
+|goals2=
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]]
+|location=[[London]], England
+|attendance=39,483
+|referee=[[Markus Merk]] ([[German Football Association|Germany]])
+|result=W
+}}
+{{football box collapsible
+|round=[[2006–07 UEFA Champions League knockout stage#Liverpool v Chelsea|Second leg]]
+|date=1 May 2007
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Liverpool F.C.|Liverpool]] {{flagicon|ENG}}
+|score=1–0
+|aggregatescore = 1–1 
+|aet=yes
+|report={{Deprecated archive|url=https://archive.today/20070503032942/http://www.uefa.com/competitions/ucl/fixturesresults/round=2360/match=300137/report=rp.html|title=Report}}
+|team2={{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=[[Daniel Agger|Agger]] {{goal|22}}
+|goals2=
+|stadium=[[Anfield]]
+|location=[[Liverpool]], [[England]]
+|attendance=42,554
+|referee=[[Manuel Mejuto González]] ([[Royal Spanish Football Federation|Spain]])
+|penaltyscore=4–1
+|penalties1=[[Boudewijn Zenden|Zenden]] {{pengoal}}<br />[[Xabi Alonso|Alonso]] {{pengoal}}<br />[[Steven Gerrard|Gerrard]] {{pengoal}}<br />[[Dirk Kuyt|Kuyt]] {{pengoal}}
+|penalties2={{penmiss}} [[Arjen Robben|Robben]]<br />{{pengoal}} [[Frank Lampard|Lampard]] <br />{{penmiss}} [[Geremi Njitap|Geremi]]
+|result=L
+}}
+
+===Football League Cup===
+{{main article|2006–07 Football League Cup}}
+====Third round====
+{{football box collapsible
+|round=Third round
+|date=25 October 2006
+|team1=[[Blackburn Rovers F.C.|Blackburn Rovers]]
+|score= 0–2
+|report=[https://news.bbc.co.uk/sport2/hi/football/league_cup/6072594.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=[[Joe Cole|J. Cole]] {{goal|53}}<br />[[Salomon Kalou|Kalou]] {{goal|81}}
+|stadium=[[Ewood Park]], [[Blackburn]]
+|attendance=14,732
+|referee=
+|result=W
+}}
+====Fourth round====
+{{football box collapsible
+|round=
+|date=8 November 2006
+|team1=[[Chelsea F.C.|Chelsea]]
+|score=4–0
+|report= [https://news.bbc.co.uk/sport2/hi/football/league_cup/6116396.stm (report)]
+|team2=[[Aston Villa F.C.|Aston Villa]]
+|goals1=[[Frank Lampard|Lampard]] {{goal|32}}<br />[[Andriy Shevchenko|Shevchenko]] {{goal|65}}<br />[[Michael Essien|Essien]] {{goal|82}}<br />[[Didier Drogba|Drogba]] {{goal|84}}
+|goals2=
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,516
+|referee=[[Mark Halsey]]
+|result=W
+}}
+====Quarterfinals====
+{{football box collapsible
+|round=
+|date=20 December 2006
+|team1=[[Newcastle United F.C.|Newcastle United]]
+|score=0–1
+|report= [https://news.bbc.co.uk/sport2/hi/football/league_cup/6185611.stm (report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=[[Didier Drogba|Drogba]] {{goal|79}}
+|stadium=[[St James' Park]], [[Newcastle upon Tyne]]
+|attendance=37,406
+|referee=[[Chris Foy (referee)|Chris Foy]]
+|result=W
+}}
+====Semifinals====
+{{football box collapsible
+|round=1
+|date=10 January 2007
+|team1=[[Wycombe Wanderers F.C.|Wycombe Wanderers]]
+|score=1–1
+|report= [https://news.bbc.co.uk/sport2/hi/football/league_cup/6236711.stm (report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Jermaine Easter|Easter]] {{goal|77}}
+|goals2=[[Wayne Bridge|Bridge]] {{goal|36}}
+|stadium=[[Adams Park]], [[High Wycombe]]
+|attendance=9,771
+|referee=[[Steve Bennett (referee)|Steve Bennett]]
+|result=D
+}}
+{{football box collapsible
+|round=2
+|date=23 January 2007
+|team1=[[Chelsea F.C.|Chelsea]]
+|score=4–0
+|report= [https://news.bbc.co.uk/sport2/hi/football/league_cup/6282077.stm (report)]
+|team2=[[Wycombe Wanderers F.C.|Wycombe Wanderers]]
+|goals1=[[Andriy Shevchenko|Shevchenko]] {{goal|22||43}}<br />[[Frank Lampard|Lampard]] {{goal|69||90}}
+|goals2=
+|stadium=[[Stamford Bridge Stadium|Stamford Bridge]], [[London]]
+|attendance=41,591
+|referee=[[Mike Dean (referee)|Mike Dean]]
+|result=W
+}}
+====Final====
+{{main|2007 Football League Cup Final}}
+{{football box collapsible
+|round=
+|date=25 February 2007
+|time=15:00
+|team1=[[Arsenal F.C.|Arsenal]]
+|score=1–2
+|report=[https://news.bbc.co.uk/sport2/hi/football/league_cup/6371613.stm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Theo Walcott|Walcott]] {{goal|12}}
+|goals2=[[Didier Drogba|Drogba]] {{goal|20||84}}
+|stadium=[[Millennium Stadium]], [[Cardiff]]
+|attendance=70,073
+|motm           = {{flagicon|CIV}} [[Didier Drogba]] 
+|referee=[[Howard Webb]]
+|result=W
+}}
+
+===FA Cup===
+{{main article|2006–07 FA Cup}}
+====Third round====
+{{football box collapsible
+|round=
+|date=6 January 2007
+|time=15:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 6–1
+|report=[https://www.theguardian.com/football/2007/jan/07/match.chelsea (Report)]
+|team2=[[Macclesfield Town F.C.|Macclesfield Town]]
+|goals1= [[Frank Lampard|Lampard]] {{goal|17||41||51|pen.}}<br>[[Andriy Shevchenko|Shevchenko]] {{yel|45+2}}<br>[[Shaun Wright-Phillips|Wright-Phillips]] {{goal|68}}<br>[[Ashley Cole|A.Cole]] {{yel|78}}<br>[[Mikel John Obi|Mikel]] {{yel|26}}, {{goal|82}}<br>[[Ricardo Carvalho|Carvalho]] {{goal|86}}
+|goals2= [[Alan Navarro|Navarro]] {{yel|37}}<br>[[John Murphy (footballer, born 1976)|Murphy]] {{goal|40}}<br>[[Tommy Lee (footballer)|Lee]] {{sent off|0|48}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,434
+|referee= [[Lee Mason]]
+|result=W
+}}
+====Fourth round====
+{{football box collapsible
+|round=
+|date=28 January 2007
+|time=14:00 GMT
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 3–0
+|report=[https://news.bbc.co.uk/sport2/hi/football/fa_cup/6282195.stm (Report)]
+|team2=[[Nottingham Forest F.C.|Nottingham Forest]]
+|goals1=[[Andriy Shevchenko|Shevchenko]] {{goal|9}}<br>[[Didier Drogba|Drogba]] {{goal|18}}<br />[[Mikel John Obi|Mikel]] {{goal|45}}
+|goals2= [[Sammy Clingan|Clingan]] {{yel|65}}<br>[[Jack Lester|Lester]] {{yel|90+1}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,516
+|referee=[[Alan Wiley]]
+|result=W
+}}
+====Fifth round====
+{{football box collapsible
+|round=Fifth round
+|date=17 February 2007
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 4–0
+|report=[http://www.chelseafc.com/page/NewsHomePage/0,,10268~1243225,00.html (Report)]
+|team2=[[Norwich City F.C.|Norwich City]]
+|goals1=[[Shaun Wright-Phillips|Wright-Phillips]] {{goal|39}}<br>[[Didier Drogba|Drogba]] {{goal|51}}<br>[[Michael Essien|Essien]] {{goal|90}}<br>[[Andriy Shevchenko|Shevchenko]] {{goal|90}}
+|goals2=
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,537
+|referee=[[Rob Styles]]
+|result=W
+}}
+====Sixth round====
+{{football box collapsible
+|round=
+|date=11 March 2007
+|time=12:45
+|team1=[[Chelsea F.C.|Chelsea]]
+|score=3–3
+|report=[http://www.thefa.com/TheFACup/TheFACup/NewsAndFeatures/Postings/2007/03/FACup_ChelseaQF.htm (Report)]
+|team2=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1=[[Frank Lampard|Lampard]] {{goal|22||71}}<br />[[Salomon Kalou|Kalou]] {{goal|86}}
+|goals2=[[Dimitar Berbatov|Berbatov]] {{goal|5}}<br />[[Michael Essien|Essien]] {{goal|28|o.g.}}<br />[[Hossam Ghaly|Ghaly]] {{goal|36}}
+|stadium=[[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance=41,517
+|referee=[[Mike Riley (referee)|Mike Riley]]
+|result=D
+}}
+{{football box collapsible
+|round=Replay
+|date=19 March 2007
+|time=20:05
+|team1=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|score=1–2
+|report=[http://www.thefa.com/TheFACup/TheFACup/NewsAndFeatures/Postings/FACup_Blues2-1.htm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Robbie Keane|Keane]] {{goal|76|pen.}}
+|goals2=[[Andriy Shevchenko|Shevchenko]] {{goal|54}}<br /> [[Shaun Wright-Phillips|Wright-Phillips]] {{goal|61}}
+|stadium=[[White Hart Lane]], [[London]]
+|attendance=35,519
+|referee=[[Martin Atkinson]]
+|result=W
+}}
+====Semifinals====
+{{football box collapsible
+|round=
+|date=15 April 2007
+|time=16:00
+|team1=[[Blackburn Rovers F.C.|Blackburn Rovers]]
+|score=1–2
+|aet=yes
+|report=[https://web.archive.org/web/20080621052405/https://www.thefa.com/TheFACup/TheFACup/NewsAndFeatures/Postings/2007/04/ChelseaReport.htm (Report)]
+|team2=[[Chelsea F.C.|Chelsea]]
+|goals1=[[Jason Roberts (footballer)|Roberts]] {{goal|64}}
+|goals2=[[Frank Lampard|Lampard]] {{goal|16}}<br /> [[Michael Ballack|Ballack]] {{goal|109}}
+|stadium=[[Old Trafford]], [[Manchester]]
+|attendance=50,559
+|referee=[[Alan Wiley]]
+|result=W
+}}
+
+====Final====
+{{main|2007 FA Cup Final}}
+{{football box collapsible
+|round=
+|date=19 May 2007
+|time=15:00
+|team1=[[Chelsea F.C.|Chelsea]]
+|score=1–0
+|aet=yes
+|team2=[[Manchester United F.C.|Manchester United]]
+|report=[http://www.thefa.com/TheFACup/TheFACup/NewsAndFeatures/Postings/2007/03/CupFinal_Report.htm (Report)]
+|goals1=[[Didier Drogba|Drogba]] {{goal|116}}
+|goals2=
+|stadium=[[Wembley Stadium]], [[London]]
+|attendance=89,826
+|motm           = {{flagicon|ENG}} [[Frank Lampard]] 
+|referee=[[Steve Bennett (referee)|Steve Bennett]]<ref>{{cite web|url=http://www.thefa.com/TheFACup/TheFACup/NewsAndFeatures/Postings/2007/04/CupFinalReferee.htm |archive-url=https://archive.today/20080704025810/http://www.thefa.com/TheFACup/TheFACup/NewsAndFeatures/Postings/2007/04/CupFinalReferee.htm |url-status=dead |archive-date=4 July 2008 |title=Bennett chosen for Final |access-date=19 April 2007 |publisher=The Football Association }}</ref>
+|result=W
+}}
+
+==Statistics==
+
+===Appearances and goals===
+{{Efs start|[[2006–07 FA Premier League|Premier League]]|[[2006–07 UEFA Champions League|Champions League]]|[[2006–07 FA Cup|FA Cup]]|[[2006–07 Football League Cup|League Cup]]}}
+{{Efs player|no=1|name=[[Petr Čech]]|pos=GK|nat=CZE|20|0|8|0|6|0|2|0}}
+{{Efs player|no=20|name=[[Paulo Ferreira]]|pos=DF|nat=POR|18+6|0|4+2|0|4+1|0|2|0}}
+{{Efs player|no=6|name=[[Ricardo Carvalho]]|pos=DF|nat=POR|31|3|10|0|5|1|4|0}}
+{{Efs player|no=26|name=[[John Terry]]|pos=DF|nat=ENG|27+1|1|10|0|4|0|2|0}}
+{{Efs player|no=3|name=[[Ashley Cole]]|pos=DF|nat=ENG|21+2|0|9|0|4+1|0|3|0}}
+{{Efs player|no=13|name=[[Michael Ballack]]|pos=MF|nat=GER|23+3|5|10|2|3|1|5+1|0}}
+{{Efs player|no=5|name=[[Michael Essien]]|pos=MF|nat=GHA|33|2|10|2|4+1|1|6|1}}
+{{Efs player|no=4|name=[[Claude Makélélé]]|pos=MF|nat=FRA|26+3|1|8+1|0|2|0|6|0}}
+{{Efs player|no=8|name=[[Frank Lampard]]|pos=MF|nat=ENG|36+1|11|11|1|7|6|3+3|3}}
+{{Efs player|no=11|name=[[Didier Drogba]]|pos=FW|nat=CIV|32+4|20|12|6|6|3|3+2|4}}
+{{Efs player|no=7|name=[[Andriy Shevchenko]]|pos=FW|nat=UKR|22+8|4|9+1|3|5+1|3|4|3}}
+{{Efs player|no=40|name=[[Henrique Hilário]]|pos=GK|nat=POR|11|-12|3|-2|1|-1|3|-1}}
+{{Efs player|no=21|name=[[Salomon Kalou]]|pos=FW|nat=CIV|19+14|7|2+9|0|1+6|1|3+3|1}}
+{{Efs player|no=18|name=[[Wayne Bridge]]|pos=DF|nat=ENG|17+5|0|3|0|3|0|4|1}}
+{{Efs player|no=16|name=[[Arjen Robben]]|pos=MF|nat=NED|16+5|2|3+5|1|2+2|0|2+1|0}}
+{{Efs player|no=14|name=[[Geremi Njitap|Geremi]]|pos=MF|nat=CMR|15+4|1|1+1|0|3|0|3|0}}
+{{Efs player|no=24|name=[[Shaun Wright-Phillips]]|pos=MF|nat=ENG|13+14|2|0+6|1|5+2|3|1+2|0}}
+{{Efs player|no=12|name=[[Mikel John Obi]]|pos=MF|nat=NGA|10+12|0|6+3|0|5+1|2|3+1|0}}
+{{Efs player|no=9|name=[[Khalid Boulahrouz]]|pos=DF|nat=NED|10+3|0|5|0|1+1|0|3|0}}
+{{Efs player|no=19|name=[[Lassana Diarra]]|pos=MF|nat=FRA|7+3|0|4+1|0|4|0|2+1|0}}
+{{Efs player|no=23|name=[[Carlo Cudicini]]|pos=GK|nat=ITA|7+1|-3|1|-1|0|0|1|0}}
+{{Efs player|no=10|name=[[Joe Cole]]|pos=MF|nat=ENG|3+10|0|3+4|1|2|0|1+1|1}}
+{{Efs player|no=49|name=[[Scott Sinclair]]|pos=FW|nat=ENG|1+1|0|0|0|0|0|0+1|0}}
+{{Efs player|no=47|name=[[Ben Sahar]]|pos=FW|nat=ISR|0+3|0|0|0|0+1|0|0+1|0}}
+{{Efs player|no=33|name=[[Nuno Morais]]|pos=DF|nat=POR|0+2|0|0|0|0+2|0|0+1|0}}
+{{Efs player|no=51|name=[[Sam Hutchinson]]|pos=DF|nat=ENG|0+1|0|0|0|0|0|0|0}}
+{{Efs player|no=48|name=[[Michael Woods (footballer, born 1990)|Michael Woods]]|pos=MF|nat=ENG|0|0|0|0|0+2|0|0|0}}
+|}
+
+==Summary==
+{|class="wikitable"
+|-
+|Games played     || '''64''' (38 [[Premier League]]), 7 ([[FA Cup]]), 12 ([[UEFA Champions League]]) 6 ([[Football League Cup]]) &  1 ([[FA Community Shield|Community Shield]])
+|-
+|Games won        || '''42''' (24 [[Premier League]]), 6 ([[FA Cup]]), 7 ([[UEFA Champions League]]) 5 ([[Football League Cup]]) & 0 ([[FA Community Shield|Community Shield]])
+|-
+|Games drawn      || '''16''' (11 [[Premier League]]), 1 ([[FA Cup]]), 3 ([[UEFA Champions League]]) 1 ([[Football League Cup]]) & 0 ([[FA Community Shield|Community Shield]])
+|-
+|Games lost       ||  '''6''' (3 [[Premier League]]), 0 ([[FA Cup]]), 2 ([[UEFA Champions League]]) 0 ([[Football League Cup]] & 1 ([[FA Community Shield|Community Shield]])
+|-
+|Goals scored     || '''117''' (64 [[Premier League]]), 21 ([[FA Cup]]), 17 ([[UEFA Champions League]]) 14 ([[Football League Cup]]) & 1 ([[FA Community Shield|Community Shield]])
+|-
+|Goals conceded   || '''43''' (24 [[Premier League]]), 6 ([[FA Cup]]), 9 ([[UEFA Champions League]]) 2 ([[Football League Cup]]) & 2 ([[FA Community Shield|Community Shield]])
+|- 
+|Goal difference  || '''+71''' +40 ([[Premier League]]),  +15 ([[FA Cup]]), +8 ([[UEFA Champions League]]) +12 ([[Football League Cup]]) & -1 ([[FA Community Shield|Community Shield]])
+|-
+|Clean sheets     || '''35''' (22 [[Premier League]]), 3 ([[FA Cup]]), 4 ([[UEFA Champions League]]) 4 ([[Football League Cup]]) & 0 ([[FA Community Shield|Community Shield]])
+|-
+|Most appearances || '''62''' {{flagicon|ENG}} [[Frank Lampard]]
+|-
+|Top scorer       || '''33''' {{flagicon|CIV}} [[Didier Drogba]]
+|-
+|Points           || Overall: 142/186 (76.34%)
+|}
+
+==Related media==
+Chelsea supporter Mark Worrall chronicled the 2006–07 season in his critically acclaimed book ''One Man Went To Mow'', which was first published in January 2008 and documented the manager José Mourinho's last full season as manager at Stamford Bridge.
+
+==References==
+{{Reflist}}
+
+==External links==
+
+{{Chelsea F.C. seasons}}
+{{2006–07 in English football}}
+
+{{DEFAULTSORT:2006-07 Chelsea F.C. Season}}
+[[Category:Chelsea F.C. seasons]]
+[[Category:2006–07 FA Premier League by team|Chelsea]]

@@ -1,0 +1,989 @@
+{{Short description|English football club season}}
+{{Use dmy dates|date=February 2015}}
+{{Use British English|date=February 2015}}
+{{Infobox football club season
+ | club              = [[Chelsea F.C.|Chelsea]]
+ | image             = 
+ | season            = 2002–03
+ | manager           = [[Claudio Ranieri]]
+ | chairman          = [[Ken Bates]]
+ | league            = [[Premier League]]
+ | league result     = [[2002–03 FA Premier League|4th]]
+ | cup1              = [[FA Cup]]
+ | cup1 result       = [[2002-03 FA Cup#Quarter-final|Quarter-final]]
+ | cup2              = [[Football League Cup|League Cup]]
+ | cup2 result       = [[2002-03 Football League Cup#Quarter-finals|Quarter-finals]]
+ | cup3              = [[UEFA Europa League|UEFA Cup]]
+ | cup3 result       = [[2002-03 UEFA Cup#First round|First round]]
+ | league topscorer  = <br />[[Gianfranco Zola]] (14)
+ | season topscorer  = <br />[[Gianfranco Zola]] (16)
+ | average attendance = 39,784 ('''Premier League''')
+ | pattern_b1  = _chelsea2001h
+ | pattern_la1 = _chelsea2001h
+ | pattern_ra1 = _chelsea2001h
+ | pattern_sh1 =
+ | leftarm1    = 0000FF
+ | body1       = 0000FF
+ | rightarm1   = 0000FF
+ | shorts1     = 0000FF
+ | socks1      = FFFFFF
+ | pattern_b2  = _chelsea2002a
+ | pattern_la2 = _chelsea2002a
+ | pattern_ra2 = _chelsea2002a
+ | pattern_sh2 = _CFC 03 05 black
+ | leftarm2    = 000000
+ | body2       = 000000
+ | rightarm2   = 000000
+ | shorts2     = 000000
+ | socks2      = 000000
+ | pattern_b3  = _chelsea2001a
+ | pattern_la3 = _chelsea2001
+ | pattern_ra3 = _chelsea2001
+ | pattern_sh3 = 
+ | leftarm3    = FFFFFF
+ | body3       = FFFFFF
+ | rightarm3   = FFFFFF
+ | shorts3     = FFFFFF
+ | socks3      = 0000FF
+ | prevseason        = [[2001–02 Chelsea F.C. season|2001–02]]
+ | nextseason        = [[2003–04 Chelsea F.C. season|2003–04]]
+}}
+The '''2002–03 season''' was [[Chelsea F.C.|Chelsea]]'s 89th competitive season, 11th consecutive season in the [[Premier League]] and 97th year as a club. The club was managed by [[Claudio Ranieri]].
+
+In the [[2002–03 FA Premier League|Premier League]], Chelsea finished fourth behind [[Manchester United F.C.|Manchester United]], [[Arsenal F.C.|Arsenal]] and [[Newcastle United F.C.|Newcastle United]]. With the fourth-place finish, Chelsea secured a place in the [[2003–04 UEFA Champions League|UEFA Champions League third qualifying round]].
+
+In the [[2002–03 UEFA Cup|UEFA Cup]], Chelsea took a first round exit, losing 5–4 on aggregate to [[Norway|Norwegian]] club [[Viking FK|Viking]]. Chelsea also managed to reach the quarter-finals of both the [[2002–03 Football League Cup|Football League Cup]] and the [[2002–03 FA Cup|FA Cup]], but lost 1–0 to [[Manchester United F.C.|Manchester United]] and 3–1 to [[Arsenal F.C.|Arsenal]] in a replay, respectively.
+
+==Final league table==
+{{main|2002–03 FA Premier League}}
+{{:2002–03 FA Premier League|showteam=CHE}}
+
+==First team squad==
+:''Squad at end of season''<ref>{{Cite web|url=http://www.footballsquads.co.uk/eng/2002-2003/faprem/chelsea.htm|title=FootballSquads - Chelsea - 2002/03|website=www.footballsquads.co.uk}}</ref>
+{{fs start}}
+{{Fs player|no=1|nat=NED|pos=GK|name=[[Ed de Goey]]}}
+{{Fs player|no=2|nat=ESP|pos=DF|name=[[Albert Ferrer]]}}
+{{Fs player|no=3|nat=NGA|pos=DF|name=[[Celestine Babayaro]]}}
+{{Fs player|no=6|nat=FRA|pos=DF|name=[[Marcel Desailly]]}}
+{{Fs player|no=7|nat=NED|pos=DF|name=[[Winston Bogarde]]}}
+{{Fs player|no=8|nat=ENG|pos=MF|name=[[Frank Lampard]]}}
+{{Fs player|no=9|nat=NED|pos=FW|name=[[Jimmy Floyd Hasselbaink]]}}
+{{Fs player|no=11|nat=NED|pos=MF|name=[[Boudewijn Zenden]]}}
+{{Fs player|no=12|nat=CRO|pos=MF|name=[[Mario Stanić]]}}
+{{Fs player|no=13|nat=FRA|pos=DF|name=[[William Gallas]]}}
+{{Fs player|no=14|nat=ENG|pos=DF|name=[[Graeme Le Saux]]}}
+{{Fs player|no=15|nat=NED|pos=DF|name=[[Mario Melchiot]]}}
+{{fs mid}}
+{{Fs player|no=17|nat=FRA|pos=MF|name=[[Emmanuel Petit]]}}
+{{Fs player|no=20|nat=ENG|pos=MF|name=[[Jody Morris]]}}
+{{Fs player|no=21|nat=ESP|pos=MF|name=[[Enrique de Lucas]]}}
+{{Fs player|no=22|nat=ISL|pos=FW|name=[[Eiður Guðjohnsen]]}}
+{{Fs player|no=23|nat=ITA|pos=GK|name=[[Carlo Cudicini]]}}
+{{Fs player|no=25|nat=ITA|pos=FW|name=[[Gianfranco Zola]]}}
+{{Fs player|no=26|nat=ENG|pos=DF|name=[[John Terry]]}}
+{{Fs player|no=28|nat=POR|pos=FW|name=[[Filipe Oliveira (footballer, born 1984)|Filipe Oliveira]]}}
+{{Fs player|no=29|nat=GER|pos=DF|name=[[Robert Huth]]}}
+{{Fs player|no=30|nat=DEN|pos=MF|name=[[Jesper Grønkjær]]}}
+{{Fs player|no=36|nat=ENG|pos=MF|name=[[Joe Keenan (footballer)|Joe Keenan]]}}
+{{Fs player|no=39|nat=ENG|pos=FW|name=[[Carlton Cole]]}}
+{{Fs end}}
+
+===Left club during season===
+{{Fs start}}
+{{Fs player|no=31|nat=AUS|pos=GK|name=[[Mark Bosnich]]|other=released}}
+{{Fs end}}
+
+==Reserve squad==
+{{Fs start}}
+{{Fs player|no=18|nat=GER|pos=FW|name=[[Sebastian Kneissl]]}}
+{{Fs player|no=19|nat=ITA|pos=DF|name=[[Valerio Di Cesare]]}}
+{{Fs player|no=24|nat=ITA|pos=MF|name=[[Gabriele Ambrosetti]]}}
+{{Fs player|no=27|nat=Cyprus|pos=MF|name=[[Alexis Nicolas]]}}
+{{Fs player|no=32|nat=FIN|pos=FW|name=[[Mikael Forssell]]}}
+{{Fs player|no=33|nat=ENG|pos=DF|name=[[Joel Kitamirike]]}}
+{{Fs player|no=34|nat=ENG|pos=DF|name=Scott Cousins}}
+{{Fs player|no=35|nat=ENG|pos=GK|name=[[Rhys Evans]]}}
+{{Fs player|no=37|nat=ENG|pos=MF|name=Danny Jeffreys}}
+{{Fs player|no=40|nat=ENG|pos=GK|name=[[Lenny Pidgeley]]}}
+{{Fs player|no=41|nat=SCO|pos=MF|name=Andy Ross}}
+{{Fs mid}}
+{{Fs player|no=42|nat=ENG|pos=MF|name=Billy Sentance}}
+{{Fs player|no=43|nat=ENG|pos=DF|name=Paul Thornton}}
+{{Fs player|no=44|nat=ENG|pos=DF|name=[[Sam Tillen]]}}
+{{Fs player|no=45|nat=ENG|pos=GK|name=Glenn Wizik}}
+{{Fs player|no=46|nat=ENG|pos=DF|name=[[Danny Woodards]]}}
+{{Fs player|no=|nat=SCO|pos=DF|name=[[Warren Cummings]]}}
+{{Fs player|no=|nat=POR|pos=DF|name=[[Mauro (footballer, born 1984)|Mauro]]}}
+{{Fs player|no=|nat=CIV|pos=DF|name=[[Jean-Yves Anis]]}}
+{{Fs player|no=|nat=ENG|pos=MF|name=[[Rob Wolleaston]]}}
+{{Fs player|no=|nat=NED|pos=MF|name=[[Mbark Boussoufa]]}}
+{{Fs end}}
+
+==Team kit==
+The team kit was produced by [[Umbro]]. The shirt sponsor was the airline [[Emirates (airline)|Emirates]]; the kit bore the "Fly Emirates" logo. Chelsea's home kit (all blue with a white trimmed collar) was carried over from the previous campaign. Their new away kit was all black with blue accents. The club's third kit for this season was the club's away kit from the previous season, all white with blue socks and accents.
+
+==Statistics==
+{{Efs start|[[2002-03 FA Premier League|Premier League]]|[[2002-03 UEFA Cup|UEFA Cup]]|[[FA Cup]]|[[Football League Cup]]}}
+{{Efs player|no=1|name=[[Ed de Goeij]]|pos=GK|nat=NED|2|0|0|0|0+1|0|0|0}}
+{{Efs player|no=2|name=[[Albert Ferrer]]|pos=DF|nat=ESP|3|0|0|0|1|0|0|0}}
+{{Efs player|no=3|name=[[Celestine Babayaro]]|pos=DF|nat=NGA|16+3|1|0|0|3|0|2|0}}
+{{Efs player|no=6|name=[[Marcel Desailly]]|pos=DF|nat=FRA|30+1|2|1|0|1|0|0|0}}
+{{Efs player|no=7|name=[[Winston Bogarde]]|pos=DF|nat=NED|0|0|0|0|0|0|0+1|0}}
+{{Efs player|no=8|name=[[Frank Lampard]]|pos=MF|nat=ENG|37+1|6|1+1|1|5|1|3|0}}
+{{Efs player|no=9|name=[[Jimmy Floyd Hasselbaink]]|pos=FW|nat=NED|27+9|11|2|1|4|1|2|2}}
+{{Efs player|no=11|name=[[Boudewijn Zenden]]|pos=MF|nat=NED|11+10|1|0+1|0|1+3|0|0+1|0}}
+{{Efs player|no=12|name=[[Mario Stanić]]|pos=MF|nat=CRO|13+5|4|2|0|3|1|2|1}}
+{{Efs player|no=13|name=[[William Gallas]]|pos=DF|nat=FRA|36+2|4|2|0|5|0|3|0}}
+{{Efs player|no=14|name=[[Graeme Le Saux]]|pos=DF|nat=ENG|27+1|2|1|0|3|0|2|0}}
+{{Efs player|no=15|name=[[Mario Melchiot]]|pos=DF|nat=NED|31+3|0|0|0|4+1|0|2|0}}
+{{Efs player|no=17|name=[[Emmanuel Petit]]|pos=MF|nat=FRA|23+1|1|1|0|5|0|1|1}}
+{{Efs player|no=20|name=[[Jody Morris]]|pos=MF|nat=ENG|19+6|0|1+1|0|2+1|1|2+1|0}}
+{{Efs player|no=21|name=[[Enrique de Lucas]]|pos=MF|nat=ESP|17+8|0|1|1|1+1|0|2+1|0}}
+{{Efs player|no=22|name=[[Eiður Guðjohnsen]]|pos=FW|nat=ISL|20+15|10|1+1|0|3+2|0|0+2|0}}
+{{Efs player|no=23|name=[[Carlo Cudicini]]|pos=GK|nat=ITA|36|0|2|0|5|0|3|0}}
+{{Efs player|no=25|name=[[Gianfranco Zola]]|pos=FW|nat=ITA|30+8|14|2|0|3|2|3|0}}
+{{Efs player|no=26|name=[[John Terry]]|pos=DF|nat=ENG|16+4|3|2|0|5|2|3|0}}
+{{Efs player|no=28|name=[[Filipe Oliveira (footballer, born 1984)|Filipe Oliveira]]|pos=MF|nat=POR|0+3|0|0+1|0|0|0|0+1|0}}
+{{Efs player|no=29|name=[[Robert Huth]]|pos=DF|nat=GER|2|0|2|0|0+1|0|0|0}}
+{{Efs player|no=30|name=[[Jesper Grønkjær]]|pos=MF|nat=DEN|20+10|4|2|0|2+3|1|1+1|0}}
+{{Efs player|no=36|name=[[Joe Keenan (footballer)|Joe Keenan]]|pos=MF|nat=ENG|0+1|0|0|0|0|0|0|0}}
+{{Efs player|no=39|name=[[Carlton Cole]]|pos=FW|nat=ENG|2+11|3|0|0|0+2|1|1|2}}
+|}
+
+Statistics taken from [http://www.soccerbase.com/squad_season.sd?teamid=536] {{Webarchive|url=https://web.archive.org/web/20090520151010/http://www.soccerbase.com/squad_season.sd?teamid=536 |date=20 May 2009 }}. Squad details and shirt numbers from [http://www.zanziball.it/en/28/5af4.html] {{Webarchive|url=https://web.archive.org/web/20071124184546/http://www.zanziball.it/en/28/5af4.html |date=24 November 2007 }} and [http://www.eufo.de/football/eng/2002/chela_fc.htm].
+
+==Results==
+
+===FA Premier League===
+{{main|2002–03 FA Premier League}}
+{{football box collapsible
+|date = 17 August 2002
+|time = 15:00 [[British Summer Time|BST]]
+|round = 1
+|team1 = [[Charlton Athletic F.C.|Charlton Athletic]]
+|score = 2–3
+|report = [https://news.bbc.co.uk/sport2/hi/football/eng_prem/2196563.stm Report]
+|team2= [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Paul Konchesky|Konchesky]] {{goal|7}} {{sent off|0|24}}<br />[[Richard Rufus|Rufus]] {{goal|33}}
+|goals2 = [[Gianfranco Zola|Zola]] {{goal|43}}<br />[[Carlton Cole|C. Cole]] {{goal|84}}<br />[[Frank Lampard|Lampard]] {{goal|89}}<br />[[Celestine Babayaro|Babayaro]] {{yel|89}}<br />[[Marcel Desailly|Desailly]] {{yel|89}}<br />[[Boudewijn Zenden|Zenden]] {{yel|89}}
+|stadium = [[The Valley (London)|The Valley]]
+|location = [[London]]
+|attendance = 25,640
+|referee = [[Graham Barber]]
+|result = W
+}}
+{{football box collapsible
+|date = 23 August 2002
+|time = 20:00 [[British Summer Time|BST]]
+|round = 2
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 2–2
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2208797.stm Report]
+|team2 = [[Manchester United F.C.|Manchester United]]
+|goals1 = [[William Gallas|Gallas]] {{goal|3}}<br />[[Boudewijn Zenden|Zenden]] {{goal|45}}<br />[[Jimmy Floyd Hasselbaink|Hasselbaink]] {{yel|84}}<br />[[Marcel Desailly|Desailly]] {{yel|89}}<br />[[Quique De Lucas|De Lucas]] {{yel|89}}
+|goals2 = [[David Beckham|Beckham]] {{goal|26}} {{yel|89}}<br />[[Ryan Giggs|Giggs]] {{goal|65}}<br />[[Phil Neville|P. Neville]] {{yel|89}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 41,541
+|referee = [[Graham Poll]]
+|result = D
+}}
+{{football box collapsible
+|date = 28 August 2002
+|time = 19:45 [[British Summer Time|BST]]
+|round = 3
+|team1 = [[Southampton F.C.|Southampton]]
+|score = 1–1
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2217137.stm Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Fabrice Fernandes|Fernandes]] {{goal|51}}<br />[[Michael Svensson|Svensson]] {{yel|89}}<br />[[Paul Telfer (footballer)|Telfer]] {{yel|89}}
+|goals2 = [[Frank Lampard|Lampard]] {{goal|80}}<br />[[Celestine Babayaro|Babayaro]] {{yel|89}}<br />[[Jesper Grønkjær|Grønkjær]] {{yel|89}}
+|stadium= [[St. Mary's Stadium]]
+|location = [[Southampton]]
+|attendance = 31,208
+|referee = [[Chris Foy (referee)|Chris Foy]]
+|result = D
+}}
+{{football box collapsible
+|date = 1 September 2002
+|time = 16:05 [[British Summer Time|BST]]
+|round = 4
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 1–1
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2224616.stm Report]
+|team2 = [[Arsenal F.C.|Arsenal]]
+|goals1 = [[Mario Melchiot|Melchiot]] {{yel|24}}<br />[[Gianfranco Zola|Zola]] {{goal|34}}<br />[[Boudewijn Zenden|Zenden]] {{yel|45}}<br />[[Graeme Le Saux|Le Saux]] {{yel|64}}<br />[[Quique de Lucas|De Lucas]] {{yel|89}}<br />[[Frank Lampard|Lampard]] {{yel|89}}<br />[[Jesper Grønkjær|Grønkjær]] {{yel|89}}
+|goals2 = [[Patrick Vieira|Vieira]] {{sent off|0|49}}<br />[[Kolo Touré|Touré]] {{goal|59}}<br />[[Sylvain Wiltord|Wiltord]] {{yel|88}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 40,037
+|referee = [[Andy D'Urso]]
+|result = D
+}}
+{{football box collapsible
+|id=|date = 11 September 2002
+|time = 20:00 [[British Summer Time|BST]]
+|round = 5
+|team1 = [[Blackburn Rovers F.C.|Blackburn Rovers]]
+|score = 2–3
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2245840.stm Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[David Dunn|Dunn]] {{goal|18|pen.}}<br />[[David Thompson (footballer, born 1977)|Thompson]] {{goal|45}} {{yel|89}}<br />[[Nils-Eric Johansson|Johansson]] {{yel|81}}
+|goals2 = [[Jesper Grønkjær|Grønkjær]] {{goal|38}}<br />[[Gianfranco Zola|Zola]] {{goal|52}} {{goal|80}}<br />[[Mario Stanic|Stanic]] {{yel|71}}<br />[[Jody Morris|Morris]] {{yel|86}}<br />[[Celestine Babayaro|Babayaro]] {{yel|89}}
+|stadium= [[Ewood Park]]
+|location = [[Blackburn]]
+|attendance = 22,999
+|referee = [[Mike Riley (referee)|Michael Riley]]
+|result = W
+}}
+{{football box collapsible
+|date = 14 September 2002
+|time = 15:00 [[British Summer Time|BST]]
+|round = 6
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 3–0
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2254711.stm Report]
+|team2 = [[Newcastle United F.C.|Newcastle United]]
+|goals1 = [[Eidur Gudjohnsen|Gudjohnsen]] {{goal|14}} {{goal|58}}<br />[[Gianfranco Zola|Zola]] {{goal|26}}<br />[[Boudewijn Zenden|Zenden]] {{yel|89}}
+|goals2 = [[Nolberto Solano|Solano]] {{yel|76}}<br />[[Alan Shearer|Shearer]] {{yel|89}}<br />[[Gary Speed|Speed]] {{yel|89}}<br />[[Olivier Bernard|Bernard]] {{yel|89}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 39,746
+|referee = [[Barry Knight (referee)|Barry Knight]]
+|result = W
+}}
+{{football box collapsible
+|id=|date = 23 September 2002
+|time = 20:00 [[British Summer Time|BST]]
+|round = 7
+|team1 = [[Fulham F.C.|Fulham]]
+|score = 0–0
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2269899.stm Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Abdeslam Ouaddou|Ouaddou]] {{yel|89}}
+|goals2 = 
+|stadium= [[Loftus Road]]
+|location = [[London]]
+|attendance = 16,503
+|referee = [[Paul Durkin]]
+|result = D
+}}
+{{football box collapsible
+|date = 28 September 2002
+|time = 15:00 [[British Summer Time|BST]]
+|round = 8
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 2–3
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2272634.stm Report]
+|team2 = [[West Ham United F.C.|West Ham United]]
+|goals1 = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|21|pen.}}<br />[[Gianfranco Zola|Zola]] {{goal|74}}<br />[[Robert Huth|Huth]] {{yel|89}}
+|goals2 = [[Jermain Defoe|Defoe]] {{goal|40}}<br />[[Paolo Di Canio|Di Canio]] {{goal|48}} {{goal|84}}<br />[[Scott Minto|Minto]] {{yel|89}}<br />[[Tomas Repka|Repka]] {{yel|89}}<br />[[Steve Lomas|Lomas]] {{yel|89}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 38,929
+|referee = [[Mike Dean (referee)|Mike Dean]]
+|result = L
+}}
+{{football box collapsible
+|id=|date = 6 October 2002
+|time = 16:05 [[British Summer Time|BST]]
+|round = 9
+|team1 = [[Liverpool F.C.|Liverpool]]
+|score = 1–0
+|report =[https://news.bbc.co.uk/sport1/hi/football/eng_prem/2286195.stm Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Michael Owen|Owen]] {{goal|90}}
+|goals2 = [[Mario Stanic|Stanic]] {{yel|71}}<br />[[Jesper Grønkjær|Grønkjær]] {{yel|89}}
+|stadium= [[Anfield]]
+|location = [[Liverpool]]
+|attendance = 43,856
+|referee = [[Graham Barber]]
+|result = L
+}}
+{{football box collapsible
+|id=|date = 19 October 2002
+|time = 15:00 [[British Summer Time|BST]]
+|round = 10
+|team1 = [[Manchester City F.C.|Manchester City]]
+|score = 0–3
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2317773.stm Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Ali Benarbia|Benarbia]] {{yel|89}}
+|goals2 = [[Gianfranco Zola|Zola]] {{goal|68}} {{goal|84}}<br />[[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|85}}<br />[[Frank Lampard|Lampard]] {{yel|89}}<br />[[Quique De Lucas|De Lucas]] {{yel|89}}
+|stadium= [[Maine Road]]
+|location = [[Manchester]]
+|attendance = 34,953
+|referee = [[Dermot Gallagher]]
+|result = W
+}}
+{{football box collapsible
+|date = 26 October 2002
+|time = 15:00 [[British Summer Time|BST]]
+|round = 11
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 2–0
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2342429.stm Report]
+|team2 = [[West Bromwich Albion F.C.|West Bromwich Albion]]
+|goals1 = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|30}}<br />[[Graeme Le Saux|Le Saux]] {{goal|55}}
+|goals2 = [[Andy Johnson (footballer, born 1974)|Johnson]] {{yel|89}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 40,893
+|referee = [[Stephen Dunn]]
+|result = W
+}}
+{{football box collapsible
+|id=|date = 3 November 2002
+|time = 15:00 [[British Summer Time|BST]]
+|round = 12
+|team1 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|score = 0–0
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2373325.stm Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Milenko Acimovic|Acimovic]] {{yel|16}}<br />[[Teddy Sheringham|Sheringham]] {{yel|88}}<br />[[Kasey Keller|Keller]] {{yel|89}}
+|goals2 = [[Quique De Lucas|De Lucas]] {{yel|86}}<br />[[Jody Morris|Morris]] {{yel|89}}
+|stadium= [[White Hart Lane]]
+|location = [[London]]
+|attendance = 36,049
+|referee = [[Mark Halsey]]
+|result = D
+}}
+{{football box collapsible
+|date = 9 November 2002
+|time = 15:00 [[British Summer Time|BST]]
+|round = 13
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 3–0
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2388545.stm Report]
+|team2 = [[Birmingham City F.C.|Birmingham City]]
+|goals1 = [[Eidur Gudjohnsen|Gudjohnsen]] {{goal|3}} {{goal|31}}<br />[[Gianfranco Zola|Zola]] {{goal|42}}<br />[[Marcel Desailly|Desailly]] {{yel|75}}
+|goals2 = [[Darryl Powell|Powell]] {{yel|42}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 35,237
+|referee = [[David Pugh (referee)|David Pugh]]
+|result = W
+}}
+{{football box collapsible
+|date = 16 November 2002
+|time = 16:00 [[British Summer Time|BST]]
+|round = 14
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 1–0
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2430173.stm Report]
+|team2 = [[Middlesbrough F.C.|Middlesbrough]]
+|goals1 = [[Celestine Babayaro|Babayaro]] {{goal|47}}<br />[[Mario Melchiot|Melchiot]] {{yel|89}}
+|goals2 = [[George Boateng|Boateng]] {{yel|89}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 39,064
+|referee = [[Phil Dowd]]
+|result = W
+}}
+{{football box collapsible
+|id=|date = 23 November 2002
+|time = 15:00 [[British Summer Time|BST]]
+|round = 15
+|team1 = [[Bolton Wanderers F.C.|Bolton Wanderers]]
+|score = 1–1
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2487931.stm Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Stig Tøfting|Tøfting]] {{yel|44}}<br />[[Henrik Pedersen (footballer)|Pedersen]] {{goal|63}}<br />[[Anthony Barness|Barness]] {{yel|89}}
+|goals2 = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{yel|44}} {{goal|89}}<br />[[Celestine Babayaro|Babayaro]] {{sent off|0|75}}<br />[[Marcel Desailly|Desailly]] {{yel|89}}<br />[[Mario Melchiot|Melchiot]] {{yel|89}}
+|stadium= [[Macron Stadium]]
+|location = [[Bolton]]
+|attendance = 25,476
+|referee = [[Mike Dean (referee)|Mike Dean]]
+|result = D
+}}
+{{football box collapsible
+|date = 30 November 2002
+|time = 16:00 [[British Summer Time|BST]]
+|round = 16
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 3–0
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2503649.stm Report]
+|team2 = [[Sunderland A.F.C.|Sunderland]]
+|goals1 = [[William Gallas|Gallas]] {{goal|58}}<br />[[Marcel Desailly|Desailly]] {{goal|84}}<br />[[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|89}}
+|goals2 = [[Kevin Kilbane|Kilbane]] {{yel|70}}<br />[[Paul Thirlwell|Thirlwell]] {{yel|89}}<br />[[Gavin McCann|McCann]] {{yel|89}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 38,946
+|referee = [[Steve Bennett (referee)|Stephen Bennett]]
+|result = W
+}}
+{{football box collapsible
+|id=|date = 7 December 2002
+|time = 16:00 [[British Summer Time|BST]]
+|round = 17
+|team1 = [[Everton F.C.|Everton]]
+|score = 1–3
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2535771.stm Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Gary Naysmith|Naysmith]] {{goal|44}}<br />[[David Unsworth|Unsworth]] {{sent off|0|88}}<br />[[Alan Stubbs|Stubbs]] {{yel|89}}
+|goals2 = [[Mario Stanic|Stanic]] {{goal|5}} {{yel|60}}<br />[[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|28}} {{yel|83}}<br />[[Jesper Grønkjær|Grønkjær]] {{yel|28}} {{goal|90}}<br />[[Quique de Lucas|De Lucas]] {{yel|75}}<br />[[William Gallas|Gallas]] {{yel|89}}<br />[[Frank Lampard|Lampard]] {{yel|89}}
+|stadium= [[Goodison Park]]
+|location = [[Liverpool]]
+|attendance = 39,396
+|referee = [[Eddie Wolstenholme]]
+|result = W
+}}
+{{football box collapsible
+|id=|date = 14 December 2002
+|time = 16:00 [[British Summer Time|BST]]
+|round = 18
+|team1 = [[Middlesbrough F.C.|Middlesbrough]]
+|score = 1–1
+|report =[https://news.bbc.co.uk/sport1/hi/football/eng_prem/2553075.stm Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Geremi]] {{goal|32}}
+|goals2 = [[John Terry|Terry]] {{goal|42}}<br />[[Emanuel Petit|Petit]] {{yel|89}}
+|stadium= [[Riverside Stadium]]
+|location = [[Middlesbrough]]
+|attendance = 29,160
+|referee = [[Matt Messias]]
+|result = D
+}}
+{{football box collapsible
+|date = 21 December 2002
+|time = 16:00 [[British Summer Time|BST]]
+|round = 19
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 2–0
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2575479.stm Report]
+|team2 = [[Aston Villa F.C.|Aston Villa]]
+|goals1 = [[Eidur Gudjohnsen|Gudjohnsen]] {{goal|42}}<br />[[Frank Lampard|Lampard]] {{goal|57}}
+|goals2 = [[Dion Dublin|Dublin]] {{yel|60}}<br />[[Lee Hendrie|Hendrie]] {{yel|89}}<br />[[Steve Staunton|Staunton]] {{yel|89}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 38,284
+|referee = [[Mike Riley (referee)|Michael Riley]]
+|result = W
+}}
+{{football box collapsible
+|date = 26 December 2002
+|time = 13:00 [[British Summer Time|BST]]
+|round = 20
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 0–0
+|report =[https://news.bbc.co.uk/sport1/hi/football/eng_prem/2575709.stm Report]
+|team2 = [[Southampton F.C.|Southampton]]
+|goals1 = [[Mario Melchiot|Melchiot]] {{yel|85}}
+|goals2 = [[Wayne Bridge|Bridge]] {{yel|89}}<br />[[Fabrice Fernandes|Fernandes]] {{yel|89}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 39,428
+|referee = [[Paul Durkin]]
+|result = D
+}}
+{{football box collapsible
+|id=|date = 28 December 2002
+|time = 16:00 [[British Summer Time|BST]]
+|round = 21
+|team1 = [[Leeds United A.F.C.|Leeds United]]
+|score = 2–0
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2597007.stm Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[William Gallas|Gallas]] {{goal|30|o.g.}}<br />[[James Milner|Milner]] {{goal|45}}<br />[[Paul Okon|Okon]] {{yel|45}}<br />[[Alan Smith (footballer, born 1980)|Smith]] {{yel|89}}
+|goals2 = 
+|stadium= [[Elland Road]]
+|location = [[Leeds]]
+|attendance = 40,122
+|referee = [[Graham Barber]]
+|result = L
+}}
+{{football box collapsible
+|id=|date = 1 January 2003
+|time = 16:00 [[British Summer Time|BST]]
+|round = 22
+|team1 = [[Arsenal F.C.|Arsenal]]
+|score = 3–2
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2606695.stm Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Marcel Desailly|Desailly]] {{goal|8|o.g.}}<br />[[Giovanni van Bronckhorst|van Bronckhorst]] {{goal|81}}<br />[[Thierry Henry|Henry]] {{goal|83}}
+|goals2 = [[Mario Stanic|Stanic]] {{goal|85}}<br />[[Emmanuel Petit|Petit]] {{goal|86}}
+|stadium= [[Highbury]]
+|location = [[London]]
+|attendance = 38,096
+|referee = [[Uriah Rennie]]
+|result = L
+}}
+{{football box collapsible
+|date = 11 January 2003
+|time = 15:00 [[British Summer Time|BST]]
+|round = 23
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 4–1
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2617929.stm Report]
+|team2 = [[Charlton Athletic F.C.|Charlton Athletic]]
+|goals1 = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|3|pen.}}<br />[[William Gallas|Gallas]] {{goal|11}}<br />[[Eidur Gudjohnsen|Gudjohnsen]] {{goal|34}} {{yel|89}}<br />[[Graeme Le Saux|Le Saux]] {{goal|54}} {{yel|78}}<br />[[Emmanuel Petit|Petit]] {{yel|89}}<br />[[Marcel Desailly|Desailly]] {{yel|89}}
+|goals2 = [[Jason Euell|Euell]] {{goal|42|pen.}}<br />[[Chris Powell|Powell]] {{yel|44}}<br />[[Scott Parker|Parker]] {{yel|89}}<br />[[Paul Konchesky|Konchesky]] {{yel|89}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 37,284
+|referee = [[Mike Dean (referee)|Mike Dean]]
+|result = W
+}}
+{{football box collapsible
+|id=|date = 18 January 2003
+|time = 13:30 [[British Summer Time|BST]]
+|round = 24
+|team1 = [[Manchester United F.C.|Manchester United]]
+|score = 2–1
+|report =[https://news.bbc.co.uk/sport1/hi/football/eng_prem/2648643.stm Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Paul Scholes|Scholes]] {{goal|39}}<br />[[Diego Forlán|Forlán]] {{goal|90}}
+|goals2 = [[Eidur Gudjohnsen|Gudjohnsen]] {{goal|30}}
+|stadium= [[Old Trafford]]
+|location = [[Manchester]]
+|attendance = 67,606
+|referee = [[Paul Durkin]]
+|result = L
+}}
+{{football box collapsible
+|date = 28 January 2003
+|time = 15:00 [[British Summer Time|BST]]
+|round = 25
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 3–2
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2684729.stm Report]
+|team2 = [[Leeds United A.F.C.|Leeds United]]
+|goals1 = [[Carlton Cole|C. Cole]] {{yel|53}}<br />[[Eidur Gudjohnsen|Gudjohnsen]] {{goal|57}}<br />[[Frank Lampard|Lampard]] {{goal|80}}<br />[[Dominic Matteo|Matteo]] {{goal|83|o.g.}}<br />[[Graeme Le Saux|Le Saux]] {{yel|89}}
+|goals2 = [[Harry Kewell|Kewell]] {{goal|18}}<br />[[Teddy Lucic|Lucic]] {{goal|66}}<br />[[Eirik Bakke|Bakke]] {{yel|89}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 39,738
+|referee = [[Jeff Winter]]
+|result = W
+}}
+{{football box collapsible
+|date = 1 February 2003
+|time = 16:00 [[British Summer Time|BST]]
+|round = 26
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 1–1
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2694021.stm Report]
+|team2 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1 = [[Gianfranco Zola|Zola]] {{goal|40}}<br />[[Emanuel Petit|Petit]] {{yel|89}}
+|goals2 = [[Teddy Sheringham|Sheringham]] {{goal|17}}<br />[[Mauricio Taricco|Taricco]] {{yel|89}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 41,384
+|referee = [[Paul Durkin]]
+|result = D
+}}
+{{football box collapsible
+|id=|date = 8 February 2003
+|time = 16:00 [[British Summer Time|BST]]
+|round = 27
+|team1 = [[Birmingham City F.C.|Birmingham City]]
+|score = 1–3
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2715931.stm Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Robbie Savage|Savage]] {{goal|86|pen.}}<br />[[Damien Johnson|Johnson]] {{yel|89}}
+|goals2 = [[Quique De Lucas|De Lucas]] {{yel|15}}<br />[[Gianfranco Zola|Zola]] {{goal|43}}<br />[[Eidur Gudjohnsen|Gudjohnsen]] {{goal|49}}<br />[[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|68|pen.}}<br />[[John Terry|Terry]] {{yel|89}}<br />[[Marcel Desailly|Desailly]] {{yel|89}}
+|stadium= [[St Andrew's (stadium)|St Andrew's]]
+|location = [[Birmingham]]
+|attendance = 29,475
+|referee = [[Mark Halsey]]
+|result = W
+}}
+{{football box collapsible
+|date = 22 February 2003
+|time = 16:00 [[British Summer Time|BST]]
+|round = 28
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 1–2
+|report =[https://news.bbc.co.uk/sport1/hi/football/eng_prem/2762181.stm Report]
+|team2 = [[Blackburn Rovers F.C.|Blackburn Rovers]]
+|goals1 = [[Mario Stanic|Stanic]] {{yel|64}}<br />[[William Gallas|Gallas]] {{yel|89}}<br />[[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|90}}
+|goals2 = [[Dwight Yorke|Yorke]] {{goal|85}}<br />[[Vratislav Gresko|Gresko]] {{yel|89}}<br />[[David Dunn|Dunn]] {{goal|90}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 40,850
+|referee = [[Graham Poll]]
+|result = L
+}}
+{{football box collapsible
+|id=|date = 1 March 2003
+|time = 13:30 [[British Summer Time|BST]]
+|round = 29
+|team1 = [[Newcastle United F.C.|Newcastle United]]
+|score = 2–1
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2790025.stm Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|31|o.g.}}<br />[[Olivier Bernard|Bernard]] {{goal|53}}
+|goals2 = [[Carlton Cole|C. Cole]] {{yel|12}}<br />[[Frank Lampard|Lampard]] {{goal|37}}
+|stadium= [[St. James' Park]]
+|location = [[Newcastle upon Tyne|Newcastle]]
+|attendance = 52,157
+|referee = [[Brian Winter]]
+|result = L
+}}
+{{football box collapsible
+|id=|date = 16 March 2003
+|time = 17:05 [[British Summer Time|BST]]
+|round = 30
+|team1 = [[West Bromwich Albion F.C.|West Bromwich Albion]]
+|score = 0–2
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2830427.stm Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = 
+|goals2 = [[Mario Stanic|Stanic]] {{goal|38}}<br />[[Gianfranco Zola|Zola]] {{goal|55}}
+|stadium= [[The Hawthorns]]
+|location = [[West Bromwich]]
+|attendance = 27,024
+|referee = [[Andy D'Urso]]
+|result = W
+}}
+{{football box collapsible
+|id=|date = 22 March 2003
+|time = 17:05 [[British Summer Time|BST]]
+|round = 31
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 5–0
+|report =[https://news.bbc.co.uk/sport1/hi/football/eng_prem/2847569.stm Report]
+|team2 = [[Manchester City F.C.|Manchester City]]
+|goals1 = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|37}}<br />[[John Terry|Terry]] {{goal|42}} {{yel|89}}<br />[[Mario Stanic|Stanic]] {{goal|58}}<br />[[Frank Lampard|Lampard]] {{goal|69}}<br />[[William Gallas|Gallas]] {{goal|79}}
+|goals2 = [[Ali Benarbia|Benarbia]] {{yel|89}}<br />[[Sylvain Distin|Distin]] {{yel|89}}<br />[[Sun Jihai|Jihai]] {{sent off|0|89}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 41,105
+|referee = [[Phil Dowd]]
+|result = W
+}}
+{{football box collapsible
+|id=|date = 5 April 2003
+|time = 15:00 [[British Summer Time|BST]]
+|round = 32
+|team1 = [[Sunderland A.F.C.|Sunderland]]
+|score = 1–2
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2895721.stm Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Sean Thornton|Thornton]] {{goal|12}}<br />[[Talal El Karkouri|El Karkouri]] {{yel|89}}
+|goals2 = [[Carlton Cole|C. Cole]] {{yel|44}} {{goal|85}}<br />[[Gianfranco Zola|Zola]] {{goal|52}}
+|stadium= [[Stadium of Light]]
+|location = [[Sunderland]]
+|attendance = 27,024
+|referee = [[Dermot Gallagher]]
+|result = W
+}}
+{{football box collapsible
+|id=|date = 12 April 2003
+|time = 15:00 [[British Summer Time|BST]]
+|round = 33
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 1–0
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2917299.stm Report]
+|team2 = [[Bolton Wanderers F.C.|Bolton Wanderers]]
+|goals1 = [[Carlton Cole|C. Cole]] {{goal|58}}<br />[[Boudewijn Zenden|Zenden]] {{yel|58}}
+|goals2 = [[Gudni Bergsson|Bergsson]] {{yel|89}}<br />[[Florent Laville|Laville]] {{yel|89}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 39,852
+|referee = [[Graham Barber]]
+|result = W
+}}
+{{football box collapsible
+|id=|date = 19 April 2003
+|time = 15:00 [[British Summer Time|BST]]
+|round = 34
+|team1 = [[Aston Villa F.C.|Aston Villa]]
+|score = 2–1
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2936453.stm Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Marcus Allbäck|Allbäck]] {{goal|11}} {{goal|78}}<br />[[Oyvind Leonhardsen|Leonhardsen]] {{yel|89}}
+|goals2 = [[John Terry|Terry]] {{goal|89}}
+|stadium= [[Villa Park]]
+|location = [[Birmingham]]
+|attendance = 39,358
+|referee = [[Rob Styles]]
+|result = L
+}}
+{{football box collapsible
+|id=|date = 21 April 2003
+|time = 15:00 [[British Summer Time|BST]]
+|round = 35
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 4–1
+|report =[https://news.bbc.co.uk/sport1/hi/football/eng_prem/2936853.stm Report]
+|team2 = [[Everton F.C.|Everton]]
+|goals1 = [[Eidur Gudjohnsen|Gudjohnsen]] {{goal|25}}<br />[[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|48}}<br />[[Jesper Grønkjær|Grønkjær]] {{goal|61}}<br />[[Quique De Lucas|De Lucas]] {{yel|89}}<br />[[Gianfranco Zola|Zola]] {{goal|90}}
+|goals2 = [[Thomas Gravesen|Gravesen]] {{yel|36}}<br />[[Lee Carsley|Carsley]] {{goal|77}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 40,875
+|referee = [[Mike Riley (referee)|Michael Riley]]
+|result = W
+}}
+{{football box collapsible
+|id=|date = 26 April 2003
+|time = 15:00 [[British Summer Time|BST]]
+|round = 36
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 1–1
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2960625.stm Report]
+|team2 = [[Fulham F.C.|Fulham]]
+|goals1 = [[Alain Goma|Goma]] {{goal|37|o.g.}}<br />[[Jesper Grønkjær|Grønkjær]] {{yel|58}}<br />[[Emmanuel Petit|Petit]] {{yel|89}}
+|goals2 = [[Luís Boa Morte|Boa Morte]] {{goal|66}} {{yel|82}}<br />[[Lee Clark (footballer)|Clark]] {{yel|89}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 40,792
+|referee = [[David Elleray]]
+|result = D
+}}
+{{football box collapsible
+|id=|date = 3 May 2003
+|time = 15:00 [[British Summer Time|BST]]
+|round = 37
+|team1 = [[West Ham United F.C.|West Ham United]]
+|score = 1–0
+|report =[https://news.bbc.co.uk/sport1/hi/football/eng_prem/2968013.stm Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Paolo Di Canio|Di Canio]] {{goal|71}}<br />[[Jermain Defoe|Defoe]] {{yel|89}}<br />[[Tomas Repka|Repka]] {{yel|89}}<br />[[Trevor Sinclair|Sinclair]] {{yel|89}}
+|goals2 = [[Jody Morris|Morris]] {{yel|76}}
+|stadium= [[Boleyn Ground]]
+|location = [[London]]
+|attendance = 35,042
+|referee = [[Andy D'Urso]]
+|result = L
+}}
+{{football box collapsible
+|id=|date = 11 May 2003
+|time = 15:00 [[British Summer Time|BST]]
+|round = 38
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 2–1
+|report =[https://news.bbc.co.uk/sport2/hi/football/eng_prem/2978103.stm Report]
+|team2 = [[Liverpool F.C.|Liverpool]]
+|goals1 = [[Marcel Desailly|Desailly]] {{goal|13}}<br />[[Jesper Grønkjær|Grønkjær]] {{goal|27}}<br />[[Jimmy Floyd Hasselbaink|Hasselbaink]] {{yel|79}}<br />[[William Gallas|Gallas]] {{yel|89}}<br />[[Graeme Le Saux|Le Saux]] {{yel|89}}
+|goals2 = [[Sami Hyypiä|Hyypiä]] {{goal|11}}<br />[[Steven Gerrard|Gerrard]] {{sent off|0|88}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 41,911
+|referee = [[Alan Wiley]]
+|result = W
+}}
+
+===UEFA Cup===
+
+==== First Round ====
+{{Football box collapsible
+|round      = [[2002–03 UEFA Cup#Viking FK v Chelsea|First leg]]
+|id=|date       = 19 September 2002
+|time       = 18:00 [[Greenwich Mean Time|GMT]]
+|team1      = [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score      = 2–1
+|report     = [https://news.bbc.co.uk/sport1/hi/football/uefa_cup/2266498.stm Report]
+|team2      = {{flagicon|NOR}} [[Viking FK]]
+|goals1     = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|43}}<br />[[Quique De Lucas|De Lucas]] {{goal|69}}
+|goals2     = [[Ben Wright (footballer, born 1980)|Wright]] {{goal|90}}
+|location   = [[London]]
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|attendance = 15,772
+|referee    = [[Ben Tokat]] ([[Turkey]])
+|result     = W
+}}
+{{Football box collapsible
+|round      = [[2002–03 UEFA Cup#Viking FK v Chelsea|Second leg]]
+|id=|date       = 3 October 2002
+|time       = 18:00 [[Greenwich Mean Time|GMT]]
+|team1      = [[Viking FK]] {{flagicon|NOR}}
+|score      = 4–2
+|report     = [https://news.bbc.co.uk/sport2/hi/football/uefa_cup/2293589.stm Report]
+|team2      = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Morten Berre|Berre]] {{goal|9}}<br />[[Kopteff]] {{goal|34}}<br />[[Erik Nevland|Nevland]] {{goal|60}} {{goal|87}}
+|goals2     = [[Frank Lampard|Lampard]] {{goal|45}}<br />[[John Terry|Terry]] {{goal|62}}
+|location   = [[Stavanger]], [[Norway]]
+|stadium    = [[Stavanger Stadion]]
+|attendance = 5,555
+|referee    = [[Jack Van Hulten]] ([[Netherlands]])
+|result     = L
+}}
+
+===FA Cup===
+{{main|2002–03 FA Cup}}
+{{football box collapsible
+|round      = Third round
+|date       = 4 January 2003
+|time       = 15:00
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 1–0
+|report     = [https://news.bbc.co.uk/sport2/hi/football/fa_cup/2607199.stm Report]
+|team2      = [[Middlesbrough F.C.|Middlesbrough]]
+|goals1     = [[Mario Stanic|Stanic]] {{goal|38}}<br />[[Carlo Cudicini|Cudicini]] {{sent off|0|64}}
+|goals2     = 
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location   = [[London]]
+|attendance = 29,796
+|referee    = [[Mark Halsey]]
+|result     = W
+}}
+{{football box collapsible
+|round      = Fourth round
+|date       = 26 January 2003
+|time       = 21:00
+|team1      = [[Shrewsbury Town F.C.|Shrewsbury Town]]
+|score      = 0–4
+|report     = [https://news.bbc.co.uk/sport2/hi/football/fa_cup/2671835.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = [[Gianfranco Zola|Zola]] {{goal|40}} {{goal|75}}<br />[[Carlton Cole|C. Cole]] {{goal|53}}<br />[[Jody Morris|Morris]] {{goal|80}}
+|stadium    = [[Gay Meadow]]
+|location   = [[Shrewsbury]]
+|attendance = 7,950
+|referee    = [[Mike Riley (referee)|Michael Riley]]
+|result     = W
+}}
+{{football box collapsible
+|round      = Fifth round
+|date       = 16 February 2003
+|time       = 16:00
+|team1      = [[Stoke City F.C.|Stoke City]]
+|score      = 0–2
+|report     = [https://news.bbc.co.uk/sport2/hi/football/fa_cup/2740045.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = 
+|goals2     = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|51}}<br />[[Jesper Grønkjær|Grønkjær]] {{goal|75}}
+|stadium    = [[Bet365 Stadium]]
+|location   = [[Stoke-on-Trent]]
+|attendance = 26,615
+|referee    = [[Rob Styles]]
+|result     = W
+}}
+{{football box collapsible
+|round      = Quarter final
+|date       = 8 March 2003
+|time       = 17:00
+|team1      = [[Arsenal F.C.|Arsenal]]
+|score      = 2–2
+|report     = [https://news.bbc.co.uk/sport2/hi/football/fa_cup/2805009.stm Report]
+|team2      = [[Chelsea F.C.|Chelsea]]
+|goals1     = [[Francis Jeffers|Jeffers]] {{goal|35}}<br />[[Thierry Henry|Henry]] {{goal|45}}
+|goals2     = [[John Terry|Terry]] {{goal|3}}<br />[[Frank Lampard|Lampard]] {{goal|83}}
+|stadium    = [[Highbury Stadium]]
+|location   = [[London]]
+|attendance = 38,104
+|referee    = [[Paul Durkin]]
+|result     = D
+}}
+{{football box collapsible
+|round      = Quarter final replay
+|date       = 25 March 2003
+|time       = 15:00
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 1–3
+|report     = [https://news.bbc.co.uk/sport2/hi/football/fa_cup/2873509.stm Report]
+|team2      = [[Arsenal F.C.|Arsenal]]
+|goals1     = [[John Terry|Terry]] {{goal|79}}
+|goals2     = [[John Terry|Terry]] {{goal|25|o.g.}}<br />[[Sylvain Wiltord|Wiltord]] {{goal|33}}<br />[[Pascal Cygan|Cygan]] {{sent off|0|66}}<br />[[Lauren (Cameroonian footballer)|Lauren]] {{goal|82}}
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location   = [[London]]
+|attendance = 41,456
+|referee    = [[David Elleray]]
+|result     = L
+}}
+
+===League Cup===
+{{main|2002–03 Football League Cup}}
+{{football box collapsible
+|round      = Third round
+|date       = 6 November 2002
+|time       = 20:00
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 2–1
+|report     = [https://news.bbc.co.uk/sport2/hi/football/2390945.stm Report]
+|team2      = [[Gillingham F.C.|Gillingham]]
+|goals1     = [[Carlton Cole|C. Cole]] {{goal|20}} {{goal|52}}
+|goals2     = [[Marlon King|King]] {{goal|90}}
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location   = [[London]]
+|attendance = 28,033
+|referee    = [[Andy D'Urso]]
+|result     = W
+}}
+{{football box collapsible
+|round      = Fourth round
+|date       = 4 December 2002
+|time       = 19:30
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 4–1
+|report     = [https://news.bbc.co.uk/sport2/hi/football/2524439.stm Report]
+|team2      = [[Everton F.C.|Everton]]
+|goals1     = [[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|26}} {{goal|71}}<br />[[Emanuel Petit|Petit]] {{goal|44}}<br />[[Mario Stanic|Stanic]] {{goal|69}}
+|goals2     = [[Gary Naysmith|Naysmith]] {{goal|80}}
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location   = [[London]]
+|attendance = 32,322
+|referee    = [[Paul Durkin]]
+|result     = W
+}}
+{{football box collapsible
+|id=|date = 17 December 2002
+|time = 20:00
+|round = Fifth round
+|team1 = [[Manchester United F.C.|Manchester United]]
+|score = 1–0
+|report =[https://news.bbc.co.uk/sport1/hi/football/2579811.stm Report]
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Diego Forlan|Forlan]] {{goal|80}}
+|goals2 = 
+|stadium= [[Old Trafford]]
+|location = [[Manchester]]
+|attendance = 57,985
+|referee = [[Steve Bennett (referee)|Steve Bennett]]
+|result = L
+}}
+
+==Transfers==
+
+===In===
+{|width=75% class="wikitable" style="text-align:center; font-size:95%; text-align:left"
+!#
+!Pos
+!Player
+!From
+!Fee
+!Date
+|----
+|21|| MF||{{flagicon|ESP}} [[Enrique de Lucas]] ||{{flagicon|ESP}} [[RCD Espanyol|Espanyol]] || Free<ref name="de Lucas">{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/2012626.stm|title=Chelsea sign Spaniard|work=BBC Sport|access-date=2002-05-28 | date=2002-05-28}}</ref> || 27-05-2002
+|----
+|28|| FW||{{flagicon|POR}} [[Filipe Oliveira (footballer, born 1984)|Filipe Oliveira]] ||{{flagicon|POR}} [[FC Porto|Porto]] || £500,000 || 01-10-2002
+|}
+
+===Out===
+{|width=75% class="wikitable" style="text-align:center; font-size:95%; text-align:left"
+!#
+!Pos
+!Player
+!To
+!Fee
+!Date
+|----
+|16|| MF||{{flagicon|ITA}} [[Roberto Di Matteo]] || N/A || Retired<ref name="Di Matteo">{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/1829753.stm|title=Di Matteo forced to quit|work=BBC Sport|access-date=2002-02-19 | date=2002-02-19}}</ref> || 01-07-2002
+|----
+|24|| MF||{{flagicon|ITA}} [[Samuele Dalla Bona]] ||{{flagicon|ITA}} [[A.C. Milan|Milan]] || £1,000,000<ref name="Dalla Bona">{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/2116652.stm|title=Dalla Bona joins AC Milan|work=BBC Sport|access-date=2002-07-08 | date=2002-07-08}}</ref> || 08-07-2002
+|----
+|10|| MF||{{flagicon|SCG}} [[Slaviša Jokanović]] || Unattached || Released<ref name="Jokanovic">{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/2119573.stm|title=Jokanovic leaves Chelsea|work=BBC Sport|access-date=2002-07-10 | date=2002-07-10}}</ref> || 09-07-2002
+|----
+|N/A|| FW||{{flagicon|SCO}} [[Sam Parkin]] ||{{flagicon|ENG}} [[Swindon Town F.C.|Swindon Town]] || Undisclosed || 03-09-2002
+|----
+|31|| GK||{{flagicon|AUS}} [[Mark Bosnich]] || Unattached || Released || 22-01-2003
+|----
+|32|| FW||{{flagicon|FIN}} [[Mikael Forssell]] ||{{flagicon|GER}} [[Borussia Mönchengladbach]] || 6-month loan<ref name="Forssell">{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/2707921.stm|title=Forssell heads to Germany|work=BBC Sport|access-date=2003-01-29 | date=2003-01-29| archive-url= https://web.archive.org/web/20030207193122/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/2707921.stm| archive-date= 7 February 2003 | url-status= live}}</ref> || 29-01-2003
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.chelseafc.com Chelsea FC Official Website]
+* [https://www.soccerbase.com/teams/team.sd?team_id=536 Chelsea FC on Soccerbase] {{webarchive |url=https://web.archive.org/web/20070627030941/http://www.soccerbase.com/teams2.sd?teamid=536 |date=2007-06-27}}
+* [https://www.bbc.co.uk/sport/football/teams/chelsea Chelsea FC on BBC]
+
+{{Chelsea F.C. seasons}}
+{{2002–03 in English football}}
+
+{{DEFAULTSORT:2002-03 Chelsea F.C. season}}
+[[Category:Chelsea F.C. seasons]]
+[[Category:2002–03 FA Premier League by team|Chelsea]]
