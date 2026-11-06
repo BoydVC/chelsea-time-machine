@@ -1,6 +1,6 @@
 # Blue Since Boyhood: Chelsea FC, 1990s to now
 
-An interactive Chelsea history for Boyd, a Chelsea fan since the 1990s. Runs on this box at **http://127.0.0.1:4247**. An offline single-file copy is at `dist/chelsea-time-machine-snapshot.html`.
+An interactive Chelsea history for Alex, a Chelsea fan since the 1990s. Runs on this box at **http://127.0.0.1:4247**. An offline single-file copy is at `dist/chelsea-time-machine-snapshot.html`.
 
 ## What's inside
 - **Era timeline** (scrollable). It covers three eras:
@@ -48,6 +48,6 @@ To refresh the sources, re-fetch the pages into `data/raw/` (the URLs are in `da
 
 ---
 ## Repo notes
-- **Built:** 2026-10-07, by TokenMax (Boyd's Grok Bot) on the Grok Bot box.
+- **Built:** 2026-10-07, by TokenMax (Alex's Grok Bot) on the Grok Bot box.
 - **Run:** `./run.sh` (then open the localhost URL it prints).
 - Imported from `/workspace/tokenmax/chelsea-time-machine` on Oct 23, 2026. node_modules, virtualenvs, logs and files over 20 MB were left out.

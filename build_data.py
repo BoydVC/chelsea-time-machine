@@ -88,7 +88,7 @@ legends = []
 for name in dict.fromkeys(list(apps) + list(goals)):
     a, g = apps.get(name), goals.get(name)
     years = (a or g)["years"]
-    if max(int(y) for y in re.findall(r"\d{4}", years)) < 1991: continue  # Boyd's era: still playing 1991+
+    if max(int(y) for y in re.findall(r"\d{4}", years)) < 1991: continue  # Alex's era: still playing 1991+
     legends.append({"name": name, "years": years, "apps": (a or g)["apps"], "appsRank": a["rank"] if a else None,
                     "goals": g["goals"] if g else None, "goalsRank": g["rank"] if g else None, "src": "records"})
 
