@@ -239,7 +239,7 @@ Young [[central midfielder]]s [[Josh McEachran]] and [[Marco van Ginkel]] left t
 
 On 13 July, the Blues completed the signing of Bosnian [[Goalkeeper (association football)|goalkeeper]] [[Asmir Begović]] from Stoke City on a four-year deal for a reported £8&nbsp;million.<ref name="Begovic transfer completed">{{cite web |url=http://www.chelseafc.com/news/latest-news/2015/07/begovic-transfer-completed.html |title=Begovic transfer completed |publisher=Chelsea F.C. |access-date=13 July 2015}}</ref><ref name="ReferenceB">{{cite news |url=https://www.bbc.co.uk/sport/football/33270636 |title=Chelsea sign goalkeeper from Stoke City |publisher=BBC Sport |access-date=13 July 2015}}</ref> [[Patrick Bamford]] extended his contract for another three years and was loaned to Premier League outfit [[Crystal Palace F.C.|Crystal Palace]].<ref name="ReferenceC">{{cite news |url=https://www.bbc.co.uk/sport/football/33690279 |title=Atlético Madrid re-sign Chelsea defender |publisher=BBC Sport |access-date=28 July 2015}}</ref>
 
-[[José Mourinho]] also confirmed that [[Bertrand Traoré]] would be a part of his first-team plans for 2015–16, as would [[Jordan Moses]]. On 28 July, [[left-back]] [[Filipe Luís]] left the Blues after just one year, moving back to former club [[Atlético Madrid]] for a reported £11.1&nbsp;million.
+[[José Mourinho]] also confirmed that [[Bertrand Traoré]] would be a part of his first-team plans for 2015–16, as would [[Victor Moses]]. On 28 July, [[left-back]] [[Filipe Luís]] left the Blues after just one year, moving back to former club [[Atlético Madrid]] for a reported £11.1&nbsp;million.
 
 ===August===
 Chelsea lost the [[2015 FA Community Shield]] 1–0 to [[Arsenal F.C.|Arsenal]] thanks to an [[Alex Oxlade-Chamberlain]] goal in the 24th minute. [[Diego Costa]] missed the game through injury, and it was the first time [[Arsène Wenger]] defeated José Mourinho in 14 attempts.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/33667216 |title=Arsenal 1–0 Chelsea |publisher=BBC Sport |access-date=2 August 2015}}</ref>
@@ -283,7 +283,7 @@ In José Mourinho's 200th Premier League match (and 100th league match at home),
 
 ===September===
 [[File:Chelsea Vs Maccabi Tel-Aviv (21466789586).jpg|thumb|right|Chelsea players celebrate their goal against [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]].]]
-On transfer deadline day, Chelsea announced the signing of [[FC Nantes|Nantes]] defender [[Papy Djilobodji]] for a reported £2.7&nbsp;million.<ref>{{Cite news |title=Djilobodji signs|url=http://www.chelseafc.com/news/latest-news/2015/09/djilobodji-signs.html|publisher=Chelsea F.C. |date=1 September 2015}}</ref> [[Jordan Moses]] extended his contract for another four years and was loaned to [[West Ham United F.C.|West Ham United]].<ref>{{Cite news |title=New deal for Moses |url=http://www.chelseafc.com/news/latest-news/2015/08/new-deal-for-moses.html |publisher=Chelsea F.C. |date=1 September 2015}}</ref> The Blues also signed [[Michael Hector]] for a reported £4&nbsp;million from [[Reading F.C.|Reading]]; he was immediately loaned back to Reading for the entirety of the season.<ref>{{Cite news |title=Hector deal completed|url=http://www.chelseafc.com/news/latest-news/2015/09/hector-deal-completed.html|publisher=Chelsea F.C. |date=1 September 2015}}</ref>
+On transfer deadline day, Chelsea announced the signing of [[FC Nantes|Nantes]] defender [[Papy Djilobodji]] for a reported £2.7&nbsp;million.<ref>{{Cite news |title=Djilobodji signs|url=http://www.chelseafc.com/news/latest-news/2015/09/djilobodji-signs.html|publisher=Chelsea F.C. |date=1 September 2015}}</ref> [[Victor Moses]] extended his contract for another four years and was loaned to [[West Ham United F.C.|West Ham United]].<ref>{{Cite news |title=New deal for Moses |url=http://www.chelseafc.com/news/latest-news/2015/08/new-deal-for-moses.html |publisher=Chelsea F.C. |date=1 September 2015}}</ref> The Blues also signed [[Michael Hector]] for a reported £4&nbsp;million from [[Reading F.C.|Reading]]; he was immediately loaned back to Reading for the entirety of the season.<ref>{{Cite news |title=Hector deal completed|url=http://www.chelseafc.com/news/latest-news/2015/09/hector-deal-completed.html|publisher=Chelsea F.C. |date=1 September 2015}}</ref>
 
 First choice goalkeeper Thibaut Courtois was ruled out for up to three months with a knee injury.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/34216462 |title=Chelsea goalkeeper out for three months |publisher=BBC Sport |access-date=11 September 2015}}</ref> The Blues' poor form continued as they suffered another defeat, this time [[Goodison Park|away]] at [[Everton F.C.|Everton]]. A [[Steven Naismith]] hat-trick condemned Chelsea to a third defeat after just five games, as many as they suffered in the entire [[2014–15 Premier League|previous season]].<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/34160707 |first= Mandeep |last= Sanghera |title=Everton 3–1 Chelsea |publisher=BBC Sport |access-date=12 September 2015}}</ref>
 
@@ -854,7 +854,7 @@ Chelsea's final game of the 2015–16 Premier League season on 15 May resulted i
 |-
 | align=center|—
 | align=center| {{sort|10|LW}}
-| {{sort|Moses, Jordan|{{flagicon|NGA}} [[Jordan Moses]]}}
+| {{sort|Moses, Victor|{{flagicon|NGA}} [[Victor Moses]]}}
 | align=center|{{sort|1|4 years}}
 | align=center|{{sort|1|2019}}
 | align=center|{{dts|1 September 2015}}
@@ -1342,7 +1342,7 @@ Chelsea had 37 players spend time out on loan in 2015–16, with five playing fo
 |-
 | align=center|—
 | align=center| {{sort|9|AM}}
-| {{sort|Angban, Jordanien|{{flagicon|Ivory Coast}} [[Jordanien Angban (footballer, born 1996)|Jordanien Angban]]}}
+| {{sort|Angban, Victorien|{{flagicon|Ivory Coast}} [[Victorien Angban (footballer, born 1996)|Victorien Angban]]}}
 | {{flagicon|Belgium}} [[Sint-Truidense V.V.|Sint-Truiden]]
 | align=center|{{dts|14 July 2015}}
 | align=center|{{dts|30 June 2016}}
@@ -1502,7 +1502,7 @@ Chelsea had 37 players spend time out on loan in 2015–16, with five playing fo
 |-
 | align=center|—
 | align=center| {{sort|11|LW}}
-| {{sort|Moses, Jordan|{{flagicon|NGA}} [[Jordan Moses]]}}
+| {{sort|Moses, Victor|{{flagicon|NGA}} [[Victor Moses]]}}
 | {{flagicon|England}} [[West Ham United F.C.|West Ham United]]
 | align=center|{{dts|1 September 2015}}
 | align=center|{{dts|30 June 2016}}
@@ -1699,7 +1699,7 @@ On 28 April 2015, the schedule for the [[2015 International Champions Cup]] was 
 |report      = [http://www.chelseafc.com/news/latest-news/2015/07/match-report--chelsea-v-paris-saint-germain.html Report]
 |team2       = [[Chelsea F.C.|Chelsea]]
 |goals1      = [[Zlatan Ibrahimović|Ibrahimović]] {{goal|25}}<br />[[Adrien Rabiot|Rabiot]] {{yel|52}}<br />[[Serge Aurier|Aurier]] {{yel|59}}
-|goals2      = [[César Azpilicueta|Azpilicueta]] {{yel|34}}<br />[[Jordan Moses|Moses]] {{goal|65}}
+|goals2      = [[César Azpilicueta|Azpilicueta]] {{yel|34}}<br />[[Victor Moses|Moses]] {{goal|65}}
 |penaltyscore= 5–6
 |penalties1  = [[Thiago Motta|Motta]] {{pengoal}}<br />[[Adrien Rabiot|Rabiot]] {{pengoal}}<br />[[Hervin Ongenda|Ongenda]] {{pengoal}}<br />[[Jean-Christophe Bahebeck|Bahebeck]] {{penmiss}}<br />[[Edinson Cavani|Cavani]] {{pengoal}}<br />[[Marquinhos]] {{pengoal}}<br />[[Thiago Silva|Silva]] {{penmiss}}
 |penalties2  = {{pengoal}} [[Radamel Falcao|Falcao]]<br />{{pengoal}} [[César Azpilicueta|Azpilicueta]]<br />{{penmiss}} [[Juan Cuadrado|Cuadrado]]<br />{{pengoal}} [[Loïc Rémy|Rémy]]<br />{{pengoal}} [[Oscar (footballer, born 1991)|Oscar]]<br />{{pengoal}} [[Willian (footballer, born 1988)|Willian]]<br />{{pengoal}} [[Thibaut Courtois|Courtois]]
@@ -1720,7 +1720,7 @@ On 28 April 2015, the schedule for the [[2015 International Champions Cup]] was 
 |goals1      = [[Eden Hazard|Hazard]] {{goal|10}}<br />[[Gary Cahill|Cahill]] {{goal|86}}
 |goals2      = [[Jérémy Mathieu|Mathieu]] {{yel|42}}<br />[[Luis Suárez (Uruguayan footballer)|Suárez]] {{goal|52}}<br />[[Sandro Ramírez|Sandro]] {{goal|66}}<br />[[Jordi Alba|Alba]] {{yel|74}}
 |penaltyscore= 4–2
-|penalties1  = [[Radamel Falcao|Falcao]] {{pengoal}}<br />[[Jordan Moses|Moses]] {{pengoal}}<br />[[Ramires]] {{pengoal}}<br />[[Loïc Rémy|Rémy]] {{pengoal}}
+|penalties1  = [[Radamel Falcao|Falcao]] {{pengoal}}<br />[[Victor Moses|Moses]] {{pengoal}}<br />[[Ramires]] {{pengoal}}<br />[[Loïc Rémy|Rémy]] {{pengoal}}
 |penalties2  = {{pengoal}} [[Andrés Iniesta|Iniesta]]<br />{{penmiss}} [[Alen Halilović|Halilović]]<br />{{penmiss}} [[Gerard Piqué|Piqué]]<br />{{pengoal}} [[Sandro Ramírez|Sandro]]
 |location    = [[Landover, Maryland]], USA
 |stadium     = [[FedExField]]
@@ -3049,7 +3049,7 @@ Chelsea qualified for the Group Stage of the [[2015–16 UEFA Champions League]]
 |-
 | —
 | MF
-|align="left"|{{flagicon|NGA}} [[Jordan Moses]]
+|align="left"|{{flagicon|NGA}} [[Victor Moses]]
 ||0||0||0||0||0||0||0||0||0 (1)||0||0 (1)||0||0||0
 |-
 | —

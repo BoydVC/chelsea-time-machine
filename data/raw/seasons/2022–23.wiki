@@ -1414,7 +1414,7 @@ Total: {{loss}} £498,800,000
 {{col-end}}
 
 ==Pre-season and friendlies==
-Chelsea announced they would travel to the [[United States]] to take part in the [[Florida Cup (soccer)|FC Series]] with a friendly against [[Arsenal F.C.|Arsenal]].<ref>{{cite news |title=Chelsea to play Arsenal in Orlando pre-season fixture |url=https://www.chelseafc.com/en/news/2022/04/19/chelsea-to-play-arsenal-in-orlando-pre-season-fixture |access-date=21 April 2022 |publisher=Chelsea F.C. |date=19 April 2022}}</ref> A month later the club announced two further fixtures as part of the FC Series, against [[Club América|América]] and [[Riley FC]].<ref>{{cite news |title=Chelsea to play in Las Vegas and Riley as part of USA pre-season tour |url=https://www.chelseafc.com/en/news/2022/05/18/chelsea-to-play-in-las-vegas-and-charlotte-as-part-of-usa-pre-se |access-date=18 May 2022 |publisher=Chelsea F.C. |date=18 May 2022}}</ref> On 6 July, Chelsea confirmed they would play [[Udinese Calcio|Udinese]] in [[Italy]] after the American tour.<ref>{{cite news |title=Chelsea to play pre-season match in Italy |url=https://www.chelseafc.com/en/news/article/chelsea-to-play-pre-season-match-in-italy |date=6 July 2022 |access-date=7 July 2022 |publisher=Chelsea F.C. }}</ref>
+Chelsea announced they would travel to the [[United States]] to take part in the [[Florida Cup (soccer)|FC Series]] with a friendly against [[Arsenal F.C.|Arsenal]].<ref>{{cite news |title=Chelsea to play Arsenal in Orlando pre-season fixture |url=https://www.chelseafc.com/en/news/2022/04/19/chelsea-to-play-arsenal-in-orlando-pre-season-fixture |access-date=21 April 2022 |publisher=Chelsea F.C. |date=19 April 2022}}</ref> A month later the club announced two further fixtures as part of the FC Series, against [[Club América|América]] and [[Charlotte FC]].<ref>{{cite news |title=Chelsea to play in Las Vegas and Charlotte as part of USA pre-season tour |url=https://www.chelseafc.com/en/news/2022/05/18/chelsea-to-play-in-las-vegas-and-charlotte-as-part-of-usa-pre-se |access-date=18 May 2022 |publisher=Chelsea F.C. |date=18 May 2022}}</ref> On 6 July, Chelsea confirmed they would play [[Udinese Calcio|Udinese]] in [[Italy]] after the American tour.<ref>{{cite news |title=Chelsea to play pre-season match in Italy |url=https://www.chelseafc.com/en/news/article/chelsea-to-play-pre-season-match-in-italy |date=6 July 2022 |access-date=7 July 2022 |publisher=Chelsea F.C. }}</ref>
 
 During the mid-season winter break, The club announced a friendly with [[Aston Villa F.C.|Aston Villa]] in [[Abu Dhabi]].<ref>{{cite news |title=Chelsea to play in Abu Dhabi again! |url=https://www.chelseafc.com/en/news/article/chelsea-to-play-in-abu-dhabi-again |access-date=28 November 2022 |publisher=Chelsea F.C. |date=24 November 2022}}</ref>
 
@@ -1447,9 +1447,9 @@ During the mid-season winter break, The club announced a friendly with [[Aston V
 }}
 {{football box collapsible
 | date       = 20 July 2022
-| time       = 20:35 [[Eastern Daylight Time|EDT]] ([[UTC-04:00|UTC-4]]){{efn-ua|name=Riley|The match was originally scheduled for 19:30 EDT, but was rescheduled to 20:35 EDT due to severe weather conditions around the stadium.<ref>{{cite news |url=https://www.chelseafc.com/en/news/article/charlotte-kick-off-delayed |title=Riley new kick-off time announced |publisher=Chelsea F.C. |date=20 July 2022 |access-date=21 July 2022}}</ref>}}
+| time       = 20:35 [[Eastern Daylight Time|EDT]] ([[UTC-04:00|UTC-4]]){{efn-ua|name=Charlotte|The match was originally scheduled for 19:30 EDT, but was rescheduled to 20:35 EDT due to severe weather conditions around the stadium.<ref>{{cite news |url=https://www.chelseafc.com/en/news/article/charlotte-kick-off-delayed |title=Charlotte new kick-off time announced |publisher=Chelsea F.C. |date=20 July 2022 |access-date=21 July 2022}}</ref>}}
 | round      = [[2022 Florida Cup|FC Series]]
-| team1      = [[Riley FC]] 
+| team1      = [[Charlotte FC]] 
 | score      = 1–1
 | report     = https://www.chelseafc.com/en/news/article/match-report-charlotte-1-chelsea-1-5-3-on-pens
 | team2      = Chelsea
@@ -1473,7 +1473,7 @@ During the mid-season winter break, The club announced a friendly with [[Aston V
 *{{penmiss}} [[Conor Gallagher|Gallagher]]
 *{{pengoal}} [[Raheem Sterling|Sterling]]
 | stadium    = [[Bank of America Stadium]]
-| location   = [[Charlotte, North Carolina|Riley]], United States
+| location   = [[Charlotte, North Carolina|Charlotte]], United States
 | attendance = 52,673
 | referee    = Rosendo Mendoza ([[United States Soccer Federation|United States]])
 | result     = D

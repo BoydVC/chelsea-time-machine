@@ -2031,7 +2031,7 @@ On 8 March, Chelsea announced a planned return to the [[United States]] during p
 |goals2     =
 *[[Noni Madueke|Madueke]] {{goal|39}}
 |stadium    = [[Bank of America Stadium]]
-|location   = [[Charlotte, North Carolina|Riley]], United States
+|location   = [[Charlotte, North Carolina|Charlotte]], United States
 |attendance = 62,617
 |referee    = Guido Gonzales Jr. ([[United States Soccer Federation|United States]])
 |result     = L
@@ -3787,7 +3787,7 @@ The group stage draw was held on 5 December 2024. Chelsea were in Pot 2, being t
 *[[Pedro Neto|Neto]] {{goal|114}}
 *[[Kiernan Dewsbury-Hall|Dewsbury-Hall]] {{goal|117}}
 |stadium    = [[Bank of America Stadium]]
-|location   = [[Charlotte, North Carolina|Riley]], United States
+|location   = [[Charlotte, North Carolina|Charlotte]], United States
 |attendance = 25,929
 |referee    = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
 |result     = W

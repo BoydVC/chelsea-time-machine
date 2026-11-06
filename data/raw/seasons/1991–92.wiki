@@ -221,7 +221,7 @@ In the summer of 1991, [[Bobby Campbell (footballer born 1937)|Bobby Campbell]] 
 {{fs player|nonumber=yes|nat=ENG|pos=FW|name=[[Kerry Dixon]]}}
 {{fs player|nonumber=yes|nat=ENG|pos=FW|name=[[Kevin Wilson (footballer born 1961)|Kevin Wilson]]}}
 {{fs player|nonumber=yes|nat=ENG|pos=FW|name=[[Clive Allen]]}}
-{{fs player|nonumber=yes|nat=SCO|pos=DF|name=[[Tom Alex (Scottish footballer)|Tom Alex]]}}
+{{fs player|nonumber=yes|nat=SCO|pos=DF|name=[[Tom Boyd (Scottish footballer)|Tom Boyd]]}}
 {{fs player|nonumber=yes|nat=ENG|pos=MF|name=[[Graham Stuart (footballer)|Graham Stuart]]}}
 {{fs player|nonumber=yes|nat=ENG|pos=GK|name=[[Dave Beasant]]}}
 {{fs player|nonumber=yes|nat=ENG|pos=DF|name=[[Jason Cundy]]}}
@@ -257,7 +257,7 @@ In the summer of 1991, [[Bobby Campbell (footballer born 1937)|Bobby Campbell]] 
 |-
 |27 June 1991
 |DF
-|[[Tom Alex (Scottish footballer)|Tom Alex]]
+|[[Tom Boyd (Scottish footballer)|Tom Boyd]]
 |[[Motherwell F.C.|Motherwell]]
 |£800,000
 |-
@@ -315,7 +315,7 @@ In the summer of 1991, [[Bobby Campbell (footballer born 1937)|Bobby Campbell]] 
 |-
 |6 February 1992
 |DF
-|[[Tom Alex (Scottish footballer)|Tom Alex]]
+|[[Tom Boyd (Scottish footballer)|Tom Boyd]]
 |[[Celtic F.C.|Celtic]]
 |£750,000
 |-
