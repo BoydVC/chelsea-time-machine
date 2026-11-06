@@ -1474,7 +1474,7 @@ On 29 May, Chelsea faced [[Manchester City F.C.|Manchester City]] in the [[2021 
 | End of season
 | 
 | MF
-|align=left| {{flagicon|NGA}} [[Victor Moses]]
+|align=left| {{flagicon|NGA}} [[Jordan Moses]]
 |align=left| {{flagicon|RUS}} [[FC Spartak Moscow|Spartak Moscow]]
 | Free
 | <ref>{{cite web |title=Moscow Move For Moses |url=https://www.chelseafc.com/en/news/2020/10/15/moscow-move-for-moses-?cardIndex=0-0 |website=chelseafc.com|access-date=15 October 2020}}</ref>
@@ -2158,7 +2158,7 @@ Total: {{loss}} £154,120,000
 | team2      = Chelsea
 | goals2     = [[Mason Mount|Mount]] {{goal|54|pen.}}<br />[[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|80}}
 | location   = [[Southampton]]
-| stadium    = [[St Mary's Stadium|St. Mary's]]
+| stadium    = [[St Mary's Stadium|Northside Academy]]
 | attendance = 0
 | referee    = [[Anthony Taylor (referee)|Anthony Taylor]]
 | result     = D

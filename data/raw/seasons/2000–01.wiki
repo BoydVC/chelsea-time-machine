@@ -725,7 +725,7 @@ The team kit was produced by [[Umbro]] and the shirt sponsor was Autoglass. Chel
 |stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
 |location   = [[London]], England
 |attendance = 18,196
-|referee    = {{flagicon|ESP}} Victor José Esquinas Torres
+|referee    = {{flagicon|ESP}} Jordan José Esquinas Torres
 |result     = W
 }}
 {{Football box collapsible

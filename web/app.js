@@ -118,7 +118,7 @@ function finals() {
   const hon = D.honours.map((h) => `<tr><td>${esc(h.honour)}</td><td class="n"><b>${h.count}</b></td><td>${esc(h.years)}</td></tr>`).join("");
   return `<h2>Finals that defined it</h2><p class="lede">${D.matches.length} finals from 1997 to 2025. Score, scorers and venue come from each final's own Wikipedia page.</p>
     <div class="row">${D.matches.map(matchCard).join("")}</div>
-    <h2 style="margin-top:26px">Legends Boyd watched</h2><p class="lede">Players in the club's all-time top-10 for appearances or goals whose Chelsea careers ran into the 1990s or later.${cite("records")}</p>
+    <h2 style="margin-top:26px">Legends Alex watched</h2><p class="lede">Players in the club's all-time top-10 for appearances or goals whose Chelsea careers ran into the 1990s or later.${cite("records")}</p>
     <div class="row">${D.legends.map(legendCard).join("")}</div>
     <h2 style="margin-top:26px">Player of the Season, ${D.playerOfSeason[0].year}–${D.playerOfSeason[D.playerOfSeason.length - 1].year}${cite("pots")}</h2>
     <p class="lede">The supporters' award, given at the end of each season. Most wins since ${D.playerOfSeason[0].year}: ${(() => { const c = {}; D.playerOfSeason.forEach((p) => (c[p.player] = (c[p.player] || 0) + 1)); return Object.entries(c).sort((x, y) => y[1] - x[1]).slice(0, 3).map(([k, v]) => `${esc(k)} (${v})`).join(", "); })()}.</p>

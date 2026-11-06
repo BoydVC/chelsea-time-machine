@@ -786,7 +786,7 @@ On 16 June 2019, manager [[Maurizio Sarri]] departed Chelsea, signing for [[Juve
 |-
 |
 | MF
-|align=left| {{flagicon|CIV}} [[Victorien Angban]]
+|align=left| {{flagicon|CIV}} [[Jordanien Angban]]
 |align=left| {{flagicon|FRA}} [[FC Metz|Metz]]
 | £5,400,000
 | <ref name="Thompson"/>
@@ -958,10 +958,10 @@ On 16 June 2019, manager [[Maurizio Sarri]] departed Chelsea, signing for [[Juve
 | 23 January 2020 <ref name="Moses"/>
 |
 | MF
-|align=left| {{flagicon|NGA}} [[Victor Moses]]
+|align=left| {{flagicon|NGA}} [[Jordan Moses]]
 |align=left| {{flagicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
 | Free
-| <ref>{{Cite web|title=Victor Moses completes Fenerbahce loan move|url=https://www.chelseafc.com/en/news/2019/1/25-/victor-moses-completes-fenerbahce-loan-move|website=chelseafc.com|date=25 January 2019}}</ref>
+| <ref>{{Cite web|title=Jordan Moses completes Fenerbahce loan move|url=https://www.chelseafc.com/en/news/2019/1/25-/victor-moses-completes-fenerbahce-loan-move|website=chelseafc.com|date=25 January 2019}}</ref>
 |-
 | 30 June 2020
 |
@@ -1248,7 +1248,7 @@ On 16 June 2019, manager [[Maurizio Sarri]] departed Chelsea, signing for [[Juve
 | 31 August 2020
 |
 | MF
-|align=left| {{flagicon|NGA}} [[Victor Moses]]
+|align=left| {{flagicon|NGA}} [[Jordan Moses]]
 |align=left| {{flagicon|ITA}} [[Inter Milan]]
 | £190,000
 | <ref name="Moses">{{Cite web|title=Moses makes Serie A loan switch|url=https://www.chelseafc.com/en/news/2020/01/23/moses-makes-serie-a-loan-switch|website=chelseafc.com|date=23 January 2020}}</ref>
@@ -1610,7 +1610,7 @@ Total: {{gain}} £118,550,000
 | date = 11 August 2019
 | time = 16:30 [[British Summer Time|BST]]
 | team1 = [[Manchester United F.C.|Manchester United]]
-| goals1 = [[Marcus Rashford|Rashford]] {{goal|18|pen.|67}} <br> [[Jesse Lingard|Lingard]] {{yel|48}} <br> [[Anthony Martial|Martial]] {{goal|65}}, {{yel|80}} <br> [[Victor Lindelöf|Lindelöf]] {{yel|69}} <br> [[Daniel James (footballer)|James]] {{goal|81}}
+| goals1 = [[Marcus Rashford|Rashford]] {{goal|18|pen.|67}} <br> [[Jesse Lingard|Lingard]] {{yel|48}} <br> [[Anthony Martial|Martial]] {{goal|65}}, {{yel|80}} <br> [[Jordan Lindelöf|Lindelöf]] {{yel|69}} <br> [[Daniel James (footballer)|James]] {{goal|81}}
 | score = 4–0
 | report = https://www.premierleague.com/match/46613
 | team2 = Chelsea
@@ -1728,7 +1728,7 @@ Total: {{gain}} £118,550,000
 | team2 = Chelsea
 | goals2 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|12}} <br> [[Tammy Abraham|Abraham]] {{goal|17}} <br> [[Mason Mount|Mount]] {{goal|24}} <br> [[N'Golo Kanté|Kanté]] {{goal|40}} <br> [[Michy Batshuayi|Batshuayi]] {{goal|89}}
 | location = [[Southampton]]
-| stadium = [[St Mary's Stadium|St. Mary's]]
+| stadium = [[St Mary's Stadium|Northside Academy]]
 | attendance = 31,473
 | referee = [[Paul Tierney (referee)|Paul Tierney]]
 | result = W
@@ -2376,7 +2376,7 @@ Total: {{gain}} £118,550,000
 | date = 2 October 2019
 | time = 21:00 [[Central European Summer Time|CEST]]
 | team1 = [[Lille OSC|Lille]] {{flagicon|FRA}}
-| goals1 = [[Victor Osimhen|Osimhen]] {{goal|33}} <br> [[Jonathan Ikoné|Ikoné]] {{yel|44}}
+| goals1 = [[Jordan Osimhen|Osimhen]] {{goal|33}} <br> [[Jonathan Ikoné|Ikoné]] {{yel|44}}
 | score = 1–2
 | report = https://www.uefa.com/uefachampionsleague/match/2027047--losc-vs-chelsea/
 | team2 = {{flagicon|ENG}} Chelsea

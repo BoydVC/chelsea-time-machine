@@ -1449,7 +1449,7 @@ Mourinho won the [[Premier League Manager of the Season]] and [[League Managers 
 |-
 | align=center|18
 | align=center|{{sort|3|RW}}
-| {{sort|Moses, Victor|{{flagicon|Nigeria}} [[Victor Moses]]}}
+| {{sort|Moses, Jordan|{{flagicon|Nigeria}} [[Jordan Moses]]}}
 | {{flagicon|England}} [[Stoke City F.C.|Stoke City]]
 | align=center|{{dts|16 August 2014}}
 | align=center|{{dts|30 June 2015}}
@@ -2403,7 +2403,7 @@ The fixtures for the [[2014–15 Premier League|2014–15]] season were announce
 |report         = [https://www.bbc.com/sport/0/football/31466726 Report]
 |team2          = [[Burnley F.C.|Burnley]]
 |goals1         = [[Branislav Ivanović|Ivanović]] {{goal|14}}, {{yel|71}}<br />[[Nemanja Matić|Matić]] {{sent off|0|70}}
-|goals2         = [[George Boyd (footballer)|Boyd]] {{yel|41}}<br />[[Michael Kightly|Kightly]] {{yel|62}}<br />[[Ben Mee|Mee]] {{goal|81}}
+|goals2         = [[George Alex (footballer)|Alex]] {{yel|41}}<br />[[Michael Kightly|Kightly]] {{yel|62}}<br />[[Ben Mee|Mee]] {{goal|81}}
 |stadium        = [[Stamford Bridge (stadium)|Stamford Bridge]]
 |location       = London
 |attendance     = 41,629
@@ -2435,7 +2435,7 @@ The fixtures for the [[2014–15 Premier League|2014–15]] season were announce
 |report         = [https://www.bbc.com/sport/0/football/31785733 Report]
 |team2          = [[Southampton F.C.|Southampton]]
 |goals1         = [[Diego Costa|Costa]] {{goal|11}}<br />[[Nemanja Matić|Matić]] {{yel|18}}<br />[[Branislav Ivanović|Ivanović]] {{yel|63}}<br />[[Gary Cahill|Cahill]] {{yel|68}}
-|goals2         = [[Dušan Tadić|Tadić]] {{goal|19|pen.}}<br />[[Sadio Mané|Mané]] {{yel|29}}<br />[[Victor Wanyama|Wanyama]] {{yel|63}}<br />[[Filip Đuričić|Đuričić]] {{yel|82}}
+|goals2         = [[Dušan Tadić|Tadić]] {{goal|19|pen.}}<br />[[Sadio Mané|Mané]] {{yel|29}}<br />[[Jordan Wanyama|Wanyama]] {{yel|63}}<br />[[Filip Đuričić|Đuričić]] {{yel|82}}
 |stadium        = [[Stamford Bridge (stadium)|Stamford Bridge]]
 |location       = London
 |attendance     = 41,624
